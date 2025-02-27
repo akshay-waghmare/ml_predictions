@@ -1,0 +1,41 @@
+over,innings,score,projected_score,required,CRR,RRR,fav_team,win_probability,venue,matches_played,total_runs,total_wickets,balls_bowled,average_runs_per_wicket,average_runs_per_over
+20,CSK,166/5,N/A,N/A,8.30,N/A,CSK,100.0,"Zayed Cricket Stadium, Abu Dhabi",194,56401,2356,44406,23.93,7.62
+1,MI,12/0,173,N/A,12.00,N/A,MI,60.29,"Zayed Cricket Stadium, Abu Dhabi",194,56401,2356,44406,23.93,7.62
+2,MI,19/0,172,N/A,9.50,N/A,MI,59.23,"Zayed Cricket Stadium, Abu Dhabi",194,56401,2356,44406,23.93,7.62
+3,MI,27/0,172,N/A,9.00,N/A,MI,59.23,"Zayed Cricket Stadium, Abu Dhabi",194,56401,2356,44406,23.93,7.62
+4,MI,45/0,183,N/A,11.25,N/A,MI,70.21,"Zayed Cricket Stadium, Abu Dhabi",194,56401,2356,44406,23.93,7.62
+5,MI,48/1,176,N/A,9.60,N/A,MI,63.41,"Zayed Cricket Stadium, Abu Dhabi",194,56401,2356,44406,23.93,7.62
+6,MI,51/2,168,N/A,8.50,N/A,MI,54.89,"Zayed Cricket Stadium, Abu Dhabi",194,56401,2356,44406,23.93,7.62
+7,MI,60/2,171,N/A,8.57,N/A,MI,58.15,"Zayed Cricket Stadium, Abu Dhabi",194,56401,2356,44406,23.93,7.62
+8,MI,68/2,172,N/A,8.50,N/A,MI,59.23,"Zayed Cricket Stadium, Abu Dhabi",194,56401,2356,44406,23.93,7.62
+9,MI,83/2,182,N/A,9.22,N/A,MI,69.29,"Zayed Cricket Stadium, Abu Dhabi",194,56401,2356,44406,23.93,7.62
+10,MI,86/2,174,N/A,8.60,N/A,MI,61.34,"Zayed Cricket Stadium, Abu Dhabi",194,56401,2356,44406,23.93,7.62
+11,MI,92/3,176,N/A,8.36,N/A,MI,63.41,"Zayed Cricket Stadium, Abu Dhabi",194,56401,2356,44406,23.93,7.62
+12,MI,105/3,181,N/A,8.75,N/A,MI,68.35,"Zayed Cricket Stadium, Abu Dhabi",194,56401,2356,44406,23.93,7.62
+13,MI,116/3,186,N/A,8.92,N/A,MI,72.88,"Zayed Cricket Stadium, Abu Dhabi",194,56401,2356,44406,23.93,7.62
+14,MI,121/3,180,N/A,8.64,N/A,MI,67.39,"Zayed Cricket Stadium, Abu Dhabi",194,56401,2356,44406,23.93,7.62
+15,MI,126/5,177,N/A,8.40,N/A,MI,64.43,"Zayed Cricket Stadium, Abu Dhabi",194,56401,2356,44406,23.93,7.62
+16,MI,136/5,177,N/A,8.50,N/A,MI,64.43,"Zayed Cricket Stadium, Abu Dhabi",194,56401,2356,44406,23.93,7.62
+17,MI,140/6,170,N/A,8.24,N/A,MI,57.07,"Zayed Cricket Stadium, Abu Dhabi",194,56401,2356,44406,23.93,7.62
+18,MI,151/6,171,N/A,8.39,N/A,MI,58.15,"Zayed Cricket Stadium, Abu Dhabi",194,56401,2356,44406,23.93,7.62
+19,MI,156/8,164,N/A,8.21,N/A,MI,50.45,"Zayed Cricket Stadium, Abu Dhabi",194,56401,2356,44406,23.93,7.62
+20,MI,162/9,162,N/A,8.10,N/A,CSK,51.78,"Zayed Cricket Stadium, Abu Dhabi",194,56401,2356,44406,23.93,7.62
+1,CSK,5/1,N/A,158 from 114,5.00,8.32,MI,57.57,"Zayed Cricket Stadium, Abu Dhabi",194,56401,2356,44406,23.93,7.62
+2,CSK,6/2,N/A,157 from 108,3.00,8.72,MI,69.95,"Zayed Cricket Stadium, Abu Dhabi",194,56401,2356,44406,23.93,7.62
+3,CSK,12/2,N/A,151 from 102,4.00,8.88,MI,72.81,"Zayed Cricket Stadium, Abu Dhabi",194,56401,2356,44406,23.93,7.62
+4,CSK,19/2,N/A,144 from 96,4.75,9.00,MI,71.71,"Zayed Cricket Stadium, Abu Dhabi",194,56401,2356,44406,23.93,7.62
+5,CSK,23/2,N/A,140 from 90,4.60,9.33,MI,76.01,"Zayed Cricket Stadium, Abu Dhabi",194,56401,2356,44406,23.93,7.62
+6,CSK,37/2,N/A,126 from 84,6.17,9.00,MI,67.2,"Zayed Cricket Stadium, Abu Dhabi",194,56401,2356,44406,23.93,7.62
+7,CSK,43/2,N/A,120 from 78,6.14,9.23,MI,66.82,"Zayed Cricket Stadium, Abu Dhabi",194,56401,2356,44406,23.93,7.62
+8,CSK,51/2,N/A,112 from 72,6.38,9.33,MI,64.01,"Zayed Cricket Stadium, Abu Dhabi",194,56401,2356,44406,23.93,7.62
+9,CSK,58/2,N/A,105 from 66,6.44,9.55,MI,62.63,"Zayed Cricket Stadium, Abu Dhabi",194,56401,2356,44406,23.93,7.62
+10,CSK,70/2,N/A,93 from 60,7.00,9.30,MI,52.64,"Zayed Cricket Stadium, Abu Dhabi",194,56401,2356,44406,23.93,7.62
+11,CSK,81/2,N/A,82 from 54,7.36,9.11,CSK,56.38,"Zayed Cricket Stadium, Abu Dhabi",194,56401,2356,44406,23.93,7.62
+12,CSK,88/2,N/A,75 from 48,7.33,9.38,CSK,56.85,"Zayed Cricket Stadium, Abu Dhabi",194,56401,2356,44406,23.93,7.62
+13,CSK,99/2,N/A,64 from 42,7.62,9.14,CSK,68.85,"Zayed Cricket Stadium, Abu Dhabi",194,56401,2356,44406,23.93,7.62
+14,CSK,105/2,N/A,58 from 36,7.50,9.67,CSK,63.1,"Zayed Cricket Stadium, Abu Dhabi",194,56401,2356,44406,23.93,7.62
+15,CSK,116/2,N/A,47 from 30,7.73,9.40,CSK,78.41,"Zayed Cricket Stadium, Abu Dhabi",194,56401,2356,44406,23.93,7.62
+16,CSK,121/3,N/A,42 from 24,7.56,10.50,CSK,64.11,"Zayed Cricket Stadium, Abu Dhabi",194,56401,2356,44406,23.93,7.62
+17,CSK,134/3,N/A,29 from 18,7.88,9.67,CSK,76.95,"Zayed Cricket Stadium, Abu Dhabi",194,56401,2356,44406,23.93,7.62
+18,CSK,147/4,N/A,16 from 12,8.17,8.00,CSK,94.34,"Zayed Cricket Stadium, Abu Dhabi",194,56401,2356,44406,23.93,7.62
+19,CSK,158/5,N/A,5 from 6,8.32,5.00,CSK,98.2,"Zayed Cricket Stadium, Abu Dhabi",194,56401,2356,44406,23.93,7.62

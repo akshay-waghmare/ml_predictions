@@ -1,0 +1,23 @@
+{
+  "id": "Vn5l9p0TW38RwqF",
+  "unique_key": "https://www.espncricinfo.com/series/ipl-2020-21-1210595/mumbai-indians-vs-chennai-super-kings-1st-match-1216492/ball-by-ball-commentary",
+  "order_no": null,
+  "handled_at": "2025-02-02 11:10:49.388243+00:00",
+  "request": {
+    "url": "https://www.espncricinfo.com/series/ipl-2020-21-1210595/mumbai-indians-vs-chennai-super-kings-1st-match-1216492/ball-by-ball-commentary",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5
+      }
+    },
+    "retry_count": 2,
+    "no_retry": false,
+    "loaded_url": "https://www.espncricinfo.com/series/ipl-2020-21-1210595/mumbai-indians-vs-chennai-super-kings-1st-match-1216492/ball-by-ball-commentary",
+    "handled_at": "2025-02-02 11:10:49.388243+00:00",
+    "unique_key": "https://www.espncricinfo.com/series/ipl-2020-21-1210595/mumbai-indians-vs-chennai-super-kings-1st-match-1216492/ball-by-ball-commentary",
+    "id": "Vn5l9p0TW38RwqF"
+  }
+}

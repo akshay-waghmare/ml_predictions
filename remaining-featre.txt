@@ -1,0 +1,48 @@
+# Project Requirement Analysis for Predictive Cricket Betting App
+
+After reviewing the project requirements document, here's what we would need to implement to achieve the goals of the Predictive Cricket Betting App:
+
+## 1. Data Collection & Processing (Partially Implemented)
+- ✅ Ball-by-ball cricket data scraping (implemented in espnscraper_ballbyball.py)
+- ✅ Player stats collection (implemented in batting_stats.py)
+- ✅ Basic data merging and cleaning (implemented in data_merger.py)
+- ❌ Need more advanced real-time data integration (odds feeds, weather data)
+
+## 2. Feature Engineering Requirements
+- ❌ Create derived metrics like:
+  - Momentum indicators (runs in last X overs)
+  - Pressure indicators (required run rate vs. current run rate)
+  - Player form metrics (recent performance vs. career average)
+- ❌ Implement lag-based features (time since last wicket, boundaries)
+- ❌ Calculate rolling averages for key statistics
+
+## 3. Machine Learning Models
+- ❌ Binary classification model for initial LAY bet identification
+- ❌ Multi-label classification for odds movement prediction
+- ❌ Feature importance analysis to understand key factors
+- ❌ Probability calibration using Platt Scaling or Isotonic Regression
+
+## 4. Betting Logic
+- ❌ Implement Kelly Criterion for stake sizing
+- ❌ Design logic for identifying favorable LAY scenarios
+- ❌ Create a system for tracking odds movements during matches
+
+## 5. Infrastructure & Deployment
+- ❌ Build API endpoints for real-time prediction service
+- ❌ Create Docker containers for reproducible deployment
+- ❌ Implement database for storing predictions and results
+- ❌ Set up monitoring and logging
+
+## 6. Evaluation System
+- ❌ Create backtesting framework
+- ❌ Implement metrics tracking (ROC-AUC, F1-Score, Precision/Recall)
+- ❌ Calculate betting ROI as business performance metric
+
+## Key Next Steps:
+1. Expand feature engineering beyond basic stats
+2. Build a labeled dataset with betting outcomes
+3. Train initial models for LAY betting identification
+4. Implement real-time prediction API
+5. Design and implement the stake management system
+
+Currently, you have a good foundation for data collection, but the project needs significant work on modeling, prediction, and the betting strategy implementation to achieve the goals outlined in the requirements document.
