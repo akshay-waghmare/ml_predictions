@@ -1,0 +1,85 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+KKR,13,13.4,6,1,0,0,0,Shreyas Iyer,Venkatesh Iyer,52,28,5,4,Shreyas Iyer,58,24,5,4,Head,1.0,0,32,0,Nitish Kumar,1.0,0,13,0
+KKR,13,13.3,6,1,0,0,0,Shreyas Iyer,Venkatesh Iyer,52,28,5,4,Shreyas Iyer,52,23,5,3,Head,1.0,0,26,0,Nitish Kumar,1.0,0,13,0
+KKR,13,13.2,4,1,0,0,0,Shreyas Iyer,Venkatesh Iyer,52,28,5,4,Shreyas Iyer,46,22,5,2,Head,1.0,0,20,0,Nitish Kumar,1.0,0,13,0
+KKR,13,13.1,6,1,0,0,0,Shreyas Iyer,Venkatesh Iyer,52,28,5,4,Shreyas Iyer,42,21,4,2,Head,1.0,0,16,0,Nitish Kumar,1.0,0,13,0
+KKR,12,12.6,6,1,0,0,0,Venkatesh Iyer,Venkatesh Iyer,52,28,5,4,Shreyas Iyer,36,20,4,1,Nitish Kumar,1.0,0,13,0,Head,1.0,0,10,0
+KKR,12,12.5,0,0,1,0,0,Venkatesh Iyer,Venkatesh Iyer,46,27,5,3,Shreyas Iyer,36,20,4,1,Nitish Kumar,0,0,7,0,Head,1.0,0,10,0
+KKR,12,12.4,1,0,0,0,0,Shreyas Iyer,Venkatesh Iyer,46,26,5,3,Shreyas Iyer,36,20,4,1,Nitish Kumar,0,0,7,0,Head,1.0,0,10,0
+KKR,12,12.3,4,1,0,0,0,Shreyas Iyer,Venkatesh Iyer,46,26,5,3,Shreyas Iyer,35,19,4,1,Nitish Kumar,0,0,6,0,Head,1.0,0,10,0
+KKR,12,12.2,1,0,0,0,0,Venkatesh Iyer,Venkatesh Iyer,46,26,5,3,Shreyas Iyer,31,18,3,1,Nitish Kumar,0,0,2,0,Head,1.0,0,10,0
+KKR,12,12.1,1,0,0,0,0,Shreyas Iyer,Venkatesh Iyer,45,25,5,3,Shreyas Iyer,31,18,3,1,Nitish Kumar,0,0,1,0,Head,1.0,0,10,0
+KKR,11,11.6,0,0,1,0,0,Venkatesh Iyer,Venkatesh Iyer,45,25,5,3,Shreyas Iyer,30,17,3,1,Head,1.0,0,10,0,Natarajan,3.0,0,22,1
+KKR,11,11.5,1,0,0,0,0,Shreyas Iyer,Venkatesh Iyer,45,24,5,3,Shreyas Iyer,30,17,3,1,Head,0,0,10,0,Natarajan,3.0,0,22,1
+KKR,11,11.4,4,1,0,0,0,Shreyas Iyer,Venkatesh Iyer,45,24,5,3,Shreyas Iyer,29,16,3,1,Head,0,0,9,0,Natarajan,3.0,0,22,1
+KKR,11,11.3,1,0,0,0,0,Venkatesh Iyer,Venkatesh Iyer,45,24,5,3,Shreyas Iyer,25,15,2,1,Head,0,0,5,0,Natarajan,3.0,0,22,1
+KKR,11,11.2,0,0,1,0,0,Venkatesh Iyer,Venkatesh Iyer,44,23,5,3,Shreyas Iyer,25,15,2,1,Head,0,0,4,0,Natarajan,3.0,0,22,1
+KKR,11,11.1,4,1,0,0,0,Venkatesh Iyer,Venkatesh Iyer,44,22,5,3,Shreyas Iyer,25,15,2,1,Head,0,0,4,0,Natarajan,3.0,0,22,1
+KKR,10,10.6,4,1,0,0,0,Shreyas Iyer,Venkatesh Iyer,40,21,4,3,Shreyas Iyer,25,15,2,1,Natarajan,3.0,0,22,1,Viyaskanth,2.0,0,22,0
+KKR,10,10.5,1,0,0,0,0,Venkatesh Iyer,Venkatesh Iyer,40,21,4,3,Shreyas Iyer,21,14,1,1,Natarajan,2.0,0,18,1,Viyaskanth,2.0,0,22,0
+KKR,10,10.4,0,0,1,0,0,Venkatesh Iyer,Venkatesh Iyer,39,20,4,3,Shreyas Iyer,21,14,1,1,Natarajan,2.0,0,17,1,Viyaskanth,2.0,0,22,0
+KKR,10,10.3,1,0,0,0,0,Shreyas Iyer,Venkatesh Iyer,39,19,4,3,Shreyas Iyer,21,14,1,1,Natarajan,2.0,0,17,1,Viyaskanth,2.0,0,22,0
+KKR,10,10.2,6,1,0,0,0,Shreyas Iyer,Venkatesh Iyer,39,19,4,3,Shreyas Iyer,20,13,1,1,Natarajan,2.0,0,16,1,Viyaskanth,2.0,0,22,0
+KKR,10,10.1,0,0,1,0,0,Shreyas Iyer,Venkatesh Iyer,39,19,4,3,Shreyas Iyer,14,12,1,0,Natarajan,2.0,0,10,1,Viyaskanth,2.0,0,22,0
+KKR,9,9.6,6,1,0,0,0,Venkatesh Iyer,Venkatesh Iyer,39,19,4,3,Shreyas Iyer,14,11,1,0,Viyaskanth,2.0,0,22,0,Cummins,3.0,0,38,1
+KKR,9,9.5,1,0,0,0,0,Shreyas Iyer,Venkatesh Iyer,33,18,4,2,Shreyas Iyer,14,11,1,0,Viyaskanth,1.0,0,16,0,Cummins,3.0,0,38,1
+KKR,9,9.4,2,0,0,0,0,Shreyas Iyer,Venkatesh Iyer,33,18,4,2,Shreyas Iyer,13,10,1,0,Viyaskanth,1.0,0,15,0,Cummins,3.0,0,38,1
+KKR,9,9.3,1,0,0,0,0,Venkatesh Iyer,Venkatesh Iyer,33,18,4,2,Shreyas Iyer,11,9,1,0,Viyaskanth,1.0,0,13,0,Cummins,3.0,0,38,1
+KKR,9,9.2,1,0,0,0,0,Shreyas Iyer,Venkatesh Iyer,32,17,4,2,Shreyas Iyer,11,9,1,0,Viyaskanth,1.0,0,12,0,Cummins,3.0,0,38,1
+KKR,9,9.1,0,0,1,0,0,Shreyas Iyer,Venkatesh Iyer,32,17,4,2,Shreyas Iyer,10,8,1,0,Viyaskanth,1.0,0,11,0,Cummins,3.0,0,38,1
+KKR,8,8.6,1,0,0,0,0,Shreyas Iyer,Venkatesh Iyer,32,17,4,2,Shreyas Iyer,10,7,1,0,Cummins,3.0,0,38,1,Viyaskanth,1.0,0,11,0
+KKR,8,8.5,4,1,0,0,0,Shreyas Iyer,Venkatesh Iyer,32,17,4,2,Shreyas Iyer,9,6,1,0,Cummins,2.0,0,37,1,Viyaskanth,1.0,0,11,0
+KKR,8,8.4,1,0,0,0,0,Venkatesh Iyer,Venkatesh Iyer,32,17,4,2,Shreyas Iyer,5,5,0,0,Cummins,2.0,0,33,1,Viyaskanth,1.0,0,11,0
+KKR,8,8.3,0,0,1,0,0,Venkatesh Iyer,Venkatesh Iyer,31,16,4,2,Shreyas Iyer,5,5,0,0,Cummins,2.0,0,32,1,Viyaskanth,1.0,0,11,0
+KKR,8,8.2,4,1,0,0,0,Venkatesh Iyer,Venkatesh Iyer,31,15,4,2,Shreyas Iyer,5,5,0,0,Cummins,2.0,0,32,1,Viyaskanth,1.0,0,11,0
+KKR,8,8.1,1,0,0,0,0,Shreyas Iyer,Venkatesh Iyer,27,14,3,2,Shreyas Iyer,5,5,0,0,Cummins,2.0,0,28,1,Viyaskanth,1.0,0,11,0
+KKR,7,7.6,1,0,0,0,0,Shreyas Iyer,Venkatesh Iyer,27,14,3,2,Shreyas Iyer,4,4,0,0,Viyaskanth,1.0,0,11,0,Cummins,2.0,0,27,1
+KKR,7,7.5,1,0,0,0,0,Venkatesh Iyer,Venkatesh Iyer,27,14,3,2,Shreyas Iyer,3,3,0,0,Viyaskanth,0,0,10,0,Cummins,2.0,0,27,1
+KKR,7,7.4,1,0,0,0,0,Shreyas Iyer,Venkatesh Iyer,26,13,3,2,Shreyas Iyer,3,3,0,0,Viyaskanth,0,0,9,0,Cummins,2.0,0,27,1
+KKR,7,7.3,1,0,0,0,0,Venkatesh Iyer,Venkatesh Iyer,26,13,3,2,Shreyas Iyer,2,2,0,0,Viyaskanth,0,0,8,0,Cummins,2.0,0,27,1
+KKR,7,7.2,6,1,0,0,0,Venkatesh Iyer,Venkatesh Iyer,25,12,3,2,Shreyas Iyer,2,2,0,0,Viyaskanth,0,0,7,0,Cummins,2.0,0,27,1
+KKR,7,7.1,1,0,0,0,0,Shreyas Iyer,Venkatesh Iyer,19,11,3,1,Shreyas Iyer,2,2,0,0,Viyaskanth,0,0,1,0,Cummins,2.0,0,27,1
+KKR,6,6.6,0,0,1,0,0,Venkatesh Iyer,Venkatesh Iyer,19,11,3,1,Shreyas Iyer,1,1,0,0,Cummins,2.0,0,27,1,Natarajan,2.0,0,10,1
+KKR,6,6.5,6,1,0,0,0,Venkatesh Iyer,Venkatesh Iyer,19,10,3,1,Shreyas Iyer,1,1,0,0,Cummins,1.0,0,27,1,Natarajan,2.0,0,10,1
+KKR,6,6.4,0,0,1,0,0,Venkatesh Iyer,Venkatesh Iyer,13,9,3,0,Shreyas Iyer,1,1,0,0,Cummins,1.0,0,21,1,Natarajan,2.0,0,10,1
+KKR,6,6.3,1,0,0,0,0,Shreyas Iyer,Venkatesh Iyer,13,8,3,0,Shreyas Iyer,1,1,0,0,Cummins,1.0,0,21,1,Natarajan,2.0,0,10,1
+KKR,6,6.2,0,0,0,1,0,Narine,Venkatesh Iyer,13,8,3,0,,0,0,0,0,Cummins,1.0,0,20,1,Natarajan,2.0,0,10,1
+KKR,6,6.1,4,1,0,0,0,Narine,Narine,26,15,5,0,Venkatesh Iyer,13,8,3,0,Cummins,1.0,0,20,0,Natarajan,2.0,0,10,1
+KKR,5,5.6,1,0,0,0,0,Narine,Narine,22,14,4,0,Venkatesh Iyer,13,8,3,0,Natarajan,2.0,0,10,1,Bhuvneshwar,3.0,0,28,0
+KKR,5,5.5,4,1,0,0,0,Narine,Narine,21,13,4,0,Venkatesh Iyer,13,8,3,0,Natarajan,1.0,0,9,1,Bhuvneshwar,3.0,0,28,0
+KKR,5,5.5,1,0,0,0,1,Narine,Narine,17,12,3,0,Venkatesh Iyer,13,8,3,0,Natarajan,1.0,0,5,1,Bhuvneshwar,3.0,0,28,0
+KKR,5,5.4,0,0,1,0,0,Narine,Narine,16,12,3,0,Venkatesh Iyer,13,8,3,0,Natarajan,1.0,0,4,1,Bhuvneshwar,3.0,0,28,0
+KKR,5,5.3,0,0,1,0,0,Narine,Narine,16,11,3,0,Venkatesh Iyer,13,8,3,0,Natarajan,1.0,0,4,1,Bhuvneshwar,3.0,0,28,0
+KKR,5,5.2,0,0,1,0,0,Narine,Narine,16,10,3,0,Venkatesh Iyer,13,8,3,0,Natarajan,1.0,0,4,1,Bhuvneshwar,3.0,0,28,0
+KKR,5,5.1,0,0,1,0,0,Narine,Narine,16,9,3,0,Venkatesh Iyer,13,8,3,0,Natarajan,1.0,0,4,1,Bhuvneshwar,3.0,0,28,0
+KKR,4,4.6,0,0,1,0,0,Venkatesh Iyer,Narine,16,8,3,0,Venkatesh Iyer,13,8,3,0,Bhuvneshwar,3.0,0,28,0,Natarajan,1.0,0,4,1
+KKR,4,4.5,0,0,1,0,0,Venkatesh Iyer,Narine,16,8,3,0,Venkatesh Iyer,13,7,3,0,Bhuvneshwar,2.0,0,28,0,Natarajan,1.0,0,4,1
+KKR,4,4.4,0,0,1,0,0,Venkatesh Iyer,Narine,16,8,3,0,Venkatesh Iyer,13,6,3,0,Bhuvneshwar,2.0,0,28,0,Natarajan,1.0,0,4,1
+KKR,4,4.3,4,1,0,0,0,Venkatesh Iyer,Narine,16,8,3,0,Venkatesh Iyer,13,5,3,0,Bhuvneshwar,2.0,0,28,0,Natarajan,1.0,0,4,1
+KKR,4,4.2,4,1,0,0,0,Venkatesh Iyer,Narine,16,8,3,0,Venkatesh Iyer,9,4,2,0,Bhuvneshwar,2.0,0,24,0,Natarajan,1.0,0,4,1
+KKR,4,4.1,0,0,1,0,0,Venkatesh Iyer,Narine,16,8,3,0,Venkatesh Iyer,5,3,1,0,Bhuvneshwar,2.0,0,20,0,Natarajan,1.0,0,4,1
+KKR,3,3.6,0,0,1,0,0,Narine,Narine,16,8,3,0,Venkatesh Iyer,5,2,1,0,Natarajan,1.0,0,4,1,Bhuvneshwar,2.0,0,20,0
+KKR,3,3.5,0,0,1,0,0,Narine,Narine,16,7,3,0,Venkatesh Iyer,5,2,1,0,Natarajan,0,0,4,1,Bhuvneshwar,2.0,0,20,0
+KKR,3,3.4,1,0,0,0,1,Venkatesh Iyer,Narine,16,6,3,0,Venkatesh Iyer,5,2,1,0,Natarajan,0,0,4,1,Bhuvneshwar,2.0,0,20,0
+KKR,3,3.3,4,1,0,0,0,Venkatesh Iyer,Narine,16,6,3,0,Venkatesh Iyer,4,1,1,0,Natarajan,0,0,4,1,Bhuvneshwar,2.0,0,20,0
+KKR,3,3.2,0,0,0,1,0,Gurbaz,Narine,16,6,3,0,,0,0,0,0,Natarajan,0,0,0,1,Bhuvneshwar,2.0,0,20,0
+KKR,3,3.1,0,0,1,0,0,Gurbaz,Gurbaz,28,13,3,2,Narine,16,6,3,0,Natarajan,0,0,0,0,Bhuvneshwar,2.0,0,20,0
+KKR,2,2.6,2,0,0,0,0,Narine,Gurbaz,28,12,3,2,Narine,16,6,3,0,Bhuvneshwar,2.0,0,20,0,Cummins,1.0,0,16,0
+KKR,2,2.5,1,0,0,0,0,Gurbaz,Gurbaz,28,12,3,2,Narine,14,5,3,0,Bhuvneshwar,1.0,0,18,0,Cummins,1.0,0,16,0
+KKR,2,2.4,4,1,0,0,0,Gurbaz,Gurbaz,27,11,3,2,Narine,14,5,3,0,Bhuvneshwar,1.0,0,17,0,Cummins,1.0,0,16,0
+KKR,2,2.3,6,1,0,0,0,Gurbaz,Gurbaz,23,10,2,2,Narine,14,5,3,0,Bhuvneshwar,1.0,0,13,0,Cummins,1.0,0,16,0
+KKR,2,2.2,1,0,0,0,0,Narine,Gurbaz,17,9,2,1,Narine,14,5,3,0,Bhuvneshwar,1.0,0,7,0,Cummins,1.0,0,16,0
+KKR,2,2.1,4,1,0,0,1,Narine,Gurbaz,17,9,2,1,Narine,13,4,3,0,Bhuvneshwar,1.0,0,6,0,Cummins,1.0,0,16,0
+KKR,1,1.6,0,0,1,0,0,Gurbaz,Gurbaz,17,9,2,1,Narine,9,3,2,0,Cummins,1.0,0,16,0,Bhuvneshwar,1.0,0,6,0
+KKR,1,1.6,1,0,0,0,1,Gurbaz,Gurbaz,17,8,2,1,Narine,9,3,2,0,Cummins,0,0,16,0,Bhuvneshwar,1.0,0,6,0
+KKR,1,1.5,6,1,0,0,0,Gurbaz,Gurbaz,16,8,2,1,Narine,9,3,2,0,Cummins,0,0,15,0,Bhuvneshwar,1.0,0,6,0
+KKR,1,1.4,4,1,0,0,1,Gurbaz,Gurbaz,10,7,2,0,Narine,9,3,2,0,Cummins,0,0,9,0,Bhuvneshwar,1.0,0,6,0
+KKR,1,1.3,1,0,0,0,0,Narine,Gurbaz,6,6,1,0,Narine,9,3,2,0,Cummins,0,0,9,0,Bhuvneshwar,1.0,0,6,0
+KKR,1,1.2,4,1,0,0,0,Narine,Gurbaz,6,6,1,0,Narine,8,2,2,0,Cummins,0,0,8,0,Bhuvneshwar,1.0,0,6,0
+KKR,1,1.1,4,1,0,0,0,Narine,Gurbaz,6,6,1,0,Narine,4,1,1,0,Cummins,0,0,4,0,Bhuvneshwar,1.0,0,6,0
+KKR,0,0.6,0,0,1,0,0,Gurbaz,Gurbaz,6,6,1,0,,0,0,0,0,Bhuvneshwar,1.0,0,6,0,,0,0,0,0
+KKR,0,0.5,2,0,0,0,0,Gurbaz,Gurbaz,6,5,1,0,,0,0,0,0,Bhuvneshwar,0,0,6,0,,0,0,0,0
+KKR,0,0.4,0,0,1,0,0,Gurbaz,Gurbaz,4,4,1,0,,0,0,0,0,Bhuvneshwar,0,0,4,0,,0,0,0,0
+KKR,0,0.3,0,0,1,0,0,Gurbaz,Gurbaz,4,3,1,0,,0,0,0,0,Bhuvneshwar,0,0,4,0,,0,0,0,0
+KKR,0,0.2,4,1,0,0,0,Gurbaz,Gurbaz,4,2,1,0,,0,0,0,0,Bhuvneshwar,0,0,4,0,,0,0,0,0
+KKR,0,0.1,0,0,1,0,0,Gurbaz,Gurbaz,0,1,0,0,,0,0,0,0,Bhuvneshwar,0,0,0,0,,0,0,0,0

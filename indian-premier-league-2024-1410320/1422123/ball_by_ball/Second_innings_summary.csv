@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+GT,19,19.1,7,0,0,1,0,Shankar,Shankar,3,3,0,0,,0,0,0,0,Coetzee,3.0,0,20,2,Bumrah,4.0,0,14,3
+GT,18,18.1,7,0,0,0,1,Tewatia,Shankar,1,1,0,0,Tewatia,21,11,2,1,Bumrah,3.0,0,8,3,Wood,2.0,0,25,0
+GT,17,17.1,19,3,1,0,2,Tewatia,Shankar,1,1,0,0,Tewatia,7,4,0,1,Wood,1.0,0,12,0,Bumrah,3.0,0,8,3
+GT,16,16.1,2,0,2,2,0,Tewatia,B Sai Sudharsan,51,38,3,1,,0,0,0,0,Bumrah,2.0,0,6,2,Coetzee,3.0,0,20,1
+GT,15,15.1,9,1,1,0,0,B Sai Sudharsan,B Sai Sudharsan,50,36,3,1,Miller,7,7,0,0,Coetzee,2.0,0,13,1,Hardik,3.0,0,30,0
+GT,14,14.1,10,1,0,0,0,Miller,B Sai Sudharsan,43,33,2,1,Miller,3,4,0,0,Hardik,2.0,0,21,0,Coetzee,2.0,0,11,1
+GT,13,13.1,8,1,1,0,1,B Sai Sudharsan,B Sai Sudharsan,36,28,1,1,Miller,2,3,0,0,Coetzee,1.0,0,4,1,Bumrah,2.0,0,6,1
+GT,12,12.1,2,0,4,0,0,B Sai Sudharsan,B Sai Sudharsan,36,25,1,1,,0,0,0,0,Bumrah,1.0,0,5,1,Coetzee,1.0,0,4,1
+GT,11,11.1,5,0,1,1,1,Azmatullah,B Sai Sudharsan,31,21,1,1,Azmatullah,16,9,1,1,Coetzee,0,0,0,0,Chawla,3.0,0,31,1
+GT,10,10.1,17,2,0,0,0,Azmatullah,B Sai Sudharsan,29,18,1,1,Azmatullah,7,6,1,0,Chawla,2.0,0,20,1,Naman Dhir,1.0,0,13,0
+GT,9,9.1,13,2,0,0,0,B Sai Sudharsan,B Sai Sudharsan,19,14,1,0,Azmatullah,2,4,0,0,Naman Dhir,0,0,4,0,Mulani,3.0,0,24,0
+GT,8,8.1,3,0,3,0,0,Azmatullah,B Sai Sudharsan,13,11,0,0,Azmatullah,1,1,0,0,Mulani,2.0,0,21,0,Chawla,2.0,0,14,1
+GT,7,7.1,10,0,0,1,1,B Sai Sudharsan,Gill,31,20,3,1,B Sai Sudharsan,10,7,0,0,Chawla,1.0,0,9,0,Mulani,2.0,0,21,0
+GT,6,6.1,9,0,1,0,1,Gill,Gill,24,17,3,1,B Sai Sudharsan,4,5,0,0,Mulani,1.0,0,13,0,Chawla,1.0,0,4,0
+GT,5,5.1,4,0,3,0,0,B Sai Sudharsan,Gill,22,14,3,1,B Sai Sudharsan,2,2,0,0,Chawla,0,0,1,0,Mulani,1.0,0,12,0
+GT,4,4.1,12,2,2,0,0,Gill,Gill,12,10,2,0,,0,0,0,0,Mulani,0,0,1,0,Bumrah,1.0,0,4,1
+GT,3,3.1,4,1,4,1,0,Saha,Saha,16,10,3,0,Gill,11,9,2,0,Bumrah,0,0,0,0,Hardik,2.0,0,20,0
+GT,2,2.1,9,2,3,0,0,Gill,Saha,11,7,2,0,Gill,11,6,2,0,Hardik,1.0,0,15,0,Wood,1.0,0,6,0
+GT,1,1.1,7,1,2,0,1,Gill,Saha,5,3,1,0,Gill,6,4,1,0,Wood,0,0,0,0,Hardik,1.0,0,11,0
+GT,0,0.1,11,2,2,0,0,Gill,Saha,4,1,1,0,,0,0,0,0,Hardik,0,0,4,0,,0,0,0,0

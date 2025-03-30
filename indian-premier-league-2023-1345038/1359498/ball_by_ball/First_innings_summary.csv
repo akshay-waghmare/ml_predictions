@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+RCB,19,19.1,10,1,1,1,0,SS Prabhudessai,SS Prabhudessai,14,7,0,1,Hasaranga,1,1,0,0,Pathirana,3.0,0,33,1,Deshpande,4.0,0,45,3
+RCB,18,18.1,12,1,1,1,2,SS Prabhudessai,SS Prabhudessai,3,2,0,0,Parnell,3,4,0,0,Deshpande,3.0,0,34,2,Pathirana,3.0,0,32,1
+RCB,17,17.1,4,0,2,1,1,Parnell,SS Prabhudessai,1,1,0,0,,0,0,0,0,Pathirana,2.0,0,28,1,Deshpande,3.0,0,33,2
+RCB,16,16.1,11,2,2,1,1,SS Prabhudessai,Shahbaz Ahmed,13,9,0,1,Karthik,23,10,2,1,Deshpande,2.0,0,26,1,Theekshana,4.0,0,41,1
+RCB,15,15.1,12,1,0,0,1,Karthik,Shahbaz Ahmed,12,8,0,1,Karthik,9,4,0,1,Theekshana,3.0,0,30,1,Jadeja,4.0,0,37,0
+RCB,14,14.1,10,1,1,0,0,Karthik,Shahbaz Ahmed,11,7,0,1,,0,0,0,0,Jadeja,3.0,0,28,0,Moeen Ali,1.0,0,13,1
+RCB,13,13.1,13,2,2,1,0,du Plessis,du Plessis,56,30,5,3,Shahbaz Ahmed,3,4,0,0,Moeen Ali,0,0,0,0,Theekshana,3.0,0,29,1
+RCB,12,12.1,5,0,0,1,1,Shahbaz Ahmed,du Plessis,54,28,5,3,,0,0,0,0,Theekshana,2.0,0,25,1,Jadeja,3.0,0,27,0
+RCB,11,11.1,9,1,2,0,0,du Plessis,du Plessis,53,26,5,3,Maxwell,75,32,3,8,Jadeja,2.0,0,24,0,Theekshana,2.0,0,25,0
+RCB,10,10.1,11,1,0,0,0,Maxwell,du Plessis,51,24,5,3,Maxwell,61,28,3,6,Theekshana,1.0,0,15,0,Pathirana,2.0,0,28,0
+RCB,9,9.1,16,3,1,0,0,Maxwell,du Plessis,51,24,5,3,Maxwell,45,22,1,5,Pathirana,1.0,0,13,0,Jadeja,2.0,0,18,0
+RCB,8,8.1,12,1,0,0,0,du Plessis,du Plessis,48,21,5,3,Maxwell,37,19,1,4,Jadeja,1.0,0,8,0,Pathirana,1.0,0,12,0
+RCB,7,7.1,12,2,3,0,1,du Plessis,du Plessis,48,20,5,3,Maxwell,23,14,0,3,Pathirana,0,0,0,0,Jadeja,1.0,0,6,0
+RCB,6,6.1,6,0,0,0,0,Maxwell,du Plessis,46,18,5,3,Maxwell,20,10,0,3,Jadeja,0,0,1,0,Theekshana,1.0,0,14,0
+RCB,5,5.1,14,2,2,0,0,Maxwell,du Plessis,38,15,5,2,Maxwell,13,7,0,2,Theekshana,0,0,0,0,Akash Singh,3.0,0,35,1
+RCB,4,4.1,16,3,2,0,0,du Plessis,du Plessis,22,10,3,1,Maxwell,13,6,0,2,Akash Singh,2.0,0,19,1,Deshpande,2.0,0,22,1
+RCB,3,3.1,17,3,0,0,0,du Plessis,du Plessis,7,5,1,0,Maxwell,12,5,0,2,Deshpande,1.0,0,6,1,Akash Singh,2.0,0,19,1
+RCB,2,2.1,13,2,3,0,0,Maxwell,du Plessis,6,4,1,0,,0,0,0,0,Akash Singh,1.0,0,7,1,Deshpande,1.0,0,5,1
+RCB,1,1.1,9,2,2,1,1,Lomror,Lomror,0,2,0,0,du Plessis,0,1,0,0,Deshpande,0,0,0,0,Akash Singh,1.0,0,6,1
+RCB,0,0.1,6,1,3,1,0,Lomror,Kohli,2,1,0,0,,0,0,0,0,Akash Singh,0,0,2,0,,0,0,0,0

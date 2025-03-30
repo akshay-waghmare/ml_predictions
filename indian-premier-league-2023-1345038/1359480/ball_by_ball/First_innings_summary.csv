@@ -1,0 +1,19 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+LSG,19,19.1,15,2,2,1,2,Wood,Badoni,22,15,0,0,Gowtham,24,10,0,1,Deshpande,3.0,0,32,1,RS Hangargekar,2.0,0,24,0
+LSG,18,18.1,9,0,2,0,3,Badoni,Badoni,18,13,0,0,Gowtham,19,7,0,1,RS Hangargekar,1.0,0,16,0,Deshpande,3.0,0,31,1
+LSG,17,17.1,7,0,0,0,0,Badoni,Badoni,13,9,0,0,Gowtham,17,5,0,1,Deshpande,2.0,0,25,1,Chahar,3.0,0,48,0
+LSG,16,16.1,18,1,0,0,3,Gowtham,Badoni,12,8,0,0,,0,0,0,0,Chahar,2.0,0,31,0,Deshpande,2.0,0,24,1
+LSG,15,15.1,6,0,1,1,0,Pooran,Pooran,31,16,2,3,Badoni,6,4,0,0,Deshpande,1.0,0,18,0,Jadeja,1.0,0,14,0
+LSG,14,14.1,14,2,2,0,0,Pooran,Pooran,18,10,2,1,Badoni,6,4,0,0,Jadeja,0,0,1,0,Moeen Ali,4.0,0,26,4
+LSG,13,13.1,8,0,0,1,1,Badoni,Stoinis,21,17,0,1,Pooran,17,9,2,1,Moeen Ali,3.0,0,20,3,Santner,4.0,0,21,1
+LSG,12,12.1,3,0,3,0,0,Pooran,Stoinis,18,13,0,1,Pooran,16,7,2,1,Santner,3.0,0,19,1,RS Hangargekar,1.0,0,15,0
+LSG,11,11.1,15,3,2,0,0,Pooran,Stoinis,17,12,0,1,Pooran,2,2,0,0,RS Hangargekar,0,0,1,0,Santner,3.0,0,18,1
+LSG,10,10.1,5,0,1,0,0,Stoinis,Stoinis,13,8,0,1,,0,0,0,0,Santner,2.0,0,13,1,Moeen Ali,3.0,0,18,3
+LSG,9,9.1,9,1,1,1,0,Krunal,Stoinis,11,5,0,1,Krunal,9,6,0,1,Moeen Ali,2.0,0,15,2,Santner,2.0,0,13,1
+LSG,8,8.1,12,1,0,0,1,Stoinis,Stoinis,1,1,0,0,Krunal,2,4,0,0,Santner,1.0,0,3,1,Moeen Ali,2.0,0,9,2
+LSG,7,7.1,2,0,3,1,0,Krunal,Rahul,10,10,1,0,,0,0,0,0,Moeen Ali,1.0,0,7,1,Santner,1.0,0,2,1
+LSG,6,6.1,2,0,3,1,0,Hooda,Rahul,9,6,1,0,Hooda,2,4,0,0,Santner,0,0,1,0,Moeen Ali,1.0,0,7,1
+LSG,5,5.1,7,0,2,1,0,Hooda,Mayers,45,16,6,1,Rahul,8,5,1,0,Moeen Ali,0,0,5,0,Chahar,2.0,0,30,0
+LSG,4,4.1,17,3,0,0,1,Rahul,Mayers,30,12,4,1,Rahul,3,3,0,0,Chahar,1.0,0,15,0,Deshpande,1.0,0,18,0
+LSG,3,3.1,18,2,2,0,5,Mayers,Mayers,13,6,3,0,Rahul,0,1,0,0,Deshpande,0,0,0,0,Chahar,1.0,0,13,0
+LSG,2,2.1,13,3,3,0,1,Mayers,Mayers,0,1,0,0,,0,0,0,0,Chahar,0,0,0,0,,0,0,0,0

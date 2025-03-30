@@ -1,0 +1,17 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+KKR,15,15.1,10,1,0,1,0,Ramandeep,Rinku Singh,20,11,0,2,Ramandeep,11,6,1,0,Bumrah,3.0,0,30,2,Thushara,3.0,0,31,1
+KKR,14,14.1,11,1,0,0,1,Rinku Singh,Rinku Singh,17,9,0,2,Ramandeep,3,2,0,0,Thushara,2.0,0,21,1,Hardik,3.0,0,32,0
+KKR,13,13.1,11,1,1,0,0,Rinku Singh,Rinku Singh,9,5,0,1,,0,0,0,0,Hardik,2.0,0,22,0,Chawla,3.0,0,28,2
+KKR,12,12.1,9,1,1,1,0,Russell,Russell,23,12,2,2,Rinku Singh,0,1,0,0,Chawla,2.0,0,19,1,Bumrah,3.0,0,29,2
+KKR,11,11.1,10,2,1,1,0,Rana,Rana,28,19,2,1,Russell,22,11,2,2,Bumrah,2.0,0,20,1,Chawla,2.0,0,19,1
+KKR,10,10.1,9,1,1,0,0,Russell,Rana,25,16,2,1,Russell,17,8,1,2,Chawla,1.0,0,12,1,Thushara,2.0,0,20,1
+KKR,9,9.1,10,1,2,0,1,Russell,Rana,21,12,2,1,Russell,10,5,1,1,Thushara,1.0,0,11,1,Chawla,1.0,0,10,1
+KKR,8,8.1,10,2,3,1,0,Russell,Rana,20,12,2,1,,0,0,0,0,Chawla,0,0,0,1,Hardik,2.0,0,21,0
+KKR,7,7.1,16,3,1,0,0,Rana,Venkatesh Iyer,37,18,5,2,Rana,10,9,1,0,Hardik,1.0,0,6,0,Kamboj,3.0,0,24,1
+KKR,6,6.1,9,1,1,0,0,Venkatesh Iyer,Venkatesh Iyer,30,14,4,2,Rana,8,7,1,0,Kamboj,2.0,0,16,1,Hardik,1.0,0,5,0
+KKR,5,5.1,7,1,2,0,2,Venkatesh Iyer,Venkatesh Iyer,25,10,3,2,Rana,6,5,1,0,Hardik,0,0,0,0,Kamboj,2.0,0,15,1
+KKR,4,4.1,5,1,3,1,0,Venkatesh Iyer,Venkatesh Iyer,25,9,3,2,,0,0,0,0,Kamboj,1.0,0,10,1,Bumrah,2.0,0,19,1
+KKR,3,3.1,15,3,2,0,0,Venkatesh Iyer,Venkatesh Iyer,11,5,1,1,Shreyas Iyer,8,8,1,0,Bumrah,1.0,0,4,1,Kamboj,1.0,0,10,0
+KKR,2,2.1,10,1,2,0,1,Venkatesh Iyer,Venkatesh Iyer,4,2,1,0,Shreyas Iyer,5,5,1,0,Kamboj,0,0,0,0,Bumrah,1.0,0,4,1
+KKR,1,1.1,5,1,3,1,1,Venkatesh Iyer,Venkatesh Iyer,4,1,1,0,,0,0,0,0,Bumrah,0,0,0,1,Thushara,1.0,0,10,1
+KKR,0,0.1,10,2,3,1,0,Venkatesh Iyer,Salt,6,1,0,1,,0,0,0,0,Thushara,0,0,6,0,,0,0,0,0

@@ -1,0 +1,20 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+MI,18,18.1,1,0,0,1,0,Kartikeya,Kartikeya,7,6,1,0,Behrendorff,3,5,0,0,Mohit,2.0,0,10,4,Little,3.0,0,26,1
+MI,17,17.1,6,1,3,0,0,Kartikeya,Kartikeya,3,4,0,0,Behrendorff,1,1,0,0,Little,2.0,0,21,1,Mohit,2.0,0,9,4
+MI,16,16.1,3,0,1,2,1,Kartikeya,Chawla,1,1,0,0,,0,0,0,0,Mohit,1.0,0,7,3,Rashid Khan,4.0,0,33,2
+MI,15,15.1,5,0,1,1,2,Jordan,David,2,2,0,0,Jordan,0,1,0,0,Rashid Khan,3.0,0,30,1,Mohit,1.0,0,7,2
+MI,14,14.1,7,1,2,2,0,Jordan,Suryakumar,56,36,7,1,Vishnu,6,6,0,0,Mohit,0,0,0,0,Little,2.0,0,20,1
+MI,13,13.1,15,2,1,0,1,Suryakumar,Suryakumar,43,30,6,0,Vishnu,5,5,0,0,Little,1.0,0,6,1,Noor Ahmad,4.0,0,35,0
+MI,12,12.1,6,1,3,0,0,Suryakumar,Suryakumar,42,27,6,0,Vishnu,3,3,0,0,Noor Ahmad,3.0,0,33,0,Little,1.0,0,5,1
+MI,11,11.1,5,0,1,1,0,Vishnu,Suryakumar,37,25,5,0,,0,0,0,0,Little,0,0,1,0,Noor Ahmad,3.0,0,29,0
+MI,10,10.1,13,1,2,0,2,Suryakumar,Suryakumar,34,21,5,0,,0,0,0,0,Noor Ahmad,2.0,0,17,0,Rashid Khan,3.0,0,29,1
+MI,9,9.1,15,3,1,0,0,Green,Suryakumar,24,18,3,0,,0,0,0,0,Rashid Khan,2.0,0,16,1,Noor Ahmad,2.0,0,16,0
+MI,8,8.1,11,1,1,0,0,Suryakumar,Suryakumar,21,16,3,0,,0,0,0,0,Noor Ahmad,1.0,0,6,0,Rashid Khan,2.0,0,14,1
+MI,7,7.1,7,1,2,0,0,Suryakumar,Suryakumar,18,12,3,0,,0,0,0,0,Rashid Khan,1.0,0,11,1,Noor Ahmad,1.0,0,5,0
+MI,6,6.1,5,0,2,0,0,Green,Suryakumar,13,10,2,0,,0,0,0,0,Noor Ahmad,0,0,1,0,Rashid Khan,1.0,0,7,1
+MI,5,5.1,7,1,1,1,0,Tilak Varma,Suryakumar,10,7,2,0,Tilak Varma,38,11,4,3,Rashid Khan,0,0,0,0,Shami,3.0,0,41,2
+MI,4,4.1,24,5,0,0,0,Tilak Varma,Suryakumar,10,6,2,0,Tilak Varma,18,6,1,2,Shami,2.0,0,21,2,Hardik,2.0,0,24,0
+MI,3,3.1,12,2,2,0,0,Suryakumar,Suryakumar,5,3,1,0,Tilak Varma,7,3,0,1,Hardik,1.0,0,12,0,Shami,2.0,0,17,2
+MI,2,2.1,8,1,2,1,0,Tilak Varma,Green,5,3,1,0,Suryakumar,4,1,1,0,Shami,1.0,0,9,1,Hardik,1.0,0,12,0
+MI,1,1.1,12,2,2,0,1,Suryakumar,Rohit Sharma,5,3,1,0,Green,4,1,1,0,Hardik,0,0,4,0,Shami,1.0,0,9,1
+MI,0,0.1,9,2,2,1,0,Green,Rohit Sharma,0,1,0,0,,0,0,0,0,Shami,0,0,0,0,,0,0,0,0

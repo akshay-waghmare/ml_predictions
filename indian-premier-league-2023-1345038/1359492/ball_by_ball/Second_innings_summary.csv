@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+PBKS,19,19.1,11,1,0,1,1,Harpreet Brar,Shahrukh Khan,21,8,1,2,Harpreet Brar,1,2,0,0,Little,3.0,0,21,1,Mohit,4.0,0,18,2
+PBKS,18,18.1,6,1,2,1,0,Shahrukh Khan,Shahrukh Khan,15,4,0,2,,0,0,0,0,Mohit,3.0,0,12,2,Shami,4.0,0,44,1
+PBKS,17,17.1,15,2,0,0,0,Shahrukh Khan,Sam Curran,19,19,0,1,Shahrukh Khan,6,1,0,1,Shami,3.0,0,30,1,Alzarri Joseph,4.0,0,32,1
+PBKS,16,16.1,12,1,1,1,2,Shahrukh Khan,Rajapaksa,23,25,1,0,Sam Curran,13,15,0,1,Alzarri Joseph,3.0,0,21,0,Rashid Khan,4.0,0,26,1
+PBKS,15,15.1,10,1,2,0,0,Rajapaksa,Rajapaksa,21,23,1,0,Sam Curran,4,11,0,0,Rashid Khan,3.0,0,16,1,Mohit,3.0,0,12,1
+PBKS,14,14.1,3,0,3,0,0,Sam Curran,Rajapaksa,20,22,1,0,Sam Curran,2,6,0,0,Mohit,2.0,0,9,1,Rashid Khan,3.0,0,16,1
+PBKS,13,13.1,2,0,4,0,1,Rajapaksa,Rajapaksa,20,19,1,0,Sam Curran,1,3,0,0,Rashid Khan,2.0,0,15,1,Mohit,2.0,0,9,1
+PBKS,12,12.1,3,0,2,1,0,Sam Curran,Rajapaksa,18,17,1,0,Sharma,25,22,5,0,Mohit,1.0,0,7,0,Shami,3.0,0,29,1
+PBKS,11,11.1,10,2,2,0,0,Sharma,Rajapaksa,16,15,1,0,Sharma,20,18,4,0,Shami,2.0,0,23,1,Mohit,1.0,0,6,0
+PBKS,10,10.1,6,1,3,0,0,Rajapaksa,Rajapaksa,11,11,0,0,Sharma,15,16,3,0,Mohit,0,0,0,0,Alzarri Joseph,3.0,0,20,0
+PBKS,9,9.1,4,0,3,0,1,Sharma,Rajapaksa,9,9,0,0,Sharma,14,12,3,0,Alzarri Joseph,2.0,0,17,0,Rashid Khan,2.0,0,15,1
+PBKS,8,8.1,8,2,4,0,0,Sharma,Rajapaksa,8,8,0,0,Sharma,10,7,2,0,Rashid Khan,1.0,0,11,1,Alzarri Joseph,2.0,0,16,0
+PBKS,7,7.1,4,0,2,0,0,Sharma,Rajapaksa,7,7,0,0,Sharma,4,2,1,0,Alzarri Joseph,1.0,0,13,0,Rashid Khan,1.0,0,7,1
+PBKS,6,6.1,7,1,1,1,0,Sharma,MW Short,39,22,6,1,Rajapaksa,5,5,0,0,Rashid Khan,0,0,1,0,Little,3.0,0,20,1
+PBKS,5,5.1,10,1,1,0,1,Rajapaksa,MW Short,32,19,5,1,Rajapaksa,1,2,0,0,Little,2.0,0,10,1,Alzarri Joseph,1.0,0,12,0
+PBKS,4,4.1,12,2,4,0,2,MW Short,MW Short,20,14,4,0,Rajapaksa,1,1,0,0,Alzarri Joseph,0,0,0,0,Little,2.0,0,10,1
+PBKS,3,3.1,3,0,3,1,2,MW Short,MW Short,19,10,4,0,S Dhawan,9,6,2,0,Little,1.0,0,9,0,Shami,2.0,0,19,1
+PBKS,2,2.1,11,2,3,0,1,MW Short,MW Short,8,5,2,0,S Dhawan,8,6,2,0,Shami,1.0,0,8,1,Little,1.0,0,8,0
+PBKS,1,1.1,8,2,4,0,0,S Dhawan,MW Short,8,4,2,0,S Dhawan,0,1,0,0,Little,0,0,0,0,Shami,1.0,0,8,1
+PBKS,0,0.1,8,2,3,1,0,MW Short,Prabhsimran,0,1,0,0,,0,0,0,0,Shami,0,0,0,0,,0,0,0,0

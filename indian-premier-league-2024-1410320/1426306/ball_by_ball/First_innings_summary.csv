@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+CSK,19,19.1,7,1,3,1,0,Jadeja,Jadeja,43,20,3,3,Dhoni,27,12,3,1,Yash Dayal,3.0,0,41,1,Ferguson,3.0,0,39,1
+CSK,18,18.1,18,3,0,0,1,Jadeja,Jadeja,32,17,2,2,Dhoni,15,8,2,0,Ferguson,2.0,0,22,1,Siraj,4.0,0,35,1
+CSK,17,17.1,15,2,1,0,1,Dhoni,Jadeja,25,13,1,2,Dhoni,12,6,2,0,Siraj,3.0,0,26,1,Yash Dayal,3.0,0,35,1
+CSK,16,16.1,13,2,1,0,0,Jadeja,Jadeja,17,9,1,1,Dhoni,7,4,1,0,Yash Dayal,2.0,0,28,1,Green,2.0,0,18,1
+CSK,15,15.1,9,1,1,0,0,Dhoni,Jadeja,10,7,1,0,,0,0,0,0,Green,1.0,0,10,1,Siraj,3.0,0,20,1
+CSK,14,14.1,4,0,1,1,0,Santner,Jadeja,7,3,1,0,Santner,3,2,0,0,Siraj,2.0,0,17,0,Green,1.0,0,9,1
+CSK,13,13.1,10,1,0,1,2,Jadeja,Ravindra,63,37,4,3,Dube,7,14,0,0,Green,0,0,1,0,Maxwell,4.0,0,25,1
+CSK,12,12.1,5,0,1,0,0,Ravindra,Ravindra,60,34,4,3,Dube,4,11,0,0,Maxwell,3.0,0,20,1,Ferguson,2.0,0,21,1
+CSK,11,11.1,19,2,2,0,1,Dube,Ravindra,42,29,4,1,Dube,4,9,0,0,Ferguson,1.0,0,3,1,Maxwell,3.0,0,20,1
+CSK,10,10.1,4,0,2,0,0,Dube,Ravindra,41,28,4,1,Dube,1,4,0,0,Maxwell,2.0,0,17,1,Ferguson,1.0,0,2,1
+CSK,9,9.1,2,0,3,1,0,Ravindra,Ravindra,39,26,4,1,,0,0,0,0,Ferguson,0,0,0,1,Swapnil,2.0,0,13,0
+CSK,8,8.1,7,0,1,0,1,Rahane,Ravindra,34,23,4,1,Rahane,35,19,4,1,Swapnil,1.0,0,6,0,Karn,1.0,0,14,0
+CSK,7,7.1,14,2,0,0,0,Rahane,Ravindra,26,19,4,0,Rahane,30,17,3,1,Karn,0,0,1,0,Swapnil,1.0,0,6,0
+CSK,6,6.1,6,0,0,0,0,Rahane,Ravindra,24,17,4,0,Rahane,26,13,3,1,Swapnil,0,0,1,0,Yash Dayal,2.0,0,22,1
+CSK,5,5.1,15,3,0,0,0,Ravindra,Ravindra,21,14,4,0,Rahane,17,10,1,1,Yash Dayal,1.0,0,11,1,Maxwell,2.0,0,16,1
+CSK,4,4.1,4,0,2,0,0,Ravindra,Ravindra,15,10,3,0,Rahane,15,8,1,1,Maxwell,1.0,0,12,1,Siraj,2.0,0,16,0
+CSK,3,3.1,13,2,1,0,1,Rahane,Ravindra,10,7,2,0,Rahane,8,5,0,1,Siraj,1.0,0,8,0,Yash Dayal,1.0,0,7,1
+CSK,2,2.1,7,1,3,1,0,Rahane,Mitchell,9,5,0,0,Ravindra,10,7,2,0,Yash Dayal,0,0,0,0,Siraj,1.0,0,7,0
+CSK,1,1.1,7,1,2,0,0,Ravindra,Mitchell,8,3,0,0,Ravindra,5,3,1,0,Siraj,0,0,1,0,Maxwell,1.0,0,12,1
+CSK,0,0.1,12,1,1,1,1,Ravindra,,0,0,0,0,,0,0,0,0,Maxwell,0,0,0,1,,0,0,0,0

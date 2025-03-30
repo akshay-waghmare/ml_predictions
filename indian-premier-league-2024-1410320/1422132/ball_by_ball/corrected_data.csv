@@ -1,0 +1,37 @@
+over,innings,score,projected_score,required,CRR,RRR,fav_team,win_probability,venue,matches_played,total_runs,total_wickets,balls_bowled,average_runs_per_wicket,average_runs_per_over
+16,RR,127/4,N/A,N/A,7.94,N/A,RR,100.0,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+1,MI,1/2,158,N/A,1.00,N/A,RR,66.25,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+2,MI,13/2,163,N/A,6.50,N/A,RR,61.1,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+3,MI,16/3,156,N/A,5.33,N/A,RR,68.21,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+4,MI,20/4,147,N/A,5.00,N/A,RR,76.16,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+5,MI,30/4,151,N/A,6.00,N/A,RR,72.81,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+6,MI,46/4,172,N/A,7.67,N/A,RR,51.21,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+7,MI,59/4,181,N/A,8.43,N/A,MI,58.82,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+8,MI,65/4,183,N/A,8.12,N/A,MI,60.99,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+9,MI,75/4,182,N/A,8.33,N/A,MI,59.91,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+10,MI,77/5,165,N/A,7.70,N/A,RR,58.96,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+11,MI,83/5,161,N/A,7.55,N/A,RR,63.2,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+12,MI,89/6,147,N/A,7.42,N/A,RR,76.16,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+13,MI,95/6,156,N/A,7.31,N/A,RR,68.21,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+14,MI,97/7,135,N/A,6.93,N/A,RR,84.39,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+15,MI,102/7,140,N/A,6.80,N/A,RR,81.29,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+16,MI,111/7,146,N/A,6.94,N/A,RR,76.95,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+17,MI,112/8,139,N/A,6.59,N/A,RR,81.94,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+18,MI,114/8,133,N/A,6.33,N/A,RR,85.5,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+19,MI,115/9,124,N/A,6.05,N/A,RR,89.71,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+20,MI,125/9,125,N/A,6.25,N/A,RR,89.3,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+1,RR,10/1,N/A,116 from 114,10.00,6.11,RR,87.78,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+2,RR,17/1,N/A,109 from 108,8.50,6.06,RR,89.78,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+3,RR,30/1,N/A,96 from 102,10.00,5.65,RR,93.23,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+4,RR,41/1,N/A,85 from 96,10.25,5.31,RR,95.49,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+5,RR,44/2,N/A,82 from 90,8.80,5.47,RR,93.35,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+6,RR,46/2,N/A,80 from 84,7.67,5.71,RR,91.72,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+7,RR,50/3,N/A,76 from 78,7.14,5.85,RR,89.68,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+8,RR,60/3,N/A,66 from 72,7.50,5.50,RR,93.05,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+9,RR,68/3,N/A,58 from 66,7.56,5.27,RR,95.21,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+10,RR,73/3,N/A,53 from 60,7.30,5.30,RR,96.29,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+11,RR,84/3,N/A,42 from 54,7.64,4.67,RR,98.0,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+12,RR,87/3,N/A,39 from 48,7.25,4.88,RR,98.07,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+13,RR,94/4,N/A,32 from 42,7.23,4.57,RR,97.96,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+14,RR,101/4,N/A,25 from 36,7.21,4.17,RR,98.63,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+15,RR,111/4,N/A,15 from 30,7.40,3.00,RR,99.31,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30

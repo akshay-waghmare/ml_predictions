@@ -1,0 +1,15 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+KKR,13,13.1,22,4,0,0,0,Shreyas Iyer,Venkatesh Iyer,52,28,5,4,Shreyas Iyer,42,21,4,2,Head,1.0,0,16,0,Nitish Kumar,1.0,0,13,0
+KKR,12,12.1,13,2,1,0,0,Venkatesh Iyer,Venkatesh Iyer,45,25,5,3,Shreyas Iyer,31,18,3,1,Nitish Kumar,0,0,1,0,Head,1.0,0,10,0
+KKR,11,11.1,10,2,2,0,0,Venkatesh Iyer,Venkatesh Iyer,44,22,5,3,Shreyas Iyer,25,15,2,1,Head,0,0,4,0,Natarajan,3.0,0,22,1
+KKR,10,10.1,12,2,2,0,0,Shreyas Iyer,Venkatesh Iyer,39,19,4,3,Shreyas Iyer,14,12,1,0,Natarajan,2.0,0,10,1,Viyaskanth,2.0,0,22,0
+KKR,9,9.1,11,1,1,0,0,Venkatesh Iyer,Venkatesh Iyer,32,17,4,2,Shreyas Iyer,10,8,1,0,Viyaskanth,1.0,0,11,0,Cummins,3.0,0,38,1
+KKR,8,8.1,11,2,1,0,0,Shreyas Iyer,Venkatesh Iyer,27,14,3,2,Shreyas Iyer,5,5,0,0,Cummins,2.0,0,28,1,Viyaskanth,1.0,0,11,0
+KKR,7,7.1,11,1,0,0,0,Shreyas Iyer,Venkatesh Iyer,19,11,3,1,Shreyas Iyer,2,2,0,0,Viyaskanth,0,0,1,0,Cummins,2.0,0,27,1
+KKR,6,6.1,11,2,2,1,0,Venkatesh Iyer,Narine,26,15,5,0,Venkatesh Iyer,13,8,3,0,Cummins,1.0,0,20,0,Natarajan,2.0,0,10,1
+KKR,5,5.1,6,1,4,0,1,Narine,Narine,16,9,3,0,Venkatesh Iyer,13,8,3,0,Natarajan,1.0,0,4,1,Bhuvneshwar,3.0,0,28,0
+KKR,4,4.1,8,2,4,0,0,Venkatesh Iyer,Narine,16,8,3,0,Venkatesh Iyer,5,3,1,0,Bhuvneshwar,2.0,0,20,0,Natarajan,1.0,0,4,1
+KKR,3,3.1,5,1,3,1,1,Narine,Gurbaz,28,13,3,2,Narine,16,6,3,0,Natarajan,0,0,0,0,Bhuvneshwar,2.0,0,20,0
+KKR,2,2.1,18,3,0,0,1,Narine,Gurbaz,17,9,2,1,Narine,13,4,3,0,Bhuvneshwar,1.0,0,6,0,Cummins,1.0,0,16,0
+KKR,1,1.1,20,4,1,0,2,Gurbaz,Gurbaz,6,6,1,0,Narine,4,1,1,0,Cummins,0,0,4,0,Bhuvneshwar,1.0,0,6,0
+KKR,0,0.1,6,1,4,0,0,Gurbaz,Gurbaz,0,1,0,0,,0,0,0,0,Bhuvneshwar,0,0,0,0,,0,0,0,0

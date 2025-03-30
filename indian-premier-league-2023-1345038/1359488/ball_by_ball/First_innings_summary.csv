@@ -1,0 +1,19 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+SRH,17,17.1,4,1,0,0,0,Tripathi,Tripathi,74,48,10,3,Markram,37,21,6,0,Harpreet Brar,3.0,0,26,0,Ellis,3.0,0,28,0
+SRH,16,16.1,17,4,1,0,0,Markram,Tripathi,70,47,9,3,Markram,21,16,2,0,Ellis,2.0,0,12,0,Sam Curran,3.0,0,14,0
+SRH,15,15.1,6,0,1,0,0,Tripathi,Tripathi,65,43,9,3,Markram,20,14,2,0,Sam Curran,2.0,0,9,0,Mohit,2.0,0,29,0
+SRH,14,14.1,21,4,0,0,0,Tripathi,Tripathi,51,40,7,2,Markram,14,11,1,0,Mohit,1.0,0,10,0,Arshdeep,3.0,0,20,1
+SRH,13,13.1,3,0,3,0,0,Tripathi,Tripathi,50,36,7,2,Markram,11,9,1,0,Arshdeep,2.0,0,18,1,Mohit,1.0,0,8,0
+SRH,12,12.1,8,1,3,0,0,Tripathi,Tripathi,44,32,7,1,Markram,9,7,1,0,Mohit,0,0,1,0,Ellis,2.0,0,11,0
+SRH,11,11.1,8,1,1,0,0,Markram,Tripathi,41,29,7,1,Markram,4,4,0,0,Ellis,1.0,0,4,0,Chahar,3.0,0,28,1
+SRH,10,10.1,11,2,2,0,0,Tripathi,Tripathi,31,24,5,1,Markram,3,3,0,0,Chahar,2.0,0,18,1,Harpreet Brar,3.0,0,22,0
+SRH,9,9.1,13,3,2,0,0,Tripathi,Tripathi,19,19,2,1,Markram,2,2,0,0,Harpreet Brar,2.0,0,10,0,Chahar,2.0,0,17,1
+SRH,8,8.1,11,2,0,1,0,Tripathi,Agarwal,21,19,3,0,Tripathi,10,16,0,1,Chahar,1.0,0,7,0,Harpreet Brar,2.0,0,9,0
+SRH,7,7.1,3,0,3,0,0,Agarwal,Agarwal,19,17,3,0,Tripathi,9,12,0,1,Harpreet Brar,1.0,0,7,0,Chahar,1.0,0,6,0
+SRH,6,6.1,6,1,5,0,0,Tripathi,Agarwal,18,16,3,0,Tripathi,3,7,0,0,Chahar,0,0,0,0,Sam Curran,2.0,0,8,0
+SRH,5,5.1,4,0,2,0,0,Tripathi,Agarwal,16,14,3,0,Tripathi,1,3,0,0,Sam Curran,1.0,0,4,0,Ellis,1.0,0,3,0
+SRH,4,4.1,3,0,3,0,0,Tripathi,Agarwal,14,10,3,0,Tripathi,0,1,0,0,Ellis,0,0,0,0,Arshdeep,2.0,0,17,1
+SRH,3,3.1,8,2,3,1,0,Tripathi,Brook,9,10,2,0,Agarwal,14,9,3,0,Arshdeep,1.0,0,13,0,Harpreet Brar,1.0,0,6,0
+SRH,2,2.1,6,1,3,0,0,Brook,Brook,4,6,1,0,Agarwal,9,7,2,0,Harpreet Brar,0,0,0,0,Arshdeep,1.0,0,9,0
+SRH,1,1.1,9,2,3,0,0,Agarwal,Brook,4,6,1,0,Agarwal,0,1,0,0,Arshdeep,0,0,0,0,Sam Curran,1.0,0,4,0
+SRH,0,0.1,4,1,5,0,0,Brook,Brook,4,1,1,0,,0,0,0,0,Sam Curran,0,0,4,0,,0,0,0,0

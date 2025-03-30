@@ -1,0 +1,18 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+LSG,16,16.1,1,0,1,1,0,Mohsin Khan,Hooda,16,13,0,1,Mohsin Khan,0,6,0,0,Madhwal,3.0,1,4,5,Jordan,2.0,1,7,1
+LSG,15,15.1,0,0,6,0,0,Mohsin Khan,Hooda,16,13,0,1,Mohsin Khan,0,1,0,0,Jordan,1.0,0,7,1,Madhwal,3.0,1,4,5
+LSG,14,14.1,2,0,2,2,1,Naveen,Hooda,15,12,0,1,Ravi Bishnoi,4,5,0,0,Madhwal,2.0,1,3,3,Behrendorff,3.0,0,21,0
+LSG,13,13.1,4,0,2,0,0,Ravi Bishnoi,Hooda,13,10,0,1,Ravi Bishnoi,1,1,0,0,Behrendorff,2.0,0,17,0,Chawla,4.0,0,28,2
+LSG,12,12.1,4,0,1,1,0,Hooda,Hooda,11,6,0,1,Gowtham,2,2,0,0,Chawla,3.0,0,25,1,Green,3.0,0,15,0
+LSG,11,11.1,4,0,2,0,0,Gowtham,Stoinis,44,24,6,1,Hooda,10,5,0,1,Green,2.0,0,11,0,Chawla,3.0,0,24,1
+LSG,10,10.1,11,1,1,0,1,Hooda,Stoinis,42,21,6,1,Hooda,7,2,0,1,Chawla,2.0,0,19,1,Madhwal,2.0,1,3,3
+LSG,9,9.1,1,0,3,2,0,Hooda,Stoinis,42,21,6,1,Badoni,1,4,0,0,Madhwal,1.0,0,2,1,Chawla,2.0,0,13,1
+LSG,8,8.1,6,1,2,1,1,Stoinis,Krunal,8,10,1,0,Stoinis,38,20,5,1,Chawla,1.0,0,12,0,Green,2.0,0,11,0
+LSG,7,7.1,3,0,3,0,0,Krunal,Krunal,7,7,1,0,Stoinis,35,17,5,1,Green,1.0,0,8,0,Chawla,1.0,0,11,0
+LSG,6,6.1,11,2,2,0,1,Krunal,Krunal,3,5,0,0,Stoinis,29,13,4,1,Chawla,0,0,1,0,Shokeen,1.0,0,18,0
+LSG,5,5.1,18,3,1,0,1,Stoinis,Krunal,2,4,0,0,Stoinis,12,8,2,0,Shokeen,0,0,1,0,Green,1.0,0,8,0
+LSG,4,4.1,8,1,2,0,0,Krunal,Krunal,0,2,0,0,Stoinis,7,4,1,0,Green,0,0,2,0,Jordan,1.0,0,7,1
+LSG,3,3.1,7,1,2,1,0,Krunal,Mayers,20,12,3,0,Krunal,0,1,0,0,Jordan,0,0,2,0,Behrendorff,2.0,0,17,0
+LSG,2,2.1,9,1,2,0,1,Mayers,Mayers,13,6,3,0,Krunal,0,1,0,0,Behrendorff,1.0,0,14,0,Madhwal,1.0,0,2,1
+LSG,1,1.1,2,0,4,1,0,Krunal,Mayers,9,5,2,0,Mankad,1,2,0,0,Madhwal,0,0,0,0,Behrendorff,1.0,0,10,0
+LSG,0,0.1,10,2,2,0,0,Mankad,Mayers,0,1,0,0,,0,0,0,0,Behrendorff,0,0,0,0,,0,0,0,0

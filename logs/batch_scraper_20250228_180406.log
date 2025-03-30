@@ -1,0 +1,10 @@
+[2025-02-28 18:04:06] Starting batch processing of matches from ipl_2024_matches.csv
+[2025-02-28 18:04:06] Found 74 matches to process
+[2025-02-28 18:04:06] Processing matches from index 0 to 73
+[2025-02-28 18:04:06] Processing match 1 of 74 (ID: chennai-super-kings-vs-royal-challengers-bengaluru-1st-match-1422119)
+[2025-02-28 18:04:06] Processing match: chennai-super-kings-vs-royal-challengers-bengaluru-1st-match-1422119 - https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/chennai-super-kings-vs-royal-challengers-bengaluru-1st-match-1422119/full-scorecard
+[2025-02-28 18:06:28] Processing CSV data for match chennai-super-kings-vs-royal-challengers-bengaluru-1st-match-1422119
+[2025-02-28 18:06:28] Successfully processed match chennai-super-kings-vs-royal-challengers-bengaluru-1st-match-1422119
+[2025-02-28 18:06:28] Waiting 30 seconds before processing the next match...
+[2025-02-28 18:06:58] Processing match 2 of 74 (ID: punjab-kings-vs-delhi-capitals-2nd-match-1422120)
+[2025-02-28 18:06:58] Processing match: punjab-kings-vs-delhi-capitals-2nd-match-1422120 - https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/punjab-kings-vs-delhi-capitals-2nd-match-1422120/full-scorecard

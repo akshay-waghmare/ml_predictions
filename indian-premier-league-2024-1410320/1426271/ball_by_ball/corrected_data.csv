@@ -1,0 +1,41 @@
+over,innings,score,projected_score,required,CRR,RRR,fav_team,win_probability,venue,matches_played,total_runs,total_wickets,balls_bowled,average_runs_per_wicket,average_runs_per_over
+20,PBKS,183/10,N/A,N/A,9.15,N/A,MI,100.0,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",28,7734,375,6087,20.62,7.62
+1,MI,7/0,179,N/A,7.00,N/A,MI,54.59,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",28,7734,375,6087,20.62,7.62
+2,MI,18/0,183,N/A,9.00,N/A,MI,58.98,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",28,7734,375,6087,20.62,7.62
+3,MI,27/1,182,N/A,9.00,N/A,MI,57.89,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",28,7734,375,6087,20.62,7.62
+4,MI,36/1,190,N/A,9.00,N/A,MI,66.31,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",28,7734,375,6087,20.62,7.62
+5,MI,43/1,186,N/A,8.60,N/A,MI,62.19,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",28,7734,375,6087,20.62,7.62
+6,MI,54/1,188,N/A,9.00,N/A,MI,64.28,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",28,7734,375,6087,20.62,7.62
+7,MI,58/1,180,N/A,8.29,N/A,MI,55.69,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",28,7734,375,6087,20.62,7.62
+8,MI,68/1,183,N/A,8.50,N/A,MI,58.98,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",28,7734,375,6087,20.62,7.62
+9,MI,77/1,192,N/A,8.56,N/A,MI,68.29,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",28,7734,375,6087,20.62,7.62
+10,MI,86/1,196,N/A,8.60,N/A,MI,72.05,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",28,7734,375,6087,20.62,7.62
+11,MI,96/1,200,N/A,8.73,N/A,MI,75.52,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",28,7734,375,6087,20.62,7.62
+12,MI,101/2,191,N/A,8.42,N/A,MI,67.31,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",28,7734,375,6087,20.62,7.62
+13,MI,109/2,186,N/A,8.38,N/A,MI,62.19,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",28,7734,375,6087,20.62,7.62
+14,MI,115/2,178,N/A,8.21,N/A,MI,53.48,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",28,7734,375,6087,20.62,7.62
+15,MI,130/2,187,N/A,8.67,N/A,MI,63.24,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",28,7734,375,6087,20.62,7.62
+16,MI,148/2,195,N/A,9.25,N/A,MI,71.14,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",28,7734,375,6087,20.62,7.62
+17,MI,156/3,193,N/A,9.18,N/A,MI,69.26,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",28,7734,375,6087,20.62,7.62
+18,MI,167/4,191,N/A,9.28,N/A,MI,67.31,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",28,7734,375,6087,20.62,7.62
+19,MI,185/4,199,N/A,9.74,N/A,MI,74.68,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",28,7734,375,6087,20.62,7.62
+20,MI,192/7,192,N/A,9.60,N/A,MI,68.29,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",28,7734,375,6087,20.62,7.62
+1,PBKS,12/1,N/A,181 from 114,12.00,9.53,MI,70.24,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",28,7734,375,6087,20.62,7.62
+2,PBKS,14/3,N/A,179 from 108,7.00,9.94,MI,84.11,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",28,7734,375,6087,20.62,7.62
+3,PBKS,21/4,N/A,172 from 102,7.00,10.12,MI,95.75,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",28,7734,375,6087,20.62,7.62
+4,PBKS,28/4,N/A,165 from 96,7.00,10.31,MI,95.17,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",28,7734,375,6087,20.62,7.62
+5,PBKS,39/4,N/A,154 from 90,7.80,10.27,MI,94.36,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",28,7734,375,6087,20.62,7.62
+6,PBKS,40/4,N/A,153 from 84,6.67,10.93,MI,96.04,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",28,7734,375,6087,20.62,7.62
+7,PBKS,50/5,N/A,143 from 78,7.14,11.00,MI,98.24,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",28,7734,375,6087,20.62,7.62
+8,PBKS,60/5,N/A,133 from 72,7.50,11.08,MI,97.94,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",28,7734,375,6087,20.62,7.62
+9,PBKS,76/5,N/A,117 from 66,8.44,10.64,MI,93.82,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",28,7734,375,6087,20.62,7.62
+10,PBKS,87/6,N/A,106 from 60,8.70,10.60,MI,96.79,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",28,7734,375,6087,20.62,7.62
+11,PBKS,100/6,N/A,93 from 54,9.09,10.33,MI,95.06,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",28,7734,375,6087,20.62,7.62
+12,PBKS,111/6,N/A,82 from 48,9.25,10.25,MI,93.51,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",28,7734,375,6087,20.62,7.62
+13,PBKS,120/7,N/A,73 from 42,9.23,10.43,MI,96.46,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",28,7734,375,6087,20.62,7.62
+14,PBKS,128/7,N/A,65 from 36,9.14,10.83,MI,95.73,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",28,7734,375,6087,20.62,7.62
+15,PBKS,141/7,N/A,52 from 30,9.40,10.40,MI,91.11,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",28,7734,375,6087,20.62,7.62
+16,PBKS,165/7,N/A,28 from 24,10.31,7.00,PBKS,77.54,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",28,7734,375,6087,20.62,7.62
+17,PBKS,168/7,N/A,25 from 18,9.88,8.33,PBKS,74.33,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",28,7734,375,6087,20.62,7.62
+18,PBKS,170/8,N/A,23 from 12,9.44,11.50,MI,70.87,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",28,7734,375,6087,20.62,7.62
+19,PBKS,181/9,N/A,12 from 6,9.53,12.00,MI,65.09,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",28,7734,375,6087,20.62,7.62

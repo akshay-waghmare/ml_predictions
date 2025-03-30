@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+PBKS,19,19.1,17,3,1,1,0,Harpreet Brar,Sharma,19,4,0,3,,0,0,0,0,Behrendorff,2.0,0,30,0,Archer,4.0,0,42,1
+PBKS,18,18.1,10,2,1,1,0,Sam Curran,Sam Curran,50,25,3,4,Sharma,12,2,0,2,Archer,3.0,0,33,0,Green,4.0,0,41,2
+PBKS,17,17.1,25,4,0,1,0,Sharma,Harpreet Singh,44,27,3,2,Sam Curran,42,22,3,3,Green,3.0,0,22,1,Archer,3.0,0,32,0
+PBKS,16,16.1,13,2,1,0,1,Harpreet Singh,Harpreet Singh,37,24,3,1,Sam Curran,34,19,3,2,Archer,2.0,0,24,0,Tendulkar,3.0,0,48,1
+PBKS,15,15.1,31,5,0,0,2,Harpreet Singh,Harpreet Singh,18,20,1,0,Sam Curran,24,16,1,2,Tendulkar,2.0,0,23,1,Shokeen,3.0,0,24,0
+PBKS,14,14.1,13,1,2,0,2,Harpreet Singh,Harpreet Singh,15,17,1,0,Sam Curran,8,12,1,0,Shokeen,2.0,0,13,0,Green,3.0,0,16,1
+PBKS,13,13.1,8,1,1,0,0,Harpreet Singh,Harpreet Singh,13,14,1,0,Sam Curran,3,9,0,0,Green,2.0,0,9,1,Shokeen,2.0,0,13,0
+PBKS,12,12.1,8,1,2,0,0,Harpreet Singh,Harpreet Singh,7,11,0,0,Sam Curran,1,6,0,0,Shokeen,1.0,0,6,0,Green,2.0,0,8,1
+PBKS,11,11.1,1,0,5,0,0,Sam Curran,Harpreet Singh,5,8,0,0,Sam Curran,1,3,0,0,Green,1.0,0,7,1,Shokeen,1.0,0,5,0
+PBKS,10,10.1,5,0,2,0,0,Harpreet Singh,Harpreet Singh,2,3,0,0,Sam Curran,0,2,0,0,Shokeen,0,0,1,0,Chawla,3.0,0,15,1
+PBKS,9,9.1,2,0,4,1,1,Sam Curran,Atharva,31,16,3,1,Livingstone,11,12,0,1,Chawla,2.0,0,13,0,Archer,2.0,0,20,0
+PBKS,8,8.1,10,1,2,0,1,Livingstone,Atharva,30,14,3,1,Livingstone,2,8,0,0,Archer,1.0,0,10,0,Chawla,2.0,0,13,0
+PBKS,7,7.1,1,0,5,0,0,Livingstone,Atharva,30,14,3,1,Livingstone,1,2,0,0,Chawla,1.0,0,12,0,Tendulkar,2.0,0,17,1
+PBKS,6,6.1,12,2,0,1,1,Atharva,Prabhsimran,27,16,1,2,Atharva,20,11,1,1,Tendulkar,1.0,0,6,0,Chawla,1.0,0,12,0
+PBKS,5,5.1,12,2,2,0,0,Atharva,Prabhsimran,21,13,0,2,Atharva,13,8,0,1,Chawla,0,0,0,0,Archer,1.0,0,10,0
+PBKS,4,4.1,10,1,2,0,0,Atharva,Prabhsimran,20,12,0,2,Atharva,4,3,0,0,Archer,0,0,0,0,Behrendorff,2.0,0,24,0
+PBKS,3,3.1,16,2,2,0,1,Atharva,Prabhsimran,13,7,0,1,Atharva,1,2,0,0,Behrendorff,1.0,0,14,0,Green,1.0,0,7,1
+PBKS,2,2.1,7,1,1,1,0,Prabhsimran,MW Short,8,8,1,0,Prabhsimran,6,5,0,0,Green,0,0,1,0,Behrendorff,1.0,0,8,0
+PBKS,1,1.1,8,1,2,0,0,MW Short,MW Short,4,5,0,0,Prabhsimran,2,2,0,0,Behrendorff,0,0,1,0,Tendulkar,1.0,0,5,0
+PBKS,0,0.1,5,0,3,0,2,Prabhsimran,MW Short,0,1,0,0,,0,0,0,0,Tendulkar,0,0,0,0,,0,0,0,0

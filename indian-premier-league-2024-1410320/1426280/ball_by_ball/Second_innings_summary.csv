@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+KKR,19,19.1,12,2,1,2,2,Venkatesh Iyer,Venkatesh Iyer,40,22,3,2,Rinku Singh,5,3,1,0,Harshal,2.0,0,41,0,Arshdeep,4.0,0,45,2
+KKR,18,18.1,10,1,1,1,0,Venkatesh Iyer,Venkatesh Iyer,37,20,3,2,Shreyas Iyer,28,9,1,3,Arshdeep,3.0,0,41,1,Sam Curran,4.0,0,60,1
+KKR,17,17.1,24,4,0,0,0,Shreyas Iyer,Venkatesh Iyer,30,18,3,1,Shreyas Iyer,6,5,0,0,Sam Curran,3.0,0,37,1,Rabada,3.0,0,52,0
+KKR,16,16.1,9,1,1,0,0,Shreyas Iyer,Venkatesh Iyer,23,14,2,1,Shreyas Iyer,4,3,0,0,Rabada,2.0,0,44,0,Arshdeep,3.0,0,35,1
+KKR,15,15.1,16,2,1,1,3,Venkatesh Iyer,Venkatesh Iyer,23,13,2,1,Russell,15,9,1,1,Arshdeep,2.0,0,20,0,Harpreet Brar,2.0,0,21,0
+KKR,14,14.1,14,2,2,0,0,Venkatesh Iyer,Venkatesh Iyer,17,12,2,0,Russell,7,5,1,0,Harpreet Brar,1.0,0,8,0,Chahar,4.0,0,33,1
+KKR,13,13.1,7,1,2,0,0,Russell,Venkatesh Iyer,10,8,1,0,Russell,6,3,1,0,Chahar,3.0,0,26,1,Sam Curran,3.0,0,36,1
+KKR,12,12.1,18,3,1,1,0,Russell,Salt,72,35,6,5,Venkatesh Iyer,10,7,1,0,Sam Curran,2.0,0,24,0,Harpreet Brar,1.0,0,7,0
+KKR,11,11.1,7,0,1,0,0,Venkatesh Iyer,Salt,65,33,6,4,Venkatesh Iyer,5,3,1,0,Harpreet Brar,0,0,1,0,Chahar,3.0,0,26,1
+KKR,10,10.1,7,1,1,1,1,Salt,Salt,63,31,6,4,Narine,75,31,9,4,Chahar,2.0,0,21,0,Harshal,2.0,0,37,0
+KKR,9,9.1,19,3,1,0,1,Salt,Salt,54,27,6,3,Narine,68,28,9,3,Harshal,1.0,0,22,0,Chahar,2.0,0,20,0
+KKR,8,8.1,13,2,2,0,0,Salt,Salt,48,24,5,3,Narine,63,25,8,3,Chahar,1.0,0,13,0,Rabada,2.0,0,43,0
+KKR,7,7.1,22,4,1,0,3,Salt,Salt,37,22,4,2,Narine,47,20,6,2,Rabada,1.0,0,22,0,Chahar,1.0,0,7,0
+KKR,6,6.1,7,1,2,0,0,Narine,Salt,36,21,4,2,Narine,40,16,5,2,Chahar,0,0,0,0,Arshdeep,2.0,0,19,0
+KKR,5,5.1,6,1,3,0,0,Narine,Salt,35,17,4,2,Narine,39,14,5,2,Arshdeep,1.0,0,17,0,Sam Curran,2.0,0,18,0
+KKR,4,4.1,11,2,1,0,0,Narine,Salt,25,13,2,2,Narine,34,12,4,2,Sam Curran,1.0,0,7,0,Rabada,1.0,0,21,0
+KKR,3,3.1,21,4,0,0,1,Narine,Salt,19,10,1,2,Narine,20,9,2,1,Rabada,0,0,1,0,Harshal,1.0,0,18,0
+KKR,2,2.1,18,3,1,0,0,Salt,Salt,3,6,0,0,Narine,18,7,2,1,Harshal,0,0,1,0,Arshdeep,1.0,0,13,0
+KKR,1,1.1,13,2,3,0,2,Narine,Salt,1,3,0,0,Narine,6,4,1,0,Arshdeep,0,0,0,0,Sam Curran,1.0,0,7,0
+KKR,0,0.1,7,1,3,0,0,Narine,Salt,0,1,0,0,,0,0,0,0,Sam Curran,0,0,0,0,,0,0,0,0

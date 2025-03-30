@@ -1,0 +1,41 @@
+over,innings,score,projected_score,required,CRR,RRR,fav_team,win_probability,venue,matches_played,total_runs,total_wickets,balls_bowled,average_runs_per_wicket,average_runs_per_over
+20,LSG,213/9,N/A,N/A,10.65,N/A,LSG,100.0,"M Chinnaswamy Stadium, Bengaluru",135,42577,1556,29542,27.36,8.64
+1,RCB,4/0,161,N/A,4.00,N/A,LSG,58.59,"M Chinnaswamy Stadium, Bengaluru",135,42577,1556,29542,27.36,8.64
+2,RCB,17/0,167,N/A,8.50,N/A,LSG,51.71,"M Chinnaswamy Stadium, Bengaluru",135,42577,1556,29542,27.36,8.64
+3,RCB,25/0,166,N/A,8.33,N/A,LSG,52.87,"M Chinnaswamy Stadium, Bengaluru",135,42577,1556,29542,27.36,8.64
+4,RCB,33/0,174,N/A,8.25,N/A,RCB,56.4,"M Chinnaswamy Stadium, Bengaluru",135,42577,1556,29542,27.36,8.64
+5,RCB,42/0,177,N/A,8.40,N/A,RCB,59.8,"M Chinnaswamy Stadium, Bengaluru",135,42577,1556,29542,27.36,8.64
+6,RCB,56/0,192,N/A,9.33,N/A,RCB,74.96,"M Chinnaswamy Stadium, Bengaluru",135,42577,1556,29542,27.36,8.64
+7,RCB,62/0,184,N/A,8.86,N/A,RCB,67.34,"M Chinnaswamy Stadium, Bengaluru",135,42577,1556,29542,27.36,8.64
+8,RCB,68/0,180,N/A,8.50,N/A,RCB,63.11,"M Chinnaswamy Stadium, Bengaluru",135,42577,1556,29542,27.36,8.64
+9,RCB,74/0,170,N/A,8.22,N/A,RCB,51.78,"M Chinnaswamy Stadium, Bengaluru",135,42577,1556,29542,27.36,8.64
+10,RCB,87/0,188,N/A,8.70,N/A,RCB,71.3,"M Chinnaswamy Stadium, Bengaluru",135,42577,1556,29542,27.36,8.64
+11,RCB,94/0,192,N/A,8.55,N/A,RCB,74.96,"M Chinnaswamy Stadium, Bengaluru",135,42577,1556,29542,27.36,8.64
+12,RCB,99/1,188,N/A,8.25,N/A,RCB,71.3,"M Chinnaswamy Stadium, Bengaluru",135,42577,1556,29542,27.36,8.64
+13,RCB,104/1,173,N/A,8.00,N/A,RCB,55.25,"M Chinnaswamy Stadium, Bengaluru",135,42577,1556,29542,27.36,8.64
+14,RCB,117/1,180,N/A,8.36,N/A,RCB,63.11,"M Chinnaswamy Stadium, Bengaluru",135,42577,1556,29542,27.36,8.64
+15,RCB,137/1,195,N/A,9.13,N/A,RCB,77.49,"M Chinnaswamy Stadium, Bengaluru",135,42577,1556,29542,27.36,8.64
+16,RCB,146/1,195,N/A,9.12,N/A,RCB,77.49,"M Chinnaswamy Stadium, Bengaluru",135,42577,1556,29542,27.36,8.64
+17,RCB,160/1,199,N/A,9.41,N/A,RCB,80.57,"M Chinnaswamy Stadium, Bengaluru",135,42577,1556,29542,27.36,8.64
+18,RCB,183/1,208,N/A,10.17,N/A,RCB,86.31,"M Chinnaswamy Stadium, Bengaluru",135,42577,1556,29542,27.36,8.64
+19,RCB,203/1,215,N/A,10.68,N/A,RCB,89.71,"M Chinnaswamy Stadium, Bengaluru",135,42577,1556,29542,27.36,8.64
+20,RCB,212/2,212,N/A,10.60,N/A,RCB,88.36,"M Chinnaswamy Stadium, Bengaluru",135,42577,1556,29542,27.36,8.64
+1,LSG,5/1,N/A,208 from 114,5.00,10.95,RCB,92.6,"M Chinnaswamy Stadium, Bengaluru",135,42577,1556,29542,27.36,8.64
+2,LSG,10/1,N/A,203 from 108,5.00,11.28,RCB,93.86,"M Chinnaswamy Stadium, Bengaluru",135,42577,1556,29542,27.36,8.64
+3,LSG,16/1,N/A,197 from 102,5.33,11.59,RCB,94.97,"M Chinnaswamy Stadium, Bengaluru",135,42577,1556,29542,27.36,8.64
+4,LSG,23/3,N/A,190 from 96,5.75,11.88,RCB,97.09,"M Chinnaswamy Stadium, Bengaluru",135,42577,1556,29542,27.36,8.64
+5,LSG,30/3,N/A,183 from 90,6.00,12.20,RCB,97.66,"M Chinnaswamy Stadium, Bengaluru",135,42577,1556,29542,27.36,8.64
+6,LSG,37/3,N/A,176 from 84,6.17,12.57,RCB,98.0,"M Chinnaswamy Stadium, Bengaluru",135,42577,1556,29542,27.36,8.64
+7,LSG,43/3,N/A,170 from 78,6.14,13.08,RCB,98.38,"M Chinnaswamy Stadium, Bengaluru",135,42577,1556,29542,27.36,8.64
+8,LSG,60/3,N/A,153 from 72,7.50,12.75,RCB,93.76,"M Chinnaswamy Stadium, Bengaluru",135,42577,1556,29542,27.36,8.64
+9,LSG,76/3,N/A,137 from 66,8.44,12.45,RCB,85.31,"M Chinnaswamy Stadium, Bengaluru",135,42577,1556,29542,27.36,8.64
+10,LSG,91/3,N/A,122 from 60,9.10,12.20,RCB,73.94,"M Chinnaswamy Stadium, Bengaluru",135,42577,1556,29542,27.36,8.64
+11,LSG,105/4,N/A,108 from 54,9.55,12.00,RCB,74.33,"M Chinnaswamy Stadium, Bengaluru",135,42577,1556,29542,27.36,8.64
+12,LSG,116/5,N/A,97 from 48,9.67,12.12,RCB,83.95,"M Chinnaswamy Stadium, Bengaluru",135,42577,1556,29542,27.36,8.64
+13,LSG,136/5,N/A,77 from 42,10.46,11.00,RCB,57.9,"M Chinnaswamy Stadium, Bengaluru",135,42577,1556,29542,27.36,8.64
+14,LSG,154/5,N/A,59 from 36,11.00,9.83,LSG,61.65,"M Chinnaswamy Stadium, Bengaluru",135,42577,1556,29542,27.36,8.64
+15,LSG,171/5,N/A,42 from 30,11.40,8.40,LSG,80.43,"M Chinnaswamy Stadium, Bengaluru",135,42577,1556,29542,27.36,8.64
+16,LSG,185/5,N/A,28 from 24,11.56,7.00,LSG,92.41,"M Chinnaswamy Stadium, Bengaluru",135,42577,1556,29542,27.36,8.64
+17,LSG,189/6,N/A,24 from 18,11.12,8.00,LSG,83.34,"M Chinnaswamy Stadium, Bengaluru",135,42577,1556,29542,27.36,8.64
+18,LSG,198/6,N/A,15 from 12,11.00,7.50,LSG,91.53,"M Chinnaswamy Stadium, Bengaluru",135,42577,1556,29542,27.36,8.64
+19,LSG,208/7,N/A,5 from 6,10.95,5.00,LSG,95.74,"M Chinnaswamy Stadium, Bengaluru",135,42577,1556,29542,27.36,8.64

@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+CSK,19,19.1,15,2,1,1,1,Dhoni,Conway,92,51,16,1,,0,0,0,0,Sam Curran,3.0,0,31,1,Rabada,4.0,0,34,0
+CSK,18,18.1,8,1,1,0,0,Conway,Conway,87,48,15,1,Jadeja,10,7,0,0,Rabada,3.0,0,27,0,Arshdeep,4.0,0,37,1
+CSK,17,17.1,8,0,1,0,0,Conway,Conway,85,46,15,1,Jadeja,5,3,0,0,Arshdeep,3.0,0,31,1,Chahar,4.0,0,35,1
+CSK,16,16.1,11,2,1,1,0,Conway,Conway,77,43,13,1,,0,0,0,0,Chahar,3.0,0,24,1,Sam Curran,3.0,0,31,0
+CSK,15,15.1,12,2,2,0,1,Conway,Conway,70,40,12,1,Moeen Ali,5,3,1,0,Sam Curran,2.0,0,19,0,Livingstone,1.0,0,16,0
+CSK,14,14.1,16,3,0,0,0,Conway,Conway,63,37,11,1,,0,0,0,0,Livingstone,0,0,4,0,Arshdeep,3.0,0,29,1
+CSK,13,13.1,9,1,0,1,1,Dube,Conway,57,34,10,1,Dube,27,14,1,2,Arshdeep,2.0,0,24,0,Rabada,3.0,0,26,0
+CSK,12,12.1,14,2,1,0,1,Conway,Conway,52,32,9,1,Dube,20,10,0,2,Rabada,2.0,0,18,0,Raza,3.0,0,31,1
+CSK,11,11.1,13,2,1,0,0,Conway,Conway,47,29,8,1,Dube,12,7,0,1,Raza,2.0,0,24,1,Rabada,2.0,0,12,0
+CSK,10,10.1,4,0,2,0,0,Dube,Conway,46,28,8,1,Dube,4,2,0,0,Rabada,1.0,0,9,0,Raza,2.0,0,18,1
+CSK,9,9.1,13,2,0,1,0,Dube,Gaikwad,41,30,4,1,Conway,40,25,7,1,Raza,1.0,0,9,0,Chahar,3.0,0,24,0
+CSK,8,8.1,10,1,2,0,0,Gaikwad,Gaikwad,39,27,4,1,Conway,29,22,6,0,Chahar,2.0,0,15,0,Raza,1.0,0,5,0
+CSK,7,7.1,5,1,4,0,0,Conway,Gaikwad,37,25,4,1,Conway,25,18,5,0,Raza,0,0,0,0,Chahar,2.0,0,14,0
+CSK,6,6.1,5,0,1,0,0,Gaikwad,Gaikwad,35,22,4,1,Conway,23,15,5,0,Chahar,1.0,0,10,0,Sam Curran,2.0,0,19,0
+CSK,5,5.1,16,3,0,0,1,Gaikwad,Gaikwad,28,19,3,1,Conway,14,12,3,0,Sam Curran,1.0,0,4,0,Chahar,1.0,0,9,0
+CSK,4,4.1,9,1,2,0,0,Gaikwad,Gaikwad,19,15,3,0,Conway,13,10,3,0,Chahar,0,0,0,0,Sam Curran,1.0,0,3,0
+CSK,3,3.1,3,0,3,0,0,Conway,Gaikwad,18,12,3,0,Conway,12,7,3,0,Sam Curran,0,0,1,0,Arshdeep,2.0,0,20,0
+CSK,2,2.1,13,3,2,0,0,Conway,Gaikwad,12,8,2,0,Conway,8,5,2,0,Arshdeep,1.0,0,11,0,Rabada,1.0,0,8,0
+CSK,1,1.1,9,2,3,0,1,Conway,Gaikwad,8,7,1,0,,0,0,0,0,Rabada,0,0,0,0,Arshdeep,1.0,0,7,0
+CSK,0,0.1,7,1,4,0,2,Gaikwad,Gaikwad,1,0,0,0,,0,0,0,0,Arshdeep,0,0,1,0,,0,0,0,0

@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+RCB,19,19.1,1,0,2,1,0,Siraj,Topley,3,6,0,0,Siraj,13,5,0,2,Haq,3.0,0,25,1,Ravi Bishnoi,3.0,0,33,0
+RCB,18,18.1,14,2,3,0,1,Siraj,Topley,1,4,0,0,Siraj,0,1,0,0,Ravi Bishnoi,2.0,0,19,0,Thakur,4.0,0,38,1
+RCB,17,17.1,2,0,3,1,0,Siraj,Lomror,35,12,3,3,Dagar,0,1,0,0,Thakur,3.0,0,37,0,Haq,3.0,0,24,1
+RCB,16,16.1,13,2,1,1,2,Dagar,Lomror,23,8,2,2,Karthik,4,7,0,0,Haq,2.0,0,13,0,Thakur,3.0,0,36,0
+RCB,15,15.1,19,3,0,0,0,Karthik,Lomror,6,4,1,0,Karthik,2,5,0,0,Thakur,2.0,0,18,0,Yadav,4.0,1,14,4
+RCB,14,14.1,1,0,4,1,0,Karthik,Patidar,29,20,2,2,Lomror,6,4,1,0,Yadav,3.0,0,13,3,Thakur,2.0,0,17,0
+RCB,13,13.1,9,1,0,0,1,Patidar,Patidar,27,17,2,2,Lomror,0,1,0,0,Thakur,1.0,0,10,0,Stoinis,1.0,0,9,1
+RCB,12,12.1,9,0,2,1,1,Lomror,Patidar,25,15,2,2,Rawat,10,18,0,0,Stoinis,0,0,1,0,Ravi Bishnoi,2.0,0,19,0
+RCB,11,11.1,13,2,1,0,0,Patidar,Patidar,14,12,1,1,Rawat,7,15,0,0,Ravi Bishnoi,1.0,0,6,0,Thakur,1.0,0,9,0
+RCB,10,10.1,9,1,2,0,0,Rawat,Patidar,7,10,1,0,Rawat,5,11,0,0,Thakur,0,0,0,0,Yadav,3.0,0,13,3
+RCB,9,9.1,3,0,4,0,0,Patidar,Patidar,7,8,1,0,Rawat,2,7,0,0,Yadav,2.0,0,10,3,Haq,2.0,0,12,0
+RCB,8,8.1,1,0,5,0,0,Patidar,Patidar,7,6,1,0,Rawat,1,3,0,0,Haq,1.0,0,11,0,Yadav,2.0,0,10,3
+RCB,7,7.1,5,1,3,1,1,Rawat,Patidar,7,6,1,0,Green,6,6,0,0,Yadav,1.0,0,6,2,Ravi Bishnoi,1.0,0,6,0
+RCB,6,6.1,6,0,2,0,1,Green,Patidar,6,4,1,0,Green,3,2,0,0,Ravi Bishnoi,0,0,2,0,Yadav,1.0,0,6,2
+RCB,5,5.1,6,1,1,2,0,Patidar,Patidar,1,2,0,0,,0,0,0,0,Yadav,0,0,0,1,Siddharth,3.0,0,21,1
+RCB,4,4.1,6,1,2,1,0,du Plessis,Kohli,22,15,2,1,du Plessis,18,10,3,0,Siddharth,2.0,0,19,0,Haq,1.0,0,11,0
+RCB,3,3.1,11,2,3,0,0,du Plessis,Kohli,11,11,1,0,du Plessis,14,8,2,0,Haq,0,0,0,0,Siddharth,2.0,0,15,0
+RCB,2,2.1,12,2,1,0,0,du Plessis,Kohli,10,8,1,0,du Plessis,4,5,0,0,Siddharth,1.0,0,4,0,Krunal,1.0,0,10,0
+RCB,1,1.1,10,1,0,0,0,du Plessis,Kohli,4,5,0,0,du Plessis,1,2,0,0,Krunal,0,0,2,0,Siddharth,1.0,0,3,0
+RCB,0,0.1,3,0,3,0,0,Kohli,Kohli,0,1,0,0,,0,0,0,0,Siddharth,0,0,0,0,,0,0,0,0

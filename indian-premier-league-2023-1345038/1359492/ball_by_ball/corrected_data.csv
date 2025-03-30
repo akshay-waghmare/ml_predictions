@@ -1,0 +1,41 @@
+over,innings,score,projected_score,required,CRR,RRR,fav_team,win_probability,venue,matches_played,total_runs,total_wickets,balls_bowled,average_runs_per_wicket,average_runs_per_over
+20,GT,154/4,N/A,N/A,7.70,N/A,GT,100.0,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",127,40331,1483,29130,27.19,8.30
+1,PBKS,8/1,165,N/A,8.00,N/A,GT,50.97,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",127,40331,1483,29130,27.19,8.30
+2,PBKS,16/1,164,N/A,8.00,N/A,GT,52.13,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",127,40331,1483,29130,27.19,8.30
+3,PBKS,27/1,170,N/A,9.00,N/A,PBKS,54.8,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",127,40331,1483,29130,27.19,8.30
+4,PBKS,30/2,161,N/A,7.50,N/A,GT,55.58,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",127,40331,1483,29130,27.19,8.30
+5,PBKS,42/2,165,N/A,8.40,N/A,GT,50.97,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",127,40331,1483,29130,27.19,8.30
+6,PBKS,52/2,169,N/A,8.67,N/A,PBKS,53.65,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",127,40331,1483,29130,27.19,8.30
+7,PBKS,59/3,174,N/A,8.43,N/A,PBKS,59.33,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",127,40331,1483,29130,27.19,8.30
+8,PBKS,63/3,167,N/A,7.88,N/A,PBKS,51.34,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",127,40331,1483,29130,27.19,8.30
+9,PBKS,71/3,162,N/A,7.89,N/A,GT,54.43,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",127,40331,1483,29130,27.19,8.30
+10,PBKS,75/3,157,N/A,7.50,N/A,GT,60.09,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",127,40331,1483,29130,27.19,8.30
+11,PBKS,81/3,155,N/A,7.36,N/A,GT,62.29,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",127,40331,1483,29130,27.19,8.30
+12,PBKS,91/3,161,N/A,7.58,N/A,GT,55.58,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",127,40331,1483,29130,27.19,8.30
+13,PBKS,94/4,155,N/A,7.23,N/A,GT,62.29,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",127,40331,1483,29130,27.19,8.30
+14,PBKS,96/4,149,N/A,6.86,N/A,GT,68.56,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",127,40331,1483,29130,27.19,8.30
+15,PBKS,99/4,141,N/A,6.60,N/A,GT,75.94,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",127,40331,1483,29130,27.19,8.30
+16,PBKS,109/4,145,N/A,6.81,N/A,GT,72.4,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",127,40331,1483,29130,27.19,8.30
+17,PBKS,121/5,150,N/A,7.12,N/A,GT,67.55,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",127,40331,1483,29130,27.19,8.30
+18,PBKS,136/5,157,N/A,7.56,N/A,GT,60.09,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",127,40331,1483,29130,27.19,8.30
+19,PBKS,142/6,153,N/A,7.47,N/A,GT,64.44,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",127,40331,1483,29130,27.19,8.30
+20,PBKS,153/8,153,N/A,7.65,N/A,GT,64.44,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",127,40331,1483,29130,27.19,8.30
+1,GT,7/0,N/A,147 from 114,7.00,7.74,GT,65.24,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",127,40331,1483,29130,27.19,8.30
+2,GT,18/0,N/A,136 from 108,9.00,7.56,GT,69.96,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",127,40331,1483,29130,27.19,8.30
+3,GT,36/0,N/A,118 from 102,12.00,6.94,GT,84.03,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",127,40331,1483,29130,27.19,8.30
+4,GT,44/0,N/A,110 from 96,11.00,6.88,GT,87.1,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",127,40331,1483,29130,27.19,8.30
+5,GT,52/1,N/A,102 from 90,10.40,6.80,GT,87.73,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",127,40331,1483,29130,27.19,8.30
+6,GT,56/1,N/A,98 from 84,9.33,7.00,GT,82.53,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",127,40331,1483,29130,27.19,8.30
+7,GT,61/1,N/A,93 from 78,8.71,7.15,GT,82.41,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",127,40331,1483,29130,27.19,8.30
+8,GT,67/1,N/A,87 from 72,8.38,7.25,GT,81.71,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",127,40331,1483,29130,27.19,8.30
+9,GT,78/1,N/A,76 from 66,8.67,6.91,GT,88.06,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",127,40331,1483,29130,27.19,8.30
+10,GT,80/1,N/A,74 from 60,8.00,7.40,GT,84.72,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",127,40331,1483,29130,27.19,8.30
+11,GT,88/1,N/A,66 from 54,8.00,7.33,GT,90.46,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",127,40331,1483,29130,27.19,8.30
+12,GT,91/2,N/A,63 from 48,7.58,7.88,GT,80.89,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",127,40331,1483,29130,27.19,8.30
+13,GT,95/2,N/A,59 from 42,7.31,8.43,GT,75.81,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",127,40331,1483,29130,27.19,8.30
+14,GT,105/2,N/A,49 from 36,7.50,8.17,GT,79.67,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",127,40331,1483,29130,27.19,8.30
+15,GT,111/3,N/A,43 from 30,7.40,8.60,GT,80.24,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",127,40331,1483,29130,27.19,8.30
+16,GT,120/3,N/A,34 from 24,7.50,8.50,GT,87.02,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",127,40331,1483,29130,27.19,8.30
+17,GT,129/3,N/A,25 from 18,7.59,8.33,GT,90.41,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",127,40331,1483,29130,27.19,8.30
+18,GT,141/3,N/A,13 from 12,7.83,6.50,GT,97.23,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",127,40331,1483,29130,27.19,8.30
+19,GT,147/3,N/A,7 from 6,7.74,7.00,GT,97.35,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",127,40331,1483,29130,27.19,8.30

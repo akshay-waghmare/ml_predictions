@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+GT,19,19.1,14,3,3,0,0,Rashid Khan,Rashid Khan,13,6,2,0,,0,0,0,0,Mukesh Kumar,3.0,0,31,1,Rasikh Salam,4.0,0,44,3
+GT,18,18.1,18,3,1,1,1,Sai Kishore,Rashid Khan,4,3,0,0,Sai Kishore,5,2,1,0,Rasikh Salam,3.0,0,27,2,Mukesh Kumar,3.0,0,27,1
+GT,17,17.1,12,2,0,1,2,Sai Kishore,Miller,51,21,5,3,Rashid Khan,1,1,0,0,Mukesh Kumar,2.0,0,20,0,Nortje,3.0,0,48,1
+GT,16,16.1,24,4,1,0,0,Miller,Miller,31,16,5,0,,0,0,0,0,Nortje,2.0,0,28,1,Kuldeep,4.0,0,29,2
+GT,15,15.1,5,0,0,1,0,Tewatia,Miller,25,13,4,0,Tewatia,2,2,0,0,Kuldeep,3.0,0,25,1,Rasikh Salam,3.0,0,26,2
+GT,14,14.1,8,1,0,1,0,Miller,Miller,18,9,3,0,,0,0,0,0,Rasikh Salam,2.0,0,18,2,Mukesh Kumar,2.0,0,19,0
+GT,13,13.1,12,2,0,0,0,Miller,Miller,9,6,1,0,Shahrukh Khan,6,2,0,1,Mukesh Kumar,1.0,0,8,0,Rasikh Salam,2.0,0,18,1
+GT,12,12.1,8,1,2,1,0,Shahrukh Khan,B Sai Sudharsan,64,37,7,2,Miller,7,4,1,0,Rasikh Salam,1.0,0,10,0,Kuldeep,3.0,0,24,1
+GT,11,11.1,10,1,1,0,0,B Sai Sudharsan,B Sai Sudharsan,59,32,7,2,Miller,6,3,1,0,Kuldeep,2.0,0,18,1,Axar Patel,3.0,0,28,1
+GT,10,10.1,11,1,0,1,0,B Sai Sudharsan,B Sai Sudharsan,50,29,7,1,,0,0,0,0,Axar Patel,2.0,0,17,1,Kuldeep,2.0,0,14,1
+GT,9,9.1,6,0,0,1,0,B Sai Sudharsan,Saha,40,23,5,1,B Sai Sudharsan,47,27,7,1,Kuldeep,1.0,0,9,0,Axar Patel,2.0,0,17,0
+GT,8,8.1,13,2,0,0,0,B Sai Sudharsan,Saha,39,22,5,1,B Sai Sudharsan,35,22,5,1,Axar Patel,1.0,0,5,0,Kuldeep,1.0,0,8,0
+GT,7,7.1,8,1,2,0,1,B Sai Sudharsan,Saha,37,20,5,1,B Sai Sudharsan,28,18,4,1,Kuldeep,0,0,0,0,Axar Patel,1.0,0,4,0
+GT,6,6.1,4,0,3,0,0,Saha,Saha,35,16,5,1,B Sai Sudharsan,27,16,4,1,Axar Patel,0,0,1,0,Mukesh Kumar,1.0,0,7,0
+GT,5,5.1,7,1,2,0,0,B Sai Sudharsan,Saha,32,13,5,1,B Sai Sudharsan,22,13,3,1,Mukesh Kumar,0,0,0,0,Rasikh Salam,1.0,0,10,0
+GT,4,4.1,10,2,2,0,0,Saha,Saha,27,10,4,1,B Sai Sudharsan,17,10,2,1,Rasikh Salam,0,0,0,0,Nortje,2.0,0,24,1
+GT,3,3.1,9,2,3,0,0,B Sai Sudharsan,Saha,27,10,4,1,B Sai Sudharsan,8,4,0,1,Nortje,1.0,0,15,1,Khaleel Ahmed,2.0,0,26,0
+GT,2,2.1,17,3,1,0,0,Saha,Saha,11,5,2,0,B Sai Sudharsan,8,3,0,1,Khaleel Ahmed,1.0,0,10,0,Nortje,1.0,0,15,1
+GT,1,1.1,15,3,1,1,0,Saha,Saha,7,4,1,0,Gill,6,3,1,0,Nortje,0,0,4,0,Khaleel Ahmed,1.0,0,9,0
+GT,0,0.1,9,1,1,0,1,Gill,Saha,4,1,1,0,,0,0,0,0,Khaleel Ahmed,0,0,4,0,,0,0,0,0

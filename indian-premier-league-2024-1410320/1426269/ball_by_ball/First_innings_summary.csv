@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+RR,19,19.1,9,1,3,0,0,Buttler,Buttler,115,55,9,6,Boult,0,1,0,0,Varun,3.0,0,33,2,Harshit Rana,4.0,0,45,2
+RR,18,18.1,19,3,1,0,0,Buttler,Buttler,96,49,8,4,Boult,0,1,0,0,Harshit Rana,3.0,0,32,2,Starc,4.0,0,50,0
+RR,17,17.1,18,2,2,0,2,Buttler,Buttler,78,43,7,3,Boult,0,1,0,0,Starc,3.0,0,38,0,Narine,4.0,0,30,2
+RR,16,16.1,16,3,2,1,0,Boult,Buttler,72,42,7,2,Powell,14,9,1,1,Narine,3.0,0,18,1,Russell,1.0,0,17,0
+RR,15,15.1,17,2,0,0,0,Buttler,Buttler,63,39,7,1,Powell,8,6,0,1,Russell,0,0,6,0,Varun,3.0,0,27,2
+RR,14,14.1,17,4,2,0,1,Buttler,Buttler,46,34,3,1,Powell,2,5,0,0,Varun,2.0,0,10,2,Narine,3.0,0,14,1
+RR,13,13.1,3,0,3,0,0,Powell,Buttler,45,31,3,1,Powell,1,2,0,0,Narine,2.0,0,12,1,Varun,2.0,0,10,2
+RR,12,12.1,4,0,1,2,0,Powell,Buttler,41,28,3,1,,0,0,0,0,Varun,1.0,0,6,1,Harshit Rana,3.0,0,26,2
+RR,11,11.1,6,0,1,0,0,Buttler,Buttler,38,26,3,1,Ashwin,7,7,1,0,Harshit Rana,2.0,0,21,2,Varun,1.0,0,6,0
+RR,10,10.1,6,1,3,0,0,Ashwin,Buttler,36,22,3,1,Ashwin,2,5,0,0,Varun,0,0,0,0,Starc,3.0,0,32,0
+RR,9,9.1,8,1,2,0,0,Buttler,Buttler,33,19,3,1,Ashwin,1,2,0,0,Starc,2.0,0,28,0,Narine,2.0,0,11,1
+RR,8,8.1,3,0,3,1,1,Ashwin,Buttler,28,17,2,1,Jurel,2,2,0,0,Narine,1.0,0,9,0,Harshit Rana,2.0,0,20,2
+RR,7,7.1,13,2,0,1,0,Jurel,Buttler,27,16,2,1,Parag,32,11,3,2,Harshit Rana,1.0,0,13,1,Narine,1.0,0,8,0
+RR,6,6.1,9,0,1,0,2,Buttler,Buttler,24,13,2,1,Parag,21,8,3,1,Narine,0,0,1,0,Arora,3.0,0,45,1
+RR,5,5.1,23,4,0,0,1,Parag,Buttler,15,9,2,0,Parag,10,5,2,0,Arora,2.0,0,26,1,Harshit Rana,1.0,0,7,1
+RR,4,4.1,7,1,2,1,1,Parag,Buttler,15,9,2,0,Samson,12,7,2,0,Harshit Rana,0,0,1,0,Arora,2.0,0,22,1
+RR,3,3.1,10,2,2,0,0,Samson,Buttler,13,6,2,0,Samson,7,4,1,0,Arora,1.0,0,16,1,Starc,2.0,0,24,0
+RR,2,2.1,13,2,1,0,2,Samson,Buttler,2,2,0,0,Samson,2,2,0,0,Starc,1.0,0,12,0,Arora,1.0,0,12,1
+RR,1,1.1,12,2,1,1,0,Samson,Jaiswal,10,5,2,0,Buttler,2,2,0,0,Arora,0,0,1,0,Starc,1.0,0,11,0
+RR,0,0.1,11,2,2,0,1,Jaiswal,Jaiswal,1,0,0,0,,0,0,0,0,Starc,0,0,1,0,,0,0,0,0

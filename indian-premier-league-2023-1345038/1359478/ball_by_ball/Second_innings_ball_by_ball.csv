@@ -1,0 +1,123 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+RR,19,19.6,2,0,0,0,0,Hetmyer,Hetmyer,22,16,1,1,Ashwin,5,2,1,0,Fazalhaq Farooqi,4.0,0,41,2,Natarajan,3.0,0,23,2
+RR,19,19.5,4,1,0,0,0,Hetmyer,Hetmyer,20,15,1,1,Ashwin,5,2,1,0,Fazalhaq Farooqi,3.0,0,39,2,Natarajan,3.0,0,23,2
+RR,19,19.4,2,0,0,0,0,Hetmyer,Hetmyer,16,14,0,1,Ashwin,5,2,1,0,Fazalhaq Farooqi,3.0,0,35,2,Natarajan,3.0,0,23,2
+RR,19,19.3,0,0,1,0,0,Hetmyer,Hetmyer,14,13,0,1,Ashwin,5,2,1,0,Fazalhaq Farooqi,3.0,0,33,2,Natarajan,3.0,0,23,2
+RR,19,19.2,0,0,1,0,0,Hetmyer,Hetmyer,14,12,0,1,Ashwin,5,2,1,0,Fazalhaq Farooqi,3.0,0,33,2,Natarajan,3.0,0,23,2
+RR,19,19.1,2,0,0,0,0,Hetmyer,Hetmyer,14,11,0,1,Ashwin,5,2,1,0,Fazalhaq Farooqi,3.0,0,33,2,Natarajan,3.0,0,23,2
+RR,18,18.6,1,0,0,0,0,Hetmyer,Hetmyer,12,10,0,1,Ashwin,5,2,1,0,Natarajan,3.0,0,23,2,Bhuvneshwar,3.0,0,36,0
+RR,18,18.5,1,0,0,0,0,Ashwin,Hetmyer,11,9,0,1,Ashwin,5,2,1,0,Natarajan,2.0,0,22,2,Bhuvneshwar,3.0,0,36,0
+RR,18,18.4,4,1,0,0,1,Ashwin,Hetmyer,11,9,0,1,Ashwin,4,1,1,0,Natarajan,2.0,0,21,2,Bhuvneshwar,3.0,0,36,0
+RR,18,18.3,0,0,0,1,0,Samson,Hetmyer,11,9,0,1,,0,0,0,0,Natarajan,2.0,0,21,2,Bhuvneshwar,3.0,0,36,0
+RR,18,18.2,1,0,0,0,0,Hetmyer,Samson,56,31,3,4,Hetmyer,11,9,0,1,Natarajan,2.0,0,21,1,Bhuvneshwar,3.0,0,36,0
+RR,18,18.1,0,0,1,0,0,Hetmyer,Samson,56,31,3,4,Hetmyer,10,8,0,1,Natarajan,2.0,0,20,1,Bhuvneshwar,3.0,0,36,0
+RR,17,17.6,4,1,0,0,0,Samson,Samson,56,31,3,4,Hetmyer,10,7,0,1,Bhuvneshwar,3.0,0,36,0,Natarajan,2.0,0,20,1
+RR,17,17.5,1,0,0,0,0,Hetmyer,Samson,52,30,2,4,Hetmyer,10,7,0,1,Bhuvneshwar,2.0,0,32,0,Natarajan,2.0,0,20,1
+RR,17,17.4,0,0,1,0,0,Hetmyer,Samson,52,30,2,4,Hetmyer,9,6,0,1,Bhuvneshwar,2.0,0,31,0,Natarajan,2.0,0,20,1
+RR,17,17.3,6,1,0,0,0,Hetmyer,Samson,52,30,2,4,Hetmyer,9,5,0,1,Bhuvneshwar,2.0,0,31,0,Natarajan,2.0,0,20,1
+RR,17,17.2,1,0,0,0,0,Samson,Samson,52,30,2,4,Hetmyer,3,4,0,0,Bhuvneshwar,2.0,0,25,0,Natarajan,2.0,0,20,1
+RR,17,17.1,1,0,0,0,0,Hetmyer,Samson,51,29,2,4,Hetmyer,3,4,0,0,Bhuvneshwar,2.0,0,24,0,Natarajan,2.0,0,20,1
+RR,16,16.6,0,0,1,0,0,Samson,Samson,51,29,2,4,Hetmyer,2,3,0,0,Natarajan,2.0,0,20,1,Rashid,4.0,0,33,0
+RR,16,16.5,1,0,0,0,0,Hetmyer,Samson,51,28,2,4,Hetmyer,2,3,0,0,Natarajan,1.0,0,20,1,Rashid,4.0,0,33,0
+RR,16,16.4,0,0,1,0,0,Hetmyer,Samson,51,28,2,4,Hetmyer,1,2,0,0,Natarajan,1.0,0,19,1,Rashid,4.0,0,33,0
+RR,16,16.3,1,0,0,0,0,Samson,Samson,51,28,2,4,Hetmyer,1,1,0,0,Natarajan,1.0,0,19,1,Rashid,4.0,0,33,0
+RR,16,16.2,1,0,0,0,0,Hetmyer,Samson,50,27,2,4,Hetmyer,1,1,0,0,Natarajan,1.0,0,18,1,Rashid,4.0,0,33,0
+RR,16,16.1,0,0,0,1,0,Parag,Samson,50,27,2,4,,0,0,0,0,Natarajan,1.0,0,17,1,Rashid,4.0,0,33,0
+RR,15,15.6,1,0,0,0,0,Parag,Samson,50,27,2,4,Parag,8,5,1,0,Rashid,4.0,0,33,0,Umran Malik,3.0,0,32,1
+RR,15,15.5,1,0,0,0,0,Samson,Samson,50,27,2,4,Parag,7,4,1,0,Rashid,3.0,0,32,0,Umran Malik,3.0,0,32,1
+RR,15,15.4,0,0,1,0,0,Samson,Samson,49,26,2,4,Parag,7,4,1,0,Rashid,3.0,0,31,0,Umran Malik,3.0,0,32,1
+RR,15,15.3,1,0,0,0,0,Parag,Samson,49,25,2,4,Parag,7,4,1,0,Rashid,3.0,0,31,0,Umran Malik,3.0,0,32,1
+RR,15,15.2,1,0,0,0,0,Samson,Samson,49,25,2,4,Parag,6,3,1,0,Rashid,3.0,0,30,0,Umran Malik,3.0,0,32,1
+RR,15,15.1,6,1,0,0,0,Samson,Samson,48,24,2,4,Parag,6,3,1,0,Rashid,3.0,0,29,0,Umran Malik,3.0,0,32,1
+RR,14,14.6,1,0,0,0,0,Samson,Samson,42,23,2,3,Parag,6,3,1,0,Umran Malik,3.0,0,32,1,Sundar,3.0,0,32,0
+RR,14,14.5,1,0,0,0,0,Parag,Samson,41,22,2,3,Parag,6,3,1,0,Umran Malik,2.0,0,31,1,Sundar,3.0,0,32,0
+RR,14,14.4,1,0,0,0,0,Samson,Samson,41,22,2,3,Parag,5,2,1,0,Umran Malik,2.0,0,30,1,Sundar,3.0,0,32,0
+RR,14,14.4,1,0,0,0,1,Samson,Samson,40,21,2,3,Parag,5,2,1,0,Umran Malik,2.0,0,29,1,Sundar,3.0,0,32,0
+RR,14,14.3,1,0,0,0,1,Parag,Samson,39,21,2,3,Parag,5,2,1,0,Umran Malik,2.0,0,28,1,Sundar,3.0,0,32,0
+RR,14,14.2,4,1,0,0,0,Parag,Samson,39,21,2,3,Parag,4,1,1,0,Umran Malik,2.0,0,28,1,Sundar,3.0,0,32,0
+RR,14,14.1,0,0,0,1,0,Padikkal,Samson,39,21,2,3,,0,0,0,0,Umran Malik,2.0,0,24,1,Sundar,3.0,0,32,0
+RR,13,13.6,1,0,0,0,0,Padikkal,Samson,39,21,2,3,Padikkal,3,4,0,0,Sundar,3.0,0,32,0,Fazalhaq Farooqi,3.0,0,31,2
+RR,13,13.5,1,0,0,0,0,Samson,Samson,39,21,2,3,Padikkal,2,3,0,0,Sundar,2.0,0,31,0,Fazalhaq Farooqi,3.0,0,31,2
+RR,13,13.4,0,0,1,0,0,Samson,Samson,38,20,2,3,Padikkal,2,3,0,0,Sundar,2.0,0,30,0,Fazalhaq Farooqi,3.0,0,31,2
+RR,13,13.3,1,0,0,0,0,Padikkal,Samson,38,19,2,3,Padikkal,2,3,0,0,Sundar,2.0,0,30,0,Fazalhaq Farooqi,3.0,0,31,2
+RR,13,13.2,1,0,0,0,0,Samson,Samson,38,19,2,3,Padikkal,1,2,0,0,Sundar,2.0,0,29,0,Fazalhaq Farooqi,3.0,0,31,2
+RR,13,13.1,6,1,0,0,0,Samson,Samson,37,18,2,3,Padikkal,1,2,0,0,Sundar,2.0,0,28,0,Fazalhaq Farooqi,3.0,0,31,2
+RR,12,12.6,0,0,1,0,0,Padikkal,Samson,31,17,2,2,Padikkal,1,2,0,0,Fazalhaq Farooqi,3.0,0,31,2,Sundar,2.0,0,22,0
+RR,12,12.5,1,0,0,0,0,Samson,Samson,31,17,2,2,Padikkal,1,1,0,0,Fazalhaq Farooqi,2.0,0,31,2,Sundar,2.0,0,22,0
+RR,12,12.4,1,0,0,0,1,Padikkal,Samson,30,16,2,2,Padikkal,1,1,0,0,Fazalhaq Farooqi,2.0,0,30,2,Sundar,2.0,0,22,0
+RR,12,12.3,0,0,0,1,0,Jaiswal,Samson,30,16,2,2,,0,0,0,0,Fazalhaq Farooqi,2.0,0,30,2,Sundar,2.0,0,22,0
+RR,12,12.2,0,0,1,0,0,Jaiswal,Jaiswal,55,36,9,0,Samson,30,16,2,2,Fazalhaq Farooqi,2.0,0,30,1,Sundar,2.0,0,22,0
+RR,12,12.1,4,1,0,0,0,Jaiswal,Jaiswal,55,35,9,0,Samson,30,16,2,2,Fazalhaq Farooqi,2.0,0,30,1,Sundar,2.0,0,22,0
+RR,11,11.6,0,0,1,0,0,Samson,Jaiswal,51,34,8,0,Samson,30,16,2,2,Sundar,2.0,0,22,0,Rashid,3.0,0,23,0
+RR,11,11.5,1,0,0,0,0,Jaiswal,Jaiswal,51,34,8,0,Samson,30,15,2,2,Sundar,1.0,0,22,0,Rashid,3.0,0,23,0
+RR,11,11.4,0,0,1,0,0,Jaiswal,Jaiswal,50,33,8,0,Samson,30,15,2,2,Sundar,1.0,0,21,0,Rashid,3.0,0,23,0
+RR,11,11.3,0,0,1,0,0,Jaiswal,Jaiswal,50,32,8,0,Samson,30,15,2,2,Sundar,1.0,0,21,0,Rashid,3.0,0,23,0
+RR,11,11.2,1,0,0,0,0,Samson,Jaiswal,50,31,8,0,Samson,30,15,2,2,Sundar,1.0,0,21,0,Rashid,3.0,0,23,0
+RR,11,11.1,1,0,0,0,0,Jaiswal,Jaiswal,50,31,8,0,Samson,29,14,2,2,Sundar,1.0,0,20,0,Rashid,3.0,0,23,0
+RR,10,10.6,1,0,0,0,0,Jaiswal,Jaiswal,49,30,8,0,Samson,29,14,2,2,Rashid,3.0,0,23,0,Umran Malik,2.0,0,24,0
+RR,10,10.5,0,0,1,0,0,Jaiswal,Jaiswal,48,29,8,0,Samson,29,14,2,2,Rashid,2.0,0,22,0,Umran Malik,2.0,0,24,0
+RR,10,10.4,1,0,0,0,0,Samson,Jaiswal,48,28,8,0,Samson,29,14,2,2,Rashid,2.0,0,22,0,Umran Malik,2.0,0,24,0
+RR,10,10.3,1,0,0,0,0,Jaiswal,Jaiswal,48,28,8,0,Samson,28,13,2,2,Rashid,2.0,0,21,0,Umran Malik,2.0,0,24,0
+RR,10,10.2,1,0,0,0,0,Samson,Jaiswal,47,27,8,0,Samson,28,13,2,2,Rashid,2.0,0,20,0,Umran Malik,2.0,0,24,0
+RR,10,10.1,6,1,0,0,0,Samson,Jaiswal,47,27,8,0,Samson,27,12,2,2,Rashid,2.0,0,19,0,Umran Malik,2.0,0,24,0
+RR,9,9.6,0,0,1,0,0,Jaiswal,Jaiswal,47,27,8,0,Samson,21,11,2,1,Umran Malik,2.0,0,24,0,Rashid,2.0,0,13,0
+RR,9,9.5,1,0,0,0,0,Samson,Jaiswal,47,26,8,0,Samson,21,11,2,1,Umran Malik,1.0,0,24,0,Rashid,2.0,0,13,0
+RR,9,9.4,6,1,0,0,0,Samson,Jaiswal,47,26,8,0,Samson,20,10,2,1,Umran Malik,1.0,0,23,0,Rashid,2.0,0,13,0
+RR,9,9.3,1,0,0,0,0,Jaiswal,Jaiswal,47,26,8,0,Samson,14,9,2,0,Umran Malik,1.0,0,17,0,Rashid,2.0,0,13,0
+RR,9,9.2,0,0,1,0,0,Jaiswal,Jaiswal,46,25,8,0,Samson,14,9,2,0,Umran Malik,1.0,0,16,0,Rashid,2.0,0,13,0
+RR,9,9.1,4,1,0,0,0,Jaiswal,Jaiswal,46,24,8,0,Samson,14,9,2,0,Umran Malik,1.0,0,16,0,Rashid,2.0,0,13,0
+RR,8,8.6,1,0,0,0,0,Jaiswal,Jaiswal,42,23,7,0,Samson,14,9,2,0,Rashid,2.0,0,13,0,Umran Malik,1.0,0,12,0
+RR,8,8.5,1,0,0,0,0,Samson,Jaiswal,41,22,7,0,Samson,14,9,2,0,Rashid,1.0,0,12,0,Umran Malik,1.0,0,12,0
+RR,8,8.4,2,0,0,0,0,Samson,Jaiswal,41,22,7,0,Samson,13,8,2,0,Rashid,1.0,0,11,0,Umran Malik,1.0,0,12,0
+RR,8,8.3,0,0,1,0,0,Samson,Jaiswal,41,22,7,0,Samson,11,7,2,0,Rashid,1.0,0,9,0,Umran Malik,1.0,0,12,0
+RR,8,8.2,1,0,0,0,0,Jaiswal,Jaiswal,41,22,7,0,Samson,11,6,2,0,Rashid,1.0,0,9,0,Umran Malik,1.0,0,12,0
+RR,8,8.1,0,0,1,0,0,Jaiswal,Jaiswal,40,21,7,0,Samson,11,6,2,0,Rashid,1.0,0,8,0,Umran Malik,1.0,0,12,0
+RR,7,7.6,1,0,0,0,0,Jaiswal,Jaiswal,40,20,7,0,Samson,11,6,2,0,Umran Malik,1.0,0,12,0,Rashid,1.0,0,8,0
+RR,7,7.5,1,0,0,0,0,Samson,Jaiswal,39,19,7,0,Samson,11,6,2,0,Umran Malik,0,0,11,0,Rashid,1.0,0,8,0
+RR,7,7.4,4,1,0,0,0,Samson,Jaiswal,39,19,7,0,Samson,10,5,2,0,Umran Malik,0,0,10,0,Rashid,1.0,0,8,0
+RR,7,7.3,4,1,0,0,0,Samson,Jaiswal,39,19,7,0,Samson,6,4,1,0,Umran Malik,0,0,6,0,Rashid,1.0,0,8,0
+RR,7,7.2,1,0,0,0,0,Jaiswal,Jaiswal,39,19,7,0,Samson,2,3,0,0,Umran Malik,0,0,2,0,Rashid,1.0,0,8,0
+RR,7,7.1,1,0,0,0,0,Samson,Jaiswal,38,18,7,0,Samson,2,3,0,0,Umran Malik,0,0,1,0,Rashid,1.0,0,8,0
+RR,6,6.6,4,1,0,0,0,Jaiswal,Jaiswal,38,18,7,0,Samson,1,2,0,0,Rashid,1.0,0,8,0,Fazalhaq Farooqi,2.0,0,26,1
+RR,6,6.5,1,0,0,0,0,Samson,Jaiswal,34,17,6,0,Samson,1,2,0,0,Rashid,0,0,4,0,Fazalhaq Farooqi,2.0,0,26,1
+RR,6,6.4,1,0,0,0,0,Jaiswal,Jaiswal,34,17,6,0,Samson,0,1,0,0,Rashid,0,0,3,0,Fazalhaq Farooqi,2.0,0,26,1
+RR,6,6.3,0,0,1,0,0,Jaiswal,Jaiswal,33,16,6,0,Samson,0,1,0,0,Rashid,0,0,2,0,Fazalhaq Farooqi,2.0,0,26,1
+RR,6,6.2,0,0,1,0,0,Jaiswal,Jaiswal,33,15,6,0,Samson,0,1,0,0,Rashid,0,0,2,0,Fazalhaq Farooqi,2.0,0,26,1
+RR,6,6.1,2,0,0,0,0,Jaiswal,Jaiswal,33,14,6,0,Samson,0,1,0,0,Rashid,0,0,2,0,Fazalhaq Farooqi,2.0,0,26,1
+RR,5,5.6,0,0,1,0,0,Samson,Jaiswal,31,13,6,0,Samson,0,1,0,0,Fazalhaq Farooqi,2.0,0,26,1,Natarajan,1.0,0,17,0
+RR,5,5.5,0,0,0,1,0,Buttler,Jaiswal,31,13,6,0,,0,0,0,0,Fazalhaq Farooqi,1.0,0,26,1,Natarajan,1.0,0,17,0
+RR,5,5.4,4,1,0,0,0,Buttler,Jaiswal,31,13,6,0,Buttler,54,21,7,3,Fazalhaq Farooqi,1.0,0,26,0,Natarajan,1.0,0,17,0
+RR,5,5.3,4,1,0,0,0,Buttler,Jaiswal,31,13,6,0,Buttler,50,20,6,3,Fazalhaq Farooqi,1.0,0,22,0,Natarajan,1.0,0,17,0
+RR,5,5.2,0,0,1,0,0,Buttler,Jaiswal,31,13,6,0,Buttler,46,19,5,3,Fazalhaq Farooqi,1.0,0,18,0,Natarajan,1.0,0,17,0
+RR,5,5.1,4,1,0,0,0,Buttler,Jaiswal,31,13,6,0,Buttler,46,18,5,3,Fazalhaq Farooqi,1.0,0,18,0,Natarajan,1.0,0,17,0
+RR,4,4.6,1,0,0,0,0,Buttler,Jaiswal,31,13,6,0,Buttler,42,17,4,3,Natarajan,1.0,0,17,0,Sundar,1.0,0,19,0
+RR,4,4.5,4,1,0,0,0,Buttler,Jaiswal,31,13,6,0,Buttler,41,16,4,3,Natarajan,0,0,16,0,Sundar,1.0,0,19,0
+RR,4,4.4,4,1,0,0,0,Buttler,Jaiswal,31,13,6,0,Buttler,37,15,3,3,Natarajan,0,0,12,0,Sundar,1.0,0,19,0
+RR,4,4.3,4,1,0,0,0,Buttler,Jaiswal,31,13,6,0,Buttler,33,14,2,3,Natarajan,0,0,8,0,Sundar,1.0,0,19,0
+RR,4,4.2,0,0,1,0,0,Buttler,Jaiswal,31,13,6,0,Buttler,29,13,1,3,Natarajan,0,0,4,0,Sundar,1.0,0,19,0
+RR,4,4.1,4,1,0,0,0,Buttler,Jaiswal,31,13,6,0,Buttler,29,12,1,3,Natarajan,0,0,4,0,Sundar,1.0,0,19,0
+RR,3,3.6,2,0,0,0,0,Jaiswal,Jaiswal,31,13,6,0,Buttler,25,11,0,3,Sundar,1.0,0,19,0,Bhuvneshwar,2.0,0,23,0
+RR,3,3.5,4,1,0,0,0,Jaiswal,Jaiswal,29,12,6,0,Buttler,25,11,0,3,Sundar,0,0,17,0,Bhuvneshwar,2.0,0,23,0
+RR,3,3.4,1,0,0,0,0,Buttler,Jaiswal,25,11,5,0,Buttler,25,11,0,3,Sundar,0,0,13,0,Bhuvneshwar,2.0,0,23,0
+RR,3,3.3,0,0,1,0,0,Buttler,Jaiswal,25,11,5,0,Buttler,24,10,0,3,Sundar,0,0,12,0,Bhuvneshwar,2.0,0,23,0
+RR,3,3.2,6,1,0,0,0,Buttler,Jaiswal,25,11,5,0,Buttler,24,9,0,3,Sundar,0,0,12,0,Bhuvneshwar,2.0,0,23,0
+RR,3,3.1,6,1,0,0,0,Buttler,Jaiswal,25,11,5,0,Buttler,18,8,0,2,Sundar,0,0,6,0,Bhuvneshwar,2.0,0,23,0
+RR,2,2.6,0,0,1,0,0,Jaiswal,Jaiswal,25,11,5,0,Buttler,12,7,0,1,Bhuvneshwar,2.0,0,23,0,Fazalhaq Farooqi,1.0,0,14,0
+RR,2,2.5,4,1,0,0,0,Jaiswal,Jaiswal,25,10,5,0,Buttler,12,7,0,1,Bhuvneshwar,1.0,0,23,0,Fazalhaq Farooqi,1.0,0,14,0
+RR,2,2.4,4,1,0,0,0,Jaiswal,Jaiswal,21,9,4,0,Buttler,12,7,0,1,Bhuvneshwar,1.0,0,19,0,Fazalhaq Farooqi,1.0,0,14,0
+RR,2,2.3,1,0,0,0,0,Buttler,Jaiswal,17,8,3,0,Buttler,12,7,0,1,Bhuvneshwar,1.0,0,15,0,Fazalhaq Farooqi,1.0,0,14,0
+RR,2,2.2,2,0,0,0,0,Buttler,Jaiswal,17,8,3,0,Buttler,11,6,0,1,Bhuvneshwar,1.0,0,14,0,Fazalhaq Farooqi,1.0,0,14,0
+RR,2,2.1,6,1,0,0,0,Buttler,Jaiswal,17,8,3,0,Buttler,9,5,0,1,Bhuvneshwar,1.0,0,12,0,Fazalhaq Farooqi,1.0,0,14,0
+RR,1,1.6,0,0,1,0,0,Jaiswal,Jaiswal,17,8,3,0,Buttler,3,4,0,0,Fazalhaq Farooqi,1.0,0,14,0,Bhuvneshwar,1.0,0,6,0
+RR,1,1.5,4,1,0,0,0,Jaiswal,Jaiswal,17,7,3,0,Buttler,3,4,0,0,Fazalhaq Farooqi,0,0,14,0,Bhuvneshwar,1.0,0,6,0
+RR,1,1.4,3,0,0,0,0,Buttler,Jaiswal,13,6,2,0,Buttler,3,4,0,0,Fazalhaq Farooqi,0,0,10,0,Bhuvneshwar,1.0,0,6,0
+RR,1,1.3,3,0,0,0,0,Jaiswal,Jaiswal,13,6,2,0,Buttler,0,3,0,0,Fazalhaq Farooqi,0,0,7,0,Bhuvneshwar,1.0,0,6,0
+RR,1,1.2,0,0,1,0,0,Jaiswal,Jaiswal,10,5,2,0,Buttler,0,3,0,0,Fazalhaq Farooqi,0,0,4,0,Bhuvneshwar,1.0,0,6,0
+RR,1,1.1,4,1,0,0,0,Jaiswal,Jaiswal,10,4,2,0,Buttler,0,3,0,0,Fazalhaq Farooqi,0,0,4,0,Bhuvneshwar,1.0,0,6,0
+RR,0,0.6,0,0,1,0,0,Buttler,Jaiswal,6,3,1,0,Buttler,0,3,0,0,Bhuvneshwar,1.0,0,6,0,,0,0,0,0
+RR,0,0.5,0,0,1,0,0,Buttler,Jaiswal,6,3,1,0,Buttler,0,2,0,0,Bhuvneshwar,0,0,6,0,,0,0,0,0
+RR,0,0.4,0,0,1,0,0,Buttler,Jaiswal,6,3,1,0,Buttler,0,1,0,0,Bhuvneshwar,0,0,6,0,,0,0,0,0
+RR,0,0.3,1,0,0,0,0,Jaiswal,Jaiswal,6,3,1,0,,0,0,0,0,Bhuvneshwar,0,0,6,0,,0,0,0,0
+RR,0,0.2,4,1,0,0,0,Jaiswal,Jaiswal,5,2,1,0,,0,0,0,0,Bhuvneshwar,0,0,5,0,,0,0,0,0
+RR,0,0.2,1,0,0,0,1,Jaiswal,Jaiswal,1,1,0,0,,0,0,0,0,Bhuvneshwar,0,0,1,0,,0,0,0,0
+RR,0,0.1,0,0,1,0,0,Jaiswal,Jaiswal,0,1,0,0,,0,0,0,0,Bhuvneshwar,0,0,0,0,,0,0,0,0

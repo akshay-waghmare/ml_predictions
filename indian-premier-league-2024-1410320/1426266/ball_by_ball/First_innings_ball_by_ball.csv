@@ -1,0 +1,106 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+KKR,15,15.4,4,1,0,0,0,Salt,Salt,102,47,14,3,Shreyas Iyer,46,38,6,0,Ravi Bishnoi,2.0,0,17,0,Mohsin Khan,4.0,1,29,2
+KKR,15,15.3,0,0,1,0,0,Salt,Salt,98,46,13,3,Shreyas Iyer,46,38,6,0,Ravi Bishnoi,2.0,0,13,0,Mohsin Khan,4.0,1,29,2
+KKR,15,15.2,1,0,0,0,1,Shreyas Iyer,Salt,98,45,13,3,Shreyas Iyer,46,38,6,0,Ravi Bishnoi,2.0,0,13,0,Mohsin Khan,4.0,1,29,2
+KKR,15,15.1,1,0,0,0,0,Salt,Salt,98,45,13,3,Shreyas Iyer,45,37,6,0,Ravi Bishnoi,2.0,0,13,0,Mohsin Khan,4.0,1,29,2
+KKR,14,14.6,1,0,0,0,0,Salt,Salt,97,44,13,3,Shreyas Iyer,45,37,6,0,Mohsin Khan,4.0,1,29,2,Thakur,2.0,0,25,0
+KKR,14,14.5,1,0,0,0,0,Shreyas Iyer,Salt,96,43,13,3,Shreyas Iyer,45,37,6,0,Mohsin Khan,3.0,1,28,2,Thakur,2.0,0,25,0
+KKR,14,14.4,0,0,1,0,0,Shreyas Iyer,Salt,96,43,13,3,Shreyas Iyer,44,36,6,0,Mohsin Khan,3.0,1,27,2,Thakur,2.0,0,25,0
+KKR,14,14.3,1,0,0,0,0,Salt,Salt,96,43,13,3,Shreyas Iyer,44,35,6,0,Mohsin Khan,3.0,1,27,2,Thakur,2.0,0,25,0
+KKR,14,14.2,6,1,0,0,0,Salt,Salt,95,42,13,3,Shreyas Iyer,44,35,6,0,Mohsin Khan,3.0,1,26,2,Thakur,2.0,0,25,0
+KKR,14,14.1,4,1,0,0,0,Salt,Salt,89,41,13,2,Shreyas Iyer,44,35,6,0,Mohsin Khan,3.0,1,20,2,Thakur,2.0,0,25,0
+KKR,13,13.6,1,0,0,0,0,Salt,Salt,85,40,12,2,Shreyas Iyer,44,35,6,0,Thakur,2.0,0,25,0,Shamar Joseph,4.0,0,47,0
+KKR,13,13.5,4,1,0,0,0,Salt,Salt,84,39,12,2,Shreyas Iyer,44,35,6,0,Thakur,1.0,0,24,0,Shamar Joseph,4.0,0,47,0
+KKR,13,13.4,1,0,0,0,0,Shreyas Iyer,Salt,80,38,11,2,Shreyas Iyer,44,35,6,0,Thakur,1.0,0,20,0,Shamar Joseph,4.0,0,47,0
+KKR,13,13.3,1,0,0,0,0,Salt,Salt,80,38,11,2,Shreyas Iyer,43,34,6,0,Thakur,1.0,0,19,0,Shamar Joseph,4.0,0,47,0
+KKR,13,13.2,4,1,0,0,0,Salt,Salt,79,37,11,2,Shreyas Iyer,43,34,6,0,Thakur,1.0,0,18,0,Shamar Joseph,4.0,0,47,0
+KKR,13,13.1,4,1,0,0,0,Salt,Salt,75,36,10,2,Shreyas Iyer,43,34,6,0,Thakur,1.0,0,14,0,Shamar Joseph,4.0,0,47,0
+KKR,13,13.1,1,0,0,0,1,Salt,Salt,71,35,9,2,Shreyas Iyer,43,34,6,0,Thakur,1.0,0,10,0,Shamar Joseph,4.0,0,47,0
+KKR,12,12.6,4,1,0,0,0,Shreyas Iyer,Salt,70,35,9,2,Shreyas Iyer,43,34,6,0,Shamar Joseph,4.0,0,47,0,Mohsin Khan,3.0,1,16,2
+KKR,12,12.5,0,0,1,0,0,Shreyas Iyer,Salt,70,35,9,2,Shreyas Iyer,39,33,5,0,Shamar Joseph,4.0,0,43,0,Mohsin Khan,3.0,1,16,2
+KKR,12,12.5,2,0,0,0,1,Salt,Salt,70,35,9,2,Shreyas Iyer,39,32,5,0,Shamar Joseph,4.0,0,43,0,Mohsin Khan,3.0,1,16,2
+KKR,12,12.4,1,0,0,0,0,Shreyas Iyer,Salt,68,34,9,2,Shreyas Iyer,39,32,5,0,Shamar Joseph,4.0,0,41,0,Mohsin Khan,3.0,1,16,2
+KKR,12,12.3,0,0,1,0,0,Shreyas Iyer,Salt,68,34,9,2,Shreyas Iyer,38,31,5,0,Shamar Joseph,3.0,0,40,0,Mohsin Khan,3.0,1,16,2
+KKR,12,12.3,1,0,0,0,1,Shreyas Iyer,Salt,68,34,9,2,Shreyas Iyer,38,30,5,0,Shamar Joseph,3.0,0,40,0,Mohsin Khan,3.0,1,16,2
+KKR,12,12.2,4,1,0,0,0,Shreyas Iyer,Salt,68,34,9,2,Shreyas Iyer,37,30,5,0,Shamar Joseph,3.0,0,39,0,Mohsin Khan,3.0,1,16,2
+KKR,12,12.1,2,0,0,0,0,Shreyas Iyer,Salt,68,34,9,2,Shreyas Iyer,33,29,4,0,Shamar Joseph,3.0,0,35,0,Mohsin Khan,3.0,1,16,2
+KKR,11,11.6,4,1,0,0,0,Salt,Salt,68,34,9,2,Shreyas Iyer,31,28,4,0,Mohsin Khan,3.0,1,16,2,Ravi Bishnoi,2.0,0,12,0
+KKR,11,11.5,1,0,0,0,0,Shreyas Iyer,Salt,64,33,8,2,Shreyas Iyer,31,28,4,0,Mohsin Khan,2.0,1,12,2,Ravi Bishnoi,2.0,0,12,0
+KKR,11,11.4,0,0,1,0,0,Shreyas Iyer,Salt,64,33,8,2,Shreyas Iyer,30,27,4,0,Mohsin Khan,2.0,1,11,2,Ravi Bishnoi,2.0,0,12,0
+KKR,11,11.3,1,0,0,0,0,Salt,Salt,64,33,8,2,Shreyas Iyer,30,26,4,0,Mohsin Khan,2.0,1,11,2,Ravi Bishnoi,2.0,0,12,0
+KKR,11,11.2,1,0,0,0,0,Shreyas Iyer,Salt,63,32,8,2,Shreyas Iyer,30,26,4,0,Mohsin Khan,2.0,1,10,2,Ravi Bishnoi,2.0,0,12,0
+KKR,11,11.2,1,0,0,0,1,Shreyas Iyer,Salt,63,32,8,2,Shreyas Iyer,29,25,4,0,Mohsin Khan,2.0,1,9,2,Ravi Bishnoi,2.0,0,12,0
+KKR,11,11.1,0,0,1,0,0,Shreyas Iyer,Salt,63,32,8,2,Shreyas Iyer,28,25,4,0,Mohsin Khan,2.0,1,8,2,Ravi Bishnoi,2.0,0,12,0
+KKR,10,10.6,0,0,1,0,0,Salt,Salt,63,32,8,2,Shreyas Iyer,28,24,4,0,Ravi Bishnoi,2.0,0,12,0,Arshad Khan,2.0,0,24,0
+KKR,10,10.5,0,0,1,0,0,Salt,Salt,63,31,8,2,Shreyas Iyer,28,24,4,0,Ravi Bishnoi,1.0,0,12,0,Arshad Khan,2.0,0,24,0
+KKR,10,10.4,0,0,1,0,0,Salt,Salt,63,30,8,2,Shreyas Iyer,28,24,4,0,Ravi Bishnoi,1.0,0,12,0,Arshad Khan,2.0,0,24,0
+KKR,10,10.3,1,0,0,0,0,Shreyas Iyer,Salt,63,29,8,2,Shreyas Iyer,28,24,4,0,Ravi Bishnoi,1.0,0,12,0,Arshad Khan,2.0,0,24,0
+KKR,10,10.3,1,0,0,0,1,Shreyas Iyer,Salt,63,29,8,2,Shreyas Iyer,27,23,4,0,Ravi Bishnoi,1.0,0,11,0,Arshad Khan,2.0,0,24,0
+KKR,10,10.2,1,0,0,0,0,Salt,Salt,63,29,8,2,Shreyas Iyer,26,23,4,0,Ravi Bishnoi,1.0,0,10,0,Arshad Khan,2.0,0,24,0
+KKR,10,10.1,1,0,0,0,0,Shreyas Iyer,Salt,62,28,8,2,Shreyas Iyer,26,23,4,0,Ravi Bishnoi,1.0,0,9,0,Arshad Khan,2.0,0,24,0
+KKR,9,9.6,0,0,1,0,0,Salt,Salt,62,28,8,2,Shreyas Iyer,25,22,4,0,Arshad Khan,2.0,0,24,0,Ravi Bishnoi,1.0,0,8,0
+KKR,9,9.5,0,0,1,0,0,Salt,Salt,62,27,8,2,Shreyas Iyer,25,22,4,0,Arshad Khan,1.0,0,24,0,Ravi Bishnoi,1.0,0,8,0
+KKR,9,9.4,4,1,0,0,0,Salt,Salt,62,26,8,2,Shreyas Iyer,25,22,4,0,Arshad Khan,1.0,0,24,0,Ravi Bishnoi,1.0,0,8,0
+KKR,9,9.3,4,1,0,0,0,Salt,Salt,58,25,7,2,Shreyas Iyer,25,22,4,0,Arshad Khan,1.0,0,20,0,Ravi Bishnoi,1.0,0,8,0
+KKR,9,9.2,1,0,0,0,1,Shreyas Iyer,Salt,54,24,6,2,Shreyas Iyer,25,22,4,0,Arshad Khan,1.0,0,16,0,Ravi Bishnoi,1.0,0,8,0
+KKR,9,9.1,4,1,0,0,0,Shreyas Iyer,Salt,54,24,6,2,Shreyas Iyer,24,21,4,0,Arshad Khan,1.0,0,16,0,Ravi Bishnoi,1.0,0,8,0
+KKR,8,8.6,1,0,0,0,0,Shreyas Iyer,Salt,54,24,6,2,Shreyas Iyer,20,20,3,0,Ravi Bishnoi,1.0,0,8,0,Arshad Khan,1.0,0,12,0
+KKR,8,8.5,1,0,0,0,0,Salt,Salt,54,24,6,2,Shreyas Iyer,19,19,3,0,Ravi Bishnoi,0,0,7,0,Arshad Khan,1.0,0,12,0
+KKR,8,8.4,0,0,1,0,0,Salt,Salt,53,23,6,2,Shreyas Iyer,19,19,3,0,Ravi Bishnoi,0,0,6,0,Arshad Khan,1.0,0,12,0
+KKR,8,8.3,1,0,0,0,0,Shreyas Iyer,Salt,53,22,6,2,Shreyas Iyer,19,19,3,0,Ravi Bishnoi,0,0,6,0,Arshad Khan,1.0,0,12,0
+KKR,8,8.3,1,0,0,0,1,Shreyas Iyer,Salt,53,22,6,2,Shreyas Iyer,18,18,3,0,Ravi Bishnoi,0,0,5,0,Arshad Khan,1.0,0,12,0
+KKR,8,8.2,0,0,1,0,0,Shreyas Iyer,Salt,53,22,6,2,Shreyas Iyer,17,18,3,0,Ravi Bishnoi,0,0,4,0,Arshad Khan,1.0,0,12,0
+KKR,8,8.1,4,1,0,0,0,Shreyas Iyer,Salt,53,22,6,2,Shreyas Iyer,17,17,3,0,Ravi Bishnoi,0,0,4,0,Arshad Khan,1.0,0,12,0
+KKR,7,7.6,1,0,0,0,0,Shreyas Iyer,Salt,53,22,6,2,Shreyas Iyer,13,16,2,0,Arshad Khan,1.0,0,12,0,Shamar Joseph,3.0,0,33,0
+KKR,7,7.5,0,0,1,0,0,Shreyas Iyer,Salt,53,22,6,2,Shreyas Iyer,12,15,2,0,Arshad Khan,0,0,11,0,Shamar Joseph,3.0,0,33,0
+KKR,7,7.4,4,1,0,0,0,Shreyas Iyer,Salt,53,22,6,2,Shreyas Iyer,12,14,2,0,Arshad Khan,0,0,11,0,Shamar Joseph,3.0,0,33,0
+KKR,7,7.3,0,0,1,0,0,Shreyas Iyer,Salt,53,22,6,2,Shreyas Iyer,8,13,1,0,Arshad Khan,0,0,7,0,Shamar Joseph,3.0,0,33,0
+KKR,7,7.2,1,0,0,0,0,Salt,Salt,53,22,6,2,Shreyas Iyer,8,12,1,0,Arshad Khan,0,0,7,0,Shamar Joseph,3.0,0,33,0
+KKR,7,7.1,4,1,0,0,0,Salt,Salt,52,21,6,2,Shreyas Iyer,8,12,1,0,Arshad Khan,0,0,6,0,Shamar Joseph,3.0,0,33,0
+KKR,7,7.1,2,0,0,0,1,Shreyas Iyer,Salt,48,20,5,2,Shreyas Iyer,8,12,1,0,Arshad Khan,0,0,2,0,Shamar Joseph,3.0,0,33,0
+KKR,6,6.6,2,0,0,0,1,Salt,Salt,48,20,5,2,Shreyas Iyer,6,12,1,0,Shamar Joseph,3.0,0,33,0,Thakur,1.0,0,9,0
+KKR,6,6.5,6,1,0,0,0,Salt,Salt,46,19,5,2,Shreyas Iyer,6,12,1,0,Shamar Joseph,3.0,0,33,0,Thakur,1.0,0,9,0
+KKR,6,6.4,1,0,0,0,0,Shreyas Iyer,Salt,40,18,5,1,Shreyas Iyer,6,12,1,0,Shamar Joseph,3.0,0,27,0,Thakur,1.0,0,9,0
+KKR,6,6.3,0,0,1,0,0,Shreyas Iyer,Salt,40,18,5,1,Shreyas Iyer,5,11,1,0,Shamar Joseph,2.0,0,26,0,Thakur,1.0,0,9,0
+KKR,6,6.2,1,0,0,0,0,Salt,Salt,40,18,5,1,Shreyas Iyer,5,10,1,0,Shamar Joseph,2.0,0,26,0,Thakur,1.0,0,9,0
+KKR,6,6.1,0,0,1,0,0,Salt,Salt,39,17,5,1,Shreyas Iyer,5,10,1,0,Shamar Joseph,2.0,0,25,0,Thakur,1.0,0,9,0
+KKR,5,5.6,0,0,1,0,0,Shreyas Iyer,Salt,39,16,5,1,Shreyas Iyer,5,10,1,0,Thakur,1.0,0,9,0,Shamar Joseph,2.0,0,25,0
+KKR,5,5.5,0,0,1,0,0,Shreyas Iyer,Salt,39,16,5,1,Shreyas Iyer,5,9,1,0,Thakur,0,0,9,0,Shamar Joseph,2.0,0,25,0
+KKR,5,5.4,0,0,1,0,0,Shreyas Iyer,Salt,39,16,5,1,Shreyas Iyer,5,8,1,0,Thakur,0,0,9,0,Shamar Joseph,2.0,0,25,0
+KKR,5,5.3,1,0,0,0,0,Salt,Salt,39,16,5,1,Shreyas Iyer,5,7,1,0,Thakur,0,0,9,0,Shamar Joseph,2.0,0,25,0
+KKR,5,5.2,4,1,0,0,0,Salt,Salt,38,15,5,1,Shreyas Iyer,5,7,1,0,Thakur,0,0,8,0,Shamar Joseph,2.0,0,25,0
+KKR,5,5.1,4,1,0,0,0,Salt,Salt,34,14,4,1,Shreyas Iyer,5,7,1,0,Thakur,0,0,4,0,Shamar Joseph,2.0,0,25,0
+KKR,4,4.6,0,0,1,0,0,Shreyas Iyer,Salt,30,13,3,1,Shreyas Iyer,5,7,1,0,Shamar Joseph,2.0,0,25,0,Mohsin Khan,2.0,1,8,2
+KKR,4,4.5,0,0,1,0,0,Shreyas Iyer,Salt,30,13,3,1,Shreyas Iyer,5,6,1,0,Shamar Joseph,2.0,0,25,0,Mohsin Khan,2.0,1,8,2
+KKR,4,4.4,4,1,0,0,0,Shreyas Iyer,Salt,30,13,3,1,Shreyas Iyer,5,5,1,0,Shamar Joseph,2.0,0,25,0,Mohsin Khan,2.0,1,8,2
+KKR,4,4.3,1,0,0,0,0,Salt,Salt,30,13,3,1,Shreyas Iyer,1,4,0,0,Shamar Joseph,1.0,0,21,0,Mohsin Khan,2.0,1,8,2
+KKR,4,4.2,0,0,1,0,0,Salt,Salt,29,12,3,1,Shreyas Iyer,1,4,0,0,Shamar Joseph,1.0,0,20,0,Mohsin Khan,2.0,1,8,2
+KKR,4,4.1,0,0,1,0,0,Salt,Salt,29,11,3,1,Shreyas Iyer,1,4,0,0,Shamar Joseph,1.0,0,20,0,Mohsin Khan,2.0,1,8,2
+KKR,3,3.6,0,0,1,0,0,Shreyas Iyer,Salt,29,10,3,1,Shreyas Iyer,1,4,0,0,Mohsin Khan,2.0,1,8,2,Krunal,1.0,0,14,0
+KKR,3,3.5,0,0,1,0,0,Shreyas Iyer,Salt,29,10,3,1,Shreyas Iyer,1,3,0,0,Mohsin Khan,1.0,1,8,2,Krunal,1.0,0,14,0
+KKR,3,3.4,0,0,1,0,0,Shreyas Iyer,Salt,29,10,3,1,Shreyas Iyer,1,2,0,0,Mohsin Khan,1.0,1,8,2,Krunal,1.0,0,14,0
+KKR,3,3.3,1,0,0,0,0,Salt,Salt,29,10,3,1,Shreyas Iyer,1,1,0,0,Mohsin Khan,1.0,1,8,2,Krunal,1.0,0,14,0
+KKR,3,3.2,1,0,0,0,0,Shreyas Iyer,Salt,28,9,3,1,Shreyas Iyer,1,1,0,0,Mohsin Khan,1.0,1,7,2,Krunal,1.0,0,14,0
+KKR,3,3.1,0,0,0,1,0,A Raghuvanshi,Salt,28,9,3,1,,0,0,0,0,Mohsin Khan,1.0,1,6,2,Krunal,1.0,0,14,0
+KKR,2,2.6,1,0,0,0,0,A Raghuvanshi,Salt,28,9,3,1,A Raghuvanshi,7,5,0,1,Krunal,1.0,0,14,0,Mohsin Khan,1.0,1,6,1
+KKR,2,2.5,0,0,1,0,0,A Raghuvanshi,Salt,28,9,3,1,A Raghuvanshi,6,4,0,1,Krunal,0,0,13,0,Mohsin Khan,1.0,1,6,1
+KKR,2,2.4,1,0,0,0,0,Salt,Salt,28,9,3,1,A Raghuvanshi,6,3,0,1,Krunal,0,0,13,0,Mohsin Khan,1.0,1,6,1
+KKR,2,2.3,4,1,0,0,0,Salt,Salt,27,8,3,1,A Raghuvanshi,6,3,0,1,Krunal,0,0,12,0,Mohsin Khan,1.0,1,6,1
+KKR,2,2.2,4,1,0,0,0,Salt,Salt,23,7,2,1,A Raghuvanshi,6,3,0,1,Krunal,0,0,8,0,Mohsin Khan,1.0,1,6,1
+KKR,2,2.1,4,1,0,0,0,Salt,Salt,19,6,1,1,A Raghuvanshi,6,3,0,1,Krunal,0,0,4,0,Mohsin Khan,1.0,1,6,1
+KKR,1,1.6,6,1,0,0,0,A Raghuvanshi,Salt,15,5,0,1,A Raghuvanshi,6,3,0,1,Mohsin Khan,1.0,1,6,1,Shamar Joseph,1.0,0,20,0
+KKR,1,1.5,0,0,1,0,0,A Raghuvanshi,Salt,15,5,0,1,A Raghuvanshi,0,2,0,0,Mohsin Khan,0,0,0,1,Shamar Joseph,1.0,0,20,0
+KKR,1,1.4,0,0,1,0,0,A Raghuvanshi,Salt,15,5,0,1,A Raghuvanshi,0,1,0,0,Mohsin Khan,0,0,0,1,Shamar Joseph,1.0,0,20,0
+KKR,1,1.3,0,0,0,1,0,Narine,Salt,15,5,0,1,,0,0,0,0,Mohsin Khan,0,0,0,1,Shamar Joseph,1.0,0,20,0
+KKR,1,1.2,0,0,1,0,0,Narine,Salt,15,5,0,1,Narine,7,5,1,0,Mohsin Khan,0,0,0,0,Shamar Joseph,1.0,0,20,0
+KKR,1,1.1,0,0,1,0,0,Narine,Salt,15,5,0,1,Narine,7,4,1,0,Mohsin Khan,0,0,0,0,Shamar Joseph,1.0,0,20,0
+KKR,0,0.6,6,1,0,0,0,Salt,Salt,15,5,0,1,Narine,7,3,1,0,Shamar Joseph,1.0,0,20,0,,0,0,0,0
+KKR,0,0.6,1,0,0,0,1,Salt,Salt,9,4,0,0,Narine,7,3,1,0,Shamar Joseph,1.0,0,14,0,,0,0,0,0
+KKR,0,0.6,5,0,0,0,1,Salt,Salt,8,3,0,0,Narine,7,3,1,0,Shamar Joseph,1.0,0,13,0,,0,0,0,0
+KKR,0,0.6,1,0,0,0,1,Salt,Salt,3,3,0,0,Narine,7,3,1,0,Shamar Joseph,1.0,0,8,0,,0,0,0,0
+KKR,0,0.6,1,0,0,0,1,Salt,Salt,2,3,0,0,Narine,7,3,1,0,Shamar Joseph,1.0,0,7,0,,0,0,0,0
+KKR,0,0.5,1,0,0,0,1,Narine,Salt,1,2,0,0,Narine,7,3,1,0,Shamar Joseph,0,0,6,0,,0,0,0,0
+KKR,0,0.4,2,0,0,0,0,Narine,Salt,1,2,0,0,Narine,6,2,1,0,Shamar Joseph,0,0,6,0,,0,0,0,0
+KKR,0,0.3,4,1,0,0,0,Narine,Salt,1,2,0,0,Narine,4,1,1,0,Shamar Joseph,0,0,4,0,,0,0,0,0
+KKR,0,0.2,1,0,0,0,1,Salt,Salt,1,2,0,0,,0,0,0,0,Shamar Joseph,0,0,0,0,,0,0,0,0
+KKR,0,0.1,0,0,1,0,0,Salt,Salt,0,1,0,0,,0,0,0,0,Shamar Joseph,0,0,0,0,,0,0,0,0

@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+RCB,19,19.1,8,0,0,0,3,Shahbaz Ahmed,Rawat,16,20,1,0,Shahbaz Ahmed,19,9,3,0,Nortje,3.0,0,26,0,Mustafizur,3.0,0,41,0
+RCB,18,18.1,12,2,0,0,0,Rawat,Rawat,13,17,1,0,Shahbaz Ahmed,13,6,2,0,Mustafizur,2.0,0,33,0,Nortje,3.0,0,25,0
+RCB,17,17.1,8,1,2,0,1,Rawat,Rawat,7,13,0,0,Shahbaz Ahmed,8,4,1,0,Nortje,2.0,0,19,0,Kuldeep,4.0,0,23,2
+RCB,16,16.1,7,1,2,0,0,Shahbaz Ahmed,Rawat,4,9,0,0,Shahbaz Ahmed,3,2,0,0,Kuldeep,3.0,0,16,2,Lalit Yadav,4.0,0,29,1
+RCB,15,15.1,5,0,2,0,1,Rawat,Rawat,2,4,0,0,Shahbaz Ahmed,1,1,0,0,Lalit Yadav,3.0,0,25,1,Kuldeep,3.0,0,16,2
+RCB,14,14.1,2,0,3,2,1,Rawat,,0,0,0,0,,0,0,0,0,Kuldeep,2.0,0,16,1,Axar Patel,3.0,0,25,1
+RCB,13,13.1,13,2,2,1,0,Harshal,Maxwell,17,10,0,2,Harshal,1,2,0,0,Axar Patel,2.0,0,12,0,Marsh,2.0,0,18,2
+RCB,12,12.1,9,1,1,1,1,Maxwell,Lomror,21,16,0,1,Maxwell,16,8,0,2,Marsh,1.0,0,11,1,Nortje,2.0,0,18,0
+RCB,11,11.1,7,0,2,0,1,Lomror,Lomror,17,13,0,1,Maxwell,13,4,0,2,Nortje,1.0,0,12,0,Lalit Yadav,3.0,0,24,1
+RCB,10,10.1,14,2,1,1,0,Maxwell,Lomror,15,11,0,1,,0,0,0,0,Lalit Yadav,2.0,0,10,1,Mustafizur,2.0,0,29,0
+RCB,9,9.1,19,3,0,0,0,Lomror,Kohli,44,30,6,0,Lomror,8,9,0,0,Mustafizur,1.0,0,14,0,Kuldeep,2.0,0,16,0
+RCB,8,8.1,9,1,0,0,0,Kohli,Kohli,37,26,5,0,Lomror,6,7,0,0,Kuldeep,1.0,0,11,0,Lalit Yadav,2.0,0,10,0
+RCB,7,7.1,7,0,0,0,1,Kohli,Kohli,29,22,4,0,Lomror,4,5,0,0,Lalit Yadav,1.0,0,5,0,Kuldeep,1.0,0,7,0
+RCB,6,6.1,7,1,2,0,0,Kohli,Kohli,22,17,3,0,Lomror,3,4,0,0,Kuldeep,0,0,0,0,Lalit Yadav,1.0,0,4,0
+RCB,5,5.1,4,0,2,0,0,Kohli,Kohli,20,13,3,0,Lomror,1,2,0,0,Lalit Yadav,0,0,0,0,Marsh,1.0,0,10,1
+RCB,4,4.1,10,2,1,1,0,Kohli,Kohli,19,11,3,0,du Plessis,18,14,2,1,Marsh,0,0,4,0,Axar Patel,2.0,0,12,0
+RCB,3,3.1,7,1,4,0,0,du Plessis,Kohli,15,10,2,0,du Plessis,12,9,2,0,Axar Patel,1.0,0,6,0,Mustafizur,1.0,0,10,0
+RCB,2,2.1,10,2,2,0,0,du Plessis,Kohli,13,8,2,0,du Plessis,3,5,0,0,Mustafizur,0,0,0,0,Axar Patel,1.0,0,5,0
+RCB,1,1.1,5,0,2,0,0,du Plessis,Kohli,10,5,2,0,du Plessis,2,2,0,0,Axar Patel,0,0,1,0,Nortje,1.0,0,11,0
+RCB,0,0.1,11,2,2,0,1,du Plessis,Kohli,1,0,0,0,,0,0,0,0,Nortje,0,0,1,0,,0,0,0,0

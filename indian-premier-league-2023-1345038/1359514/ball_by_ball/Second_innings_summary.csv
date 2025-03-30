@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+SRH,19,19.1,12,1,0,0,0,Klaasen,Klaasen,52,24,2,4,Hosein,14,8,1,1,Nortje,3.0,0,36,0,Marsh,4.0,0,27,4
+SRH,18,18.1,13,2,2,0,1,Hosein,Klaasen,47,22,1,4,Hosein,6,4,1,0,Marsh,3.0,0,18,4,Nortje,3.0,0,32,0
+SRH,17,17.1,10,1,1,0,0,Hosein,Klaasen,45,20,1,4,,0,0,0,0,Nortje,2.0,0,28,0,Marsh,3.0,0,14,4
+SRH,16,16.1,10,1,0,1,0,Abdul Samad,Klaasen,37,17,1,3,Abdul Samad,22,18,1,1,Marsh,2.0,0,5,3,Axar Patel,4.0,0,29,1
+SRH,15,15.1,17,2,1,0,3,Klaasen,Klaasen,22,14,1,1,Abdul Samad,20,15,1,1,Axar Patel,3.0,0,14,1,Nortje,2.0,0,22,0
+SRH,14,14.1,9,1,1,0,0,Abdul Samad,Klaasen,21,13,1,1,Abdul Samad,15,10,1,1,Nortje,1.0,0,17,0,Axar Patel,3.0,0,13,1
+SRH,13,13.1,6,0,0,0,0,Abdul Samad,Klaasen,19,11,1,1,Abdul Samad,8,6,0,1,Axar Patel,2.0,0,8,1,Kuldeep,3.0,0,27,0
+SRH,12,12.1,11,1,0,0,0,Abdul Samad,Klaasen,16,8,1,1,Abdul Samad,0,3,0,0,Kuldeep,2.0,0,17,0,Axar Patel,2.0,0,7,1
+SRH,11,11.1,2,0,3,1,0,Abdul Samad,Abhishek,68,35,12,1,Klaasen,14,6,1,1,Axar Patel,1.0,0,6,0,Mukesh Kumar,2.0,0,38,0
+SRH,10,10.1,24,4,1,0,3,Klaasen,Abhishek,61,32,11,1,Klaasen,0,2,0,0,Mukesh Kumar,1.0,0,18,0,Marsh,2.0,0,4,3
+SRH,9,9.1,0,0,4,2,0,Klaasen,Abhishek,57,31,10,1,Markram,8,12,0,0,Marsh,1.0,0,4,1,Kuldeep,2.0,0,16,0
+SRH,8,8.1,7,1,2,0,0,Abhishek,Abhishek,52,28,9,1,Markram,7,9,0,0,Kuldeep,1.0,0,10,0,Axar Patel,1.0,0,5,0
+SRH,7,7.1,5,0,1,0,0,Abhishek,Abhishek,50,25,9,1,Markram,4,6,0,0,Axar Patel,0,0,1,0,Kuldeep,1.0,0,9,0
+SRH,6,6.1,9,1,2,0,0,Abhishek,Abhishek,43,23,9,0,Markram,1,2,0,0,Kuldeep,0,0,0,0,Ishant Sharma,3.0,0,31,1
+SRH,5,5.1,16,4,2,0,0,Abhishek,Abhishek,31,18,6,0,Markram,1,1,0,0,Ishant Sharma,2.0,0,19,1,Marsh,1.0,0,4,1
+SRH,4,4.1,4,0,2,1,1,Abhishek,Abhishek,25,14,5,0,Tripathi,10,5,0,1,Marsh,0,0,0,0,Mukesh Kumar,1.0,0,14,0
+SRH,3,3.1,14,2,1,0,0,Tripathi,Abhishek,20,11,4,0,Tripathi,2,2,0,0,Mukesh Kumar,0,0,1,0,Ishant Sharma,2.0,0,15,1
+SRH,2,2.1,7,1,2,1,0,Abhishek,Abhishek,14,9,3,0,Agarwal,7,4,1,0,Ishant Sharma,1.0,0,8,0,Nortje,1.0,0,13,0
+SRH,1,1.1,13,2,2,0,2,Abhishek,Abhishek,8,6,2,0,Agarwal,1,0,0,0,Nortje,0,0,1,0,Ishant Sharma,1.0,0,8,0
+SRH,0,0.1,8,2,4,0,0,Abhishek,Abhishek,0,1,0,0,,0,0,0,0,Ishant Sharma,0,0,0,0,,0,0,0,0

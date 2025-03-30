@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+KKR,19,19.1,19,3,2,0,2,Rinku Singh,Narine,2,2,0,0,Arora,1,1,0,0,Thakur,2.0,0,13,2,Haq,4.0,0,46,0
+KKR,18,18.1,20,4,1,0,0,Rinku Singh,Rinku Singh,35,23,3,1,Narine,2,2,0,0,Haq,3.0,0,30,0,Thakur,2.0,0,12,2
+KKR,17,17.1,10,1,1,1,2,Narine,Rinku Singh,24,20,2,0,Thakur,4,6,0,0,Thakur,1.0,0,3,1,Haq,3.0,0,26,0
+KKR,16,16.1,5,0,2,0,0,Rinku Singh,Rinku Singh,21,17,2,0,Thakur,1,3,0,0,Haq,2.0,0,21,0,Ravi Bishnoi,4.0,1,23,2
+KKR,15,15.1,7,1,3,1,0,Thakur,Rinku Singh,21,17,2,0,Russell,1,6,0,0,Ravi Bishnoi,3.0,1,16,1,Haq,2.0,0,21,0
+KKR,14,14.1,6,1,3,0,0,Rinku Singh,Rinku Singh,17,15,1,0,Russell,0,2,0,0,Haq,1.0,0,16,0,Thakur,1.0,0,3,1
+KKR,13,13.1,5,0,2,1,1,Russell,Gurbaz,9,12,0,0,Rinku Singh,16,14,1,0,Thakur,0,0,1,0,Ravi Bishnoi,3.0,1,16,1
+KKR,12,12.1,9,1,1,0,0,Rinku Singh,Gurbaz,8,11,0,0,Rinku Singh,7,9,0,0,Ravi Bishnoi,2.0,1,7,1,Gowtham,4.0,0,26,1
+KKR,11,11.1,6,0,2,0,1,Rinku Singh,Gurbaz,6,10,0,0,Rinku Singh,5,4,0,0,Gowtham,3.0,0,22,1,Ravi Bishnoi,2.0,1,7,1
+KKR,10,10.1,6,0,0,0,0,Rinku Singh,Gurbaz,4,8,0,0,,0,0,0,0,Ravi Bishnoi,1.0,1,2,1,Krunal,4.0,0,30,1
+KKR,9,9.1,3,0,2,1,1,Roy,Roy,46,26,7,1,Gurbaz,1,4,0,0,Krunal,3.0,0,28,0,Ravi Bishnoi,1.0,1,1,1
+KKR,8,8.1,1,0,4,1,0,Gurbaz,Roy,46,26,7,1,Rana,8,8,1,0,Ravi Bishnoi,0,0,0,0,Gowtham,3.0,0,20,1
+KKR,7,7.1,9,1,1,0,0,Roy,Roy,39,23,6,1,Rana,7,5,1,0,Gowtham,2.0,0,12,1,Krunal,3.0,0,28,0
+KKR,6,6.1,8,1,1,0,0,Rana,Roy,37,21,6,1,Rana,0,1,0,0,Krunal,2.0,0,20,0,Gowtham,2.0,0,11,1
+KKR,5,5.1,2,0,3,1,0,Rana,Roy,36,18,6,1,Venkatesh Iyer,23,13,3,1,Gowtham,1.0,0,9,0,Krunal,2.0,0,20,0
+KKR,4,4.1,14,3,1,0,0,Roy,Roy,27,14,4,1,Venkatesh Iyer,22,11,3,1,Krunal,1.0,0,10,0,Gowtham,1.0,0,9,0
+KKR,3,3.1,9,1,2,0,1,Roy,Roy,21,12,3,1,Venkatesh Iyer,15,7,2,1,Gowtham,0,0,0,0,Krunal,1.0,0,6,0
+KKR,2,2.1,6,1,3,0,0,Roy,Roy,20,9,3,1,Venkatesh Iyer,14,4,2,1,Krunal,0,0,4,0,Haq,1.0,0,15,0
+KKR,1,1.1,15,3,2,0,0,Roy,Roy,1,3,0,0,Venkatesh Iyer,14,4,2,1,Haq,0,0,0,0,Mohsin Khan,1.0,0,15,0
+KKR,0,0.1,15,3,2,0,0,Venkatesh Iyer,Roy,0,1,0,0,,0,0,0,0,Mohsin Khan,0,0,0,0,,0,0,0,0

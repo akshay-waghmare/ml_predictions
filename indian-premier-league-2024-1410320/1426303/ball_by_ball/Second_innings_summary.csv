@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+RR,19,19.1,6,0,1,1,0,Boult,Parag,50,33,6,0,Boult,9,7,2,0,Harshal,3.0,0,22,1,Ellis,4.0,0,24,1
+RR,18,18.1,8,2,4,0,0,Boult,Parag,50,32,6,0,Boult,1,2,0,0,Ellis,3.0,0,16,1,Harshal,3.0,0,22,1
+RR,17,17.1,8,0,0,1,0,Parag,Parag,46,30,6,0,Ferreira,5,6,0,0,Harshal,2.0,0,15,0,Arshdeep,4.0,0,31,1
+RR,16,16.1,9,2,3,0,0,Parag,Parag,40,24,5,0,Ferreira,5,6,0,0,Arshdeep,3.0,0,26,1,Ellis,3.0,0,16,1
+RR,15,15.1,10,1,0,0,0,Parag,Parag,30,20,3,0,Ferreira,3,4,0,0,Ellis,2.0,0,8,1,Chahar,4.0,0,26,2
+RR,14,14.1,2,0,3,1,0,Ferreira,Parag,30,20,3,0,Powell,4,3,1,0,Chahar,3.0,0,25,1,Sam Curran,3.0,0,24,2
+RR,13,13.1,9,2,2,1,0,Powell,Parag,28,18,3,0,,0,0,0,0,Sam Curran,2.0,0,19,1,Arshdeep,3.0,0,22,1
+RR,12,12.1,7,1,1,1,1,Ashwin,Parag,19,15,1,0,Ashwin,27,16,3,1,Arshdeep,2.0,0,17,0,Chahar,3.0,0,24,1
+RR,11,11.1,17,3,0,0,0,Ashwin,Parag,17,13,1,0,Ashwin,12,12,1,0,Chahar,2.0,0,8,1,Harshal,2.0,0,14,0
+RR,10,10.1,10,1,0,0,1,Parag,Parag,9,9,0,0,Ashwin,10,10,1,0,Harshal,1.0,0,5,0,Chahar,2.0,0,7,1
+RR,9,9.1,5,0,1,0,0,Parag,Parag,6,5,0,0,Ashwin,8,8,1,0,Chahar,1.0,0,3,1,Harpreet Brar,1.0,0,10,0
+RR,8,8.1,10,1,1,0,0,Parag,Parag,2,2,0,0,Ashwin,5,5,1,0,Harpreet Brar,0,0,4,0,Chahar,1.0,0,2,1
+RR,7,7.1,2,0,3,1,0,Ashwin,Kohler,18,22,2,1,Parag,2,2,0,0,Chahar,0,0,1,0,Ellis,2.0,0,6,1
+RR,6,6.1,3,0,2,1,0,Kohler,Samson,18,13,3,0,Kohler,17,20,2,1,Ellis,1.0,0,4,0,Harshal,1.0,0,4,0
+RR,5,5.1,4,1,5,0,0,Kohler,Samson,17,12,3,0,Kohler,17,15,2,1,Harshal,0,0,4,0,Ellis,1.0,0,3,0
+RR,4,4.1,3,0,3,0,0,Kohler,Samson,16,10,3,0,Kohler,12,11,1,1,Ellis,0,0,1,0,Arshdeep,2.0,0,16,0
+RR,3,3.1,10,2,3,0,0,Samson,Samson,8,5,1,0,Kohler,11,10,1,1,Arshdeep,1.0,0,8,0,Sam Curran,2.0,0,15,1
+RR,2,2.1,6,1,5,0,0,Kohler,Samson,6,4,1,0,Kohler,5,5,1,0,Sam Curran,1.0,0,9,1,Arshdeep,1.0,0,6,0
+RR,1,1.1,6,1,3,0,0,Samson,Samson,2,2,0,0,Kohler,4,1,1,0,Arshdeep,0,0,1,0,Sam Curran,1.0,0,9,1
+RR,0,0.1,9,2,2,1,0,Kohler,Jaiswal,4,1,1,0,,0,0,0,0,Sam Curran,0,0,4,0,,0,0,0,0

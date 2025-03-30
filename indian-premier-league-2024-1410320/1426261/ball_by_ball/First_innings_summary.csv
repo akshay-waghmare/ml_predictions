@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+PBKS,19,19.1,26,3,0,0,3,Shashank Singh,Shashank Singh,42,24,6,0,,0,0,0,0,Unadkat,3.0,0,29,1,Natarajan,4.0,0,33,1
+PBKS,18,18.1,10,2,2,0,0,Shashank Singh,Shashank Singh,38,22,5,0,,0,0,0,0,Natarajan,3.0,0,24,1,Cummins,4.0,0,22,1
+PBKS,17,17.1,11,2,1,0,0,Sharma,Shashank Singh,36,20,5,0,,0,0,0,0,Cummins,3.0,0,12,1,Bhuvneshwar,4.0,0,32,2
+PBKS,16,16.1,17,3,0,0,2,Shashank Singh,Shashank Singh,23,15,3,0,,0,0,0,0,Bhuvneshwar,3.0,0,19,2,Nitish Kumar,3.0,0,33,1
+PBKS,15,15.1,11,1,1,1,1,Sharma,Shashank Singh,18,13,2,0,Sharma,13,9,1,0,Nitish Kumar,2.0,0,24,0,Natarajan,3.0,0,23,1
+PBKS,14,14.1,8,1,1,0,0,Sharma,Shashank Singh,17,12,2,0,Sharma,5,4,0,0,Natarajan,2.0,0,16,1,Unadkat,3.0,0,23,1
+PBKS,13,13.1,6,0,1,1,0,Sharma,Shashank Singh,15,10,2,0,,0,0,0,0,Unadkat,2.0,0,17,1,Cummins,3.0,0,11,1
+PBKS,12,12.1,7,1,2,0,0,Shashank Singh,Raza,27,18,2,2,Shashank Singh,10,8,1,0,Cummins,2.0,0,5,1,Shahbaz Ahmed,1.0,0,10,0
+PBKS,11,11.1,10,1,1,0,0,Raza,Raza,18,13,2,1,Shashank Singh,9,7,1,0,Shahbaz Ahmed,0,0,1,0,Unadkat,2.0,0,17,0
+PBKS,10,10.1,8,1,3,0,0,Shashank Singh,Raza,17,10,2,1,Shashank Singh,7,4,1,0,Unadkat,1.0,0,15,0,Natarajan,2.0,0,15,1
+PBKS,9,9.1,8,1,1,1,0,Shashank Singh,Raza,10,8,2,0,,0,0,0,0,Natarajan,1.0,0,7,1,Nitish Kumar,2.0,0,22,0
+PBKS,8,8.1,9,1,2,0,0,Sam Curran,Sam Curran,21,17,2,1,Raza,9,7,2,0,Nitish Kumar,1.0,0,13,0,Unadkat,1.0,0,9,0
+PBKS,7,7.1,9,1,2,0,0,Sam Curran,Sam Curran,19,13,2,1,Raza,8,5,2,0,Unadkat,0,0,6,0,Nitish Kumar,1.0,0,13,0
+PBKS,6,6.1,13,3,2,0,0,Raza,Sam Curran,12,10,2,0,Raza,0,2,0,0,Nitish Kumar,0,0,4,0,Natarajan,1.0,0,7,0
+PBKS,5,5.1,7,1,3,0,0,Sam Curran,Sam Curran,5,4,1,0,Raza,0,2,0,0,Natarajan,0,0,4,0,Bhuvneshwar,3.0,0,15,2
+PBKS,4,4.1,6,1,3,1,0,Raza,S Dhawan,11,13,1,0,Sam Curran,1,3,0,0,Bhuvneshwar,2.0,0,11,1,Cummins,2.0,0,4,1
+PBKS,3,3.1,3,0,3,0,0,Sam Curran,S Dhawan,7,10,1,0,,0,0,0,0,Cummins,1.0,0,1,1,Bhuvneshwar,2.0,0,9,1
+PBKS,2,2.1,9,2,2,1,0,Prabhsimran,S Dhawan,6,8,1,0,Prabhsimran,0,2,0,0,Bhuvneshwar,1.0,0,4,0,Cummins,1.0,0,1,1
+PBKS,1,1.1,1,0,4,1,0,Prabhsimran,S Dhawan,1,6,0,0,Bairstow,0,1,0,0,Cummins,0,0,0,0,Bhuvneshwar,1.0,0,0,0
+PBKS,0,0.1,1,0,5,0,1,Bairstow,S Dhawan,0,1,0,0,,0,0,0,0,Bhuvneshwar,0,0,0,0,,0,0,0,0

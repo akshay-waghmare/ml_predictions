@@ -1,0 +1,17 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+KKR,15,15.1,6,1,1,0,1,Salt,Salt,98,45,13,3,Shreyas Iyer,45,37,6,0,Ravi Bishnoi,2.0,0,13,0,Mohsin Khan,4.0,1,29,2
+KKR,14,14.1,13,2,1,0,0,Salt,Salt,89,41,13,2,Shreyas Iyer,44,35,6,0,Mohsin Khan,3.0,1,20,2,Thakur,2.0,0,25,0
+KKR,13,13.1,16,3,0,0,1,Salt,Salt,71,35,9,2,Shreyas Iyer,43,34,6,0,Thakur,1.0,0,10,0,Shamar Joseph,4.0,0,47,0
+KKR,12,12.1,14,2,2,0,2,Shreyas Iyer,Salt,68,34,9,2,Shreyas Iyer,33,29,4,0,Shamar Joseph,3.0,0,35,0,Mohsin Khan,3.0,1,16,2
+KKR,11,11.1,8,1,2,0,1,Salt,Salt,63,32,8,2,Shreyas Iyer,28,25,4,0,Mohsin Khan,2.0,1,8,2,Ravi Bishnoi,2.0,0,12,0
+KKR,10,10.1,4,0,3,0,1,Salt,Salt,62,28,8,2,Shreyas Iyer,26,23,4,0,Ravi Bishnoi,1.0,0,9,0,Arshad Khan,2.0,0,24,0
+KKR,9,9.1,13,3,2,0,1,Salt,Salt,54,24,6,2,Shreyas Iyer,24,21,4,0,Arshad Khan,1.0,0,16,0,Ravi Bishnoi,1.0,0,8,0
+KKR,8,8.1,8,1,2,0,1,Shreyas Iyer,Salt,53,22,6,2,Shreyas Iyer,17,17,3,0,Ravi Bishnoi,0,0,4,0,Arshad Khan,1.0,0,12,0
+KKR,7,7.1,12,2,2,0,1,Shreyas Iyer,Salt,48,20,5,2,Shreyas Iyer,8,12,1,0,Arshad Khan,0,0,2,0,Shamar Joseph,3.0,0,33,0
+KKR,6,6.1,10,1,2,0,1,Salt,Salt,39,17,5,1,Shreyas Iyer,5,10,1,0,Shamar Joseph,2.0,0,25,0,Thakur,1.0,0,9,0
+KKR,5,5.1,9,2,3,0,0,Shreyas Iyer,Salt,34,14,4,1,Shreyas Iyer,5,7,1,0,Thakur,0,0,4,0,Shamar Joseph,2.0,0,25,0
+KKR,4,4.1,5,1,4,0,0,Shreyas Iyer,Salt,29,11,3,1,Shreyas Iyer,1,4,0,0,Shamar Joseph,1.0,0,20,0,Mohsin Khan,2.0,1,8,2
+KKR,3,3.1,2,0,3,1,0,Shreyas Iyer,Salt,28,9,3,1,,0,0,0,0,Mohsin Khan,1.0,1,6,2,Krunal,1.0,0,14,0
+KKR,2,2.1,14,3,1,0,0,A Raghuvanshi,Salt,19,6,1,1,A Raghuvanshi,6,3,0,1,Krunal,0,0,4,0,Mohsin Khan,1.0,1,6,1
+KKR,1,1.1,6,1,4,1,0,A Raghuvanshi,Salt,15,5,0,1,Narine,7,4,1,0,Mohsin Khan,0,0,0,0,Shamar Joseph,1.0,0,20,0
+KKR,0,0.1,22,2,1,0,6,Salt,Salt,0,1,0,0,,0,0,0,0,Shamar Joseph,0,0,0,0,,0,0,0,0

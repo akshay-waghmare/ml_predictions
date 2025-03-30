@@ -1,0 +1,121 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+RR,19,19.6,0,0,0,1,0,Powell,Ashwin,2,2,0,0,,0,0,0,0,Bhuvneshwar,3.0,0,40,1,Cummins,4.0,0,34,2
+RR,19,19.5,2,0,0,0,0,Powell,Powell,31,14,3,1,Ashwin,2,2,0,0,Bhuvneshwar,2.0,0,40,0,Cummins,4.0,0,34,2
+RR,19,19.4,2,0,0,0,0,Powell,Powell,29,13,3,1,Ashwin,2,2,0,0,Bhuvneshwar,2.0,0,38,0,Cummins,4.0,0,34,2
+RR,19,19.3,4,1,0,0,0,Powell,Powell,27,12,3,1,Ashwin,2,2,0,0,Bhuvneshwar,2.0,0,36,0,Cummins,4.0,0,34,2
+RR,19,19.2,2,0,0,0,0,Powell,Powell,23,11,2,1,Ashwin,2,2,0,0,Bhuvneshwar,2.0,0,32,0,Cummins,4.0,0,34,2
+RR,19,19.1,1,0,0,0,0,Ashwin,Powell,21,10,2,1,Ashwin,2,2,0,0,Bhuvneshwar,2.0,0,30,0,Cummins,4.0,0,34,2
+RR,18,18.6,6,1,0,0,0,Powell,Powell,21,10,2,1,Ashwin,1,1,0,0,Cummins,4.0,0,34,2,Natarajan,4.0,0,35,2
+RR,18,18.5,0,0,1,0,0,Powell,Powell,15,9,2,0,Ashwin,1,1,0,0,Cummins,3.0,0,28,2,Natarajan,4.0,0,35,2
+RR,18,18.4,0,0,1,0,0,Powell,Powell,15,8,2,0,Ashwin,1,1,0,0,Cummins,3.0,0,28,2,Natarajan,4.0,0,35,2
+RR,18,18.3,0,0,1,0,0,Powell,Powell,15,7,2,0,Ashwin,1,1,0,0,Cummins,3.0,0,28,2,Natarajan,4.0,0,35,2
+RR,18,18.2,1,0,0,0,0,Ashwin,Powell,15,6,2,0,Ashwin,1,1,0,0,Cummins,3.0,0,28,2,Natarajan,4.0,0,35,2
+RR,18,18.1,0,0,0,1,0,Jurel,Powell,15,6,2,0,,0,0,0,0,Cummins,3.0,0,27,2,Natarajan,4.0,0,35,2
+RR,17,17.6,1,0,0,0,0,Jurel,Powell,15,6,2,0,Jurel,1,2,0,0,Natarajan,4.0,0,35,2,Jansen,3.0,0,39,0
+RR,17,17.5,0,0,1,0,0,Jurel,Powell,15,6,2,0,Jurel,0,1,0,0,Natarajan,3.0,0,34,2,Jansen,3.0,0,39,0
+RR,17,17.4,0,0,0,1,0,Hetmyer,Powell,15,6,2,0,,0,0,0,0,Natarajan,3.0,0,34,2,Jansen,3.0,0,39,0
+RR,17,17.3,0,0,1,0,0,Hetmyer,Hetmyer,13,8,1,1,Powell,15,6,2,0,Natarajan,3.0,0,34,1,Jansen,3.0,0,39,0
+RR,17,17.2,0,0,1,0,0,Hetmyer,Hetmyer,13,7,1,1,Powell,15,6,2,0,Natarajan,3.0,0,34,1,Jansen,3.0,0,39,0
+RR,17,17.1,6,1,0,0,0,Hetmyer,Hetmyer,13,6,1,1,Powell,15,6,2,0,Natarajan,3.0,0,34,1,Jansen,3.0,0,39,0
+RR,16,16.6,0,0,1,0,0,Powell,Hetmyer,7,5,1,0,Powell,15,6,2,0,Jansen,3.0,0,39,0,Cummins,3.0,0,27,1
+RR,16,16.5,0,0,1,0,0,Powell,Hetmyer,7,5,1,0,Powell,15,5,2,0,Jansen,3.0,0,39,0,Cummins,3.0,0,27,1
+RR,16,16.4,4,1,0,0,0,Powell,Hetmyer,7,5,1,0,Powell,15,4,2,0,Jansen,3.0,0,39,0,Cummins,3.0,0,27,1
+RR,16,16.4,1,0,0,0,1,Powell,Hetmyer,7,5,1,0,Powell,11,3,1,0,Jansen,2.0,0,35,0,Cummins,3.0,0,27,1
+RR,16,16.3,2,0,0,0,0,Powell,Hetmyer,7,5,1,0,Powell,10,3,1,0,Jansen,2.0,0,34,0,Cummins,3.0,0,27,1
+RR,16,16.2,4,1,0,0,0,Powell,Hetmyer,7,5,1,0,Powell,8,2,1,0,Jansen,2.0,0,32,0,Cummins,3.0,0,27,1
+RR,16,16.2,1,0,0,0,1,Powell,Hetmyer,7,5,1,0,Powell,4,1,0,0,Jansen,2.0,0,28,0,Cummins,3.0,0,27,1
+RR,16,16.1,1,0,0,0,0,Hetmyer,Hetmyer,7,5,1,0,Powell,3,1,0,0,Jansen,2.0,0,27,0,Cummins,3.0,0,27,1
+RR,16,16.1,2,0,0,0,1,Powell,Hetmyer,6,4,1,0,Powell,3,1,0,0,Jansen,2.0,0,26,0,Cummins,3.0,0,27,1
+RR,15,15.6,1,0,0,0,0,Powell,Hetmyer,6,4,1,0,Powell,1,1,0,0,Cummins,3.0,0,27,1,Unadkat,2.0,0,23,0
+RR,15,15.5,0,0,0,1,0,Parag,Hetmyer,6,4,1,0,,0,0,0,0,Cummins,2.0,0,26,1,Unadkat,2.0,0,23,0
+RR,15,15.4,1,0,0,0,0,Hetmyer,Parag,85,45,8,4,Hetmyer,6,4,1,0,Cummins,2.0,0,26,0,Unadkat,2.0,0,23,0
+RR,15,15.3,0,0,1,0,0,Hetmyer,Parag,85,45,8,4,Hetmyer,5,3,1,0,Cummins,2.0,0,25,0,Unadkat,2.0,0,23,0
+RR,15,15.2,1,0,0,0,0,Parag,Parag,85,45,8,4,Hetmyer,5,2,1,0,Cummins,2.0,0,25,0,Unadkat,2.0,0,23,0
+RR,15,15.1,0,0,1,0,0,Parag,Parag,84,44,8,4,Hetmyer,5,2,1,0,Cummins,2.0,0,24,0,Unadkat,2.0,0,23,0
+RR,14,14.6,4,1,0,0,0,Hetmyer,Parag,84,43,8,4,Hetmyer,5,2,1,0,Unadkat,2.0,0,23,0,Natarajan,3.0,0,28,1
+RR,14,14.5,1,0,0,0,0,Parag,Parag,84,43,8,4,Hetmyer,1,1,0,0,Unadkat,1.0,0,19,0,Natarajan,3.0,0,28,1
+RR,14,14.5,1,0,0,0,1,Parag,Parag,83,42,8,4,Hetmyer,1,1,0,0,Unadkat,1.0,0,18,0,Natarajan,3.0,0,28,1
+RR,14,14.4,0,0,1,0,0,Parag,Parag,82,42,8,4,Hetmyer,1,1,0,0,Unadkat,1.0,0,17,0,Natarajan,3.0,0,28,1
+RR,14,14.3,6,1,0,0,0,Parag,Parag,82,41,8,4,Hetmyer,1,1,0,0,Unadkat,1.0,0,17,0,Natarajan,3.0,0,28,1
+RR,14,14.2,2,0,0,0,0,Parag,Parag,76,40,8,3,Hetmyer,1,1,0,0,Unadkat,1.0,0,11,0,Natarajan,3.0,0,28,1
+RR,14,14.1,0,0,1,0,0,Parag,Parag,74,39,8,3,Hetmyer,1,1,0,0,Unadkat,1.0,0,9,0,Natarajan,3.0,0,28,1
+RR,13,13.6,1,0,0,0,0,Parag,Parag,74,38,8,3,Hetmyer,1,1,0,0,Natarajan,3.0,0,28,1,Bhuvneshwar,2.0,0,29,0
+RR,13,13.5,6,1,0,0,0,Parag,Parag,73,37,8,3,Hetmyer,1,1,0,0,Natarajan,2.0,0,27,1,Bhuvneshwar,2.0,0,29,0
+RR,13,13.4,1,0,0,0,0,Hetmyer,Parag,67,36,8,2,Hetmyer,1,1,0,0,Natarajan,2.0,0,21,1,Bhuvneshwar,2.0,0,29,0
+RR,13,13.3,0,0,0,1,0,Jaiswal,Parag,67,36,8,2,,0,0,0,0,Natarajan,2.0,0,20,1,Bhuvneshwar,2.0,0,29,0
+RR,13,13.2,1,0,0,0,0,Parag,Jaiswal,62,34,6,2,Parag,67,36,8,2,Natarajan,2.0,0,20,0,Bhuvneshwar,2.0,0,29,0
+RR,13,13.2,1,0,0,0,1,Parag,Jaiswal,62,34,6,2,Parag,66,35,8,2,Natarajan,2.0,0,19,0,Bhuvneshwar,2.0,0,29,0
+RR,13,13.1,1,0,0,0,0,Jaiswal,Jaiswal,62,34,6,2,Parag,65,35,8,2,Natarajan,2.0,0,18,0,Bhuvneshwar,2.0,0,29,0
+RR,12,12.6,1,0,0,0,0,Jaiswal,Jaiswal,61,33,6,2,Parag,65,35,8,2,Bhuvneshwar,2.0,0,29,0,Natarajan,2.0,0,17,0
+RR,12,12.5,1,0,0,0,0,Parag,Jaiswal,60,32,6,2,Parag,65,35,8,2,Bhuvneshwar,1.0,0,28,0,Natarajan,2.0,0,17,0
+RR,12,12.4,4,1,0,0,0,Parag,Jaiswal,60,32,6,2,Parag,64,34,8,2,Bhuvneshwar,1.0,0,27,0,Natarajan,2.0,0,17,0
+RR,12,12.3,1,0,0,0,0,Jaiswal,Jaiswal,60,32,6,2,Parag,60,33,7,2,Bhuvneshwar,1.0,0,23,0,Natarajan,2.0,0,17,0
+RR,12,12.2,6,1,0,0,0,Jaiswal,Jaiswal,59,31,6,2,Parag,60,33,7,2,Bhuvneshwar,1.0,0,22,0,Natarajan,2.0,0,17,0
+RR,12,12.1,1,0,0,0,0,Parag,Jaiswal,53,30,6,1,Parag,60,33,7,2,Bhuvneshwar,1.0,0,16,0,Natarajan,2.0,0,17,0
+RR,11,11.6,1,0,0,0,0,Parag,Jaiswal,53,30,6,1,Parag,59,32,7,2,Natarajan,2.0,0,17,0,Shahbaz Ahmed,1.0,0,11,0
+RR,11,11.5,1,0,0,0,0,Jaiswal,Jaiswal,53,30,6,1,Parag,58,31,7,2,Natarajan,1.0,0,16,0,Shahbaz Ahmed,1.0,0,11,0
+RR,11,11.4,1,0,0,0,0,Parag,Jaiswal,52,29,6,1,Parag,58,31,7,2,Natarajan,1.0,0,15,0,Shahbaz Ahmed,1.0,0,11,0
+RR,11,11.4,1,0,0,0,1,Parag,Jaiswal,52,29,6,1,Parag,57,30,7,2,Natarajan,1.0,0,14,0,Shahbaz Ahmed,1.0,0,11,0
+RR,11,11.3,1,0,0,0,0,Jaiswal,Jaiswal,52,29,6,1,Parag,56,30,7,2,Natarajan,1.0,0,13,0,Shahbaz Ahmed,1.0,0,11,0
+RR,11,11.2,1,0,0,0,0,Parag,Jaiswal,51,28,6,1,Parag,56,30,7,2,Natarajan,1.0,0,12,0,Shahbaz Ahmed,1.0,0,11,0
+RR,11,11.1,1,0,0,0,0,Jaiswal,Jaiswal,51,28,6,1,Parag,55,29,7,2,Natarajan,1.0,0,11,0,Shahbaz Ahmed,1.0,0,11,0
+RR,10,10.6,0,0,1,0,0,Parag,Jaiswal,50,27,6,1,Parag,55,29,7,2,Shahbaz Ahmed,1.0,0,11,0,Jansen,2.0,0,24,0
+RR,10,10.5,4,1,0,0,0,Parag,Jaiswal,50,27,6,1,Parag,55,28,7,2,Shahbaz Ahmed,0,0,11,0,Jansen,2.0,0,24,0
+RR,10,10.4,0,0,1,0,0,Parag,Jaiswal,50,27,6,1,Parag,51,27,6,2,Shahbaz Ahmed,0,0,7,0,Jansen,2.0,0,24,0
+RR,10,10.3,1,0,0,0,0,Jaiswal,Jaiswal,50,27,6,1,Parag,51,26,6,2,Shahbaz Ahmed,0,0,7,0,Jansen,2.0,0,24,0
+RR,10,10.2,2,0,0,0,0,Jaiswal,Jaiswal,49,26,6,1,Parag,51,26,6,2,Shahbaz Ahmed,0,0,6,0,Jansen,2.0,0,24,0
+RR,10,10.1,4,1,0,0,0,Jaiswal,Jaiswal,47,25,6,1,Parag,51,26,6,2,Shahbaz Ahmed,0,0,4,0,Jansen,2.0,0,24,0
+RR,9,9.6,1,0,0,0,0,Jaiswal,Jaiswal,43,24,5,1,Parag,51,26,6,2,Jansen,2.0,0,24,0,Cummins,2.0,0,24,0
+RR,9,9.5,1,0,0,0,0,Parag,Jaiswal,42,23,5,1,Parag,51,26,6,2,Jansen,2.0,0,23,0,Cummins,2.0,0,24,0
+RR,9,9.4,0,0,1,0,0,Parag,Jaiswal,42,23,5,1,Parag,50,25,6,2,Jansen,2.0,0,22,0,Cummins,2.0,0,24,0
+RR,9,9.3,4,1,0,0,0,Parag,Jaiswal,42,23,5,1,Parag,50,24,6,2,Jansen,1.0,0,22,0,Cummins,2.0,0,24,0
+RR,9,9.2,4,1,0,0,0,Parag,Jaiswal,42,23,5,1,Parag,46,23,5,2,Jansen,1.0,0,18,0,Cummins,2.0,0,24,0
+RR,9,9.1,0,0,1,0,0,Parag,Jaiswal,42,23,5,1,Parag,42,22,4,2,Jansen,1.0,0,14,0,Cummins,2.0,0,24,0
+RR,8,8.6,0,0,1,0,0,Jaiswal,Jaiswal,42,23,5,1,Parag,42,21,4,2,Cummins,2.0,0,24,0,Nitish Kumar,1.0,0,12,0
+RR,8,8.5,2,0,0,0,0,Jaiswal,Jaiswal,42,22,5,1,Parag,42,21,4,2,Cummins,1.0,0,24,0,Nitish Kumar,1.0,0,12,0
+RR,8,8.4,0,0,1,0,0,Jaiswal,Jaiswal,40,21,5,1,Parag,42,21,4,2,Cummins,1.0,0,22,0,Nitish Kumar,1.0,0,12,0
+RR,8,8.3,1,0,0,0,0,Parag,Jaiswal,40,20,5,1,Parag,42,21,4,2,Cummins,1.0,0,22,0,Nitish Kumar,1.0,0,12,0
+RR,8,8.2,6,1,0,0,0,Parag,Jaiswal,40,20,5,1,Parag,41,20,4,2,Cummins,1.0,0,21,0,Nitish Kumar,1.0,0,12,0
+RR,8,8.1,0,0,1,0,0,Parag,Jaiswal,40,20,5,1,Parag,35,19,4,1,Cummins,1.0,0,15,0,Nitish Kumar,1.0,0,12,0
+RR,7,7.6,1,0,0,0,0,Parag,Jaiswal,40,20,5,1,Parag,35,18,4,1,Nitish Kumar,1.0,0,12,0,Unadkat,1.0,0,9,0
+RR,7,7.6,1,0,0,0,1,Parag,Jaiswal,40,20,5,1,Parag,34,17,4,1,Nitish Kumar,0,0,11,0,Unadkat,1.0,0,9,0
+RR,7,7.5,0,0,1,0,0,Parag,Jaiswal,40,20,5,1,Parag,33,17,4,1,Nitish Kumar,0,0,10,0,Unadkat,1.0,0,9,0
+RR,7,7.5,1,0,0,0,1,Parag,Jaiswal,40,20,5,1,Parag,33,16,4,1,Nitish Kumar,0,0,10,0,Unadkat,1.0,0,9,0
+RR,7,7.4,1,0,0,0,0,Jaiswal,Jaiswal,40,20,5,1,Parag,32,16,4,1,Nitish Kumar,0,0,9,0,Unadkat,1.0,0,9,0
+RR,7,7.3,2,0,0,0,0,Jaiswal,Jaiswal,39,19,5,1,Parag,32,16,4,1,Nitish Kumar,0,0,8,0,Unadkat,1.0,0,9,0
+RR,7,7.2,2,0,0,0,0,Jaiswal,Jaiswal,37,18,5,1,Parag,32,16,4,1,Nitish Kumar,0,0,6,0,Unadkat,1.0,0,9,0
+RR,7,7.1,4,1,0,0,0,Jaiswal,Jaiswal,35,17,5,1,Parag,32,16,4,1,Nitish Kumar,0,0,4,0,Unadkat,1.0,0,9,0
+RR,6,6.6,2,0,0,0,0,Parag,Jaiswal,31,16,4,1,Parag,32,16,4,1,Unadkat,1.0,0,9,0,Natarajan,1.0,0,10,0
+RR,6,6.6,1,0,0,0,1,Parag,Jaiswal,31,16,4,1,Parag,30,15,4,1,Unadkat,0,0,7,0,Natarajan,1.0,0,10,0
+RR,6,6.5,1,0,0,0,0,Jaiswal,Jaiswal,31,16,4,1,Parag,29,15,4,1,Unadkat,0,0,6,0,Natarajan,1.0,0,10,0
+RR,6,6.4,2,0,0,0,0,Jaiswal,Jaiswal,30,15,4,1,Parag,29,15,4,1,Unadkat,0,0,5,0,Natarajan,1.0,0,10,0
+RR,6,6.3,1,0,0,0,0,Parag,Jaiswal,28,14,4,1,Parag,29,15,4,1,Unadkat,0,0,3,0,Natarajan,1.0,0,10,0
+RR,6,6.2,1,0,0,0,0,Jaiswal,Jaiswal,28,14,4,1,Parag,28,14,4,1,Unadkat,0,0,2,0,Natarajan,1.0,0,10,0
+RR,6,6.1,1,0,0,0,0,Parag,Jaiswal,27,13,4,1,Parag,28,14,4,1,Unadkat,0,0,1,0,Natarajan,1.0,0,10,0
+RR,5,5.6,1,0,0,0,0,Parag,Jaiswal,27,13,4,1,Parag,27,13,4,1,Natarajan,1.0,0,10,0,Cummins,1.0,0,15,0
+RR,5,5.6,1,0,0,0,1,Parag,Jaiswal,27,13,4,1,Parag,26,12,4,1,Natarajan,0,0,9,0,Cummins,1.0,0,15,0
+RR,5,5.5,0,0,1,0,0,Parag,Jaiswal,27,13,4,1,Parag,25,12,4,1,Natarajan,0,0,8,0,Cummins,1.0,0,15,0
+RR,5,5.4,0,0,1,0,0,Parag,Jaiswal,27,13,4,1,Parag,25,11,4,1,Natarajan,0,0,8,0,Cummins,1.0,0,15,0
+RR,5,5.3,4,1,0,0,0,Parag,Jaiswal,27,13,4,1,Parag,25,10,4,1,Natarajan,0,0,8,0,Cummins,1.0,0,15,0
+RR,5,5.2,4,1,0,0,0,Parag,Jaiswal,27,13,4,1,Parag,21,9,3,1,Natarajan,0,0,4,0,Cummins,1.0,0,15,0
+RR,5,5.1,0,0,1,0,0,Parag,Jaiswal,27,13,4,1,Parag,17,8,2,1,Natarajan,0,0,0,0,Cummins,1.0,0,15,0
+RR,4,4.6,0,0,1,0,0,Jaiswal,Jaiswal,27,13,4,1,Parag,17,7,2,1,Cummins,1.0,0,15,0,Jansen,1.0,0,14,0
+RR,4,4.5,6,1,0,0,0,Jaiswal,Jaiswal,27,12,4,1,Parag,17,7,2,1,Cummins,0,0,15,0,Jansen,1.0,0,14,0
+RR,4,4.4,0,0,1,0,0,Jaiswal,Jaiswal,21,11,4,0,Parag,17,7,2,1,Cummins,0,0,9,0,Jansen,1.0,0,14,0
+RR,4,4.3,4,1,0,0,0,Jaiswal,Jaiswal,21,10,4,0,Parag,17,7,2,1,Cummins,0,0,9,0,Jansen,1.0,0,14,0
+RR,4,4.2,4,1,0,0,0,Jaiswal,Jaiswal,17,9,3,0,Parag,17,7,2,1,Cummins,0,0,5,0,Jansen,1.0,0,14,0
+RR,4,4.1,1,0,0,0,0,Parag,Jaiswal,13,8,2,0,Parag,17,7,2,1,Cummins,0,0,1,0,Jansen,1.0,0,14,0
+RR,3,3.6,4,1,0,0,0,Jaiswal,Jaiswal,13,8,2,0,Parag,16,6,2,1,Jansen,1.0,0,14,0,Bhuvneshwar,1.0,0,15,0
+RR,3,3.5,4,1,0,0,0,Jaiswal,Jaiswal,9,7,1,0,Parag,16,6,2,1,Jansen,1.0,0,10,0,Bhuvneshwar,1.0,0,15,0
+RR,3,3.4,0,0,1,0,0,Jaiswal,Jaiswal,5,6,0,0,Parag,16,6,2,1,Jansen,1.0,0,6,0,Bhuvneshwar,1.0,0,15,0
+RR,3,3.3,1,0,0,0,0,Parag,Jaiswal,5,5,0,0,Parag,16,6,2,1,Jansen,0,0,6,0,Bhuvneshwar,1.0,0,15,0
+RR,3,3.3,1,0,0,0,1,Parag,Jaiswal,5,5,0,0,Parag,15,5,2,1,Jansen,0,0,5,0,Bhuvneshwar,1.0,0,15,0
+RR,3,3.3,2,0,0,0,1,Jaiswal,Jaiswal,5,5,0,0,Parag,14,4,2,1,Jansen,0,0,4,0,Bhuvneshwar,1.0,0,15,0
+RR,3,3.2,2,0,0,0,0,Jaiswal,Jaiswal,3,4,0,0,Parag,14,4,2,1,Jansen,0,0,2,0,Bhuvneshwar,1.0,0,15,0
+RR,3,3.1,0,0,1,0,0,Jaiswal,Jaiswal,1,3,0,0,Parag,14,4,2,1,Jansen,0,0,0,0,Bhuvneshwar,1.0,0,15,0
+RR,2,2.6,4,1,0,0,0,Parag,Jaiswal,1,2,0,0,Parag,14,4,2,1,Bhuvneshwar,1.0,0,15,0,,0,0,0,0
+RR,2,2.5,0,0,1,0,0,Parag,Jaiswal,1,2,0,0,Parag,10,3,1,1,Bhuvneshwar,0,0,11,0,,0,0,0,0
+RR,2,2.4,6,1,0,0,0,Parag,Jaiswal,1,2,0,0,Parag,10,2,1,1,Bhuvneshwar,0,0,11,0,,0,0,0,0
+RR,2,2.3,4,1,0,0,0,Parag,Jaiswal,1,2,0,0,Parag,4,1,1,0,Bhuvneshwar,0,0,5,0,,0,0,0,0
+RR,2,2.2,1,0,0,0,0,Jaiswal,Jaiswal,1,2,0,0,,0,0,0,0,Bhuvneshwar,0,0,1,0,,0,0,0,0
+RR,2,2.1,0,0,1,0,0,Jaiswal,Jaiswal,0,1,0,0,,0,0,0,0,Bhuvneshwar,0,0,0,0,,0,0,0,0

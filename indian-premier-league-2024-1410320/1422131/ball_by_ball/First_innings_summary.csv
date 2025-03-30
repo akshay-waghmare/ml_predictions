@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+CSK,19,19.1,20,4,2,0,0,Dhoni,Jadeja,22,17,2,0,Dhoni,24,11,3,1,Nortje,3.0,0,27,0,Mukesh Kumar,3.0,0,21,3
+CSK,18,18.1,5,0,3,0,1,Jadeja,Jadeja,19,15,2,0,Dhoni,19,6,2,1,Mukesh Kumar,2.0,0,17,3,Khaleel Ahmed,4.0,0,21,2
+CSK,17,17.1,12,1,2,0,3,Dhoni,Jadeja,17,13,2,0,Dhoni,9,3,2,0,Khaleel Ahmed,3.0,0,10,2,Mukesh Kumar,2.0,0,16,3
+CSK,16,16.1,14,3,0,1,0,Dhoni,Jadeja,11,10,1,0,,0,0,0,0,Mukesh Kumar,1.0,0,2,3,Nortje,3.0,0,23,0
+CSK,15,15.1,7,0,0,0,1,Dube,Dube,17,13,1,0,Jadeja,9,8,1,0,Nortje,2.0,0,17,0,Ishant Sharma,3.0,0,23,0
+CSK,14,14.1,10,1,1,0,1,Jadeja,Dube,14,11,1,0,Jadeja,5,3,1,0,Ishant Sharma,2.0,0,17,0,Mukesh Kumar,1.0,0,2,2
+CSK,13,13.1,2,0,2,2,0,Jadeja,Rahane,48,27,5,2,Dube,14,11,1,0,Mukesh Kumar,0,0,1,0,Nortje,2.0,0,16,0
+CSK,12,12.1,9,1,1,0,1,Dube,Rahane,47,26,5,2,Dube,5,6,0,0,Nortje,1.0,0,8,0,Marsh,1.0,0,14,0
+CSK,11,11.1,14,2,0,0,1,Dube,Rahane,36,22,3,2,Dube,3,4,0,0,Marsh,0,0,1,0,Axar Patel,2.0,0,19,1
+CSK,10,10.1,2,0,2,1,0,Dube,Rahane,36,22,3,2,Mitchell,35,25,1,2,Axar Patel,2.0,0,17,0,Rasikh Salam,2.0,0,25,0
+CSK,9,9.1,17,2,0,0,0,Mitchell,Rahane,29,20,3,1,Mitchell,27,21,1,1,Rasikh Salam,1.0,0,10,0,Axar Patel,2.0,0,17,0
+CSK,8,8.1,11,1,1,0,0,Mitchell,Rahane,28,19,3,1,Mitchell,16,16,1,0,Axar Patel,1.0,0,7,0,Rasikh Salam,1.0,0,8,0
+CSK,7,7.1,9,1,1,0,1,Mitchell,Rahane,23,17,2,1,Mitchell,12,12,1,0,Rasikh Salam,0,0,1,0,Axar Patel,1.0,0,6,0
+CSK,6,6.1,6,0,1,0,0,Mitchell,Rahane,22,15,2,1,Mitchell,7,8,1,0,Axar Patel,0,0,1,0,Nortje,1.0,0,8,0
+CSK,5,5.1,9,1,2,0,1,Rahane,Rahane,13,10,2,0,Mitchell,6,7,1,0,Nortje,0,0,0,0,Khaleel Ahmed,3.0,0,9,2
+CSK,4,4.1,6,1,3,0,0,Mitchell,Rahane,12,8,2,0,Mitchell,2,3,0,0,Khaleel Ahmed,2.0,0,4,2,Ishant Sharma,2.0,0,13,0
+CSK,3,3.1,10,2,2,0,0,Rahane,Rahane,3,4,0,0,Mitchell,0,1,0,0,Ishant Sharma,1.0,0,3,0,Khaleel Ahmed,2.0,0,3,2
+CSK,2,2.1,1,0,4,1,1,Mitchell,Ravindra,2,8,0,0,Rahane,3,3,0,0,Khaleel Ahmed,1.0,0,3,1,Ishant Sharma,1.0,0,3,0
+CSK,1,1.1,3,0,4,0,1,Rahane,Ravindra,1,5,0,0,,0,0,0,0,Ishant Sharma,0,0,0,0,Khaleel Ahmed,1.0,0,3,1
+CSK,0,0.1,3,0,3,1,1,Gaikwad,Gaikwad,1,1,0,0,,0,0,0,0,Khaleel Ahmed,0,0,1,0,,0,0,0,0

@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+KKR,19,19.1,2,0,2,2,1,Roy,Roy,3,2,0,0,,0,0,0,0,Mustafizur,3.0,0,21,1,Deshpande,4.0,0,33,3
+KKR,18,18.1,13,2,0,1,1,Roy,Shreyas Iyer,30,29,2,0,Russell,9,8,0,0,Deshpande,3.0,0,21,2,Mustafizur,3.0,0,21,0
+KKR,17,17.1,9,0,4,0,2,Shreyas Iyer,Shreyas Iyer,28,28,2,0,Russell,1,3,0,0,Mustafizur,2.0,0,12,0,Deshpande,3.0,0,20,2
+KKR,16,16.1,4,0,2,1,0,Russell,Shreyas Iyer,28,28,2,0,Rinku Singh,8,11,0,0,Deshpande,2.0,0,17,1,Thakur,3.0,0,27,0
+KKR,15,15.1,10,1,1,0,1,Shreyas Iyer,Shreyas Iyer,21,24,1,0,Rinku Singh,4,8,0,0,Thakur,2.0,0,17,0,Theekshana,4.0,0,28,1
+KKR,14,14.1,5,0,2,0,0,Shreyas Iyer,Shreyas Iyer,19,20,1,0,Rinku Singh,3,6,0,0,Theekshana,3.0,0,25,1,Thakur,2.0,0,17,0
+KKR,13,13.1,6,0,1,0,1,Shreyas Iyer,Shreyas Iyer,14,16,1,0,Rinku Singh,1,4,0,0,Thakur,1.0,0,12,0,Jadeja,4.0,0,18,3
+KKR,12,12.1,3,0,3,0,0,Rinku Singh,Shreyas Iyer,12,13,1,0,Rinku Singh,0,1,0,0,Jadeja,3.0,0,16,3,Theekshana,3.0,0,23,1
+KKR,11,11.1,8,1,2,1,0,Rinku Singh,Shreyas Iyer,10,11,1,0,Ramandeep,6,9,0,0,Theekshana,2.0,0,15,0,Jadeja,3.0,0,15,3
+KKR,10,10.1,7,1,2,0,0,Shreyas Iyer,Shreyas Iyer,5,7,0,0,Ramandeep,5,7,0,0,Jadeja,2.0,0,9,3,Ravindra,1.0,0,4,0
+KKR,9,9.1,4,0,2,0,0,Ramandeep,Shreyas Iyer,3,4,0,0,Ramandeep,2,4,0,0,Ravindra,0,0,0,0,Jadeja,2.0,0,8,3
+KKR,8,8.1,3,0,3,1,0,Ramandeep,Shreyas Iyer,3,3,0,0,Venkatesh Iyer,3,7,0,0,Jadeja,1.0,0,6,2,Theekshana,2.0,0,15,0
+KKR,7,7.1,2,0,5,0,0,Venkatesh Iyer,Shreyas Iyer,2,2,0,0,Venkatesh Iyer,1,2,0,0,Theekshana,1.0,0,13,0,Jadeja,1.0,0,5,2
+KKR,6,6.1,5,0,0,2,1,Venkatesh Iyer,Narine,32,18,4,2,,0,0,0,0,Jadeja,0,0,0,1,Mustafizur,2.0,0,12,0
+KKR,5,5.1,6,1,4,0,1,Narine,A Raghuvanshi,23,15,3,1,Narine,31,15,4,2,Mustafizur,1.0,0,10,0,Theekshana,1.0,0,13,0
+KKR,4,4.1,13,2,3,0,0,Narine,A Raghuvanshi,12,12,2,0,Narine,25,12,4,1,Theekshana,0,0,0,0,Thakur,1.0,0,11,0
+KKR,3,3.1,11,2,1,0,0,A Raghuvanshi,A Raghuvanshi,10,8,2,0,Narine,20,10,3,1,Thakur,0,0,4,0,Deshpande,2.0,0,16,1
+KKR,2,2.1,19,4,2,0,2,Narine,A Raghuvanshi,6,7,1,0,Narine,5,5,1,0,Deshpande,1.0,0,1,1,Mustafizur,1.0,0,6,0
+KKR,1,1.1,6,1,3,0,0,A Raghuvanshi,A Raghuvanshi,2,3,0,0,Narine,0,3,0,0,Mustafizur,0,0,1,0,Deshpande,1.0,0,1,1
+KKR,0,0.1,1,0,4,1,0,Narine,,0,0,0,0,,0,0,0,0,Deshpande,0,0,0,1,,0,0,0,0

@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+CSK,19,19.1,13,2,1,0,1,Dhoni,Dhoni,3,3,0,0,Santner,1,2,0,0,Little,3.0,0,30,1,Shami,4.0,0,29,2
+CSK,18,18.1,10,1,1,1,0,Dhoni,Dube,18,16,1,0,Dhoni,1,1,0,0,Shami,3.0,0,21,1,Alzarri Joseph,4.0,0,33,2
+CSK,17,17.1,4,0,0,2,0,Dube,Dube,14,13,1,0,,0,0,0,0,Alzarri Joseph,3.0,0,29,1,Rashid Khan,4.0,0,26,2
+CSK,16,16.1,11,1,1,0,1,Gaikwad,Gaikwad,88,45,4,9,Dube,13,12,1,0,Rashid Khan,3.0,0,22,2,Alzarri Joseph,3.0,0,29,0
+CSK,15,15.1,7,0,1,0,0,Dube,Gaikwad,81,43,4,8,Dube,8,8,1,0,Alzarri Joseph,2.0,0,23,0,Hardik,3.0,0,28,0
+CSK,14,14.1,8,1,1,0,1,Gaikwad,Gaikwad,78,39,4,8,Dube,3,6,0,0,Hardik,2.0,0,25,0,Alzarri Joseph,2.0,0,22,0
+CSK,13,13.1,4,0,2,0,0,Dube,Gaikwad,77,38,4,8,Dube,0,1,0,0,Alzarri Joseph,1.0,0,19,0,Little,3.0,0,29,1
+CSK,12,12.1,7,1,1,1,0,Dube,Gaikwad,71,35,3,8,Rayudu,11,10,0,1,Little,2.0,0,23,0,Yash Dayal,1.0,0,14,0
+CSK,11,11.1,14,2,2,0,0,Rayudu,Gaikwad,63,30,3,7,Rayudu,5,9,0,0,Yash Dayal,0,0,1,0,Little,2.0,0,22,0
+CSK,10,10.1,7,1,4,0,0,Gaikwad,Gaikwad,57,28,3,6,Rayudu,3,5,0,0,Little,1.0,0,15,0,Rashid Khan,3.0,0,16,2
+CSK,9,9.1,3,0,3,0,0,Gaikwad,Gaikwad,56,25,3,6,Rayudu,1,2,0,0,Rashid Khan,2.0,0,13,2,Alzarri Joseph,1.0,0,18,0
+CSK,8,8.1,18,3,3,0,0,Gaikwad,Gaikwad,44,20,3,4,Rayudu,1,1,0,0,Alzarri Joseph,0,0,6,0,Rashid Khan,2.0,0,13,2
+CSK,7,7.1,8,1,0,1,0,Gaikwad,Gaikwad,36,17,3,3,Stokes,3,4,0,0,Rashid Khan,1.0,0,6,1,Hardik,2.0,0,24,0
+CSK,6,6.1,13,2,3,0,0,Gaikwad,Gaikwad,24,13,3,1,Stokes,1,2,0,0,Hardik,1.0,0,11,0,Rashid Khan,1.0,0,5,1
+CSK,5,5.1,5,1,3,1,0,Stokes,Gaikwad,24,13,3,1,Moeen Ali,20,13,3,1,Rashid Khan,0,0,0,0,Shami,3.0,0,19,1
+CSK,4,4.1,17,3,1,0,1,Moeen Ali,Gaikwad,23,12,3,1,Moeen Ali,4,7,1,0,Shami,2.0,0,2,1,Little,1.0,0,15,0
+CSK,3,3.1,15,3,2,0,0,Moeen Ali,Gaikwad,18,9,2,1,Moeen Ali,0,4,0,0,Little,0,0,6,0,Shami,2.0,0,2,1
+CSK,2,2.1,1,0,4,1,0,Moeen Ali,Conway,2,5,0,0,Gaikwad,12,8,2,0,Shami,1.0,0,2,0,Hardik,1.0,0,11,0
+CSK,1,1.1,11,2,1,0,0,Gaikwad,Conway,1,4,0,0,Gaikwad,5,3,1,0,Hardik,0,0,4,0,Shami,1.0,0,1,0
+CSK,0,0.1,2,0,4,0,1,Conway,Conway,0,1,0,0,,0,0,0,0,Shami,0,0,0,0,,0,0,0,0

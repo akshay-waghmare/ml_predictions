@@ -1,0 +1,127 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+MI,19,19.6,0,0,1,0,0,Shepherd,David,44,22,2,3,Shepherd,15,6,2,1,Markande,4.0,0,52,0,Cummins,4.0,0,35,2
+MI,19,19.5,4,1,0,0,0,Shepherd,David,44,22,2,3,Shepherd,15,5,2,1,Markande,4.0,0,52,0,Cummins,4.0,0,35,2
+MI,19,19.4,4,1,0,0,0,Shepherd,David,44,22,2,3,Shepherd,11,4,1,1,Markande,3.0,0,48,0,Cummins,4.0,0,35,2
+MI,19,19.3,0,0,1,0,0,Shepherd,David,44,22,2,3,Shepherd,7,3,0,1,Markande,3.0,0,44,0,Cummins,4.0,0,35,2
+MI,19,19.2,6,1,0,0,0,Shepherd,David,44,22,2,3,Shepherd,7,2,0,1,Markande,3.0,0,44,0,Cummins,4.0,0,35,2
+MI,19,19.1,1,0,0,0,0,David,David,44,22,2,3,Shepherd,1,1,0,0,Markande,3.0,0,38,0,Cummins,4.0,0,35,2
+MI,18,18.6,1,0,0,0,0,David,David,43,21,2,3,Shepherd,1,1,0,0,Cummins,4.0,0,35,2,Unadkat,4.0,0,47,2
+MI,18,18.5,2,0,0,0,0,David,David,42,20,2,3,Shepherd,1,1,0,0,Cummins,3.0,0,34,2,Unadkat,4.0,0,47,2
+MI,18,18.4,0,0,1,0,0,David,David,40,19,2,3,Shepherd,1,1,0,0,Cummins,3.0,0,32,2,Unadkat,4.0,0,47,2
+MI,18,18.3,2,0,0,0,0,David,David,40,18,2,3,Shepherd,1,1,0,0,Cummins,3.0,0,32,2,Unadkat,4.0,0,47,2
+MI,18,18.2,1,0,0,0,0,Shepherd,David,38,17,2,3,Shepherd,1,1,0,0,Cummins,3.0,0,30,2,Unadkat,4.0,0,47,2
+MI,18,18.1,1,0,0,0,0,David,David,38,17,2,3,,0,0,0,0,Cummins,3.0,0,29,2,Unadkat,4.0,0,47,2
+MI,17,17.6,0,0,0,1,0,Hardik,David,37,16,2,3,,0,0,0,0,Unadkat,4.0,0,47,2,Bhuvneshwar,4.0,0,53,0
+MI,17,17.5,1,0,0,0,0,David,Hardik,24,19,1,1,David,37,16,2,3,Unadkat,3.0,0,47,1,Bhuvneshwar,4.0,0,53,0
+MI,17,17.4,6,1,0,0,0,David,Hardik,24,19,1,1,David,36,15,2,3,Unadkat,3.0,0,46,1,Bhuvneshwar,4.0,0,53,0
+MI,17,17.4,1,0,0,0,1,David,Hardik,24,19,1,1,David,30,14,2,2,Unadkat,3.0,0,40,1,Bhuvneshwar,4.0,0,53,0
+MI,17,17.3,1,0,0,0,0,Hardik,Hardik,24,19,1,1,David,29,14,2,2,Unadkat,3.0,0,39,1,Bhuvneshwar,4.0,0,53,0
+MI,17,17.2,1,0,0,0,0,David,Hardik,23,18,1,1,David,29,14,2,2,Unadkat,3.0,0,38,1,Bhuvneshwar,4.0,0,53,0
+MI,17,17.1,4,1,0,0,0,David,Hardik,23,18,1,1,David,28,13,2,2,Unadkat,3.0,0,37,1,Bhuvneshwar,4.0,0,53,0
+MI,16,16.6,1,0,0,0,0,David,Hardik,23,18,1,1,David,24,12,1,2,Bhuvneshwar,4.0,0,53,0,Unadkat,3.0,0,33,1
+MI,16,16.5,6,1,0,0,0,David,Hardik,23,18,1,1,David,23,11,1,2,Bhuvneshwar,3.0,0,52,0,Unadkat,3.0,0,33,1
+MI,16,16.4,4,1,0,0,0,David,Hardik,23,18,1,1,David,17,10,1,1,Bhuvneshwar,3.0,0,46,0,Unadkat,3.0,0,33,1
+MI,16,16.3,6,1,0,0,0,David,Hardik,23,18,1,1,David,13,9,0,1,Bhuvneshwar,3.0,0,42,0,Unadkat,3.0,0,33,1
+MI,16,16.2,2,0,0,0,0,David,Hardik,23,18,1,1,David,7,8,0,0,Bhuvneshwar,3.0,0,36,0,Unadkat,3.0,0,33,1
+MI,16,16.1,1,0,0,0,0,Hardik,Hardik,23,18,1,1,David,5,7,0,0,Bhuvneshwar,3.0,0,34,0,Unadkat,3.0,0,33,1
+MI,15,15.6,1,0,0,0,0,Hardik,Hardik,22,17,1,1,David,5,7,0,0,Unadkat,3.0,0,33,1,Cummins,3.0,0,28,2
+MI,15,15.5,1,0,0,0,0,David,Hardik,21,16,1,1,David,5,7,0,0,Unadkat,2.0,0,32,1,Cummins,3.0,0,28,2
+MI,15,15.5,1,0,0,0,1,David,Hardik,21,16,1,1,David,4,6,0,0,Unadkat,2.0,0,31,1,Cummins,3.0,0,28,2
+MI,15,15.4,0,0,1,0,0,David,Hardik,21,16,1,1,David,3,6,0,0,Unadkat,2.0,0,30,1,Cummins,3.0,0,28,2
+MI,15,15.3,1,0,0,0,0,Hardik,Hardik,21,16,1,1,David,3,5,0,0,Unadkat,2.0,0,30,1,Cummins,3.0,0,28,2
+MI,15,15.2,1,0,0,0,0,David,Hardik,20,15,1,1,David,3,5,0,0,Unadkat,2.0,0,29,1,Cummins,3.0,0,28,2
+MI,15,15.1,0,0,1,0,0,David,Hardik,20,15,1,1,David,2,4,0,0,Unadkat,2.0,0,28,1,Cummins,3.0,0,28,2
+MI,14,14.6,1,0,0,0,0,David,Hardik,20,15,1,1,David,2,3,0,0,Cummins,3.0,0,28,2,Markande,3.0,0,37,0
+MI,14,14.5,1,0,0,0,0,Hardik,Hardik,20,15,1,1,David,1,2,0,0,Cummins,2.0,0,27,2,Markande,3.0,0,37,0
+MI,14,14.4,0,0,1,0,0,Hardik,Hardik,19,14,1,1,David,1,2,0,0,Cummins,2.0,0,26,2,Markande,3.0,0,37,0
+MI,14,14.3,1,0,0,0,0,David,Hardik,19,13,1,1,David,1,2,0,0,Cummins,2.0,0,26,2,Markande,3.0,0,37,0
+MI,14,14.2,0,0,1,0,0,David,Hardik,19,13,1,1,David,0,1,0,0,Cummins,2.0,0,25,2,Markande,3.0,0,37,0
+MI,14,14.1,0,0,0,1,0,Tilak Varma,Hardik,19,13,1,1,,0,0,0,0,Cummins,2.0,0,25,2,Markande,3.0,0,37,0
+MI,13,13.6,1,0,0,0,0,Tilak Varma,Tilak Varma,68,33,2,6,Hardik,19,13,1,1,Markande,3.0,0,37,0,Bhuvneshwar,3.0,0,33,0
+MI,13,13.5,1,0,0,0,0,Hardik,Tilak Varma,67,32,2,6,Hardik,19,13,1,1,Markande,3.0,0,36,0,Bhuvneshwar,3.0,0,33,0
+MI,13,13.4,1,0,0,0,0,Tilak Varma,Tilak Varma,67,32,2,6,Hardik,18,12,1,1,Markande,2.0,0,35,0,Bhuvneshwar,3.0,0,33,0
+MI,13,13.3,2,0,0,0,0,Tilak Varma,Tilak Varma,66,31,2,6,Hardik,18,12,1,1,Markande,2.0,0,34,0,Bhuvneshwar,3.0,0,33,0
+MI,13,13.2,6,1,0,0,0,Tilak Varma,Tilak Varma,64,30,2,6,Hardik,18,12,1,1,Markande,2.0,0,32,0,Bhuvneshwar,3.0,0,33,0
+MI,13,13.1,1,0,0,0,0,Hardik,Tilak Varma,58,29,2,5,Hardik,18,12,1,1,Markande,2.0,0,26,0,Bhuvneshwar,3.0,0,33,0
+MI,12,12.6,1,0,0,0,0,Hardik,Tilak Varma,58,29,2,5,Hardik,17,11,1,1,Bhuvneshwar,3.0,0,33,0,Markande,2.0,0,25,0
+MI,12,12.5,1,0,0,0,0,Tilak Varma,Tilak Varma,58,29,2,5,Hardik,16,10,1,1,Bhuvneshwar,2.0,0,32,0,Markande,2.0,0,25,0
+MI,12,12.4,1,0,0,0,0,Hardik,Tilak Varma,57,28,2,5,Hardik,16,10,1,1,Bhuvneshwar,2.0,0,31,0,Markande,2.0,0,25,0
+MI,12,12.3,2,0,0,0,0,Hardik,Tilak Varma,57,28,2,5,Hardik,15,9,1,1,Bhuvneshwar,2.0,0,30,0,Markande,2.0,0,25,0
+MI,12,12.2,0,0,1,0,0,Hardik,Tilak Varma,57,28,2,5,Hardik,13,8,1,1,Bhuvneshwar,2.0,0,28,0,Markande,2.0,0,25,0
+MI,12,12.1,0,0,1,0,0,Hardik,Tilak Varma,57,28,2,5,Hardik,13,7,1,1,Bhuvneshwar,2.0,0,28,0,Markande,2.0,0,25,0
+MI,11,11.6,1,0,0,0,0,Hardik,Tilak Varma,57,28,2,5,Hardik,13,6,1,1,Markande,2.0,0,25,0,Unadkat,2.0,0,28,1
+MI,11,11.6,2,0,0,0,1,Tilak Varma,Tilak Varma,57,28,2,5,Hardik,12,5,1,1,Markande,2.0,0,24,0,Unadkat,2.0,0,28,1
+MI,11,11.5,0,0,1,0,0,Tilak Varma,Tilak Varma,55,27,2,5,Hardik,12,5,1,1,Markande,1.0,0,22,0,Unadkat,2.0,0,28,1
+MI,11,11.4,0,0,1,0,0,Tilak Varma,Tilak Varma,55,26,2,5,Hardik,12,5,1,1,Markande,1.0,0,22,0,Unadkat,2.0,0,28,1
+MI,11,11.3,1,0,0,0,0,Hardik,Tilak Varma,55,25,2,5,Hardik,12,5,1,1,Markande,1.0,0,22,0,Unadkat,2.0,0,28,1
+MI,11,11.2,4,1,0,0,0,Hardik,Tilak Varma,55,25,2,5,Hardik,11,4,1,1,Markande,1.0,0,21,0,Unadkat,2.0,0,28,1
+MI,11,11.1,6,1,0,0,0,Hardik,Tilak Varma,55,25,2,5,Hardik,7,3,0,1,Markande,1.0,0,17,0,Unadkat,2.0,0,28,1
+MI,10,10.6,1,0,0,0,0,Hardik,Tilak Varma,55,25,2,5,Hardik,1,2,0,0,Unadkat,2.0,0,28,1,Shahbaz Ahmed,3.0,0,39,1
+MI,10,10.5,0,0,1,0,0,Hardik,Tilak Varma,55,25,2,5,Hardik,0,1,0,0,Unadkat,1.0,0,27,1,Shahbaz Ahmed,3.0,0,39,1
+MI,10,10.4,0,0,0,1,0,Naman Dhir,Tilak Varma,55,25,2,5,,0,0,0,0,Unadkat,1.0,0,27,1,Shahbaz Ahmed,3.0,0,39,1
+MI,10,10.3,4,1,0,0,0,Naman Dhir,Naman Dhir,31,13,2,2,Tilak Varma,55,25,2,5,Unadkat,1.0,0,27,0,Shahbaz Ahmed,3.0,0,39,1
+MI,10,10.2,1,0,0,0,0,Tilak Varma,Naman Dhir,27,12,1,2,Tilak Varma,55,25,2,5,Unadkat,1.0,0,23,0,Shahbaz Ahmed,3.0,0,39,1
+MI,10,10.1,4,1,0,0,0,Tilak Varma,Naman Dhir,27,12,1,2,Tilak Varma,54,24,2,5,Unadkat,1.0,0,22,0,Shahbaz Ahmed,3.0,0,39,1
+MI,9,9.6,1,0,0,0,0,Tilak Varma,Naman Dhir,27,12,1,2,Tilak Varma,50,23,1,5,Shahbaz Ahmed,3.0,0,39,1,Cummins,2.0,0,25,1
+MI,9,9.5,6,1,0,0,0,Tilak Varma,Naman Dhir,27,12,1,2,Tilak Varma,49,22,1,5,Shahbaz Ahmed,2.0,0,38,1,Cummins,2.0,0,25,1
+MI,9,9.4,2,0,0,0,0,Tilak Varma,Naman Dhir,27,12,1,2,Tilak Varma,43,21,1,4,Shahbaz Ahmed,2.0,0,32,1,Cummins,2.0,0,25,1
+MI,9,9.3,6,1,0,0,0,Tilak Varma,Naman Dhir,27,12,1,2,Tilak Varma,41,20,1,4,Shahbaz Ahmed,2.0,0,30,1,Cummins,2.0,0,25,1
+MI,9,9.2,6,1,0,0,0,Tilak Varma,Naman Dhir,27,12,1,2,Tilak Varma,35,19,1,3,Shahbaz Ahmed,2.0,0,24,1,Cummins,2.0,0,25,1
+MI,9,9.1,1,0,0,0,0,Naman Dhir,Naman Dhir,27,12,1,2,Tilak Varma,29,18,1,2,Shahbaz Ahmed,2.0,0,18,1,Cummins,2.0,0,25,1
+MI,8,8.6,1,0,0,0,0,Naman Dhir,Naman Dhir,26,11,1,2,Tilak Varma,29,18,1,2,Cummins,2.0,0,25,1,Markande,1.0,0,11,0
+MI,8,8.5,2,0,0,0,0,Naman Dhir,Naman Dhir,25,10,1,2,Tilak Varma,29,18,1,2,Cummins,1.0,0,24,1,Markande,1.0,0,11,0
+MI,8,8.4,6,1,0,0,0,Naman Dhir,Naman Dhir,23,9,1,2,Tilak Varma,29,18,1,2,Cummins,1.0,0,22,1,Markande,1.0,0,11,0
+MI,8,8.3,1,0,0,0,0,Tilak Varma,Naman Dhir,17,8,1,1,Tilak Varma,29,18,1,2,Cummins,1.0,0,16,1,Markande,1.0,0,11,0
+MI,8,8.2,2,0,0,0,0,Tilak Varma,Naman Dhir,17,8,1,1,Tilak Varma,28,17,1,2,Cummins,1.0,0,15,1,Markande,1.0,0,11,0
+MI,8,8.2,1,0,0,0,1,Tilak Varma,Naman Dhir,17,8,1,1,Tilak Varma,26,16,1,2,Cummins,1.0,0,13,1,Markande,1.0,0,11,0
+MI,8,8.1,4,1,0,0,0,Tilak Varma,Naman Dhir,17,8,1,1,Tilak Varma,25,16,1,2,Cummins,1.0,0,12,1,Markande,1.0,0,11,0
+MI,7,7.6,1,0,0,0,0,Tilak Varma,Naman Dhir,17,8,1,1,Tilak Varma,21,15,0,2,Markande,1.0,0,11,0,Umran Malik,1.0,0,15,0
+MI,7,7.5,0,0,1,0,0,Tilak Varma,Naman Dhir,17,8,1,1,Tilak Varma,20,14,0,2,Markande,0,0,10,0,Umran Malik,1.0,0,15,0
+MI,7,7.4,1,0,0,0,0,Naman Dhir,Naman Dhir,17,8,1,1,Tilak Varma,20,13,0,2,Markande,0,0,10,0,Umran Malik,1.0,0,15,0
+MI,7,7.3,1,0,0,0,0,Tilak Varma,Naman Dhir,16,7,1,1,Tilak Varma,20,13,0,2,Markande,0,0,9,0,Umran Malik,1.0,0,15,0
+MI,7,7.3,1,0,0,0,1,Tilak Varma,Naman Dhir,16,7,1,1,Tilak Varma,19,12,0,2,Markande,0,0,8,0,Umran Malik,1.0,0,15,0
+MI,7,7.2,6,1,0,0,0,Tilak Varma,Naman Dhir,16,7,1,1,Tilak Varma,18,12,0,2,Markande,0,0,7,0,Umran Malik,1.0,0,15,0
+MI,7,7.1,1,0,0,0,0,Naman Dhir,Naman Dhir,16,7,1,1,Tilak Varma,12,11,0,1,Markande,0,0,1,0,Umran Malik,1.0,0,15,0
+MI,6,6.6,6,1,0,0,0,Tilak Varma,Naman Dhir,15,6,1,1,Tilak Varma,12,11,0,1,Umran Malik,1.0,0,15,0,Shahbaz Ahmed,2.0,0,17,1
+MI,6,6.5,0,0,1,0,0,Tilak Varma,Naman Dhir,15,6,1,1,Tilak Varma,6,10,0,0,Umran Malik,0,0,9,0,Shahbaz Ahmed,2.0,0,17,1
+MI,6,6.4,1,0,0,0,0,Naman Dhir,Naman Dhir,15,6,1,1,Tilak Varma,6,9,0,0,Umran Malik,0,0,9,0,Shahbaz Ahmed,2.0,0,17,1
+MI,6,6.3,6,1,0,0,0,Naman Dhir,Naman Dhir,14,5,1,1,Tilak Varma,6,9,0,0,Umran Malik,0,0,8,0,Shahbaz Ahmed,2.0,0,17,1
+MI,6,6.3,1,0,0,0,1,Naman Dhir,Naman Dhir,8,4,1,0,Tilak Varma,6,9,0,0,Umran Malik,0,0,2,0,Shahbaz Ahmed,2.0,0,17,1
+MI,6,6.2,1,0,0,0,0,Tilak Varma,Naman Dhir,7,4,1,0,Tilak Varma,6,9,0,0,Umran Malik,0,0,1,0,Shahbaz Ahmed,2.0,0,17,1
+MI,6,6.1,0,0,1,0,0,Tilak Varma,Naman Dhir,7,4,1,0,Tilak Varma,5,8,0,0,Umran Malik,0,0,0,0,Shahbaz Ahmed,2.0,0,17,1
+MI,5,5.6,1,0,0,0,0,Tilak Varma,Naman Dhir,7,4,1,0,Tilak Varma,5,7,0,0,Shahbaz Ahmed,2.0,0,17,1,Cummins,1.0,0,8,1
+MI,5,5.5,2,0,0,0,0,Tilak Varma,Naman Dhir,7,4,1,0,Tilak Varma,4,6,0,0,Shahbaz Ahmed,1.0,0,16,1,Cummins,1.0,0,8,1
+MI,5,5.4,0,0,1,0,0,Tilak Varma,Naman Dhir,7,4,1,0,Tilak Varma,2,5,0,0,Shahbaz Ahmed,1.0,0,14,1,Cummins,1.0,0,8,1
+MI,5,5.3,1,0,0,0,0,Naman Dhir,Naman Dhir,7,4,1,0,Tilak Varma,2,4,0,0,Shahbaz Ahmed,1.0,0,14,1,Cummins,1.0,0,8,1
+MI,5,5.2,4,1,0,0,0,Naman Dhir,Naman Dhir,6,3,1,0,Tilak Varma,2,4,0,0,Shahbaz Ahmed,1.0,0,13,1,Cummins,1.0,0,8,1
+MI,5,5.1,1,0,0,0,1,Tilak Varma,Naman Dhir,2,2,0,0,Tilak Varma,2,4,0,0,Shahbaz Ahmed,1.0,0,9,1,Cummins,1.0,0,8,1
+MI,4,4.6,1,0,0,0,0,Tilak Varma,Naman Dhir,2,2,0,0,Tilak Varma,1,3,0,0,Cummins,1.0,0,8,1,Shahbaz Ahmed,1.0,0,9,1
+MI,4,4.5,0,0,1,0,0,Tilak Varma,Naman Dhir,2,2,0,0,Tilak Varma,0,2,0,0,Cummins,0,0,7,1,Shahbaz Ahmed,1.0,0,9,1
+MI,4,4.4,0,0,1,0,0,Tilak Varma,Naman Dhir,2,2,0,0,Tilak Varma,0,1,0,0,Cummins,0,0,7,1,Shahbaz Ahmed,1.0,0,9,1
+MI,4,4.3,0,0,0,1,0,Rohit Sharma,Naman Dhir,2,2,0,0,,0,0,0,0,Cummins,0,0,7,1,Shahbaz Ahmed,1.0,0,9,1
+MI,4,4.2,6,1,0,0,0,Rohit Sharma,Rohit Sharma,26,11,1,3,Naman Dhir,2,2,0,0,Cummins,0,0,7,0,Shahbaz Ahmed,1.0,0,9,1
+MI,4,4.1,1,0,0,0,0,Naman Dhir,Rohit Sharma,20,10,1,2,Naman Dhir,2,2,0,0,Cummins,0,0,1,0,Shahbaz Ahmed,1.0,0,9,1
+MI,3,3.6,2,0,0,0,0,Rohit Sharma,Rohit Sharma,20,10,1,2,Naman Dhir,1,1,0,0,Shahbaz Ahmed,1.0,0,9,1,Bhuvneshwar,2.0,0,28,0
+MI,3,3.5,0,0,1,0,0,Rohit Sharma,Rohit Sharma,18,9,1,2,Naman Dhir,1,1,0,0,Shahbaz Ahmed,0,0,7,1,Bhuvneshwar,2.0,0,28,0
+MI,3,3.4,0,0,1,0,0,Rohit Sharma,Rohit Sharma,18,8,1,2,Naman Dhir,1,1,0,0,Shahbaz Ahmed,0,0,7,1,Bhuvneshwar,2.0,0,28,0
+MI,3,3.3,1,0,0,0,0,Naman Dhir,Rohit Sharma,18,7,1,2,Naman Dhir,1,1,0,0,Shahbaz Ahmed,0,0,7,1,Bhuvneshwar,2.0,0,28,0
+MI,3,3.2,0,0,0,1,0,Ishan,Rohit Sharma,18,7,1,2,,0,0,0,0,Shahbaz Ahmed,0,0,6,1,Bhuvneshwar,2.0,0,28,0
+MI,3,3.1,6,1,0,0,0,Ishan,Rohit Sharma,18,7,1,2,Ishan,38,12,3,4,Shahbaz Ahmed,0,0,6,0,Bhuvneshwar,2.0,0,28,0
+MI,2,2.6,1,0,0,0,0,Ishan,Rohit Sharma,18,7,1,2,Ishan,32,11,3,3,Bhuvneshwar,2.0,0,28,0,Unadkat,1.0,0,18,0
+MI,2,2.5,6,1,0,0,0,Ishan,Rohit Sharma,18,7,1,2,Ishan,31,10,3,3,Bhuvneshwar,1.0,0,27,0,Unadkat,1.0,0,18,0
+MI,2,2.4,0,0,1,0,0,Ishan,Rohit Sharma,18,7,1,2,Ishan,25,9,3,2,Bhuvneshwar,1.0,0,21,0,Unadkat,1.0,0,18,0
+MI,2,2.3,6,1,0,0,0,Ishan,Rohit Sharma,18,7,1,2,Ishan,25,8,3,2,Bhuvneshwar,1.0,0,21,0,Unadkat,1.0,0,18,0
+MI,2,2.2,6,1,0,0,0,Ishan,Rohit Sharma,18,7,1,2,Ishan,19,7,3,1,Bhuvneshwar,1.0,0,15,0,Unadkat,1.0,0,18,0
+MI,2,2.1,4,1,0,0,0,Ishan,Rohit Sharma,18,7,1,2,Ishan,13,6,3,0,Bhuvneshwar,1.0,0,9,0,Unadkat,1.0,0,18,0
+MI,1,1.6,0,0,1,0,0,Rohit Sharma,Rohit Sharma,18,7,1,2,Ishan,9,5,2,0,Unadkat,1.0,0,18,0,Bhuvneshwar,1.0,0,5,0
+MI,1,1.5,6,1,0,0,0,Rohit Sharma,Rohit Sharma,18,6,1,2,Ishan,9,5,2,0,Unadkat,0,0,18,0,Bhuvneshwar,1.0,0,5,0
+MI,1,1.4,6,1,0,0,0,Rohit Sharma,Rohit Sharma,12,5,1,1,Ishan,9,5,2,0,Unadkat,0,0,12,0,Bhuvneshwar,1.0,0,5,0
+MI,1,1.3,1,0,0,0,0,Ishan,Rohit Sharma,6,4,1,0,Ishan,9,5,2,0,Unadkat,0,0,6,0,Bhuvneshwar,1.0,0,5,0
+MI,1,1.2,4,1,0,0,0,Ishan,Rohit Sharma,6,4,1,0,Ishan,8,4,2,0,Unadkat,0,0,5,0,Bhuvneshwar,1.0,0,5,0
+MI,1,1.1,1,0,0,0,0,Rohit Sharma,Rohit Sharma,6,4,1,0,Ishan,4,3,1,0,Unadkat,0,0,1,0,Bhuvneshwar,1.0,0,5,0
+MI,0,0.6,0,0,1,0,0,Ishan,Rohit Sharma,5,3,1,0,Ishan,4,3,1,0,Bhuvneshwar,1.0,0,5,0,,0,0,0,0
+MI,0,0.5,4,1,0,0,1,Ishan,Rohit Sharma,5,3,1,0,Ishan,4,2,1,0,Bhuvneshwar,0,0,5,0,,0,0,0,0
+MI,0,0.4,0,0,1,0,0,Ishan,Rohit Sharma,5,3,1,0,Ishan,0,1,0,0,Bhuvneshwar,0,0,5,0,,0,0,0,0
+MI,0,0.3,1,0,0,0,0,Rohit Sharma,Rohit Sharma,5,3,1,0,,0,0,0,0,Bhuvneshwar,0,0,5,0,,0,0,0,0
+MI,0,0.2,4,1,0,0,0,Rohit Sharma,Rohit Sharma,4,2,1,0,,0,0,0,0,Bhuvneshwar,0,0,4,0,,0,0,0,0
+MI,0,0.1,0,0,1,0,0,Rohit Sharma,Rohit Sharma,0,1,0,0,,0,0,0,0,Bhuvneshwar,0,0,0,0,,0,0,0,0

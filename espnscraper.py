@@ -1,6 +1,8 @@
 import csv
 import os
 import re
+import sys  # Add the missing sys import
+import traceback  # Add traceback for exception handling
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
 from batting_stats import BattingHistoryDownloader
@@ -134,7 +136,7 @@ def fetch_player_links_with_teams(team_sections):
 
     return player_links
 
-def fetch_and_save_player_stats(player_links, match_id=None):
+def fetch_and_save_player_stats(player_links,page, match_id=None):
     """
     Fetch and save player statistics organized by team and role.
     Include match ID in filenames.
@@ -161,7 +163,7 @@ def fetch_and_save_player_stats(player_links, match_id=None):
                 team_stats[player_team] = {"batting": [], "bowling": []}
 
             # Fetch stats
-            batting_df, bowling_df = downloader.get_ipl_batting_stats(player_id)
+            batting_df, bowling_df = downloader.get_ipl_batting_stats(player_id ,page)
 
             # Process batting stats (for batsmen or all-rounders)
             if batting_df is not None and not batting_df.empty:
@@ -687,7 +689,7 @@ def scrape_all_overs_data(url):  # Add url parameter
         print(f"Found {len(player_links)} players. Fetching their stats...")
 
         # Pass the match_id here
-        fetch_and_save_player_stats(player_links, match_id=match_dir)
+        fetch_and_save_player_stats(player_links,page, match_id=match_dir)
 
         browser.close()
         return match_dir, match_id  # Return match_dir and match_id for use in main()
@@ -786,10 +788,38 @@ def ensure_directory_exists(directory):
         os.makedirs(directory)
         print(f"Created directory: {directory}")
 
-def main():
+import time
+
+def wait_for_new_ball_update(page):
+    """
+    Continuously monitors the first commentary div and waits for a new ball update.
+    Returns the updated ball commentary once detected.
+    """
+    print("⏳ Waiting for the next ball to be bowled...")
+
+    # Locate the first commentary div
+    commentary_divs = page.locator("xpath=//div[contains(@class, 'ds-hover-parent ds-relative')]")
+
+    # Get the initial first div text (if available)
+    initial_text = commentary_divs.nth(0).inner_text().strip() if commentary_divs.count() > 0 else ""
+    
+    while True:
+        time.sleep(1)  # Poll every second (adjust if needed)
+
+        # Fetch updated first div text
+        latest_text = commentary_divs.nth(0).inner_text().strip() if commentary_divs.count() > 0 else ""
+
+        # If new text appears, return it
+        if latest_text and latest_text != initial_text:
+            print(f"🎯 New Ball Update Detected: {latest_text}")
+            return latest_text  # Return the latest ball commentary
+
+
+def main(url=None):
     """Main function to run the scraper and process the data."""
-    # URL of the page
-    url = "https://www.espncricinfo.com/series/ipl-2020-21-1210595/mumbai-indians-vs-chennai-super-kings-1st-match-1216492/full-scorecard"
+    if not url:
+        # Default URL if none is provided
+        url = "https://www.espncricinfo.com/series/ipl-2020-21-1210595/mumbai-indians-vs-chennai-super-kings-1st-match-1216492/full-scorecard"
     
     # Get match info and create directory structure
     current_dir = os.path.dirname(os.path.abspath(__file__))
@@ -797,42 +827,55 @@ def main():
     match_dir = os.path.join(current_dir, season_folder, match_id, "ball_by_ball")
     ensure_directory_exists(match_dir)
     
-    # First, run the ball-by-ball scraper to create innings summary files
-    print("Running ball-by-ball scraper first...")
-    from espnscraper_ballbyball import main as run_ballbyball
-    run_ballbyball(url)
-    
-    # Then scrape the scorecard data with URL parameter
-    print("Starting scorecard data scraping...")
-    match_dir, match_id = scrape_all_overs_data(url)  # Pass url here
-    
-    print("Processing CSV data...")
-    process_csv_data(match_dir)
-    
-    # Import and use the data merger
-    from data_merger import merge_match_data, generate_team_summary
-    
     try:
-        # Both First_innings_summary.csv and Second_innings_summary.csv should now exist in match_dir
-        merged_data = merge_match_data(match_dir, match_dir)
+        # First, import and run the ball-by-ball scraper to create innings summary files
+        print("Running ball-by-ball scraper first...")
+        from espnscraper_ballbyball import main as run_ballbyball
+        run_ballbyball(url)
         
-        # Generate team summary
-        team_summary = generate_team_summary(merged_data)
+        # Then scrape the scorecard data with URL parameter
+        print("Starting scorecard data scraping...")
+        match_dir, match_id = scrape_all_overs_data(url)  # Pass url here
         
-        # Save team summary
-        summary_file = os.path.join(match_dir, 'team_summary.csv')
-        team_summary.to_csv(summary_file, index=False)
-        print(f"Team summary saved to: {summary_file}")
+        print("Processing CSV data...")
+        process_csv_data(match_dir)
         
-    except FileNotFoundError as e:
-        print(f"Error: Required files not found - {e}")
-        print(f"Looking in directory: {match_dir}")
-        print("Make sure both First_innings_summary.csv and Second_innings_summary.csv exist in this directory")
+        # Import and use the data merger
+        from data_merger import merge_match_data, generate_team_summary
+        
+        try:
+            # Both First_innings_summary.csv and Second_innings_summary.csv should now exist in match_dir
+            merged_data = merge_match_data(match_dir, match_dir)
+            
+            # Generate team summary
+            team_summary = generate_team_summary(merged_data)
+            
+            # Save team summary
+            summary_file = os.path.join(match_dir, 'team_summary.csv')
+            team_summary.to_csv(summary_file, index=False)
+            print(f"Team summary saved to: {summary_file}")
+            
+        except FileNotFoundError as e:
+            print(f"Error: Required files not found - {e}")
+            print(f"Looking in directory: {match_dir}")
+            print("Make sure both First_innings_summary.csv and Second_innings_summary.csv exist in this directory")
+        except Exception as e:
+            print(f"Error during data merging: {e}")
+        
+        print(f"All operations completed. Data saved in: {match_dir}")
+        return True
+        
     except Exception as e:
-        print(f"Error during data merging: {e}")
-    
-    print(f"All operations completed. Data saved in: {match_dir}")
+        print(f"Error processing match: {e}")
+        traceback.print_exc()
+        return False
 
 if __name__ == "__main__":
-    main()
+    # Check if URL is provided as command line argument
+    if len(sys.argv) > 1:
+        url = sys.argv[1]
+        print(f"Processing URL: {url}")
+        main(url)
+    else:
+        main()  # Use default URL
 

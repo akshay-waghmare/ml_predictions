@@ -1,0 +1,123 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+DC,19,19.1,0,0,0,1,0,Pant,Mukesh Kumar,0,2,0,0,,0,0,0,0,Nitish Kumar,2.0,0,17,2,Natarajan,4.0,1,19,4
+DC,18,18.6,0,0,1,0,0,Mukesh Kumar,Pant,45,34,5,1,Mukesh Kumar,0,2,0,0,Natarajan,4.0,1,19,4,Cummins,4.0,0,35,0
+DC,18,18.5,0,0,1,0,0,Mukesh Kumar,Pant,45,34,5,1,Mukesh Kumar,0,1,0,0,Natarajan,3.0,0,19,4,Cummins,4.0,0,35,0
+DC,18,18.4,0,0,0,1,0,Kuldeep,Pant,45,34,5,1,,0,0,0,0,Natarajan,3.0,0,19,4,Cummins,4.0,0,35,0
+DC,18,18.3,0,0,0,1,0,Nortje,Pant,45,34,5,1,,0,0,0,0,Natarajan,3.0,0,19,3,Cummins,4.0,0,35,0
+DC,18,18.2,0,0,1,0,0,Nortje,Pant,45,34,5,1,Nortje,0,1,0,0,Natarajan,3.0,0,19,2,Cummins,4.0,0,35,0
+DC,18,18.1,0,0,0,1,0,Axar Patel,Pant,45,34,5,1,,0,0,0,0,Natarajan,3.0,0,19,2,Cummins,4.0,0,35,0
+DC,17,17.6,4,1,0,0,0,Pant,Pant,45,34,5,1,Axar Patel,7,7,0,0,Cummins,4.0,0,35,0,Bhuvneshwar,4.0,0,33,1
+DC,17,17.5,4,1,0,0,0,Pant,Pant,41,33,4,1,Axar Patel,7,7,0,0,Cummins,3.0,0,31,0,Bhuvneshwar,4.0,0,33,1
+DC,17,17.4,1,0,0,0,0,Axar Patel,Pant,37,32,3,1,Axar Patel,7,7,0,0,Cummins,3.0,0,27,0,Bhuvneshwar,4.0,0,33,1
+DC,17,17.3,1,0,0,0,0,Pant,Pant,37,32,3,1,Axar Patel,6,6,0,0,Cummins,3.0,0,26,0,Bhuvneshwar,4.0,0,33,1
+DC,17,17.2,0,0,1,0,0,Pant,Pant,36,31,3,1,Axar Patel,6,6,0,0,Cummins,3.0,0,25,0,Bhuvneshwar,4.0,0,33,1
+DC,17,17.1,1,0,0,0,0,Axar Patel,Pant,36,30,3,1,Axar Patel,6,6,0,0,Cummins,3.0,0,25,0,Bhuvneshwar,4.0,0,33,1
+DC,16,16.6,1,0,0,0,0,Axar Patel,Pant,36,30,3,1,Axar Patel,5,5,0,0,Bhuvneshwar,4.0,0,33,1,Nitish Kumar,2.0,0,17,1
+DC,16,16.5,1,0,0,0,0,Pant,Pant,36,30,3,1,Axar Patel,4,4,0,0,Bhuvneshwar,3.0,0,32,1,Nitish Kumar,2.0,0,17,1
+DC,16,16.4,1,0,0,0,1,Axar Patel,Pant,35,29,3,1,Axar Patel,4,4,0,0,Bhuvneshwar,3.0,0,31,1,Nitish Kumar,2.0,0,17,1
+DC,16,16.3,1,0,0,0,0,Pant,Pant,35,29,3,1,Axar Patel,3,3,0,0,Bhuvneshwar,3.0,0,31,1,Nitish Kumar,2.0,0,17,1
+DC,16,16.2,4,1,0,0,0,Pant,Pant,34,28,3,1,Axar Patel,3,3,0,0,Bhuvneshwar,3.0,0,30,1,Nitish Kumar,2.0,0,17,1
+DC,16,16.1,1,0,0,0,0,Axar Patel,Pant,30,27,2,1,Axar Patel,3,3,0,0,Bhuvneshwar,3.0,0,26,1,Nitish Kumar,2.0,0,17,1
+DC,15,15.6,1,0,0,0,0,Axar Patel,Pant,30,27,2,1,Axar Patel,2,2,0,0,Nitish Kumar,2.0,0,17,1,Natarajan,3.0,0,19,1
+DC,15,15.5,1,0,0,0,0,Pant,Pant,30,27,2,1,Axar Patel,1,1,0,0,Nitish Kumar,1.0,0,16,1,Natarajan,3.0,0,19,1
+DC,15,15.4,6,1,0,0,0,Pant,Pant,29,26,2,1,Axar Patel,1,1,0,0,Nitish Kumar,1.0,0,15,1,Natarajan,3.0,0,19,1
+DC,15,15.3,2,0,0,0,0,Pant,Pant,23,25,2,0,Axar Patel,1,1,0,0,Nitish Kumar,1.0,0,9,1,Natarajan,3.0,0,19,1
+DC,15,15.3,1,0,0,0,1,Pant,Pant,21,24,2,0,Axar Patel,1,1,0,0,Nitish Kumar,1.0,0,7,1,Natarajan,3.0,0,19,1
+DC,15,15.2,1,0,0,0,0,Axar Patel,Pant,20,24,2,0,Axar Patel,1,1,0,0,Nitish Kumar,1.0,0,6,1,Natarajan,3.0,0,19,1
+DC,15,15.1,1,0,0,0,0,Pant,Pant,20,24,2,0,,0,0,0,0,Nitish Kumar,1.0,0,5,1,Natarajan,3.0,0,19,1
+DC,14,14.6,0,0,0,1,0,Lalit Yadav,Pant,19,23,2,0,,0,0,0,0,Natarajan,3.0,0,19,1,Cummins,3.0,0,24,0
+DC,14,14.5,0,0,1,0,0,Lalit Yadav,Pant,19,23,2,0,Lalit Yadav,7,7,1,0,Natarajan,2.0,0,19,0,Cummins,3.0,0,24,0
+DC,14,14.4,4,1,0,0,0,Lalit Yadav,Pant,19,23,2,0,Lalit Yadav,7,6,1,0,Natarajan,2.0,0,19,0,Cummins,3.0,0,24,0
+DC,14,14.3,1,0,0,0,0,Pant,Pant,19,23,2,0,Lalit Yadav,3,5,0,0,Natarajan,2.0,0,15,0,Cummins,3.0,0,24,0
+DC,14,14.2,2,0,0,0,0,Pant,Pant,18,22,2,0,Lalit Yadav,3,5,0,0,Natarajan,2.0,0,14,0,Cummins,3.0,0,24,0
+DC,14,14.1,0,0,1,0,0,Pant,Pant,16,21,2,0,Lalit Yadav,3,5,0,0,Natarajan,2.0,0,12,0,Cummins,3.0,0,24,0
+DC,13,13.6,0,0,1,0,0,Lalit Yadav,Pant,16,20,2,0,Lalit Yadav,3,5,0,0,Cummins,3.0,0,24,0,Nitish Kumar,1.0,0,4,1
+DC,13,13.5,1,0,0,0,0,Pant,Pant,16,20,2,0,Lalit Yadav,3,4,0,0,Cummins,2.0,0,24,0,Nitish Kumar,1.0,0,4,1
+DC,13,13.4,0,0,1,0,0,Pant,Pant,15,19,2,0,Lalit Yadav,3,4,0,0,Cummins,2.0,0,23,0,Nitish Kumar,1.0,0,4,1
+DC,13,13.3,0,0,1,0,0,Pant,Pant,15,18,2,0,Lalit Yadav,3,4,0,0,Cummins,2.0,0,23,0,Nitish Kumar,1.0,0,4,1
+DC,13,13.2,0,0,1,0,0,Pant,Pant,15,17,2,0,Lalit Yadav,3,4,0,0,Cummins,2.0,0,23,0,Nitish Kumar,1.0,0,4,1
+DC,13,13.1,1,0,0,0,0,Lalit Yadav,Pant,15,16,2,0,Lalit Yadav,3,4,0,0,Cummins,2.0,0,23,0,Nitish Kumar,1.0,0,4,1
+DC,12,12.6,1,0,0,0,0,Lalit Yadav,Pant,15,16,2,0,Lalit Yadav,2,3,0,0,Nitish Kumar,1.0,0,4,1,Bhuvneshwar,3.0,0,25,1
+DC,12,12.5,0,0,1,0,0,Lalit Yadav,Pant,15,16,2,0,Lalit Yadav,1,2,0,0,Nitish Kumar,0,0,3,1,Bhuvneshwar,3.0,0,25,1
+DC,12,12.4,1,0,0,0,0,Pant,Pant,15,16,2,0,Lalit Yadav,1,1,0,0,Nitish Kumar,0,0,3,1,Bhuvneshwar,3.0,0,25,1
+DC,12,12.3,1,0,0,0,0,Lalit Yadav,Pant,14,15,2,0,Lalit Yadav,1,1,0,0,Nitish Kumar,0,0,2,1,Bhuvneshwar,3.0,0,25,1
+DC,12,12.2,0,0,0,1,0,Stubbs,Pant,14,15,2,0,,0,0,0,0,Nitish Kumar,0,0,1,1,Bhuvneshwar,3.0,0,25,1
+DC,12,12.1,1,0,0,0,0,Pant,Stubbs,10,10,0,0,Pant,14,15,2,0,Nitish Kumar,0,0,1,0,Bhuvneshwar,3.0,0,25,1
+DC,11,11.6,1,0,0,0,0,Pant,Stubbs,10,10,0,0,Pant,13,14,2,0,Bhuvneshwar,3.0,0,25,1,Natarajan,2.0,0,12,0
+DC,11,11.5,4,1,0,0,0,Pant,Stubbs,10,10,0,0,Pant,12,13,2,0,Bhuvneshwar,2.0,0,24,1,Natarajan,2.0,0,12,0
+DC,11,11.4,0,0,1,0,0,Pant,Stubbs,10,10,0,0,Pant,8,12,1,0,Bhuvneshwar,2.0,0,20,1,Natarajan,2.0,0,12,0
+DC,11,11.3,0,0,1,0,0,Pant,Stubbs,10,10,0,0,Pant,8,11,1,0,Bhuvneshwar,2.0,0,20,1,Natarajan,2.0,0,12,0
+DC,11,11.2,4,1,0,0,0,Pant,Stubbs,10,10,0,0,Pant,8,10,1,0,Bhuvneshwar,2.0,0,20,1,Natarajan,2.0,0,12,0
+DC,11,11.1,1,0,0,0,0,Stubbs,Stubbs,10,10,0,0,Pant,4,9,0,0,Bhuvneshwar,2.0,0,16,1,Natarajan,2.0,0,12,0
+DC,10,10.6,1,0,0,0,0,Stubbs,Stubbs,9,9,0,0,Pant,4,9,0,0,Natarajan,2.0,0,12,0,Cummins,2.0,0,22,0
+DC,10,10.5,1,0,0,0,0,Pant,Stubbs,8,8,0,0,Pant,4,9,0,0,Natarajan,1.0,0,11,0,Cummins,2.0,0,22,0
+DC,10,10.4,1,0,0,0,0,Stubbs,Stubbs,8,8,0,0,Pant,3,8,0,0,Natarajan,1.0,0,10,0,Cummins,2.0,0,22,0
+DC,10,10.3,1,0,0,0,0,Pant,Stubbs,7,7,0,0,Pant,3,8,0,0,Natarajan,1.0,0,9,0,Cummins,2.0,0,22,0
+DC,10,10.2,0,0,1,0,0,Pant,Stubbs,7,7,0,0,Pant,2,7,0,0,Natarajan,1.0,0,8,0,Cummins,2.0,0,22,0
+DC,10,10.1,1,0,0,0,0,Stubbs,Stubbs,7,7,0,0,Pant,2,6,0,0,Natarajan,1.0,0,8,0,Cummins,2.0,0,22,0
+DC,9,9.6,0,0,1,0,0,Pant,Stubbs,6,6,0,0,Pant,2,6,0,0,Cummins,2.0,0,22,0,Markande,2.0,0,26,1
+DC,9,9.5,1,0,0,0,0,Stubbs,Stubbs,6,6,0,0,Pant,2,5,0,0,Cummins,1.0,0,22,0,Markande,2.0,0,26,1
+DC,9,9.4,0,0,1,0,0,Stubbs,Stubbs,5,5,0,0,Pant,2,5,0,0,Cummins,1.0,0,21,0,Markande,2.0,0,26,1
+DC,9,9.3,1,0,0,0,0,Pant,Stubbs,5,4,0,0,Pant,2,5,0,0,Cummins,1.0,0,21,0,Markande,2.0,0,26,1
+DC,9,9.2,0,0,1,0,0,Pant,Stubbs,5,4,0,0,Pant,1,4,0,0,Cummins,1.0,0,20,0,Markande,2.0,0,26,1
+DC,9,9.1,0,0,1,0,0,Pant,Stubbs,5,4,0,0,Pant,1,3,0,0,Cummins,1.0,0,20,0,Markande,2.0,0,26,1
+DC,8,8.6,1,0,0,0,0,Pant,Stubbs,5,4,0,0,Pant,1,2,0,0,Markande,2.0,0,26,1,Shahbaz Ahmed,1.0,0,22,0
+DC,8,8.5,0,0,1,0,0,Pant,Stubbs,5,4,0,0,Pant,0,1,0,0,Markande,1.0,0,25,1,Shahbaz Ahmed,1.0,0,22,0
+DC,8,8.5,1,0,0,0,1,Abishek Porel,Abishek Porel,44,22,7,1,Stubbs,5,4,0,0,Markande,1.0,0,25,1,Shahbaz Ahmed,1.0,0,22,0
+DC,8,8.4,1,0,0,0,0,Stubbs,Abishek Porel,43,22,7,1,Stubbs,5,4,0,0,Markande,1.0,0,24,1,Shahbaz Ahmed,1.0,0,22,0
+DC,8,8.3,1,0,0,0,0,Abishek Porel,Abishek Porel,43,22,7,1,Stubbs,4,3,0,0,Markande,1.0,0,23,1,Shahbaz Ahmed,1.0,0,22,0
+DC,8,8.2,1,0,0,0,0,Stubbs,Abishek Porel,42,21,7,1,Stubbs,4,3,0,0,Markande,1.0,0,22,1,Shahbaz Ahmed,1.0,0,22,0
+DC,8,8.1,0,0,1,0,0,Stubbs,Abishek Porel,42,21,7,1,Stubbs,3,2,0,0,Markande,1.0,0,21,1,Shahbaz Ahmed,1.0,0,22,0
+DC,7,7.6,4,1,0,0,0,Abishek Porel,Abishek Porel,42,21,7,1,Stubbs,3,1,0,0,Shahbaz Ahmed,1.0,0,22,0,Markande,1.0,0,21,1
+DC,7,7.5,3,0,0,0,0,Stubbs,Abishek Porel,38,20,6,1,Stubbs,3,1,0,0,Shahbaz Ahmed,0,0,18,0,Markande,1.0,0,21,1
+DC,7,7.4,1,0,0,0,0,Abishek Porel,Abishek Porel,38,20,6,1,,0,0,0,0,Shahbaz Ahmed,0,0,15,0,Markande,1.0,0,21,1
+DC,7,7.3,6,1,0,0,0,Abishek Porel,Abishek Porel,37,19,6,1,,0,0,0,0,Shahbaz Ahmed,0,0,14,0,Markande,1.0,0,21,1
+DC,7,7.2,4,1,0,0,0,Abishek Porel,Abishek Porel,31,18,6,0,,0,0,0,0,Shahbaz Ahmed,0,0,8,0,Markande,1.0,0,21,1
+DC,7,7.1,4,1,0,0,0,Abishek Porel,Abishek Porel,27,17,5,0,,0,0,0,0,Shahbaz Ahmed,0,0,4,0,Markande,1.0,0,21,1
+DC,6,6.6,0,0,0,1,0,J Fraser,Abishek Porel,23,16,4,0,,0,0,0,0,Markande,1.0,0,21,1,Natarajan,1.0,0,7,0
+DC,6,6.5,6,1,0,0,0,J Fraser,J Fraser,66,17,5,7,Abishek Porel,23,16,4,0,Markande,0,0,21,0,Natarajan,1.0,0,7,0
+DC,6,6.5,1,0,0,0,1,J Fraser,J Fraser,60,16,5,6,Abishek Porel,23,16,4,0,Markande,0,0,15,0,Natarajan,1.0,0,7,0
+DC,6,6.4,6,1,0,0,0,J Fraser,J Fraser,59,16,5,6,Abishek Porel,23,16,4,0,Markande,0,0,14,0,Natarajan,1.0,0,7,0
+DC,6,6.3,6,1,0,0,0,J Fraser,J Fraser,53,15,5,5,Abishek Porel,23,16,4,0,Markande,0,0,8,0,Natarajan,1.0,0,7,0
+DC,6,6.2,1,0,0,0,0,Abishek Porel,J Fraser,47,14,5,4,Abishek Porel,23,16,4,0,Markande,0,0,2,0,Natarajan,1.0,0,7,0
+DC,6,6.1,1,0,0,0,0,J Fraser,J Fraser,47,14,5,4,Abishek Porel,22,15,4,0,Markande,0,0,1,0,Natarajan,1.0,0,7,0
+DC,5,5.6,2,0,0,0,0,Abishek Porel,J Fraser,46,13,5,4,Abishek Porel,22,15,4,0,Natarajan,1.0,0,7,0,Cummins,1.0,0,20,0
+DC,5,5.5,0,0,1,0,0,Abishek Porel,J Fraser,46,13,5,4,Abishek Porel,20,14,4,0,Natarajan,0,0,5,0,Cummins,1.0,0,20,0
+DC,5,5.4,0,0,1,0,0,Abishek Porel,J Fraser,46,13,5,4,Abishek Porel,20,13,4,0,Natarajan,0,0,5,0,Cummins,1.0,0,20,0
+DC,5,5.3,4,1,0,0,0,Abishek Porel,J Fraser,46,13,5,4,Abishek Porel,20,12,4,0,Natarajan,0,0,5,0,Cummins,1.0,0,20,0
+DC,5,5.3,1,0,0,0,1,Abishek Porel,J Fraser,46,13,5,4,Abishek Porel,16,11,3,0,Natarajan,0,0,1,0,Cummins,1.0,0,20,0
+DC,5,5.2,0,0,1,0,0,Abishek Porel,J Fraser,46,13,5,4,Abishek Porel,15,11,3,0,Natarajan,0,0,0,0,Cummins,1.0,0,20,0
+DC,5,5.1,0,0,1,0,0,Abishek Porel,J Fraser,46,13,5,4,Abishek Porel,15,10,3,0,Natarajan,0,0,0,0,Cummins,1.0,0,20,0
+DC,4,4.6,6,1,0,0,0,J Fraser,J Fraser,46,13,5,4,Abishek Porel,15,9,3,0,Cummins,1.0,0,20,0,Bhuvneshwar,2.0,0,15,1
+DC,4,4.5,4,1,0,0,0,J Fraser,J Fraser,40,12,5,3,Abishek Porel,15,9,3,0,Cummins,0,0,14,0,Bhuvneshwar,2.0,0,15,1
+DC,4,4.4,1,0,0,0,0,Abishek Porel,J Fraser,36,11,4,3,Abishek Porel,15,9,3,0,Cummins,0,0,10,0,Bhuvneshwar,2.0,0,15,1
+DC,4,4.3,4,1,0,0,0,Abishek Porel,J Fraser,36,11,4,3,Abishek Porel,14,8,3,0,Cummins,0,0,9,0,Bhuvneshwar,2.0,0,15,1
+DC,4,4.2,4,1,0,0,0,Abishek Porel,J Fraser,36,11,4,3,Abishek Porel,10,7,2,0,Cummins,0,0,5,0,Bhuvneshwar,2.0,0,15,1
+DC,4,4.1,1,0,0,0,0,J Fraser,J Fraser,36,11,4,3,Abishek Porel,6,6,1,0,Cummins,0,0,1,0,Bhuvneshwar,2.0,0,15,1
+DC,3,3.6,0,0,1,0,0,Abishek Porel,J Fraser,35,10,4,3,Abishek Porel,6,6,1,0,Bhuvneshwar,2.0,0,15,1,Sundar,2.0,0,46,1
+DC,3,3.5,0,0,1,0,0,Abishek Porel,J Fraser,35,10,4,3,Abishek Porel,6,5,1,0,Bhuvneshwar,1.0,0,15,1,Sundar,2.0,0,46,1
+DC,3,3.4,0,0,1,0,0,Abishek Porel,J Fraser,35,10,4,3,Abishek Porel,6,4,1,0,Bhuvneshwar,1.0,0,15,1,Sundar,2.0,0,46,1
+DC,3,3.3,4,1,0,0,0,Abishek Porel,J Fraser,35,10,4,3,Abishek Porel,6,3,1,0,Bhuvneshwar,1.0,0,15,1,Sundar,2.0,0,46,1
+DC,3,3.2,2,0,0,0,0,Abishek Porel,J Fraser,35,10,4,3,Abishek Porel,2,2,0,0,Bhuvneshwar,1.0,0,11,1,Sundar,2.0,0,46,1
+DC,3,3.1,0,0,1,0,0,Abishek Porel,J Fraser,35,10,4,3,Abishek Porel,0,1,0,0,Bhuvneshwar,1.0,0,9,1,Sundar,2.0,0,46,1
+DC,2,2.6,6,1,0,0,0,J Fraser,J Fraser,35,10,4,3,,0,0,0,0,Sundar,2.0,0,46,1,Bhuvneshwar,1.0,0,9,1
+DC,2,2.5,6,1,0,0,0,J Fraser,J Fraser,29,9,4,2,,0,0,0,0,Sundar,1.0,0,40,1,Bhuvneshwar,1.0,0,9,1
+DC,2,2.4,4,1,0,0,0,J Fraser,J Fraser,23,8,4,1,,0,0,0,0,Sundar,1.0,0,34,1,Bhuvneshwar,1.0,0,9,1
+DC,2,2.3,6,1,0,0,0,J Fraser,J Fraser,19,7,3,1,,0,0,0,0,Sundar,1.0,0,30,1,Bhuvneshwar,1.0,0,9,1
+DC,2,2.2,4,1,0,0,0,J Fraser,J Fraser,13,6,3,0,,0,0,0,0,Sundar,1.0,0,24,1,Bhuvneshwar,1.0,0,9,1
+DC,2,2.1,4,1,0,0,0,J Fraser,J Fraser,9,5,2,0,,0,0,0,0,Sundar,1.0,0,20,1,Bhuvneshwar,1.0,0,9,1
+DC,1,1.6,0,0,0,1,0,Warner,J Fraser,5,4,1,0,,0,0,0,0,Bhuvneshwar,1.0,0,9,1,Sundar,1.0,0,16,1
+DC,1,1.5,0,0,1,0,0,Warner,J Fraser,5,4,1,0,Warner,4,2,0,0,Bhuvneshwar,0,0,9,0,Sundar,1.0,0,16,1
+DC,1,1.4,1,0,0,0,0,J Fraser,J Fraser,5,4,1,0,Warner,4,1,0,0,Bhuvneshwar,0,0,9,0,Sundar,1.0,0,16,1
+DC,1,1.3,4,1,0,0,0,J Fraser,J Fraser,4,3,1,0,Warner,4,1,0,0,Bhuvneshwar,0,0,8,0,Sundar,1.0,0,16,1
+DC,1,1.2,0,0,1,0,0,J Fraser,J Fraser,0,2,0,0,Warner,4,1,0,0,Bhuvneshwar,0,0,4,0,Sundar,1.0,0,16,1
+DC,1,1.1,1,0,0,0,0,Warner,J Fraser,0,1,0,0,Warner,4,1,0,0,Bhuvneshwar,0,0,4,0,Sundar,1.0,0,16,1
+DC,1,1.1,1,0,0,0,1,Warner,J Fraser,0,1,0,0,Warner,3,0,0,0,Bhuvneshwar,0,0,3,0,Sundar,1.0,0,16,1
+DC,1,1.1,1,0,0,0,1,Warner,J Fraser,0,1,0,0,Warner,2,0,0,0,Bhuvneshwar,0,0,2,0,Sundar,1.0,0,16,1
+DC,1,1.1,1,0,0,0,1,Warner,J Fraser,0,1,0,0,Warner,1,0,0,0,Bhuvneshwar,0,0,1,0,Sundar,1.0,0,16,1
+DC,0,0.6,0,0,1,0,0,J Fraser,J Fraser,0,1,0,0,,0,0,0,0,Sundar,1.0,0,16,1,,0,0,0,0
+DC,0,0.5,0,0,0,1,0,Shaw,,0,0,0,0,,0,0,0,0,Sundar,0,0,16,1,,0,0,0,0
+DC,0,0.4,4,1,0,0,0,Shaw,Shaw,16,4,4,0,,0,0,0,0,Sundar,0,0,16,0,,0,0,0,0
+DC,0,0.3,4,1,0,0,0,Shaw,Shaw,12,3,3,0,,0,0,0,0,Sundar,0,0,12,0,,0,0,0,0
+DC,0,0.2,4,1,0,0,0,Shaw,Shaw,8,2,2,0,,0,0,0,0,Sundar,0,0,8,0,,0,0,0,0
+DC,0,0.1,4,1,0,0,0,Shaw,Shaw,4,1,1,0,,0,0,0,0,Sundar,0,0,4,0,,0,0,0,0

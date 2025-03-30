@@ -1,0 +1,126 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+LSG,19,19.6,0,0,1,0,0,Ravi Bishnoi,Swapnil,2,4,0,0,Ravi Bishnoi,4,5,1,0,Alzarri Joseph,1.0,0,5,0,Mohit,4.0,0,29,4
+LSG,19,19.5,0,0,1,0,0,Ravi Bishnoi,Swapnil,2,4,0,0,Ravi Bishnoi,4,4,1,0,Alzarri Joseph,0,0,5,0,Mohit,4.0,0,29,4
+LSG,19,19.4,0,0,1,0,0,Ravi Bishnoi,Swapnil,2,4,0,0,Ravi Bishnoi,4,3,1,0,Alzarri Joseph,0,0,5,0,Mohit,4.0,0,29,4
+LSG,19,19.3,0,0,1,0,0,Ravi Bishnoi,Swapnil,2,4,0,0,Ravi Bishnoi,4,2,1,0,Alzarri Joseph,0,0,5,0,Mohit,4.0,0,29,4
+LSG,19,19.2,4,1,0,0,0,Ravi Bishnoi,Swapnil,2,4,0,0,Ravi Bishnoi,4,1,1,0,Alzarri Joseph,0,0,5,0,Mohit,4.0,0,29,4
+LSG,19,19.1,1,0,0,0,0,Swapnil,Swapnil,2,4,0,0,,0,0,0,0,Alzarri Joseph,0,0,1,0,Mohit,4.0,0,29,4
+LSG,18,18.6,0,0,0,1,0,Krunal,Swapnil,1,3,0,0,,0,0,0,0,Mohit,4.0,0,29,4,Noor Ahmad,4.0,0,26,1
+LSG,18,18.5,0,0,0,1,0,Badoni,Swapnil,1,3,0,0,,0,0,0,0,Mohit,3.0,0,29,3,Noor Ahmad,4.0,0,26,1
+LSG,18,18.5,1,0,0,0,1,Badoni,Badoni,23,10,1,2,Swapnil,1,3,0,0,Mohit,3.0,0,29,2,Noor Ahmad,4.0,0,26,1
+LSG,18,18.4,4,1,0,0,0,Badoni,Badoni,22,10,1,2,Swapnil,1,3,0,0,Mohit,3.0,0,28,2,Noor Ahmad,4.0,0,26,1
+LSG,18,18.3,0,0,1,0,0,Badoni,Badoni,18,9,0,2,Swapnil,1,3,0,0,Mohit,3.0,0,24,2,Noor Ahmad,4.0,0,26,1
+LSG,18,18.2,6,1,0,0,0,Badoni,Badoni,18,8,0,2,Swapnil,1,3,0,0,Mohit,3.0,0,24,2,Noor Ahmad,4.0,0,26,1
+LSG,18,18.1,0,0,1,0,0,Badoni,Badoni,12,7,0,1,Swapnil,1,3,0,0,Mohit,3.0,0,18,2,Noor Ahmad,4.0,0,26,1
+LSG,17,17.6,1,0,0,0,0,Badoni,Badoni,12,6,0,1,Swapnil,1,3,0,0,Noor Ahmad,4.0,0,26,1,Shami,4.0,0,37,1
+LSG,17,17.5,1,0,0,0,0,Swapnil,Badoni,11,5,0,1,Swapnil,1,3,0,0,Noor Ahmad,3.0,0,25,1,Shami,4.0,0,37,1
+LSG,17,17.4,0,0,1,0,0,Swapnil,Badoni,11,5,0,1,Swapnil,0,2,0,0,Noor Ahmad,3.0,0,24,1,Shami,4.0,0,37,1
+LSG,17,17.3,0,0,1,0,0,Swapnil,Badoni,11,5,0,1,Swapnil,0,1,0,0,Noor Ahmad,3.0,0,24,1,Shami,4.0,0,37,1
+LSG,17,17.2,0,0,0,1,0,Pooran,Badoni,11,5,0,1,,0,0,0,0,Noor Ahmad,3.0,0,24,1,Shami,4.0,0,37,1
+LSG,17,17.1,1,0,0,0,0,Badoni,Pooran,3,5,0,0,Badoni,11,5,0,1,Noor Ahmad,3.0,0,24,0,Shami,4.0,0,37,1
+LSG,16,16.6,1,0,0,0,0,Badoni,Pooran,3,5,0,0,Badoni,10,4,0,1,Shami,4.0,0,37,1,Rashid Khan,4.0,0,34,1
+LSG,16,16.5,2,0,0,0,0,Badoni,Pooran,3,5,0,0,Badoni,9,3,0,1,Shami,3.0,0,36,1,Rashid Khan,4.0,0,34,1
+LSG,16,16.4,1,0,0,0,0,Pooran,Pooran,3,5,0,0,Badoni,7,2,0,1,Shami,3.0,0,34,1,Rashid Khan,4.0,0,34,1
+LSG,16,16.3,1,0,0,0,1,Badoni,Pooran,2,4,0,0,Badoni,7,2,0,1,Shami,3.0,0,33,1,Rashid Khan,4.0,0,34,1
+LSG,16,16.2,6,1,0,0,0,Badoni,Pooran,2,4,0,0,Badoni,6,1,0,1,Shami,3.0,0,33,1,Rashid Khan,4.0,0,34,1
+LSG,16,16.1,1,0,0,0,0,Pooran,Pooran,2,4,0,0,,0,0,0,0,Shami,3.0,0,27,1,Rashid Khan,4.0,0,34,1
+LSG,15,15.6,0,0,0,1,0,de Kock,Pooran,1,3,0,0,,0,0,0,0,Rashid Khan,4.0,0,34,1,Mohit,3.0,0,18,2
+LSG,15,15.5,1,0,0,0,0,Pooran,de Kock,72,40,7,3,Pooran,1,3,0,0,Rashid Khan,3.0,0,34,0,Mohit,3.0,0,18,2
+LSG,15,15.4,0,0,1,0,0,Pooran,de Kock,72,40,7,3,Pooran,0,2,0,0,Rashid Khan,3.0,0,33,0,Mohit,3.0,0,18,2
+LSG,15,15.3,1,0,0,0,0,de Kock,de Kock,72,40,7,3,Pooran,0,1,0,0,Rashid Khan,3.0,0,33,0,Mohit,3.0,0,18,2
+LSG,15,15.2,2,0,0,0,0,de Kock,de Kock,71,39,7,3,Pooran,0,1,0,0,Rashid Khan,3.0,0,32,0,Mohit,3.0,0,18,2
+LSG,15,15.1,6,1,0,0,0,de Kock,de Kock,69,38,7,3,Pooran,0,1,0,0,Rashid Khan,3.0,0,30,0,Mohit,3.0,0,18,2
+LSG,14,14.6,0,0,1,0,0,Pooran,de Kock,63,37,7,2,Pooran,0,1,0,0,Mohit,3.0,0,18,2,Noor Ahmad,3.0,0,23,0
+LSG,14,14.5,0,0,0,1,0,Stoinis,de Kock,63,37,7,2,,0,0,0,0,Mohit,2.0,0,18,2,Noor Ahmad,3.0,0,23,0
+LSG,14,14.4,1,0,0,0,0,de Kock,de Kock,63,37,7,2,Stoinis,5,8,0,0,Mohit,2.0,0,18,1,Noor Ahmad,3.0,0,23,0
+LSG,14,14.3,6,1,0,0,0,de Kock,de Kock,62,36,7,2,Stoinis,5,8,0,0,Mohit,2.0,0,17,1,Noor Ahmad,3.0,0,23,0
+LSG,14,14.2,1,0,0,0,0,Stoinis,de Kock,56,35,7,1,Stoinis,5,8,0,0,Mohit,2.0,0,11,1,Noor Ahmad,3.0,0,23,0
+LSG,14,14.1,1,0,0,0,0,de Kock,de Kock,56,35,7,1,Stoinis,4,7,0,0,Mohit,2.0,0,10,1,Noor Ahmad,3.0,0,23,0
+LSG,13,13.6,1,0,0,0,0,de Kock,de Kock,55,34,7,1,Stoinis,4,7,0,0,Noor Ahmad,3.0,0,23,0,Shami,3.0,0,26,1
+LSG,13,13.5,1,0,0,0,1,Stoinis,de Kock,54,33,7,1,Stoinis,4,7,0,0,Noor Ahmad,2.0,0,22,0,Shami,3.0,0,26,1
+LSG,13,13.4,0,0,1,0,0,Stoinis,de Kock,54,33,7,1,Stoinis,3,6,0,0,Noor Ahmad,2.0,0,22,0,Shami,3.0,0,26,1
+LSG,13,13.3,0,0,1,0,0,Stoinis,de Kock,54,33,7,1,Stoinis,3,5,0,0,Noor Ahmad,2.0,0,22,0,Shami,3.0,0,26,1
+LSG,13,13.2,1,0,0,0,0,de Kock,de Kock,54,33,7,1,Stoinis,3,4,0,0,Noor Ahmad,2.0,0,22,0,Shami,3.0,0,26,1
+LSG,13,13.1,1,0,0,0,0,Stoinis,de Kock,53,32,7,1,Stoinis,3,4,0,0,Noor Ahmad,2.0,0,21,0,Shami,3.0,0,26,1
+LSG,12,12.6,1,0,0,0,0,Stoinis,de Kock,53,32,7,1,Stoinis,2,3,0,0,Shami,3.0,0,26,1,Rashid Khan,3.0,0,24,0
+LSG,12,12.5,1,0,0,0,0,de Kock,de Kock,53,32,7,1,Stoinis,1,2,0,0,Shami,2.0,0,25,1,Rashid Khan,3.0,0,24,0
+LSG,12,12.4,1,0,0,0,0,Stoinis,de Kock,52,31,7,1,Stoinis,1,2,0,0,Shami,2.0,0,24,1,Rashid Khan,3.0,0,24,0
+LSG,12,12.3,0,0,1,0,0,Stoinis,de Kock,52,31,7,1,Stoinis,0,1,0,0,Shami,2.0,0,23,1,Rashid Khan,3.0,0,24,0
+LSG,12,12.2,0,0,0,1,0,Hooda,de Kock,52,31,7,1,,0,0,0,0,Shami,2.0,0,23,1,Rashid Khan,3.0,0,24,0
+LSG,12,12.1,1,0,0,0,0,de Kock,de Kock,52,31,7,1,Hooda,11,10,0,0,Shami,2.0,0,23,0,Rashid Khan,3.0,0,24,0
+LSG,11,11.6,1,0,0,0,0,de Kock,de Kock,51,30,7,1,Hooda,11,10,0,0,Rashid Khan,3.0,0,24,0,Mohit,2.0,0,9,1
+LSG,11,11.5,0,0,1,0,0,de Kock,de Kock,50,29,7,1,Hooda,11,10,0,0,Rashid Khan,2.0,0,23,0,Mohit,2.0,0,9,1
+LSG,11,11.4,1,0,0,0,0,Hooda,de Kock,50,28,7,1,Hooda,11,10,0,0,Rashid Khan,2.0,0,23,0,Mohit,2.0,0,9,1
+LSG,11,11.3,1,0,0,0,0,de Kock,de Kock,50,28,7,1,Hooda,10,9,0,0,Rashid Khan,2.0,0,22,0,Mohit,2.0,0,9,1
+LSG,11,11.2,1,0,0,0,0,Hooda,de Kock,49,27,7,1,Hooda,10,9,0,0,Rashid Khan,2.0,0,21,0,Mohit,2.0,0,9,1
+LSG,11,11.1,2,0,0,0,0,Hooda,de Kock,49,27,7,1,Hooda,9,8,0,0,Rashid Khan,2.0,0,20,0,Mohit,2.0,0,9,1
+LSG,10,10.6,1,0,0,0,0,Hooda,de Kock,49,27,7,1,Hooda,7,7,0,0,Mohit,2.0,0,9,1,Hardik,3.0,0,37,0
+LSG,10,10.5,1,0,0,0,0,de Kock,de Kock,49,27,7,1,Hooda,6,6,0,0,Mohit,1.0,0,8,1,Hardik,3.0,0,37,0
+LSG,10,10.4,1,0,0,0,0,Hooda,de Kock,48,26,7,1,Hooda,6,6,0,0,Mohit,1.0,0,7,1,Hardik,3.0,0,37,0
+LSG,10,10.3,1,0,0,0,0,de Kock,de Kock,48,26,7,1,Hooda,5,5,0,0,Mohit,1.0,0,6,1,Hardik,3.0,0,37,0
+LSG,10,10.2,0,0,1,0,0,de Kock,de Kock,47,25,7,1,Hooda,5,5,0,0,Mohit,1.0,0,5,1,Hardik,3.0,0,37,0
+LSG,10,10.1,1,0,0,0,0,Hooda,de Kock,47,24,7,1,Hooda,5,5,0,0,Mohit,1.0,0,5,1,Hardik,3.0,0,37,0
+LSG,9,9.6,6,1,0,0,0,de Kock,de Kock,47,24,7,1,Hooda,4,4,0,0,Hardik,3.0,0,37,0,Mohit,1.0,0,4,1
+LSG,9,9.5,1,0,0,0,0,Hooda,de Kock,41,23,7,0,Hooda,4,4,0,0,Hardik,2.0,0,31,0,Mohit,1.0,0,4,1
+LSG,9,9.4,1,0,0,0,0,de Kock,de Kock,41,23,7,0,Hooda,3,3,0,0,Hardik,2.0,0,30,0,Mohit,1.0,0,4,1
+LSG,9,9.3,0,0,1,0,0,de Kock,de Kock,40,22,7,0,Hooda,3,3,0,0,Hardik,2.0,0,29,0,Mohit,1.0,0,4,1
+LSG,9,9.2,1,0,0,0,0,Hooda,de Kock,40,21,7,0,Hooda,3,3,0,0,Hardik,2.0,0,29,0,Mohit,1.0,0,4,1
+LSG,9,9.1,1,0,0,0,0,de Kock,de Kock,40,21,7,0,Hooda,2,2,0,0,Hardik,2.0,0,28,0,Mohit,1.0,0,4,1
+LSG,8,8.6,1,0,0,0,0,de Kock,de Kock,39,20,7,0,Hooda,2,2,0,0,Mohit,1.0,0,4,1,Noor Ahmad,2.0,0,20,0
+LSG,8,8.5,1,0,0,0,0,Hooda,de Kock,38,19,7,0,Hooda,2,2,0,0,Mohit,0,0,3,1,Noor Ahmad,2.0,0,20,0
+LSG,8,8.4,1,0,0,0,0,de Kock,de Kock,38,19,7,0,Hooda,1,1,0,0,Mohit,0,0,2,1,Noor Ahmad,2.0,0,20,0
+LSG,8,8.3,1,0,0,0,0,Hooda,de Kock,37,18,7,0,Hooda,1,1,0,0,Mohit,0,0,1,1,Noor Ahmad,2.0,0,20,0
+LSG,8,8.2,0,0,0,1,0,Mayers,de Kock,37,18,7,0,,0,0,0,0,Mohit,0,0,0,1,Noor Ahmad,2.0,0,20,0
+LSG,8,8.1,0,0,1,0,0,Mayers,Mayers,51,31,7,2,de Kock,37,18,7,0,Mohit,0,0,0,0,Noor Ahmad,2.0,0,20,0
+LSG,7,7.6,4,1,0,0,0,de Kock,Mayers,51,30,7,2,de Kock,37,18,7,0,Noor Ahmad,2.0,0,20,0,Rashid Khan,2.0,0,18,0
+LSG,7,7.5,0,0,1,0,0,de Kock,Mayers,51,30,7,2,de Kock,33,17,6,0,Noor Ahmad,1.0,0,16,0,Rashid Khan,2.0,0,18,0
+LSG,7,7.4,1,0,0,0,0,Mayers,Mayers,51,30,7,2,de Kock,33,16,6,0,Noor Ahmad,1.0,0,16,0,Rashid Khan,2.0,0,18,0
+LSG,7,7.3,1,0,0,0,0,de Kock,Mayers,50,29,7,2,de Kock,33,16,6,0,Noor Ahmad,1.0,0,15,0,Rashid Khan,2.0,0,18,0
+LSG,7,7.3,1,0,0,0,1,de Kock,Mayers,50,29,7,2,de Kock,32,15,6,0,Noor Ahmad,1.0,0,14,0,Rashid Khan,2.0,0,18,0
+LSG,7,7.2,4,1,0,0,0,de Kock,Mayers,50,29,7,2,de Kock,31,15,6,0,Noor Ahmad,1.0,0,13,0,Rashid Khan,2.0,0,18,0
+LSG,7,7.1,1,0,0,0,0,Mayers,Mayers,50,29,7,2,de Kock,27,14,5,0,Noor Ahmad,1.0,0,9,0,Rashid Khan,2.0,0,18,0
+LSG,6,6.6,0,0,1,0,0,de Kock,Mayers,49,28,7,2,de Kock,27,14,5,0,Rashid Khan,2.0,0,18,0,Noor Ahmad,1.0,0,8,0
+LSG,6,6.5,1,0,0,0,0,Mayers,Mayers,49,28,7,2,de Kock,27,13,5,0,Rashid Khan,1.0,0,18,0,Noor Ahmad,1.0,0,8,0
+LSG,6,6.4,0,0,1,0,0,Mayers,Mayers,48,27,7,2,de Kock,27,13,5,0,Rashid Khan,1.0,0,17,0,Noor Ahmad,1.0,0,8,0
+LSG,6,6.3,1,0,0,0,0,de Kock,Mayers,48,26,7,2,de Kock,27,13,5,0,Rashid Khan,1.0,0,17,0,Noor Ahmad,1.0,0,8,0
+LSG,6,6.2,1,0,0,0,0,Mayers,Mayers,48,26,7,2,de Kock,26,12,5,0,Rashid Khan,1.0,0,16,0,Noor Ahmad,1.0,0,8,0
+LSG,6,6.1,1,0,0,0,0,de Kock,Mayers,47,25,7,2,de Kock,26,12,5,0,Rashid Khan,1.0,0,15,0,Noor Ahmad,1.0,0,8,0
+LSG,5,5.6,4,1,0,0,0,Mayers,Mayers,47,25,7,2,de Kock,25,11,5,0,Noor Ahmad,1.0,0,8,0,Rashid Khan,1.0,0,14,0
+LSG,5,5.5,0,0,1,0,0,Mayers,Mayers,43,24,6,2,de Kock,25,11,5,0,Noor Ahmad,0,0,4,0,Rashid Khan,1.0,0,14,0
+LSG,5,5.4,0,0,1,0,0,Mayers,Mayers,43,23,6,2,de Kock,25,11,5,0,Noor Ahmad,0,0,4,0,Rashid Khan,1.0,0,14,0
+LSG,5,5.3,4,1,0,0,0,Mayers,Mayers,43,22,6,2,de Kock,25,11,5,0,Noor Ahmad,0,0,4,0,Rashid Khan,1.0,0,14,0
+LSG,5,5.2,0,0,1,0,0,Mayers,Mayers,39,21,5,2,de Kock,25,11,5,0,Noor Ahmad,0,0,0,0,Rashid Khan,1.0,0,14,0
+LSG,5,5.1,0,0,1,0,0,Mayers,Mayers,39,20,5,2,de Kock,25,11,5,0,Noor Ahmad,0,0,0,0,Rashid Khan,1.0,0,14,0
+LSG,4,4.6,4,1,0,0,0,de Kock,Mayers,39,19,5,2,de Kock,25,11,5,0,Rashid Khan,1.0,0,14,0,Hardik,2.0,0,27,0
+LSG,4,4.5,1,0,0,0,0,Mayers,Mayers,39,19,5,2,de Kock,21,10,4,0,Rashid Khan,0,0,10,0,Hardik,2.0,0,27,0
+LSG,4,4.4,6,1,0,0,0,Mayers,Mayers,38,18,5,2,de Kock,21,10,4,0,Rashid Khan,0,0,9,0,Hardik,2.0,0,27,0
+LSG,4,4.3,1,0,0,0,0,de Kock,Mayers,32,17,5,1,de Kock,21,10,4,0,Rashid Khan,0,0,3,0,Hardik,2.0,0,27,0
+LSG,4,4.2,2,0,0,0,0,de Kock,Mayers,32,17,5,1,de Kock,20,9,4,0,Rashid Khan,0,0,2,0,Hardik,2.0,0,27,0
+LSG,4,4.1,0,0,1,0,0,de Kock,Mayers,32,17,5,1,de Kock,18,8,4,0,Rashid Khan,0,0,0,0,Hardik,2.0,0,27,0
+LSG,3,3.6,4,1,0,0,0,Mayers,Mayers,32,17,5,1,de Kock,18,7,4,0,Hardik,2.0,0,27,0,Shami,2.0,0,22,0
+LSG,3,3.6,1,0,0,0,1,Mayers,Mayers,28,16,4,1,de Kock,18,7,4,0,Hardik,1.0,0,23,0,Shami,2.0,0,22,0
+LSG,3,3.6,1,0,0,0,1,Mayers,Mayers,27,16,4,1,de Kock,18,7,4,0,Hardik,1.0,0,22,0,Shami,2.0,0,22,0
+LSG,3,3.5,0,0,1,0,0,Mayers,Mayers,26,16,4,1,de Kock,18,7,4,0,Hardik,1.0,0,21,0,Shami,2.0,0,22,0
+LSG,3,3.4,0,0,1,0,0,Mayers,Mayers,26,15,4,1,de Kock,18,7,4,0,Hardik,1.0,0,21,0,Shami,2.0,0,22,0
+LSG,3,3.3,1,0,0,0,0,de Kock,Mayers,26,14,4,1,de Kock,18,7,4,0,Hardik,1.0,0,21,0,Shami,2.0,0,22,0
+LSG,3,3.2,4,1,0,0,0,de Kock,Mayers,26,14,4,1,de Kock,17,6,4,0,Hardik,1.0,0,20,0,Shami,2.0,0,22,0
+LSG,3,3.1,4,1,0,0,0,de Kock,Mayers,26,14,4,1,de Kock,13,5,3,0,Hardik,1.0,0,16,0,Shami,2.0,0,22,0
+LSG,2,2.6,4,1,0,0,0,Mayers,Mayers,26,14,4,1,de Kock,9,4,2,0,Shami,2.0,0,22,0,Hardik,1.0,0,12,0
+LSG,2,2.5,0,0,1,0,0,Mayers,Mayers,22,13,3,1,de Kock,9,4,2,0,Shami,1.0,0,18,0,Hardik,1.0,0,12,0
+LSG,2,2.4,6,1,0,0,0,Mayers,Mayers,22,12,3,1,de Kock,9,4,2,0,Shami,1.0,0,18,0,Hardik,1.0,0,12,0
+LSG,2,2.3,1,0,0,0,1,de Kock,Mayers,16,11,3,0,de Kock,9,4,2,0,Shami,1.0,0,12,0,Hardik,1.0,0,12,0
+LSG,2,2.2,4,1,0,0,0,de Kock,Mayers,16,11,3,0,de Kock,8,3,2,0,Shami,1.0,0,12,0,Hardik,1.0,0,12,0
+LSG,2,2.1,4,1,0,0,0,de Kock,Mayers,16,11,3,0,de Kock,4,2,1,0,Shami,1.0,0,8,0,Hardik,1.0,0,12,0
+LSG,1,1.6,0,0,1,0,0,Mayers,Mayers,16,11,3,0,de Kock,0,1,0,0,Hardik,1.0,0,12,0,Shami,1.0,0,4,0
+LSG,1,1.5,0,0,1,0,0,Mayers,Mayers,16,10,3,0,de Kock,0,1,0,0,Hardik,0,0,12,0,Shami,1.0,0,4,0
+LSG,1,1.4,4,1,0,0,0,Mayers,Mayers,16,9,3,0,de Kock,0,1,0,0,Hardik,0,0,12,0,Shami,1.0,0,4,0
+LSG,1,1.3,4,1,0,0,0,Mayers,Mayers,12,8,2,0,de Kock,0,1,0,0,Hardik,0,0,8,0,Shami,1.0,0,4,0
+LSG,1,1.2,4,1,0,0,0,Mayers,Mayers,8,7,1,0,de Kock,0,1,0,0,Hardik,0,0,4,0,Shami,1.0,0,4,0
+LSG,1,1.1,0,0,1,0,0,Mayers,Mayers,4,6,0,0,de Kock,0,1,0,0,Hardik,0,0,0,0,Shami,1.0,0,4,0
+LSG,0,0.6,0,0,1,0,0,de Kock,Mayers,4,5,0,0,de Kock,0,1,0,0,Shami,1.0,0,4,0,,0,0,0,0
+LSG,0,0.5,1,0,0,0,0,Mayers,Mayers,4,5,0,0,,0,0,0,0,Shami,0,0,4,0,,0,0,0,0
+LSG,0,0.4,0,0,1,0,0,Mayers,Mayers,3,4,0,0,,0,0,0,0,Shami,0,0,3,0,,0,0,0,0
+LSG,0,0.3,0,0,1,0,0,Mayers,Mayers,3,3,0,0,,0,0,0,0,Shami,0,0,3,0,,0,0,0,0
+LSG,0,0.2,0,0,1,0,0,Mayers,Mayers,3,2,0,0,,0,0,0,0,Shami,0,0,3,0,,0,0,0,0
+LSG,0,0.1,2,0,0,0,0,Mayers,Mayers,3,1,0,0,,0,0,0,0,Shami,0,0,3,0,,0,0,0,0
+LSG,0,0.1,1,0,0,0,1,Mayers,Mayers,1,0,0,0,,0,0,0,0,Shami,0,0,1,0,,0,0,0,0

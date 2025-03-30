@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+RCB,19,19.1,8,1,2,0,1,Green,Green,30,20,1,2,Karn,6,3,1,0,Mukesh Kumar,2.0,0,20,1,Rasikh Salam,3.0,0,23,2
+RCB,18,18.1,5,0,1,1,1,Karn,Green,28,18,1,2,,0,0,0,0,Rasikh Salam,2.0,0,18,1,Khaleel Ahmed,4.0,0,31,2
+RCB,17,17.1,5,1,2,2,0,Karthik,Green,23,15,0,2,Lomror,15,7,0,1,Khaleel Ahmed,3.0,0,26,0,Kuldeep,4.0,0,52,1
+RCB,16,16.1,22,3,0,0,1,Lomror,Green,8,10,0,0,Lomror,9,6,0,0,Kuldeep,3.0,0,32,1,Ishant Sharma,3.0,0,31,1
+RCB,15,15.1,9,0,0,0,2,Lomror,Green,6,8,0,0,Lomror,3,2,0,0,Ishant Sharma,2.0,0,24,1,Kuldeep,3.0,0,31,1
+RCB,14,14.1,4,0,2,1,0,Green,Jacks,42,28,3,2,Green,5,5,0,0,Kuldeep,2.0,0,29,0,Axar Patel,3.0,0,24,0
+RCB,13,13.1,3,0,3,0,0,Green,Jacks,41,25,3,2,Green,1,2,0,0,Axar Patel,2.0,0,21,0,Rasikh Salam,2.0,0,18,1
+RCB,12,12.1,10,1,0,1,1,Jacks,Jacks,34,22,2,2,Patidar,53,31,3,3,Rasikh Salam,1.0,0,9,0,Khaleel Ahmed,3.0,0,26,0
+RCB,11,11.1,3,0,3,0,0,Patidar,Jacks,33,18,2,2,Patidar,51,29,3,3,Khaleel Ahmed,2.0,0,24,0,Rasikh Salam,1.0,0,8,0
+RCB,10,10.1,8,1,2,0,1,Jacks,Jacks,27,15,1,2,Patidar,49,26,3,3,Rasikh Salam,0,0,1,0,Khaleel Ahmed,2.0,0,23,0
+RCB,9,9.1,11,1,0,0,0,Patidar,Jacks,20,12,0,2,Patidar,46,23,3,3,Khaleel Ahmed,1.0,0,14,0,Kuldeep,2.0,0,27,0
+RCB,8,8.1,12,1,1,0,1,Jacks,Jacks,13,9,0,1,Patidar,40,20,3,3,Kuldeep,1.0,0,16,0,Axar Patel,2.0,0,21,0
+RCB,7,7.1,11,1,0,0,0,Patidar,Jacks,11,7,0,1,Patidar,31,16,3,2,Axar Patel,1.0,0,11,0,Kuldeep,1.0,0,15,0
+RCB,6,6.1,15,2,1,0,0,Patidar,Jacks,4,5,0,0,Patidar,22,12,3,1,Kuldeep,0,0,0,0,Axar Patel,1.0,0,10,0
+RCB,5,5.1,10,1,2,0,0,Jacks,Jacks,1,3,0,0,Patidar,15,8,3,0,Axar Patel,0,0,0,0,Mukesh Kumar,2.0,0,16,1
+RCB,4,4.1,14,3,2,0,0,Patidar,Jacks,1,2,0,0,Patidar,5,3,1,0,Mukesh Kumar,1.0,0,6,1,Ishant Sharma,2.0,0,22,1
+RCB,3,3.1,12,2,2,1,1,Patidar,Kohli,21,10,1,2,Jacks,1,2,0,0,Ishant Sharma,1.0,0,14,0,Mukesh Kumar,1.0,0,2,1
+RCB,2,2.1,2,0,3,1,0,Jacks,Kohli,16,7,0,2,du Plessis,7,6,1,0,Mukesh Kumar,0,0,0,0,Khaleel Ahmed,1.0,0,12,0
+RCB,1,1.1,13,2,1,0,1,Kohli,Kohli,9,5,0,1,du Plessis,1,2,0,0,Khaleel Ahmed,0,0,0,0,Ishant Sharma,1.0,0,10,0
+RCB,0,0.1,10,1,2,0,0,Kohli,Kohli,0,1,0,0,,0,0,0,0,Ishant Sharma,0,0,0,0,,0,0,0,0

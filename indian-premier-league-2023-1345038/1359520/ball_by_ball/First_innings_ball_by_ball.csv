@@ -1,0 +1,116 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+MI,18,18.5,6,1,0,0,0,Tilak Varma,David,19,10,3,0,Tilak Varma,26,10,1,3,Arshdeep,3.0,0,66,1,Sam Curran,3.0,0,41,0
+MI,18,18.4,2,0,0,0,0,Tilak Varma,David,19,10,3,0,Tilak Varma,20,9,1,2,Arshdeep,3.0,0,60,1,Sam Curran,3.0,0,41,0
+MI,18,18.3,0,0,1,0,0,Tilak Varma,David,19,10,3,0,Tilak Varma,18,8,1,2,Arshdeep,3.0,0,58,1,Sam Curran,3.0,0,41,0
+MI,18,18.2,1,0,0,0,0,David,David,19,10,3,0,Tilak Varma,18,7,1,2,Arshdeep,3.0,0,58,1,Sam Curran,3.0,0,41,0
+MI,18,18.1,4,1,0,0,0,David,David,18,9,3,0,Tilak Varma,18,7,1,2,Arshdeep,3.0,0,57,1,Sam Curran,3.0,0,41,0
+MI,17,17.6,1,0,0,0,0,David,David,14,8,2,0,Tilak Varma,18,7,1,2,Sam Curran,3.0,0,41,0,Arshdeep,3.0,0,53,1
+MI,17,17.5,1,0,0,0,0,Tilak Varma,David,13,7,2,0,Tilak Varma,18,7,1,2,Sam Curran,2.0,0,40,0,Arshdeep,3.0,0,53,1
+MI,17,17.4,1,0,0,0,0,David,David,13,7,2,0,Tilak Varma,17,6,1,2,Sam Curran,2.0,0,39,0,Arshdeep,3.0,0,53,1
+MI,17,17.3,1,0,0,0,0,Tilak Varma,David,12,6,2,0,Tilak Varma,17,6,1,2,Sam Curran,2.0,0,38,0,Arshdeep,3.0,0,53,1
+MI,17,17.2,1,0,0,0,0,David,David,12,6,2,0,Tilak Varma,16,5,1,2,Sam Curran,2.0,0,37,0,Arshdeep,3.0,0,53,1
+MI,17,17.1,4,1,0,0,0,David,David,11,5,2,0,Tilak Varma,16,5,1,2,Sam Curran,2.0,0,36,0,Arshdeep,3.0,0,53,1
+MI,16,16.6,6,1,0,0,0,Tilak Varma,David,7,4,1,0,Tilak Varma,16,5,1,2,Arshdeep,3.0,0,53,1,Ellis,4.0,0,34,2
+MI,16,16.5,4,1,0,0,0,Tilak Varma,David,7,4,1,0,Tilak Varma,10,4,1,1,Arshdeep,2.0,0,47,1,Ellis,4.0,0,34,2
+MI,16,16.4,6,1,0,0,0,Tilak Varma,David,7,4,1,0,Tilak Varma,6,3,0,1,Arshdeep,2.0,0,43,1,Ellis,4.0,0,34,2
+MI,16,16.3,0,0,1,0,0,Tilak Varma,David,7,4,1,0,Tilak Varma,0,2,0,0,Arshdeep,2.0,0,37,1,Ellis,4.0,0,34,2
+MI,16,16.2,0,0,1,0,0,Tilak Varma,David,7,4,1,0,Tilak Varma,0,1,0,0,Arshdeep,2.0,0,37,1,Ellis,4.0,0,34,2
+MI,16,16.1,0,0,0,1,0,Ishan,David,7,4,1,0,,0,0,0,0,Arshdeep,2.0,0,37,1,Ellis,4.0,0,34,2
+MI,15,15.6,4,1,0,0,0,David,Ishan,74,39,7,4,David,7,4,1,0,Ellis,4.0,0,34,2,Arshdeep,2.0,0,37,0
+MI,15,15.5,1,0,0,0,0,Ishan,Ishan,74,39,7,4,David,3,3,0,0,Ellis,3.0,0,30,2,Arshdeep,2.0,0,37,0
+MI,15,15.4,1,0,0,0,0,David,Ishan,73,38,7,4,David,3,3,0,0,Ellis,3.0,0,29,2,Arshdeep,2.0,0,37,0
+MI,15,15.3,2,0,0,0,0,David,Ishan,73,38,7,4,David,2,2,0,0,Ellis,3.0,0,28,2,Arshdeep,2.0,0,37,0
+MI,15,15.2,0,0,1,0,0,David,Ishan,73,38,7,4,David,0,1,0,0,Ellis,3.0,0,26,2,Arshdeep,2.0,0,37,0
+MI,15,15.1,0,0,0,1,0,Suryakumar,Ishan,73,38,7,4,,0,0,0,0,Ellis,3.0,0,26,2,Arshdeep,2.0,0,37,0
+MI,14,14.6,4,1,0,0,0,Ishan,Ishan,73,38,7,4,Suryakumar,68,30,8,2,Arshdeep,2.0,0,37,0,Ellis,3.0,0,26,1
+MI,14,14.5,4,1,0,0,0,Ishan,Ishan,69,37,6,4,Suryakumar,68,30,8,2,Arshdeep,1.0,0,33,0,Ellis,3.0,0,26,1
+MI,14,14.4,6,1,0,0,0,Ishan,Ishan,65,36,5,4,Suryakumar,68,30,8,2,Arshdeep,1.0,0,29,0,Ellis,3.0,0,26,1
+MI,14,14.3,1,0,0,0,0,Suryakumar,Ishan,59,35,5,3,Suryakumar,68,30,8,2,Arshdeep,1.0,0,23,0,Ellis,3.0,0,26,1
+MI,14,14.2,4,1,0,0,0,Suryakumar,Ishan,59,35,5,3,Suryakumar,67,29,8,2,Arshdeep,1.0,0,22,0,Ellis,3.0,0,26,1
+MI,14,14.2,1,0,0,0,1,Suryakumar,Ishan,59,35,5,3,Suryakumar,63,28,7,2,Arshdeep,1.0,0,18,0,Ellis,3.0,0,26,1
+MI,14,14.1,1,0,0,0,0,Ishan,Ishan,59,35,5,3,Suryakumar,62,28,7,2,Arshdeep,1.0,0,17,0,Ellis,3.0,0,26,1
+MI,13,13.6,1,0,0,0,0,Ishan,Ishan,58,34,5,3,Suryakumar,62,28,7,2,Ellis,3.0,0,26,1,Sam Curran,2.0,0,32,0
+MI,13,13.5,1,0,0,0,0,Suryakumar,Ishan,57,33,5,3,Suryakumar,62,28,7,2,Ellis,2.0,0,25,1,Sam Curran,2.0,0,32,0
+MI,13,13.4,2,0,0,0,0,Suryakumar,Ishan,57,33,5,3,Suryakumar,61,27,7,2,Ellis,2.0,0,24,1,Sam Curran,2.0,0,32,0
+MI,13,13.3,4,1,0,0,0,Suryakumar,Ishan,57,33,5,3,Suryakumar,59,26,7,2,Ellis,2.0,0,22,1,Sam Curran,2.0,0,32,0
+MI,13,13.2,2,0,0,0,0,Suryakumar,Ishan,57,33,5,3,Suryakumar,55,25,6,2,Ellis,2.0,0,18,1,Sam Curran,2.0,0,32,0
+MI,13,13.1,1,0,0,0,0,Ishan,Ishan,57,33,5,3,Suryakumar,53,24,6,2,Ellis,2.0,0,16,1,Sam Curran,2.0,0,32,0
+MI,12,12.6,1,0,0,0,0,Ishan,Ishan,56,32,5,3,Suryakumar,53,24,6,2,Sam Curran,2.0,0,32,0,Ellis,2.0,0,15,1
+MI,12,12.5,1,0,0,0,0,Suryakumar,Ishan,55,31,5,3,Suryakumar,53,24,6,2,Sam Curran,1.0,0,31,0,Ellis,2.0,0,15,1
+MI,12,12.4,4,1,0,0,0,Suryakumar,Ishan,55,31,5,3,Suryakumar,52,23,6,2,Sam Curran,1.0,0,30,0,Ellis,2.0,0,15,1
+MI,12,12.4,1,0,0,0,1,Suryakumar,Ishan,55,31,5,3,Suryakumar,48,22,5,2,Sam Curran,1.0,0,26,0,Ellis,2.0,0,15,1
+MI,12,12.3,4,1,0,0,0,Suryakumar,Ishan,55,31,5,3,Suryakumar,47,22,5,2,Sam Curran,1.0,0,25,0,Ellis,2.0,0,15,1
+MI,12,12.2,6,1,0,0,0,Suryakumar,Ishan,55,31,5,3,Suryakumar,43,21,4,2,Sam Curran,1.0,0,21,0,Ellis,2.0,0,15,1
+MI,12,12.1,6,1,0,0,0,Suryakumar,Ishan,55,31,5,3,Suryakumar,37,20,4,1,Sam Curran,1.0,0,15,0,Ellis,2.0,0,15,1
+MI,11,11.6,4,1,0,0,0,Ishan,Ishan,55,31,5,3,Suryakumar,31,19,4,0,Ellis,2.0,0,15,1,Chahar,3.0,0,30,0
+MI,11,11.5,1,0,0,0,0,Suryakumar,Ishan,51,30,4,3,Suryakumar,31,19,4,0,Ellis,1.0,0,11,1,Chahar,3.0,0,30,0
+MI,11,11.4,1,0,0,0,0,Ishan,Ishan,51,30,4,3,Suryakumar,30,18,4,0,Ellis,1.0,0,10,1,Chahar,3.0,0,30,0
+MI,11,11.3,1,0,0,0,0,Suryakumar,Ishan,50,29,4,3,Suryakumar,30,18,4,0,Ellis,1.0,0,9,1,Chahar,3.0,0,30,0
+MI,11,11.2,1,0,0,0,0,Ishan,Ishan,50,29,4,3,Suryakumar,29,17,4,0,Ellis,1.0,0,8,1,Chahar,3.0,0,30,0
+MI,11,11.1,2,0,0,0,0,Ishan,Ishan,49,28,4,3,Suryakumar,29,17,4,0,Ellis,1.0,0,7,1,Chahar,3.0,0,30,0
+MI,10,10.6,1,0,0,0,0,Ishan,Ishan,47,27,4,3,Suryakumar,29,17,4,0,Chahar,3.0,0,30,0,Harpreet Brar,1.0,0,20,0
+MI,10,10.5,4,1,0,0,0,Ishan,Ishan,46,26,4,3,Suryakumar,29,17,4,0,Chahar,2.0,0,29,0,Harpreet Brar,1.0,0,20,0
+MI,10,10.4,1,0,0,0,0,Suryakumar,Ishan,42,25,3,3,Suryakumar,29,17,4,0,Chahar,2.0,0,25,0,Harpreet Brar,1.0,0,20,0
+MI,10,10.3,4,1,0,0,0,Suryakumar,Ishan,42,25,3,3,Suryakumar,28,16,4,0,Chahar,2.0,0,24,0,Harpreet Brar,1.0,0,20,0
+MI,10,10.2,4,1,0,0,0,Suryakumar,Ishan,42,25,3,3,Suryakumar,24,15,3,0,Chahar,2.0,0,20,0,Harpreet Brar,1.0,0,20,0
+MI,10,10.1,0,0,1,0,0,Suryakumar,Ishan,42,25,3,3,Suryakumar,20,14,2,0,Chahar,2.0,0,16,0,Harpreet Brar,1.0,0,20,0
+MI,9,9.6,6,1,0,0,0,Ishan,Ishan,42,25,3,3,Suryakumar,20,13,2,0,Harpreet Brar,1.0,0,20,0,Chahar,2.0,0,16,0
+MI,9,9.5,1,0,0,0,0,Suryakumar,Ishan,36,24,3,2,Suryakumar,20,13,2,0,Harpreet Brar,1.0,0,14,0,Chahar,2.0,0,16,0
+MI,9,9.3,4,1,0,0,0,Ishan,Ishan,36,24,3,2,Suryakumar,19,12,2,0,Harpreet Brar,1.0,0,13,0,Chahar,2.0,0,16,0
+MI,9,9.2,1,0,0,0,0,Suryakumar,Ishan,32,23,2,2,Suryakumar,19,12,2,0,Harpreet Brar,1.0,0,9,0,Chahar,2.0,0,16,0
+MI,9,9.1,1,0,0,0,0,Ishan,Ishan,32,23,2,2,Suryakumar,18,11,2,0,Harpreet Brar,1.0,0,8,0,Chahar,2.0,0,16,0
+MI,8,8.6,1,0,0,0,0,Ishan,Ishan,31,22,2,2,Suryakumar,18,11,2,0,Chahar,2.0,0,16,0,Harpreet Brar,1.0,0,7,0
+MI,8,8.5,0,0,1,0,0,Ishan,Ishan,30,21,2,2,Suryakumar,18,11,2,0,Chahar,1.0,0,15,0,Harpreet Brar,1.0,0,7,0
+MI,8,8.4,2,0,0,0,0,Ishan,Ishan,30,20,2,2,Suryakumar,18,11,2,0,Chahar,1.0,0,15,0,Harpreet Brar,1.0,0,7,0
+MI,8,8.3,1,0,0,0,0,Suryakumar,Ishan,28,19,2,2,Suryakumar,18,11,2,0,Chahar,1.0,0,13,0,Harpreet Brar,1.0,0,7,0
+MI,8,8.2,4,1,0,0,0,Suryakumar,Ishan,28,19,2,2,Suryakumar,17,10,2,0,Chahar,1.0,0,12,0,Harpreet Brar,1.0,0,7,0
+MI,8,8.1,2,0,0,0,0,Suryakumar,Ishan,28,19,2,2,Suryakumar,13,9,1,0,Chahar,1.0,0,8,0,Harpreet Brar,1.0,0,7,0
+MI,7,7.6,0,0,1,0,0,Ishan,Ishan,28,19,2,2,Suryakumar,11,8,1,0,Harpreet Brar,1.0,0,7,0,Chahar,1.0,0,6,0
+MI,7,7.5,1,0,0,0,0,Suryakumar,Ishan,28,18,2,2,Suryakumar,11,8,1,0,Harpreet Brar,0,0,7,0,Chahar,1.0,0,6,0
+MI,7,7.4,2,0,0,0,0,Suryakumar,Ishan,28,18,2,2,Suryakumar,10,7,1,0,Harpreet Brar,0,0,6,0,Chahar,1.0,0,6,0
+MI,7,7.3,2,0,0,0,0,Suryakumar,Ishan,28,18,2,2,Suryakumar,8,6,1,0,Harpreet Brar,0,0,4,0,Chahar,1.0,0,6,0
+MI,7,7.2,1,0,0,0,0,Ishan,Ishan,28,18,2,2,Suryakumar,6,5,1,0,Harpreet Brar,0,0,2,0,Chahar,1.0,0,6,0
+MI,7,7.1,1,0,0,0,0,Suryakumar,Ishan,27,17,2,2,Suryakumar,6,5,1,0,Harpreet Brar,0,0,1,0,Chahar,1.0,0,6,0
+MI,6,6.6,0,0,1,0,0,Ishan,Ishan,27,17,2,2,Suryakumar,5,4,1,0,Chahar,1.0,0,6,0,Ellis,1.0,0,5,1
+MI,6,6.5,1,0,0,0,0,Suryakumar,Ishan,27,16,2,2,Suryakumar,5,4,1,0,Chahar,0,0,6,0,Ellis,1.0,0,5,1
+MI,6,6.4,0,0,1,0,0,Suryakumar,Ishan,27,16,2,2,Suryakumar,4,3,1,0,Chahar,0,0,5,0,Ellis,1.0,0,5,1
+MI,6,6.3,4,1,0,0,0,Suryakumar,Ishan,27,16,2,2,Suryakumar,4,2,1,0,Chahar,0,0,5,0,Ellis,1.0,0,5,1
+MI,6,6.2,0,0,1,0,0,Suryakumar,Ishan,27,16,2,2,Suryakumar,0,1,0,0,Chahar,0,0,1,0,Ellis,1.0,0,5,1
+MI,6,6.1,1,0,0,0,0,Ishan,Ishan,27,16,2,2,,0,0,0,0,Chahar,0,0,1,0,Ellis,1.0,0,5,1
+MI,5,5.6,0,0,0,1,0,Green,Ishan,26,15,2,2,,0,0,0,0,Ellis,1.0,0,5,1,R Dhawan,3.0,0,20,1
+MI,5,5.5,2,0,0,0,0,Green,Green,28,17,5,0,Ishan,26,15,2,2,Ellis,0,0,5,0,R Dhawan,3.0,0,20,1
+MI,5,5.4,1,0,0,0,0,Ishan,Green,26,16,5,0,Ishan,26,15,2,2,Ellis,0,0,3,0,R Dhawan,3.0,0,20,1
+MI,5,5.3,1,0,0,0,0,Green,Green,26,16,5,0,Ishan,25,14,2,2,Ellis,0,0,2,0,R Dhawan,3.0,0,20,1
+MI,5,5.2,1,0,0,0,0,Ishan,Green,25,15,5,0,Ishan,25,14,2,2,Ellis,0,0,1,0,R Dhawan,3.0,0,20,1
+MI,5,5.1,0,0,1,0,0,Ishan,Green,25,15,5,0,Ishan,24,13,2,2,Ellis,0,0,0,0,R Dhawan,3.0,0,20,1
+MI,4,4.6,4,1,0,0,0,Green,Green,25,15,5,0,Ishan,24,12,2,2,R Dhawan,3.0,0,20,1,Sam Curran,1.0,0,9,0
+MI,4,4.5,0,0,1,0,0,Green,Green,21,14,4,0,Ishan,24,12,2,2,R Dhawan,2.0,0,16,1,Sam Curran,1.0,0,9,0
+MI,4,4.4,1,0,0,0,0,Ishan,Green,21,13,4,0,Ishan,24,12,2,2,R Dhawan,2.0,0,16,1,Sam Curran,1.0,0,9,0
+MI,4,4.3,6,1,0,0,0,Ishan,Green,21,13,4,0,Ishan,23,11,2,2,R Dhawan,2.0,0,15,1,Sam Curran,1.0,0,9,0
+MI,4,4.2,0,0,1,0,0,Ishan,Green,21,13,4,0,Ishan,17,10,2,1,R Dhawan,2.0,0,9,1,Sam Curran,1.0,0,9,0
+MI,4,4.1,6,1,0,0,0,Ishan,Green,21,13,4,0,Ishan,17,9,2,1,R Dhawan,2.0,0,9,1,Sam Curran,1.0,0,9,0
+MI,3,3.6,4,1,0,0,0,Green,Green,21,13,4,0,Ishan,11,8,2,0,Sam Curran,1.0,0,9,0,R Dhawan,2.0,0,3,1
+MI,3,3.5,0,0,1,0,0,Green,Green,17,12,3,0,Ishan,11,8,2,0,Sam Curran,0,0,5,0,R Dhawan,2.0,0,3,1
+MI,3,3.4,4,1,0,0,0,Green,Green,17,11,3,0,Ishan,11,8,2,0,Sam Curran,0,0,5,0,R Dhawan,2.0,0,3,1
+MI,3,3.3,1,0,0,0,0,Ishan,Green,13,10,2,0,Ishan,11,8,2,0,Sam Curran,0,0,1,0,R Dhawan,2.0,0,3,1
+MI,3,3.2,0,0,1,0,0,Ishan,Green,13,10,2,0,Ishan,10,7,2,0,Sam Curran,0,0,0,0,R Dhawan,2.0,0,3,1
+MI,3,3.1,0,0,1,0,0,Ishan,Green,13,10,2,0,Ishan,10,6,2,0,Sam Curran,0,0,0,0,R Dhawan,2.0,0,3,1
+MI,2,2.6,0,0,1,0,0,Green,Green,13,10,2,0,Ishan,10,5,2,0,R Dhawan,2.0,0,3,1,Arshdeep,1.0,0,16,0
+MI,2,2.5,1,0,0,0,0,Ishan,Green,13,9,2,0,Ishan,10,5,2,0,R Dhawan,1.0,0,3,1,Arshdeep,1.0,0,16,0
+MI,2,2.4,1,0,0,0,0,Green,Green,13,9,2,0,Ishan,9,4,2,0,R Dhawan,1.0,0,2,1,Arshdeep,1.0,0,16,0
+MI,2,2.3,0,0,1,0,0,Green,Green,12,8,2,0,Ishan,9,4,2,0,R Dhawan,1.0,0,1,1,Arshdeep,1.0,0,16,0
+MI,2,2.2,0,0,1,0,0,Green,Green,12,7,2,0,Ishan,9,4,2,0,R Dhawan,1.0,0,1,1,Arshdeep,1.0,0,16,0
+MI,2,2.1,0,0,1,0,0,Green,Green,12,6,2,0,Ishan,9,4,2,0,R Dhawan,1.0,0,1,1,Arshdeep,1.0,0,16,0
+MI,1,1.6,4,1,0,0,0,Ishan,Green,12,5,2,0,Ishan,9,4,2,0,Arshdeep,1.0,0,16,0,R Dhawan,1.0,0,1,1
+MI,1,1.5,4,1,0,0,0,Ishan,Green,12,5,2,0,Ishan,5,3,1,0,Arshdeep,0,0,12,0,R Dhawan,1.0,0,1,1
+MI,1,1.4,1,0,0,0,0,Green,Green,12,5,2,0,Ishan,1,2,0,0,Arshdeep,0,0,8,0,R Dhawan,1.0,0,1,1
+MI,1,1.3,1,0,0,0,0,Ishan,Green,11,4,2,0,Ishan,1,2,0,0,Arshdeep,0,0,7,0,R Dhawan,1.0,0,1,1
+MI,1,1.2,1,0,0,0,0,Green,Green,11,4,2,0,Ishan,0,1,0,0,Arshdeep,0,0,6,0,R Dhawan,1.0,0,1,1
+MI,1,1.1,4,1,0,0,0,Green,Green,10,3,2,0,Ishan,0,1,0,0,Arshdeep,0,0,5,0,R Dhawan,1.0,0,1,1
+MI,1,1.1,1,0,0,0,1,Green,Green,6,2,1,0,Ishan,0,1,0,0,Arshdeep,0,0,1,0,R Dhawan,1.0,0,1,1
+MI,0,0.6,0,0,1,0,0,Ishan,Green,5,2,1,0,Ishan,0,1,0,0,R Dhawan,1.0,0,1,1,,0,0,0,0
+MI,0,0.5,1,0,0,0,0,Green,Green,5,2,1,0,,0,0,0,0,R Dhawan,0,0,1,1,,0,0,0,0
+MI,0,0.4,4,1,0,0,1,Green,Green,4,1,1,0,,0,0,0,0,R Dhawan,0,0,0,1,,0,0,0,0
+MI,0,0.3,0,0,0,1,0,Rohit Sharma,,0,0,0,0,,0,0,0,0,R Dhawan,0,0,0,1,,0,0,0,0
+MI,0,0.2,0,0,1,0,0,Rohit Sharma,Rohit Sharma,0,2,0,0,,0,0,0,0,R Dhawan,0,0,0,0,,0,0,0,0
+MI,0,0.1,0,0,1,0,0,Rohit Sharma,Rohit Sharma,0,1,0,0,,0,0,0,0,R Dhawan,0,0,0,0,,0,0,0,0

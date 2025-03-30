@@ -1,0 +1,114 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+PBKS,19,19.6,2,0,0,0,0,Shahrukh Khan,Sam Curran,52,31,4,2,Shahrukh Khan,42,23,4,2,Boult,3.0,0,33,0,Chahal,4.0,0,40,0
+PBKS,19,19.5,4,1,0,0,0,Shahrukh Khan,Sam Curran,52,31,4,2,Shahrukh Khan,40,22,4,2,Boult,2.0,0,31,0,Chahal,4.0,0,40,0
+PBKS,19,19.4,6,1,0,0,0,Shahrukh Khan,Sam Curran,52,31,4,2,Shahrukh Khan,36,21,3,2,Boult,2.0,0,27,0,Chahal,4.0,0,40,0
+PBKS,19,19.3,2,0,0,0,0,Shahrukh Khan,Sam Curran,52,31,4,2,Shahrukh Khan,30,20,3,1,Boult,2.0,0,21,0,Chahal,4.0,0,40,0
+PBKS,19,19.2,0,0,1,0,0,Shahrukh Khan,Sam Curran,52,31,4,2,Shahrukh Khan,28,19,3,1,Boult,2.0,0,19,0,Chahal,4.0,0,40,0
+PBKS,19,19.1,4,1,0,0,0,Shahrukh Khan,Sam Curran,52,31,4,2,Shahrukh Khan,28,18,3,1,Boult,2.0,0,19,0,Chahal,4.0,0,40,0
+PBKS,18,18.6,4,1,0,0,0,Sam Curran,Sam Curran,52,31,4,2,Shahrukh Khan,24,17,2,1,Chahal,4.0,0,40,0,Saini,4.0,0,40,3
+PBKS,18,18.5,6,1,0,0,0,Sam Curran,Sam Curran,48,30,3,2,Shahrukh Khan,24,17,2,1,Chahal,3.0,0,36,0,Saini,4.0,0,40,3
+PBKS,18,18.4,6,1,0,0,0,Sam Curran,Sam Curran,42,29,3,1,Shahrukh Khan,24,17,2,1,Chahal,3.0,0,30,0,Saini,4.0,0,40,3
+PBKS,18,18.3,1,0,0,0,0,Shahrukh Khan,Sam Curran,36,28,3,0,Shahrukh Khan,24,17,2,1,Chahal,3.0,0,24,0,Saini,4.0,0,40,3
+PBKS,18,18.3,1,0,0,0,1,Shahrukh Khan,Sam Curran,36,28,3,0,Shahrukh Khan,23,16,2,1,Chahal,3.0,0,23,0,Saini,4.0,0,40,3
+PBKS,18,18.2,6,1,0,0,0,Shahrukh Khan,Sam Curran,36,28,3,0,Shahrukh Khan,22,16,2,1,Chahal,3.0,0,22,0,Saini,4.0,0,40,3
+PBKS,18,18.1,4,1,0,0,0,Shahrukh Khan,Sam Curran,36,28,3,0,Shahrukh Khan,16,15,2,0,Chahal,3.0,0,16,0,Saini,4.0,0,40,3
+PBKS,17,17.6,1,0,0,0,0,Shahrukh Khan,Sam Curran,36,28,3,0,Shahrukh Khan,12,14,1,0,Saini,4.0,0,40,3,Zampa,4.0,0,26,1
+PBKS,17,17.5,1,0,0,0,0,Sam Curran,Sam Curran,36,28,3,0,Shahrukh Khan,11,13,1,0,Saini,3.0,0,39,3,Zampa,4.0,0,26,1
+PBKS,17,17.4,0,0,1,0,0,Sam Curran,Sam Curran,35,27,3,0,Shahrukh Khan,11,13,1,0,Saini,3.0,0,38,3,Zampa,4.0,0,26,1
+PBKS,17,17.3,4,1,0,0,0,Sam Curran,Sam Curran,35,26,3,0,Shahrukh Khan,11,13,1,0,Saini,3.0,0,38,3,Zampa,4.0,0,26,1
+PBKS,17,17.2,1,0,0,0,0,Shahrukh Khan,Sam Curran,31,25,2,0,Shahrukh Khan,11,13,1,0,Saini,3.0,0,34,3,Zampa,4.0,0,26,1
+PBKS,17,17.1,1,0,0,0,0,Sam Curran,Sam Curran,31,25,2,0,Shahrukh Khan,10,12,1,0,Saini,3.0,0,33,3,Zampa,4.0,0,26,1
+PBKS,16,16.6,1,0,0,0,0,Sam Curran,Sam Curran,30,24,2,0,Shahrukh Khan,10,12,1,0,Zampa,4.0,0,26,1,Sandeep,3.0,0,30,0
+PBKS,16,16.5,1,0,0,0,0,Shahrukh Khan,Sam Curran,29,23,2,0,Shahrukh Khan,10,12,1,0,Zampa,3.0,0,25,1,Sandeep,3.0,0,30,0
+PBKS,16,16.4,4,1,0,0,0,Shahrukh Khan,Sam Curran,29,23,2,0,Shahrukh Khan,9,11,1,0,Zampa,3.0,0,24,1,Sandeep,3.0,0,30,0
+PBKS,16,16.3,1,0,0,0,0,Sam Curran,Sam Curran,29,23,2,0,Shahrukh Khan,5,10,0,0,Zampa,3.0,0,20,1,Sandeep,3.0,0,30,0
+PBKS,16,16.2,0,0,1,0,0,Sam Curran,Sam Curran,28,22,2,0,Shahrukh Khan,5,10,0,0,Zampa,3.0,0,19,1,Sandeep,3.0,0,30,0
+PBKS,16,16.1,1,0,0,0,0,Shahrukh Khan,Sam Curran,28,21,2,0,Shahrukh Khan,5,10,0,0,Zampa,3.0,0,19,1,Sandeep,3.0,0,30,0
+PBKS,15,15.6,1,0,0,0,0,Shahrukh Khan,Sam Curran,28,21,2,0,Shahrukh Khan,4,9,0,0,Sandeep,3.0,0,30,0,Chahal,3.0,0,12,0
+PBKS,15,15.5,0,0,1,0,0,Shahrukh Khan,Sam Curran,28,21,2,0,Shahrukh Khan,3,8,0,0,Sandeep,2.0,0,29,0,Chahal,3.0,0,12,0
+PBKS,15,15.4,1,0,0,0,0,Sam Curran,Sam Curran,28,21,2,0,Shahrukh Khan,3,7,0,0,Sandeep,2.0,0,29,0,Chahal,3.0,0,12,0
+PBKS,15,15.3,1,0,0,0,0,Shahrukh Khan,Sam Curran,27,20,2,0,Shahrukh Khan,3,7,0,0,Sandeep,2.0,0,28,0,Chahal,3.0,0,12,0
+PBKS,15,15.2,1,0,0,0,0,Sam Curran,Sam Curran,27,20,2,0,Shahrukh Khan,2,6,0,0,Sandeep,2.0,0,27,0,Chahal,3.0,0,12,0
+PBKS,15,15.1,4,1,0,0,0,Sam Curran,Sam Curran,26,19,2,0,Shahrukh Khan,2,6,0,0,Sandeep,2.0,0,26,0,Chahal,3.0,0,12,0
+PBKS,14,14.6,0,0,1,0,0,Shahrukh Khan,Sam Curran,22,18,1,0,Shahrukh Khan,2,6,0,0,Chahal,3.0,0,12,0,Saini,3.0,0,32,3
+PBKS,14,14.5,0,0,1,0,0,Shahrukh Khan,Sam Curran,22,18,1,0,Shahrukh Khan,2,5,0,0,Chahal,2.0,0,12,0,Saini,3.0,0,32,3
+PBKS,14,14.4,0,0,1,0,0,Shahrukh Khan,Sam Curran,22,18,1,0,Shahrukh Khan,2,4,0,0,Chahal,2.0,0,12,0,Saini,3.0,0,32,3
+PBKS,14,14.3,0,0,1,0,0,Shahrukh Khan,Sam Curran,22,18,1,0,Shahrukh Khan,2,3,0,0,Chahal,2.0,0,12,0,Saini,3.0,0,32,3
+PBKS,14,14.2,1,0,0,0,0,Sam Curran,Sam Curran,22,18,1,0,Shahrukh Khan,2,2,0,0,Chahal,2.0,0,12,0,Saini,3.0,0,32,3
+PBKS,14,14.1,1,0,0,0,0,Shahrukh Khan,Sam Curran,21,17,1,0,Shahrukh Khan,2,2,0,0,Chahal,2.0,0,11,0,Saini,3.0,0,32,3
+PBKS,13,13.6,1,0,0,0,0,Shahrukh Khan,Sam Curran,21,17,1,0,Shahrukh Khan,1,1,0,0,Saini,3.0,0,32,3,Sandeep,2.0,0,22,0
+PBKS,13,13.5,0,0,0,1,0,Sharma,Sam Curran,21,17,1,0,,0,0,0,0,Saini,2.0,0,31,3,Sandeep,2.0,0,22,0
+PBKS,13,13.4,4,1,0,0,0,Sharma,Sam Curran,21,17,1,0,Sharma,44,27,3,3,Saini,2.0,0,31,2,Sandeep,2.0,0,22,0
+PBKS,13,13.3,6,1,0,0,0,Sharma,Sam Curran,21,17,1,0,Sharma,40,26,2,3,Saini,2.0,0,27,2,Sandeep,2.0,0,22,0
+PBKS,13,13.2,4,1,0,0,0,Sharma,Sam Curran,21,17,1,0,Sharma,34,25,2,2,Saini,2.0,0,21,2,Sandeep,2.0,0,22,0
+PBKS,13,13.1,0,0,1,0,0,Sharma,Sam Curran,21,17,1,0,Sharma,30,24,1,2,Saini,2.0,0,17,2,Sandeep,2.0,0,22,0
+PBKS,12,12.6,1,0,0,0,0,Sharma,Sam Curran,21,17,1,0,Sharma,30,23,1,2,Sandeep,2.0,0,22,0,Zampa,3.0,0,18,1
+PBKS,12,12.5,1,0,0,0,0,Sam Curran,Sam Curran,21,17,1,0,Sharma,29,22,1,2,Sandeep,1.0,0,21,0,Zampa,3.0,0,18,1
+PBKS,12,12.4,0,0,1,0,0,Sam Curran,Sam Curran,20,16,1,0,Sharma,29,22,1,2,Sandeep,1.0,0,20,0,Zampa,3.0,0,18,1
+PBKS,12,12.4,1,0,0,0,1,Sam Curran,Sam Curran,20,15,1,0,Sharma,29,22,1,2,Sandeep,1.0,0,20,0,Zampa,3.0,0,18,1
+PBKS,12,12.3,1,0,0,0,0,Sharma,Sam Curran,19,15,1,0,Sharma,29,22,1,2,Sandeep,1.0,0,19,0,Zampa,3.0,0,18,1
+PBKS,12,12.2,1,0,0,0,0,Sam Curran,Sam Curran,19,15,1,0,Sharma,28,21,1,2,Sandeep,1.0,0,18,0,Zampa,3.0,0,18,1
+PBKS,12,12.2,1,0,0,0,1,Sam Curran,Sam Curran,18,14,1,0,Sharma,28,21,1,2,Sandeep,1.0,0,17,0,Zampa,3.0,0,18,1
+PBKS,12,12.1,0,0,1,0,0,Sam Curran,Sam Curran,17,14,1,0,Sharma,28,21,1,2,Sandeep,1.0,0,16,0,Zampa,3.0,0,18,1
+PBKS,11,11.6,0,0,1,0,0,Sharma,Sam Curran,17,13,1,0,Sharma,28,21,1,2,Zampa,3.0,0,18,1,Chahal,2.0,0,10,0
+PBKS,11,11.5,4,1,0,0,0,Sharma,Sam Curran,17,13,1,0,Sharma,28,20,1,2,Zampa,2.0,0,18,1,Chahal,2.0,0,10,0
+PBKS,11,11.4,2,0,0,0,0,Sharma,Sam Curran,17,13,1,0,Sharma,24,19,0,2,Zampa,2.0,0,14,1,Chahal,2.0,0,10,0
+PBKS,11,11.3,1,0,0,0,0,Sam Curran,Sam Curran,17,13,1,0,Sharma,22,18,0,2,Zampa,2.0,0,12,1,Chahal,2.0,0,10,0
+PBKS,11,11.2,1,0,0,0,0,Sharma,Sam Curran,16,12,1,0,Sharma,22,18,0,2,Zampa,2.0,0,11,1,Chahal,2.0,0,10,0
+PBKS,11,11.1,1,0,0,0,0,Sam Curran,Sam Curran,16,12,1,0,Sharma,21,17,0,2,Zampa,2.0,0,10,1,Chahal,2.0,0,10,0
+PBKS,10,10.6,0,0,1,0,0,Sharma,Sam Curran,15,11,1,0,Sharma,21,17,0,2,Chahal,2.0,0,10,0,Sandeep,1.0,0,16,0
+PBKS,10,10.5,1,0,0,0,0,Sam Curran,Sam Curran,15,11,1,0,Sharma,21,16,0,2,Chahal,1.0,0,10,0,Sandeep,1.0,0,16,0
+PBKS,10,10.4,1,0,0,0,0,Sharma,Sam Curran,14,10,1,0,Sharma,21,16,0,2,Chahal,1.0,0,9,0,Sandeep,1.0,0,16,0
+PBKS,10,10.3,0,0,1,0,0,Sharma,Sam Curran,14,10,1,0,Sharma,20,15,0,2,Chahal,1.0,0,8,0,Sandeep,1.0,0,16,0
+PBKS,10,10.2,1,0,0,0,0,Sam Curran,Sam Curran,14,10,1,0,Sharma,20,14,0,2,Chahal,1.0,0,8,0,Sandeep,1.0,0,16,0
+PBKS,10,10.1,4,1,0,0,0,Sam Curran,Sam Curran,13,9,1,0,Sharma,20,14,0,2,Chahal,1.0,0,7,0,Sandeep,1.0,0,16,0
+PBKS,9,9.6,6,1,0,0,0,Sharma,Sam Curran,9,8,0,0,Sharma,20,14,0,2,Sandeep,1.0,0,16,0,Chahal,1.0,0,3,0
+PBKS,9,9.5,0,0,1,0,0,Sharma,Sam Curran,9,8,0,0,Sharma,14,13,0,1,Sandeep,0,0,10,0,Chahal,1.0,0,3,0
+PBKS,9,9.4,1,0,0,0,0,Sam Curran,Sam Curran,9,8,0,0,Sharma,14,12,0,1,Sandeep,0,0,10,0,Chahal,1.0,0,3,0
+PBKS,9,9.3,1,0,0,0,0,Sharma,Sam Curran,8,7,0,0,Sharma,14,12,0,1,Sandeep,0,0,9,0,Chahal,1.0,0,3,0
+PBKS,9,9.2,6,1,0,0,0,Sharma,Sam Curran,8,7,0,0,Sharma,13,11,0,1,Sandeep,0,0,8,0,Chahal,1.0,0,3,0
+PBKS,9,9.1,2,0,0,0,0,Sharma,Sam Curran,8,7,0,0,Sharma,7,10,0,0,Sandeep,0,0,2,0,Chahal,1.0,0,3,0
+PBKS,8,8.6,1,0,0,0,0,Sharma,Sam Curran,8,7,0,0,Sharma,5,9,0,0,Chahal,1.0,0,3,0,Zampa,2.0,0,9,1
+PBKS,8,8.5,1,0,0,0,0,Sam Curran,Sam Curran,8,7,0,0,Sharma,4,8,0,0,Chahal,0,0,2,0,Zampa,2.0,0,9,1
+PBKS,8,8.4,1,0,0,0,0,Sharma,Sam Curran,7,6,0,0,Sharma,4,8,0,0,Chahal,0,0,1,0,Zampa,2.0,0,9,1
+PBKS,8,8.3,0,0,1,0,0,Sharma,Sam Curran,7,6,0,0,Sharma,3,7,0,0,Chahal,0,0,0,0,Zampa,2.0,0,9,1
+PBKS,8,8.2,0,0,1,0,0,Sharma,Sam Curran,7,6,0,0,Sharma,3,6,0,0,Chahal,0,0,0,0,Zampa,2.0,0,9,1
+PBKS,8,8.1,0,0,1,0,0,Sharma,Sam Curran,7,6,0,0,Sharma,3,5,0,0,Chahal,0,0,0,0,Zampa,2.0,0,9,1
+PBKS,7,7.6,0,0,1,0,0,Sam Curran,Sam Curran,7,6,0,0,Sharma,3,4,0,0,Zampa,2.0,0,9,1,Saini,2.0,0,17,2
+PBKS,7,7.5,1,0,0,0,0,Sharma,Sam Curran,7,5,0,0,Sharma,3,4,0,0,Zampa,1.0,0,9,1,Saini,2.0,0,17,2
+PBKS,7,7.4,1,0,0,0,0,Sam Curran,Sam Curran,7,5,0,0,Sharma,2,3,0,0,Zampa,1.0,0,8,1,Saini,2.0,0,17,2
+PBKS,7,7.3,2,0,0,0,0,Sam Curran,Sam Curran,6,4,0,0,Sharma,2,3,0,0,Zampa,1.0,0,7,1,Saini,2.0,0,17,2
+PBKS,7,7.2,1,0,0,0,0,Sharma,Sam Curran,4,3,0,0,Sharma,2,3,0,0,Zampa,1.0,0,5,1,Saini,2.0,0,17,2
+PBKS,7,7.1,1,0,0,0,0,Sam Curran,Sam Curran,4,3,0,0,Sharma,1,2,0,0,Zampa,1.0,0,4,1,Saini,2.0,0,17,2
+PBKS,6,6.6,0,0,1,0,0,Sharma,Sam Curran,3,2,0,0,Sharma,1,2,0,0,Saini,2.0,0,17,2,Zampa,1.0,0,3,1
+PBKS,6,6.5,1,0,0,0,0,Sam Curran,Sam Curran,3,2,0,0,Sharma,1,1,0,0,Saini,1.0,0,17,2,Zampa,1.0,0,3,1
+PBKS,6,6.5,1,0,0,0,1,Sam Curran,Sam Curran,2,1,0,0,Sharma,1,1,0,0,Saini,1.0,0,16,2,Zampa,1.0,0,3,1
+PBKS,6,6.4,1,0,0,0,0,Sharma,Sam Curran,1,1,0,0,Sharma,1,1,0,0,Saini,1.0,0,15,2,Zampa,1.0,0,3,1
+PBKS,6,6.3,0,0,0,1,0,Livingstone,Sam Curran,1,1,0,0,,0,0,0,0,Saini,1.0,0,14,2,Zampa,1.0,0,3,1
+PBKS,6,6.2,0,0,1,0,0,Livingstone,Livingstone,9,12,1,0,Sam Curran,1,1,0,0,Saini,1.0,0,14,1,Zampa,1.0,0,3,1
+PBKS,6,6.1,2,0,0,0,0,Livingstone,Livingstone,9,11,1,0,Sam Curran,1,1,0,0,Saini,1.0,0,14,1,Zampa,1.0,0,3,1
+PBKS,5,5.6,1,0,0,0,0,Livingstone,Livingstone,7,10,1,0,Sam Curran,1,1,0,0,Zampa,1.0,0,3,1,Boult,2.0,0,15,0
+PBKS,5,5.5,0,0,1,0,0,Livingstone,Livingstone,6,9,1,0,Sam Curran,1,1,0,0,Zampa,0,0,2,1,Boult,2.0,0,15,0
+PBKS,5,5.4,1,0,0,0,0,Sam Curran,Livingstone,6,8,1,0,Sam Curran,1,1,0,0,Zampa,0,0,2,1,Boult,2.0,0,15,0
+PBKS,5,5.3,0,0,0,1,0,S Dhawan,Livingstone,6,8,1,0,,0,0,0,0,Zampa,0,0,1,1,Boult,2.0,0,15,0
+PBKS,5,5.2,1,0,0,0,0,Livingstone,S Dhawan,7,6,1,0,Livingstone,6,8,1,0,Zampa,0,0,1,0,Boult,2.0,0,15,0
+PBKS,5,5.1,0,0,1,0,0,Livingstone,S Dhawan,7,6,1,0,Livingstone,5,7,1,0,Zampa,0,0,0,0,Boult,2.0,0,15,0
+PBKS,4,4.6,1,0,0,0,0,Livingstone,S Dhawan,7,6,1,0,Livingstone,5,6,1,0,Boult,2.0,0,15,0,Saini,1.0,0,12,1
+PBKS,4,4.5,0,0,1,0,0,Livingstone,S Dhawan,7,6,1,0,Livingstone,4,5,1,0,Boult,1.0,0,14,0,Saini,1.0,0,12,1
+PBKS,4,4.4,0,0,1,0,0,Livingstone,S Dhawan,7,6,1,0,Livingstone,4,4,1,0,Boult,1.0,0,14,0,Saini,1.0,0,12,1
+PBKS,4,4.3,0,0,1,0,0,Livingstone,S Dhawan,7,6,1,0,Livingstone,4,3,1,0,Boult,1.0,0,14,0,Saini,1.0,0,12,1
+PBKS,4,4.2,1,0,0,0,0,S Dhawan,S Dhawan,7,6,1,0,Livingstone,4,2,1,0,Boult,1.0,0,14,0,Saini,1.0,0,12,1
+PBKS,4,4.1,0,0,1,0,0,S Dhawan,S Dhawan,6,5,1,0,Livingstone,4,2,1,0,Boult,1.0,0,13,0,Saini,1.0,0,12,1
+PBKS,4,4.1,1,0,0,0,1,S Dhawan,S Dhawan,6,4,1,0,Livingstone,4,2,1,0,Boult,1.0,0,13,0,Saini,1.0,0,12,1
+PBKS,3,3.6,4,1,0,0,0,Livingstone,S Dhawan,5,4,1,0,Livingstone,4,2,1,0,Saini,1.0,0,12,1,Boult,1.0,0,12,0
+PBKS,3,3.5,0,0,1,0,0,Livingstone,S Dhawan,5,4,1,0,Livingstone,0,1,0,0,Saini,0,0,8,1,Boult,1.0,0,12,0
+PBKS,3,3.4,0,0,0,1,0,Atharva,S Dhawan,5,4,1,0,,0,0,0,0,Saini,0,0,8,1,Boult,1.0,0,12,0
+PBKS,3,3.3,0,0,1,0,0,Atharva,S Dhawan,5,4,1,0,Atharva,15,5,2,1,Saini,0,0,8,0,Boult,1.0,0,12,0
+PBKS,3,3.2,4,1,0,0,0,Atharva,S Dhawan,5,4,1,0,Atharva,15,4,2,1,Saini,0,0,8,0,Boult,1.0,0,12,0
+PBKS,3,3.1,4,1,0,0,0,Atharva,S Dhawan,5,4,1,0,Atharva,11,3,1,1,Saini,0,0,4,0,Boult,1.0,0,12,0
+PBKS,2,2.6,0,0,1,0,0,S Dhawan,S Dhawan,5,4,1,0,Atharva,7,2,0,1,Boult,1.0,0,12,0,,0,0,0,0
+PBKS,2,2.5,0,0,1,0,0,S Dhawan,S Dhawan,5,3,1,0,Atharva,7,2,0,1,Boult,0,0,12,0,,0,0,0,0
+PBKS,2,2.4,4,1,0,0,0,S Dhawan,S Dhawan,5,2,1,0,Atharva,7,2,0,1,Boult,0,0,12,0,,0,0,0,0
+PBKS,2,2.3,1,0,0,0,0,Atharva,S Dhawan,1,1,0,0,Atharva,7,2,0,1,Boult,0,0,8,0,,0,0,0,0
+PBKS,2,2.2,6,1,0,0,0,Atharva,S Dhawan,1,1,0,0,Atharva,6,1,0,1,Boult,0,0,7,0,,0,0,0,0
+PBKS,2,2.1,1,0,0,0,0,S Dhawan,S Dhawan,1,1,0,0,,0,0,0,0,Boult,0,0,1,0,,0,0,0,0

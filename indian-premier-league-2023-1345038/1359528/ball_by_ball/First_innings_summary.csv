@@ -1,0 +1,18 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+MI,16,16.1,7,1,1,0,0,Wadhera,Wadhera,55,32,4,2,Green,2,2,0,0,Harshal,3.0,0,34,0,Vyshak,3.0,0,37,2
+MI,15,15.1,19,2,0,2,1,Green,Suryakumar,69,31,6,4,Wadhera,55,32,4,2,Vyshak,2.0,0,19,0,Hasaranga,4.0,0,53,2
+MI,14,14.1,20,3,0,0,0,Wadhera,Suryakumar,60,28,6,3,Wadhera,49,29,3,2,Hasaranga,3.0,0,39,2,Siraj,3.0,0,31,0
+MI,13,13.1,13,2,2,0,0,Wadhera,Suryakumar,41,23,5,1,Wadhera,49,28,3,2,Siraj,2.0,0,18,0,Harshal,3.0,0,33,0
+MI,12,12.1,17,2,0,0,1,Suryakumar,Suryakumar,35,19,4,1,Wadhera,39,25,2,2,Harshal,2.0,0,22,0,Hazlewood,3.0,0,32,0
+MI,11,11.1,10,2,3,0,1,Suryakumar,Suryakumar,27,16,2,1,Wadhera,37,21,2,2,Hazlewood,2.0,0,23,0,Hasaranga,3.0,0,33,2
+MI,10,10.1,15,2,1,0,0,Wadhera,Suryakumar,20,14,2,0,Wadhera,29,18,2,1,Hasaranga,2.0,0,19,2,Harshal,2.0,0,21,0
+MI,9,9.1,10,1,1,0,1,Wadhera,Suryakumar,19,13,2,0,Wadhera,21,13,1,1,Harshal,1.0,0,13,0,Hasaranga,2.0,0,18,2
+MI,8,8.1,7,0,1,0,1,Wadhera,Suryakumar,16,12,2,0,Wadhera,16,8,1,1,Hasaranga,1.0,0,12,2,Vyshak,2.0,0,18,0
+MI,7,7.1,8,1,2,0,0,Suryakumar,Suryakumar,8,6,1,0,Wadhera,16,8,1,1,Vyshak,1.0,0,11,0,Harshal,1.0,0,11,0
+MI,6,6.1,12,2,0,0,1,Wadhera,Suryakumar,6,4,1,0,Wadhera,9,4,0,1,Harshal,0,0,4,0,Vyshak,1.0,0,10,0
+MI,5,5.1,10,1,3,0,1,Wadhera,Suryakumar,1,2,0,0,,0,0,0,0,Vyshak,0,0,0,0,Hasaranga,1.0,0,11,2
+MI,4,4.1,11,2,1,2,0,Rohit Sharma,Ishan,38,18,4,3,Rohit Sharma,7,7,1,0,Hasaranga,0,0,4,0,Hazlewood,2.0,0,22,0
+MI,3,3.1,7,1,4,0,0,Rohit Sharma,Ishan,33,15,3,3,Rohit Sharma,7,4,1,0,Hazlewood,1.0,0,21,0,Siraj,2.0,0,18,0
+MI,2,2.1,15,2,2,0,2,Ishan,Ishan,13,9,3,0,Rohit Sharma,7,4,1,0,Siraj,1.0,0,5,0,Hazlewood,1.0,0,15,0
+MI,1,1.1,15,3,0,0,0,Ishan,Ishan,4,6,1,0,Rohit Sharma,4,1,1,0,Hazlewood,0,0,4,0,Siraj,1.0,0,4,0
+MI,0,0.1,4,1,5,0,0,Ishan,Ishan,4,1,1,0,,0,0,0,0,Siraj,0,0,4,0,,0,0,0,0

@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+LSG,19,19.1,3,0,4,0,0,Naveen,Ravi Bishnoi,2,2,0,0,Naveen,2,1,0,0,Rasikh Salam,2.0,0,27,0,Mukesh Kumar,4.0,0,33,1
+LSG,18,18.1,6,0,1,0,0,Naveen,Arshad Khan,55,27,3,5,Ravi Bishnoi,1,1,0,0,Mukesh Kumar,3.0,0,28,1,Rasikh Salam,2.0,0,27,0
+LSG,17,17.1,13,1,0,0,0,Arshad Khan,Arshad Khan,43,22,3,4,,0,0,0,0,Rasikh Salam,1.0,0,15,0,Khaleel Ahmed,2.0,0,22,1
+LSG,16,16.1,18,3,1,1,2,Yudhvir Singh,Arshad Khan,24,17,2,2,Yudhvir Singh,14,6,1,1,Khaleel Ahmed,1.0,0,5,0,Rasikh Salam,1.0,0,14,0
+LSG,15,15.1,14,2,1,0,0,Arshad Khan,Arshad Khan,23,14,2,2,Yudhvir Singh,5,3,1,0,Rasikh Salam,0,0,4,0,Kuldeep,4.0,0,33,1
+LSG,14,14.1,7,1,1,1,0,Yudhvir Singh,Krunal,20,17,2,0,Arshad Khan,18,12,1,2,Kuldeep,3.0,0,27,0,Ishant Sharma,4.0,0,34,3
+LSG,13,13.1,11,2,3,0,0,Arshad Khan,Krunal,19,16,2,0,Arshad Khan,8,7,0,1,Ishant Sharma,3.0,0,24,3,Kuldeep,3.0,0,26,0
+LSG,12,12.1,12,2,2,0,0,Arshad Khan,Krunal,13,13,1,0,Arshad Khan,2,4,0,0,Kuldeep,2.0,0,15,0,Mukesh Kumar,3.0,0,27,1
+LSG,11,11.1,4,0,3,1,1,Krunal,Krunal,10,11,1,0,,0,0,0,0,Mukesh Kumar,2.0,0,23,1,Kuldeep,2.0,0,14,0
+LSG,10,10.1,4,0,3,0,0,Krunal,Pooran,58,24,6,4,Krunal,9,8,1,0,Kuldeep,1.0,0,10,0,Mukesh Kumar,2.0,0,23,0
+LSG,9,9.1,12,2,1,0,1,Pooran,Pooran,53,22,5,4,Krunal,2,4,0,0,Mukesh Kumar,1.0,0,11,0,Gulbadin,1.0,0,12,0
+LSG,8,8.1,12,2,1,0,0,Pooran,Pooran,44,18,3,4,Krunal,1,2,0,0,Gulbadin,0,0,2,0,Stubbs,1.0,0,4,1
+LSG,7,7.1,4,0,2,1,0,Pooran,Pooran,41,16,3,4,Badoni,6,7,0,0,Stubbs,0,0,2,0,Kuldeep,1.0,0,10,0
+LSG,6,6.1,10,1,2,0,0,Pooran,Pooran,33,12,3,3,Badoni,3,5,0,0,Kuldeep,0,0,1,0,Mukesh Kumar,1.0,0,11,0
+LSG,5,5.1,11,2,3,0,0,Badoni,Pooran,27,8,2,3,Badoni,3,3,0,0,Mukesh Kumar,0,0,6,0,Ishant Sharma,3.0,0,23,3
+LSG,4,4.1,4,0,2,1,0,Badoni,Pooran,20,5,2,2,,0,0,0,0,Ishant Sharma,2.0,0,19,3,Axar Patel,1.0,0,20,1
+LSG,3,3.1,20,4,1,1,0,Pooran,Hooda,0,1,0,0,,0,0,0,0,Axar Patel,0,0,0,1,Ishant Sharma,2.0,0,19,2
+LSG,2,2.1,12,2,1,1,2,Hooda,de Kock,4,4,0,0,Stoinis,4,5,1,0,Ishant Sharma,1.0,0,8,1,Khaleel Ahmed,1.0,0,5,0
+LSG,1,1.1,5,1,4,0,0,Stoinis,de Kock,2,3,0,0,Stoinis,0,1,0,0,Khaleel Ahmed,0,0,0,0,Ishant Sharma,1.0,0,7,1
+LSG,0,0.1,7,1,1,1,0,Stoinis,de Kock,1,1,0,0,,0,0,0,0,Ishant Sharma,0,0,1,0,,0,0,0,0

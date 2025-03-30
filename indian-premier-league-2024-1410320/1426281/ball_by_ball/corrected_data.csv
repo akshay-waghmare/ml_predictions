@@ -1,0 +1,41 @@
+over,innings,score,projected_score,required,CRR,RRR,fav_team,win_probability,venue,matches_played,total_runs,total_wickets,balls_bowled,average_runs_per_wicket,average_runs_per_over
+20,MI,247/9,N/A,N/A,12.35,N/A,DC,100.0,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+1,DC,19/0,191,N/A,19.00,N/A,DC,62.25,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+2,DC,37/0,202,N/A,18.50,N/A,DC,72.88,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+3,DC,55/0,214,N/A,18.33,N/A,DC,82.13,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+4,DC,69/0,220,N/A,17.25,N/A,DC,85.74,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+5,DC,89/0,236,N/A,17.80,N/A,DC,92.47,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+6,DC,92/0,230,N/A,15.33,N/A,DC,90.38,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+7,DC,113/0,245,N/A,16.14,N/A,DC,94.82,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+8,DC,116/1,236,N/A,14.50,N/A,DC,92.47,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+9,DC,124/1,235,N/A,13.78,N/A,DC,92.15,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+10,DC,128/2,225,N/A,12.80,N/A,DC,88.26,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+11,DC,138/2,229,N/A,12.55,N/A,DC,89.99,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+12,DC,154/2,236,N/A,12.83,N/A,DC,92.47,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+13,DC,166/2,249,N/A,12.77,N/A,DC,95.62,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+14,DC,181/3,253,N/A,12.93,N/A,DC,96.3,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+15,DC,190/3,246,N/A,12.67,N/A,DC,95.03,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+16,DC,199/3,245,N/A,12.44,N/A,DC,94.82,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+17,DC,208/3,242,N/A,12.24,N/A,DC,94.12,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+18,DC,234/3,258,N/A,13.00,N/A,DC,97.01,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+19,DC,240/4,253,N/A,12.63,N/A,DC,96.3,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+20,DC,257/4,257,N/A,12.85,N/A,DC,96.88,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+1,MI,14/0,N/A,244 from 114,14.00,12.84,DC,96.21,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+2,MI,29/0,N/A,229 from 108,14.50,12.72,DC,95.05,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+3,MI,35/0,N/A,223 from 102,11.67,13.12,DC,95.87,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+4,MI,45/1,N/A,213 from 96,11.25,13.31,DC,96.24,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+5,MI,54/2,N/A,204 from 90,10.80,13.60,DC,98.23,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+6,MI,65/3,N/A,193 from 84,10.83,13.79,DC,98.86,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+7,MI,72/3,N/A,186 from 78,10.29,14.31,DC,99.19,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+8,MI,82/3,N/A,176 from 72,10.25,14.67,DC,99.16,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+9,MI,101/3,N/A,157 from 66,11.22,14.27,DC,97.87,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+10,MI,115/3,N/A,143 from 60,11.50,14.30,DC,93.99,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+11,MI,120/3,N/A,138 from 54,10.91,15.33,DC,95.69,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+12,MI,134/3,N/A,124 from 48,11.17,15.50,DC,97.78,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+13,MI,141/5,N/A,117 from 42,10.85,16.71,DC,99.67,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+14,MI,152/5,N/A,106 from 36,10.86,17.67,DC,99.7,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+15,MI,173/5,N/A,85 from 30,11.53,17.00,DC,98.98,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+16,MI,187/5,N/A,71 from 24,11.69,17.75,DC,98.8,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+17,MI,194/5,N/A,64 from 18,11.41,21.33,DC,99.53,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+18,MI,217/6,N/A,41 from 12,12.06,20.50,DC,97.94,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+19,MI,233/7,N/A,25 from 6,12.26,25.00,DC,96.4,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99

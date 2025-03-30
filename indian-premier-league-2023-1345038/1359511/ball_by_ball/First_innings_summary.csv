@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+CSK,19,19.1,4,0,1,1,0,Dube,Dube,52,30,2,4,Jadeja,21,13,3,0,Kuldip Yadav,2.0,0,14,0,Holder,4.0,0,49,0
+CSK,18,18.1,9,1,1,0,0,Jadeja,Dube,51,28,2,4,Jadeja,14,9,2,0,Holder,3.0,0,41,0,Sandeep,4.0,0,24,0
+CSK,17,17.1,12,2,0,0,0,Jadeja,Dube,48,25,2,4,Jadeja,5,6,0,0,Sandeep,3.0,0,13,0,Holder,3.0,0,40,0
+CSK,16,16.1,16,3,1,0,0,Dube,Dube,39,21,0,4,Jadeja,3,4,0,0,Holder,2.0,0,30,0,Sandeep,3.0,0,12,0
+CSK,15,15.1,4,0,2,0,0,Dube,Dube,31,17,0,3,Jadeja,2,2,0,0,Sandeep,2.0,0,9,0,Zampa,3.0,0,22,3
+CSK,14,14.1,12,2,1,1,0,Jadeja,Dube,30,16,0,3,Moeen Ali,19,8,1,2,Zampa,2.0,0,16,2,Ashwin,4.0,0,35,2
+CSK,13,13.1,15,2,1,0,0,Dube,Dube,16,11,0,1,Moeen Ali,18,7,1,2,Ashwin,3.0,0,26,2,Chahal,1.0,0,21,0
+CSK,12,12.1,13,2,1,0,0,Moeen Ali,Dube,9,8,0,0,Moeen Ali,8,5,0,1,Chahal,1.0,0,10,0,Holder,2.0,0,24,0
+CSK,11,11.1,12,1,0,0,1,Dube,Dube,4,4,0,0,Moeen Ali,0,2,0,0,Holder,1.0,0,13,0,Ashwin,3.0,0,20,2
+CSK,10,10.1,1,0,3,2,0,Moeen Ali,Rahane,15,12,0,0,Dube,3,4,0,0,Ashwin,2.0,0,20,0,Zampa,2.0,0,10,2
+CSK,9,9.1,4,0,1,1,1,Dube,Gaikwad,47,28,5,1,Rahane,14,11,0,0,Zampa,1.0,0,8,1,Ashwin,2.0,0,19,0
+CSK,8,8.1,9,0,0,0,0,Rahane,Gaikwad,46,27,5,1,Rahane,7,6,0,0,Ashwin,1.0,0,12,0,Kuldip Yadav,2.0,0,14,0
+CSK,7,7.1,9,1,0,0,0,Gaikwad,Gaikwad,40,24,4,1,Rahane,3,3,0,0,Kuldip Yadav,1.0,0,6,0,Chahal,1.0,0,8,0
+CSK,6,6.1,8,1,1,0,0,Rahane,Gaikwad,38,21,4,1,,0,0,0,0,Chahal,0,0,4,0,Zampa,1.0,0,7,1
+CSK,5,5.1,7,1,1,1,0,Conway,Gaikwad,32,18,3,1,Conway,7,13,1,0,Zampa,0,0,4,0,Ashwin,1.0,0,10,0
+CSK,4,4.1,10,1,1,0,0,Gaikwad,Gaikwad,19,12,1,1,Conway,7,13,1,0,Ashwin,0,0,1,0,Holder,1.0,0,12,0
+CSK,3,3.1,12,2,2,0,0,Gaikwad,Gaikwad,9,10,0,0,Conway,5,9,1,0,Holder,0,0,1,0,Sandeep,2.0,0,8,0
+CSK,2,2.1,1,0,5,0,0,Conway,Gaikwad,7,8,0,0,Conway,5,5,1,0,Sandeep,1.0,0,7,0,Kuldip Yadav,1.0,0,5,0
+CSK,1,1.1,5,0,2,0,0,Gaikwad,Gaikwad,3,3,0,0,Conway,4,4,1,0,Kuldip Yadav,0,0,0,0,Sandeep,1.0,0,7,0
+CSK,0,0.1,7,1,3,0,0,Conway,Gaikwad,2,1,0,0,,0,0,0,0,Sandeep,0,0,2,0,,0,0,0,0

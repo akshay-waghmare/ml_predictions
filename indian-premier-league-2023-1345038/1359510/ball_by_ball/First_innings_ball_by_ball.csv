@@ -1,0 +1,123 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+RCB,19,19.6,2,0,0,0,0,Vyshak,Willey,12,10,1,0,Vyshak,15,8,0,1,Arora,2.0,0,22,0,Russell,4.0,0,29,2
+RCB,19,19.5,1,0,0,0,1,Willey,Willey,12,10,1,0,Vyshak,13,7,0,1,Arora,1.0,0,20,0,Russell,4.0,0,29,2
+RCB,19,19.4,2,0,0,0,0,Willey,Willey,11,9,1,0,Vyshak,13,7,0,1,Arora,1.0,0,20,0,Russell,4.0,0,29,2
+RCB,19,19.3,4,1,0,0,0,Willey,Willey,9,8,1,0,Vyshak,13,7,0,1,Arora,1.0,0,18,0,Russell,4.0,0,29,2
+RCB,19,19.3,2,0,0,0,1,Vyshak,Willey,5,7,0,0,Vyshak,13,7,0,1,Arora,1.0,0,14,0,Russell,4.0,0,29,2
+RCB,19,19.2,1,0,0,0,0,Willey,Willey,5,7,0,0,Vyshak,11,7,0,1,Arora,1.0,0,12,0,Russell,4.0,0,29,2
+RCB,19,19.1,1,0,0,0,0,Vyshak,Willey,4,6,0,0,Vyshak,11,7,0,1,Arora,1.0,0,11,0,Russell,4.0,0,29,2
+RCB,18,18.6,1,0,0,0,0,Vyshak,Willey,4,6,0,0,Vyshak,10,6,0,1,Russell,4.0,0,29,2,Varun,4.0,0,27,3
+RCB,18,18.5,6,1,0,0,0,Vyshak,Willey,4,6,0,0,Vyshak,9,5,0,1,Russell,3.0,0,28,2,Varun,4.0,0,27,3
+RCB,18,18.4,0,0,1,0,0,Vyshak,Willey,4,6,0,0,Vyshak,3,4,0,0,Russell,3.0,0,22,2,Varun,4.0,0,27,3
+RCB,18,18.3,1,0,0,0,0,Willey,Willey,4,6,0,0,Vyshak,3,3,0,0,Russell,3.0,0,22,2,Varun,4.0,0,27,3
+RCB,18,18.2,0,0,1,0,0,Willey,Willey,3,5,0,0,Vyshak,3,3,0,0,Russell,3.0,0,21,2,Varun,4.0,0,27,3
+RCB,18,18.1,1,0,0,0,0,Vyshak,Willey,3,4,0,0,Vyshak,3,3,0,0,Russell,3.0,0,21,2,Varun,4.0,0,27,3
+RCB,17,17.6,1,0,0,0,0,Vyshak,Willey,3,4,0,0,Vyshak,2,2,0,0,Varun,4.0,0,27,3,Russell,3.0,0,20,2
+RCB,17,17.5,1,0,0,0,0,Willey,Willey,3,4,0,0,Vyshak,1,1,0,0,Varun,3.0,0,26,3,Russell,3.0,0,20,2
+RCB,17,17.4,1,0,0,0,0,Vyshak,Willey,2,3,0,0,Vyshak,1,1,0,0,Varun,3.0,0,25,3,Russell,3.0,0,20,2
+RCB,17,17.3,0,0,0,1,0,Karthik,SS Prabhudessai,11,9,1,0,Willey,2,3,0,0,Varun,3.0,0,24,3,Russell,3.0,0,20,2
+RCB,17,17.2,1,0,0,0,0,Willey,SS Prabhudessai,11,9,1,0,Willey,2,3,0,0,Varun,3.0,0,24,2,Russell,3.0,0,20,2
+RCB,17,17.1,0,0,1,0,0,Willey,SS Prabhudessai,11,9,1,0,Willey,1,2,0,0,Varun,3.0,0,23,2,Russell,3.0,0,20,2
+RCB,16,16.6,1,0,0,0,0,Willey,SS Prabhudessai,11,9,1,0,Willey,1,1,0,0,Russell,3.0,0,20,2,Narine,4.0,0,41,0
+RCB,16,16.5,0,0,0,1,0,Hasaranga,SS Prabhudessai,11,9,1,0,,0,0,0,0,Russell,2.0,0,19,2,Narine,4.0,0,41,0
+RCB,16,16.4,1,0,0,0,0,Karthik,SS Prabhudessai,11,9,1,0,Hasaranga,5,3,0,0,Russell,2.0,0,19,1,Narine,4.0,0,41,0
+RCB,16,16.3,6,1,0,0,0,Karthik,SS Prabhudessai,11,9,1,0,Hasaranga,5,3,0,0,Russell,2.0,0,18,1,Narine,4.0,0,41,0
+RCB,16,16.2,0,0,1,0,0,Karthik,SS Prabhudessai,11,9,1,0,Hasaranga,5,3,0,0,Russell,2.0,0,12,1,Narine,4.0,0,41,0
+RCB,16,16.1,0,0,1,0,0,Karthik,SS Prabhudessai,11,9,1,0,Hasaranga,5,3,0,0,Russell,2.0,0,12,1,Narine,4.0,0,41,0
+RCB,15,15.6,2,0,0,0,0,Hasaranga,SS Prabhudessai,11,9,1,0,Hasaranga,5,3,0,0,Narine,4.0,0,41,0,Suyash Sharma,4.0,0,30,2
+RCB,15,15.5,2,0,0,0,0,Hasaranga,SS Prabhudessai,11,9,1,0,Hasaranga,3,2,0,0,Narine,3.0,0,39,0,Suyash Sharma,4.0,0,30,2
+RCB,15,15.4,1,0,0,0,0,Karthik,SS Prabhudessai,11,9,1,0,Hasaranga,1,1,0,0,Narine,3.0,0,37,0,Suyash Sharma,4.0,0,30,2
+RCB,15,15.3,0,0,1,0,0,Karthik,SS Prabhudessai,11,9,1,0,Hasaranga,1,1,0,0,Narine,3.0,0,36,0,Suyash Sharma,4.0,0,30,2
+RCB,15,15.2,1,0,0,0,0,Hasaranga,SS Prabhudessai,11,9,1,0,Hasaranga,1,1,0,0,Narine,3.0,0,36,0,Suyash Sharma,4.0,0,30,2
+RCB,15,15.1,1,0,0,0,0,Karthik,Karthik,14,11,1,0,SS Prabhudessai,11,9,1,0,Narine,3.0,0,35,0,Suyash Sharma,4.0,0,30,2
+RCB,14,14.6,1,0,0,0,0,Karthik,Karthik,13,10,1,0,SS Prabhudessai,11,9,1,0,Suyash Sharma,4.0,0,30,2,Narine,3.0,0,34,0
+RCB,14,14.5,1,0,0,0,0,Karthik,Karthik,12,9,1,0,SS Prabhudessai,11,9,1,0,Suyash Sharma,3.0,0,29,2,Narine,3.0,0,34,0
+RCB,14,14.4,1,0,0,0,0,SS Prabhudessai,Karthik,11,8,1,0,SS Prabhudessai,11,9,1,0,Suyash Sharma,3.0,0,28,2,Narine,3.0,0,34,0
+RCB,14,14.3,1,0,0,0,0,Karthik,Karthik,11,8,1,0,SS Prabhudessai,10,8,1,0,Suyash Sharma,3.0,0,27,2,Narine,3.0,0,34,0
+RCB,14,14.2,1,0,0,0,0,SS Prabhudessai,Karthik,10,7,1,0,SS Prabhudessai,10,8,1,0,Suyash Sharma,3.0,0,26,2,Narine,3.0,0,34,0
+RCB,14,14.1,1,0,0,0,0,Karthik,Karthik,10,7,1,0,SS Prabhudessai,9,7,1,0,Suyash Sharma,3.0,0,25,2,Narine,3.0,0,34,0
+RCB,13,13.6,1,0,0,0,0,Karthik,Karthik,9,6,1,0,SS Prabhudessai,9,7,1,0,Narine,3.0,0,34,0,Russell,2.0,0,12,1
+RCB,13,13.5,2,0,0,0,0,Karthik,Karthik,8,5,1,0,SS Prabhudessai,9,7,1,0,Narine,2.0,0,33,0,Russell,2.0,0,12,1
+RCB,13,13.4,1,0,0,0,1,SS Prabhudessai,Karthik,6,4,1,0,SS Prabhudessai,9,7,1,0,Narine,2.0,0,31,0,Russell,2.0,0,12,1
+RCB,13,13.3,2,0,0,0,0,SS Prabhudessai,Karthik,6,4,1,0,SS Prabhudessai,8,6,1,0,Narine,2.0,0,31,0,Russell,2.0,0,12,1
+RCB,13,13.2,1,0,0,0,0,Karthik,Karthik,6,4,1,0,SS Prabhudessai,6,5,1,0,Narine,2.0,0,29,0,Russell,2.0,0,12,1
+RCB,13,13.1,4,1,0,0,0,Karthik,Karthik,5,3,1,0,SS Prabhudessai,6,5,1,0,Narine,2.0,0,28,0,Russell,2.0,0,12,1
+RCB,12,12.6,4,1,0,0,0,SS Prabhudessai,Karthik,1,2,0,0,SS Prabhudessai,6,5,1,0,Russell,2.0,0,12,1,Varun,3.0,0,23,2
+RCB,12,12.5,2,0,0,0,0,SS Prabhudessai,Karthik,1,2,0,0,SS Prabhudessai,2,4,0,0,Russell,1.0,0,8,1,Varun,3.0,0,23,2
+RCB,12,12.4,0,0,1,0,0,SS Prabhudessai,Karthik,1,2,0,0,SS Prabhudessai,0,3,0,0,Russell,1.0,0,6,1,Varun,3.0,0,23,2
+RCB,12,12.3,0,0,1,0,0,SS Prabhudessai,Karthik,1,2,0,0,SS Prabhudessai,0,2,0,0,Russell,1.0,0,6,1,Varun,3.0,0,23,2
+RCB,12,12.2,0,0,1,0,0,SS Prabhudessai,Karthik,1,2,0,0,SS Prabhudessai,0,1,0,0,Russell,1.0,0,6,1,Varun,3.0,0,23,2
+RCB,12,12.1,0,0,0,1,0,Kohli,Karthik,1,2,0,0,,0,0,0,0,Russell,1.0,0,6,1,Varun,3.0,0,23,2
+RCB,11,11.6,1,0,0,0,0,Kohli,Kohli,55,36,6,0,Karthik,1,2,0,0,Varun,3.0,0,23,2,Suyash Sharma,3.0,0,24,2
+RCB,11,11.5,1,0,0,0,0,Karthik,Kohli,54,35,6,0,Karthik,1,2,0,0,Varun,2.0,0,22,2,Suyash Sharma,3.0,0,24,2
+RCB,11,11.4,0,0,1,0,0,Karthik,Kohli,54,35,6,0,Karthik,0,1,0,0,Varun,2.0,0,21,2,Suyash Sharma,3.0,0,24,2
+RCB,11,11.3,0,0,0,1,0,Lomror,Kohli,54,35,6,0,,0,0,0,0,Varun,2.0,0,21,2,Suyash Sharma,3.0,0,24,2
+RCB,11,11.2,6,1,0,0,0,Lomror,Kohli,54,35,6,0,Lomror,34,17,1,3,Varun,2.0,0,21,1,Suyash Sharma,3.0,0,24,2
+RCB,11,11.1,1,0,0,0,0,Kohli,Kohli,54,35,6,0,Lomror,28,16,1,2,Varun,2.0,0,15,1,Suyash Sharma,3.0,0,24,2
+RCB,10,10.6,0,0,1,0,0,Lomror,Kohli,53,34,6,0,Lomror,28,16,1,2,Suyash Sharma,3.0,0,24,2,Narine,2.0,0,24,0
+RCB,10,10.5,1,0,0,0,0,Kohli,Kohli,53,34,6,0,Lomror,28,15,1,2,Suyash Sharma,2.0,0,24,2,Narine,2.0,0,24,0
+RCB,10,10.5,1,0,0,0,1,Kohli,Kohli,52,33,6,0,Lomror,28,15,1,2,Suyash Sharma,2.0,0,23,2,Narine,2.0,0,24,0
+RCB,10,10.4,2,0,0,0,0,Kohli,Kohli,51,33,6,0,Lomror,28,15,1,2,Suyash Sharma,2.0,0,22,2,Narine,2.0,0,24,0
+RCB,10,10.3,4,1,0,0,0,Kohli,Kohli,49,32,6,0,Lomror,28,15,1,2,Suyash Sharma,2.0,0,20,2,Narine,2.0,0,24,0
+RCB,10,10.2,1,0,0,0,0,Lomror,Kohli,45,31,5,0,Lomror,28,15,1,2,Suyash Sharma,2.0,0,16,2,Narine,2.0,0,24,0
+RCB,10,10.1,1,0,0,0,0,Kohli,Kohli,45,31,5,0,Lomror,27,14,1,2,Suyash Sharma,2.0,0,15,2,Narine,2.0,0,24,0
+RCB,9,9.6,6,1,0,0,0,Lomror,Kohli,44,30,5,0,Lomror,27,14,1,2,Narine,2.0,0,24,0,Rana,1.0,0,8,0
+RCB,9,9.5,1,0,0,0,0,Kohli,Kohli,44,30,5,0,Lomror,21,13,1,1,Narine,1.0,0,18,0,Rana,1.0,0,8,0
+RCB,9,9.4,1,0,0,0,0,Lomror,Kohli,43,29,5,0,Lomror,21,13,1,1,Narine,1.0,0,17,0,Rana,1.0,0,8,0
+RCB,9,9.3,1,0,0,0,0,Kohli,Kohli,43,29,5,0,Lomror,20,12,1,1,Narine,1.0,0,16,0,Rana,1.0,0,8,0
+RCB,9,9.2,1,0,0,0,0,Lomror,Kohli,42,28,5,0,Lomror,20,12,1,1,Narine,1.0,0,15,0,Rana,1.0,0,8,0
+RCB,9,9.1,6,1,0,0,0,Lomror,Kohli,42,28,5,0,Lomror,19,11,1,1,Narine,1.0,0,14,0,Rana,1.0,0,8,0
+RCB,8,8.6,0,0,1,0,0,Kohli,Kohli,42,28,5,0,Lomror,13,10,1,0,Rana,1.0,0,8,0,Narine,1.0,0,8,0
+RCB,8,8.5,1,0,0,0,0,Lomror,Kohli,42,27,5,0,Lomror,13,10,1,0,Rana,0,0,8,0,Narine,1.0,0,8,0
+RCB,8,8.4,1,0,0,0,0,Kohli,Kohli,42,27,5,0,Lomror,12,9,1,0,Rana,0,0,7,0,Narine,1.0,0,8,0
+RCB,8,8.3,1,0,0,0,0,Lomror,Kohli,41,26,5,0,Lomror,12,9,1,0,Rana,0,0,6,0,Narine,1.0,0,8,0
+RCB,8,8.2,4,1,0,0,0,Lomror,Kohli,41,26,5,0,Lomror,11,8,1,0,Rana,0,0,5,0,Narine,1.0,0,8,0
+RCB,8,8.1,1,0,0,0,0,Kohli,Kohli,41,26,5,0,Lomror,7,7,0,0,Rana,0,0,1,0,Narine,1.0,0,8,0
+RCB,7,7.6,1,0,0,0,0,Kohli,Kohli,40,25,5,0,Lomror,7,7,0,0,Narine,1.0,0,8,0,Russell,1.0,0,6,0
+RCB,7,7.5,1,0,0,0,0,Lomror,Kohli,39,24,5,0,Lomror,7,7,0,0,Narine,0,0,7,0,Russell,1.0,0,6,0
+RCB,7,7.4,2,0,0,0,0,Lomror,Kohli,39,24,5,0,Lomror,6,6,0,0,Narine,0,0,6,0,Russell,1.0,0,6,0
+RCB,7,7.3,2,0,0,0,0,Lomror,Kohli,39,24,5,0,Lomror,4,5,0,0,Narine,0,0,4,0,Russell,1.0,0,6,0
+RCB,7,7.2,1,0,0,0,0,Kohli,Kohli,39,24,5,0,Lomror,2,4,0,0,Narine,0,0,2,0,Russell,1.0,0,6,0
+RCB,7,7.1,1,0,0,0,0,Lomror,Kohli,38,23,5,0,Lomror,2,4,0,0,Narine,0,0,1,0,Russell,1.0,0,6,0
+RCB,6,6.6,2,0,0,0,0,Kohli,Kohli,38,23,5,0,Lomror,1,3,0,0,Russell,1.0,0,6,0,Varun,2.0,0,14,1
+RCB,6,6.5,2,0,0,0,0,Kohli,Kohli,36,22,5,0,Lomror,1,3,0,0,Russell,0,0,4,0,Varun,2.0,0,14,1
+RCB,6,6.4,1,0,0,0,0,Lomror,Kohli,34,21,5,0,Lomror,1,3,0,0,Russell,0,0,2,0,Varun,2.0,0,14,1
+RCB,6,6.3,0,0,1,0,0,Lomror,Kohli,34,21,5,0,Lomror,0,2,0,0,Russell,0,0,1,0,Varun,2.0,0,14,1
+RCB,6,6.2,1,0,0,0,0,Kohli,Kohli,34,21,5,0,Lomror,0,1,0,0,Russell,0,0,1,0,Varun,2.0,0,14,1
+RCB,6,6.1,0,0,1,0,0,Kohli,Kohli,33,20,5,0,Lomror,0,1,0,0,Russell,0,0,0,0,Varun,2.0,0,14,1
+RCB,5,5.6,0,0,1,0,0,Lomror,Kohli,33,19,5,0,Lomror,0,1,0,0,Varun,2.0,0,14,1,Suyash Sharma,2.0,0,14,2
+RCB,5,5.5,0,0,0,1,0,Maxwell,Kohli,33,19,5,0,,0,0,0,0,Varun,1.0,0,14,1,Suyash Sharma,2.0,0,14,2
+RCB,5,5.4,4,1,0,0,0,Maxwell,Kohli,33,19,5,0,Maxwell,5,3,1,0,Varun,1.0,0,14,0,Suyash Sharma,2.0,0,14,2
+RCB,5,5.3,0,0,1,0,0,Maxwell,Kohli,33,19,5,0,Maxwell,1,2,0,0,Varun,1.0,0,10,0,Suyash Sharma,2.0,0,14,2
+RCB,5,5.2,1,0,0,0,0,Kohli,Kohli,33,19,5,0,Maxwell,1,1,0,0,Varun,1.0,0,10,0,Suyash Sharma,2.0,0,14,2
+RCB,5,5.1,0,0,1,0,0,Kohli,Kohli,32,18,5,0,Maxwell,1,1,0,0,Varun,1.0,0,9,0,Suyash Sharma,2.0,0,14,2
+RCB,4,4.6,1,0,0,0,0,Kohli,Kohli,32,17,5,0,Maxwell,1,1,0,0,Suyash Sharma,2.0,0,14,2,Varun,1.0,0,9,0
+RCB,4,4.5,1,0,0,0,0,Maxwell,Kohli,31,16,5,0,Maxwell,1,1,0,0,Suyash Sharma,1.0,0,13,2,Varun,1.0,0,9,0
+RCB,4,4.4,0,0,0,1,0,Shahbaz Ahmed,Kohli,31,16,5,0,,0,0,0,0,Suyash Sharma,1.0,0,12,2,Varun,1.0,0,9,0
+RCB,4,4.3,1,0,0,0,0,Kohli,Kohli,31,16,5,0,Shahbaz Ahmed,2,4,0,0,Suyash Sharma,1.0,0,12,1,Varun,1.0,0,9,0
+RCB,4,4.2,4,1,0,0,0,Kohli,Kohli,30,15,5,0,Shahbaz Ahmed,2,4,0,0,Suyash Sharma,1.0,0,11,1,Varun,1.0,0,9,0
+RCB,4,4.1,4,1,0,0,0,Kohli,Kohli,26,14,4,0,Shahbaz Ahmed,2,4,0,0,Suyash Sharma,1.0,0,7,1,Varun,1.0,0,9,0
+RCB,3,3.6,1,0,0,0,0,Kohli,Kohli,22,13,3,0,Shahbaz Ahmed,2,4,0,0,Varun,1.0,0,9,0,Suyash Sharma,1.0,0,3,1
+RCB,3,3.5,2,0,0,0,0,Kohli,Kohli,21,12,3,0,Shahbaz Ahmed,2,4,0,0,Varun,0,0,8,0,Suyash Sharma,1.0,0,3,1
+RCB,3,3.4,1,0,0,0,0,Shahbaz Ahmed,Kohli,19,11,3,0,Shahbaz Ahmed,2,4,0,0,Varun,0,0,6,0,Suyash Sharma,1.0,0,3,1
+RCB,3,3.3,1,0,0,0,0,Kohli,Kohli,19,11,3,0,Shahbaz Ahmed,1,3,0,0,Varun,0,0,5,0,Suyash Sharma,1.0,0,3,1
+RCB,3,3.2,0,0,1,0,0,Kohli,Kohli,18,10,3,0,Shahbaz Ahmed,1,3,0,0,Varun,0,0,4,0,Suyash Sharma,1.0,0,3,1
+RCB,3,3.1,4,1,0,0,0,Kohli,Kohli,18,9,3,0,Shahbaz Ahmed,1,3,0,0,Varun,0,0,4,0,Suyash Sharma,1.0,0,3,1
+RCB,2,2.6,1,0,0,0,0,Kohli,Kohli,14,8,2,0,Shahbaz Ahmed,1,3,0,0,Suyash Sharma,1.0,0,3,1,Umesh Yadav,1.0,0,19,0
+RCB,2,2.5,1,0,0,0,0,Shahbaz Ahmed,Kohli,13,7,2,0,Shahbaz Ahmed,1,3,0,0,Suyash Sharma,0,0,2,1,Umesh Yadav,1.0,0,19,0
+RCB,2,2.4,0,0,1,0,0,Shahbaz Ahmed,Kohli,13,7,2,0,Shahbaz Ahmed,0,2,0,0,Suyash Sharma,0,0,1,1,Umesh Yadav,1.0,0,19,0
+RCB,2,2.3,0,0,1,0,0,Shahbaz Ahmed,Kohli,13,7,2,0,Shahbaz Ahmed,0,1,0,0,Suyash Sharma,0,0,1,1,Umesh Yadav,1.0,0,19,0
+RCB,2,2.2,0,0,0,1,0,du Plessis,Kohli,13,7,2,0,,0,0,0,0,Suyash Sharma,0,0,1,1,Umesh Yadav,1.0,0,19,0
+RCB,2,2.1,1,0,0,0,0,Kohli,Kohli,13,7,2,0,du Plessis,18,6,1,2,Suyash Sharma,0,0,1,0,Umesh Yadav,1.0,0,19,0
+RCB,1,1.6,6,1,0,0,0,du Plessis,Kohli,12,6,2,0,du Plessis,18,6,1,2,Umesh Yadav,1.0,0,19,0,Arora,1.0,0,10,0
+RCB,1,1.5,6,1,0,0,0,du Plessis,Kohli,12,6,2,0,du Plessis,12,5,1,1,Umesh Yadav,0,0,13,0,Arora,1.0,0,10,0
+RCB,1,1.4,1,0,0,0,0,Kohli,Kohli,12,6,2,0,du Plessis,6,4,1,0,Umesh Yadav,0,0,7,0,Arora,1.0,0,10,0
+RCB,1,1.3,1,0,0,0,0,du Plessis,Kohli,11,5,2,0,du Plessis,6,4,1,0,Umesh Yadav,0,0,6,0,Arora,1.0,0,10,0
+RCB,1,1.2,1,0,0,0,0,Kohli,Kohli,11,5,2,0,du Plessis,5,3,1,0,Umesh Yadav,0,0,5,0,Arora,1.0,0,10,0
+RCB,1,1.1,4,1,0,0,0,Kohli,Kohli,10,4,2,0,du Plessis,5,3,1,0,Umesh Yadav,0,0,4,0,Arora,1.0,0,10,0
+RCB,0,0.6,0,0,1,0,0,du Plessis,Kohli,6,3,1,0,du Plessis,5,3,1,0,Arora,1.0,0,10,0,,0,0,0,0
+RCB,0,0.5,4,1,0,0,0,du Plessis,Kohli,6,3,1,0,du Plessis,5,2,1,0,Arora,0,0,10,0,,0,0,0,0
+RCB,0,0.4,1,0,0,0,0,Kohli,Kohli,6,3,1,0,du Plessis,1,1,0,0,Arora,0,0,6,0,,0,0,0,0
+RCB,0,0.3,1,0,0,0,1,du Plessis,Kohli,5,2,1,0,du Plessis,1,1,0,0,Arora,0,0,5,0,,0,0,0,0
+RCB,0,0.2,1,0,0,0,0,Kohli,Kohli,5,2,1,0,,0,0,0,0,Arora,0,0,5,0,,0,0,0,0
+RCB,0,0.1,4,1,0,0,0,Kohli,Kohli,4,1,1,0,,0,0,0,0,Arora,0,0,4,0,,0,0,0,0

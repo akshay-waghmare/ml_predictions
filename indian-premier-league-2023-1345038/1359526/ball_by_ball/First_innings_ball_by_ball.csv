@@ -1,0 +1,126 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+SRH,19,19.6,6,1,0,0,0,Abdul Samad,Abdul Samad,18,7,0,2,Jansen,3,2,0,0,Sandeep,4.0,0,48,0,Kuldip Yadav,4.0,0,50,1
+SRH,19,19.6,1,0,0,0,1,Abdul Samad,Abdul Samad,12,6,0,1,Jansen,3,2,0,0,Sandeep,4.0,0,42,0,Kuldip Yadav,4.0,0,50,1
+SRH,19,19.5,1,0,0,0,0,Jansen,Abdul Samad,11,5,0,1,Jansen,3,2,0,0,Sandeep,3.0,0,41,0,Kuldip Yadav,4.0,0,50,1
+SRH,19,19.4,1,0,0,0,0,Abdul Samad,Abdul Samad,11,5,0,1,Jansen,2,1,0,0,Sandeep,3.0,0,40,0,Kuldip Yadav,4.0,0,50,1
+SRH,19,19.3,2,0,0,0,0,Abdul Samad,Abdul Samad,10,4,0,1,Jansen,2,1,0,0,Sandeep,3.0,0,39,0,Kuldip Yadav,4.0,0,50,1
+SRH,19,19.2,6,1,0,0,0,Abdul Samad,Abdul Samad,8,3,0,1,Jansen,2,1,0,0,Sandeep,3.0,0,37,0,Kuldip Yadav,4.0,0,50,1
+SRH,19,19.1,2,0,0,0,0,Abdul Samad,Abdul Samad,2,2,0,0,Jansen,2,1,0,0,Sandeep,3.0,0,31,0,Kuldip Yadav,4.0,0,50,1
+SRH,18,18.6,2,0,0,0,0,Jansen,Abdul Samad,0,1,0,0,Jansen,2,1,0,0,Kuldip Yadav,4.0,0,50,1,Chahal,4.0,0,29,4
+SRH,18,18.5,0,0,0,1,0,Phillips,Abdul Samad,0,1,0,0,,0,0,0,0,Kuldip Yadav,3.0,0,48,1,Chahal,4.0,0,29,4
+SRH,18,18.4,4,1,0,0,0,Phillips,Phillips,25,6,1,3,Abdul Samad,0,1,0,0,Kuldip Yadav,3.0,0,48,0,Chahal,4.0,0,29,4
+SRH,18,18.3,6,1,0,0,0,Phillips,Phillips,21,5,0,3,Abdul Samad,0,1,0,0,Kuldip Yadav,3.0,0,44,0,Chahal,4.0,0,29,4
+SRH,18,18.2,6,1,0,0,0,Phillips,Phillips,15,4,0,2,Abdul Samad,0,1,0,0,Kuldip Yadav,3.0,0,38,0,Chahal,4.0,0,29,4
+SRH,18,18.1,6,1,0,0,0,Phillips,Phillips,9,3,0,1,Abdul Samad,0,1,0,0,Kuldip Yadav,3.0,0,32,0,Chahal,4.0,0,29,4
+SRH,17,17.6,0,0,1,0,0,Abdul Samad,Phillips,3,2,0,0,Abdul Samad,0,1,0,0,Chahal,4.0,0,29,4,McCoy,1.0,0,13,0
+SRH,17,17.5,0,0,0,1,0,Markram,Phillips,3,2,0,0,,0,0,0,0,Chahal,3.0,0,29,4,McCoy,1.0,0,13,0
+SRH,17,17.4,1,0,0,0,0,Phillips,Markram,6,4,1,0,Phillips,3,2,0,0,Chahal,3.0,0,29,3,McCoy,1.0,0,13,0
+SRH,17,17.3,2,0,0,0,0,Phillips,Markram,6,4,1,0,Phillips,2,1,0,0,Chahal,3.0,0,28,3,McCoy,1.0,0,13,0
+SRH,17,17.2,0,0,0,1,0,Tripathi,Markram,6,4,1,0,,0,0,0,0,Chahal,3.0,0,26,3,McCoy,1.0,0,13,0
+SRH,17,17.1,0,0,1,0,0,Tripathi,Tripathi,49,28,2,3,Markram,6,4,1,0,Chahal,3.0,0,26,2,McCoy,1.0,0,13,0
+SRH,16,16.6,4,1,0,0,0,Markram,Tripathi,49,27,2,3,Markram,6,4,1,0,McCoy,1.0,0,13,0,Chahal,3.0,0,26,2
+SRH,16,16.5,0,0,1,0,0,Markram,Tripathi,49,27,2,3,Markram,2,3,0,0,McCoy,0,0,9,0,Chahal,3.0,0,26,2
+SRH,16,16.4,1,0,0,0,0,Tripathi,Tripathi,49,27,2,3,Markram,2,2,0,0,McCoy,0,0,9,0,Chahal,3.0,0,26,2
+SRH,16,16.3,6,1,0,0,0,Tripathi,Tripathi,48,26,2,3,Markram,2,2,0,0,McCoy,0,0,8,0,Chahal,3.0,0,26,2
+SRH,16,16.2,0,0,1,0,0,Tripathi,Tripathi,42,25,2,2,Markram,2,2,0,0,McCoy,0,0,2,0,Chahal,3.0,0,26,2
+SRH,16,16.2,1,0,0,0,1,Tripathi,Tripathi,42,24,2,2,Markram,2,2,0,0,McCoy,0,0,2,0,Chahal,3.0,0,26,2
+SRH,16,16.1,1,0,0,0,0,Markram,Tripathi,41,24,2,2,Markram,2,2,0,0,McCoy,0,0,1,0,Chahal,3.0,0,26,2
+SRH,15,15.6,1,0,0,0,0,Markram,Tripathi,41,24,2,2,Markram,1,1,0,0,Chahal,3.0,0,26,2,Kuldip Yadav,3.0,0,26,0
+SRH,15,15.5,0,0,0,1,0,Klaasen,Tripathi,41,24,2,2,,0,0,0,0,Chahal,2.0,0,25,2,Kuldip Yadav,3.0,0,26,0
+SRH,15,15.4,4,1,0,0,0,Klaasen,Tripathi,41,24,2,2,Klaasen,26,11,2,2,Chahal,2.0,0,25,1,Kuldip Yadav,3.0,0,26,0
+SRH,15,15.3,0,0,1,0,0,Klaasen,Tripathi,41,24,2,2,Klaasen,22,10,1,2,Chahal,2.0,0,21,1,Kuldip Yadav,3.0,0,26,0
+SRH,15,15.2,6,1,0,0,0,Klaasen,Tripathi,41,24,2,2,Klaasen,22,9,1,2,Chahal,2.0,0,21,1,Kuldip Yadav,3.0,0,26,0
+SRH,15,15.1,1,0,0,0,0,Tripathi,Tripathi,41,24,2,2,Klaasen,16,8,1,1,Chahal,2.0,0,15,1,Kuldip Yadav,3.0,0,26,0
+SRH,14,14.6,4,1,0,0,0,Klaasen,Tripathi,40,23,2,2,Klaasen,16,8,1,1,Kuldip Yadav,3.0,0,26,0,M Ashwin,3.0,0,42,0
+SRH,14,14.5,1,0,0,0,0,Tripathi,Tripathi,40,23,2,2,Klaasen,12,7,0,1,Kuldip Yadav,2.0,0,22,0,M Ashwin,3.0,0,42,0
+SRH,14,14.4,1,0,0,0,0,Klaasen,Tripathi,39,22,2,2,Klaasen,12,7,0,1,Kuldip Yadav,2.0,0,21,0,M Ashwin,3.0,0,42,0
+SRH,14,14.3,1,0,0,0,0,Tripathi,Tripathi,39,22,2,2,Klaasen,11,6,0,1,Kuldip Yadav,2.0,0,20,0,M Ashwin,3.0,0,42,0
+SRH,14,14.2,1,0,0,0,0,Klaasen,Tripathi,38,21,2,2,Klaasen,11,6,0,1,Kuldip Yadav,2.0,0,19,0,M Ashwin,3.0,0,42,0
+SRH,14,14.1,2,0,0,0,0,Klaasen,Tripathi,38,21,2,2,Klaasen,10,5,0,1,Kuldip Yadav,2.0,0,18,0,M Ashwin,3.0,0,42,0
+SRH,13,13.6,0,0,1,0,0,Tripathi,Tripathi,38,21,2,2,Klaasen,8,4,0,1,M Ashwin,3.0,0,42,0,Ashwin,4.0,0,35,1
+SRH,13,13.5,2,0,0,0,0,Tripathi,Tripathi,38,20,2,2,Klaasen,8,4,0,1,M Ashwin,2.0,0,42,0,Ashwin,4.0,0,35,1
+SRH,13,13.4,4,1,0,0,0,Tripathi,Tripathi,36,19,2,2,Klaasen,8,4,0,1,M Ashwin,2.0,0,40,0,Ashwin,4.0,0,35,1
+SRH,13,13.3,6,1,0,0,0,Tripathi,Tripathi,32,18,1,2,Klaasen,8,4,0,1,M Ashwin,2.0,0,36,0,Ashwin,4.0,0,35,1
+SRH,13,13.2,1,0,0,0,0,Klaasen,Tripathi,26,17,1,1,Klaasen,8,4,0,1,M Ashwin,2.0,0,30,0,Ashwin,4.0,0,35,1
+SRH,13,13.1,6,1,0,0,0,Klaasen,Tripathi,26,17,1,1,Klaasen,7,3,0,1,M Ashwin,2.0,0,29,0,Ashwin,4.0,0,35,1
+SRH,12,12.6,1,0,0,0,0,Klaasen,Tripathi,26,17,1,1,Klaasen,1,2,0,0,Ashwin,4.0,0,35,1,M Ashwin,2.0,0,23,0
+SRH,12,12.5,0,0,1,0,0,Klaasen,Tripathi,26,17,1,1,Klaasen,0,1,0,0,Ashwin,3.0,0,34,1,M Ashwin,2.0,0,23,0
+SRH,12,12.4,0,0,0,1,0,Abhishek,Tripathi,26,17,1,1,,0,0,0,0,Ashwin,3.0,0,34,1,M Ashwin,2.0,0,23,0
+SRH,12,12.3,6,1,0,0,0,Abhishek,Abhishek,57,33,5,2,Tripathi,26,17,1,1,Ashwin,3.0,0,34,0,M Ashwin,2.0,0,23,0
+SRH,12,12.2,1,0,0,0,0,Tripathi,Abhishek,51,32,5,1,Tripathi,26,17,1,1,Ashwin,3.0,0,28,0,M Ashwin,2.0,0,23,0
+SRH,12,12.1,1,0,0,0,0,Abhishek,Abhishek,51,32,5,1,Tripathi,25,16,1,1,Ashwin,3.0,0,27,0,M Ashwin,2.0,0,23,0
+SRH,12,12.1,1,0,0,0,1,Abhishek,Abhishek,50,31,5,1,Tripathi,25,16,1,1,Ashwin,3.0,0,26,0,M Ashwin,2.0,0,23,0
+SRH,11,11.6,1,0,0,0,0,Abhishek,Abhishek,49,31,5,1,Tripathi,25,16,1,1,M Ashwin,2.0,0,23,0,Ashwin,3.0,0,25,0
+SRH,11,11.5,6,1,0,0,0,Abhishek,Abhishek,48,30,5,1,Tripathi,25,16,1,1,M Ashwin,1.0,0,22,0,Ashwin,3.0,0,25,0
+SRH,11,11.4,0,0,1,0,0,Abhishek,Abhishek,42,29,5,0,Tripathi,25,16,1,1,M Ashwin,1.0,0,16,0,Ashwin,3.0,0,25,0
+SRH,11,11.3,1,0,0,0,0,Tripathi,Abhishek,42,28,5,0,Tripathi,25,16,1,1,M Ashwin,1.0,0,16,0,Ashwin,3.0,0,25,0
+SRH,11,11.2,1,0,0,0,0,Abhishek,Abhishek,42,28,5,0,Tripathi,24,15,1,1,M Ashwin,1.0,0,15,0,Ashwin,3.0,0,25,0
+SRH,11,11.1,0,0,1,0,0,Abhishek,Abhishek,41,27,5,0,Tripathi,24,15,1,1,M Ashwin,1.0,0,14,0,Ashwin,3.0,0,25,0
+SRH,10,10.6,0,0,1,0,0,Tripathi,Abhishek,41,26,5,0,Tripathi,24,15,1,1,Ashwin,3.0,0,25,0,M Ashwin,1.0,0,14,0
+SRH,10,10.5,1,0,0,0,0,Abhishek,Abhishek,41,26,5,0,Tripathi,24,14,1,1,Ashwin,2.0,0,25,0,M Ashwin,1.0,0,14,0
+SRH,10,10.4,1,0,0,0,0,Tripathi,Abhishek,40,25,5,0,Tripathi,24,14,1,1,Ashwin,2.0,0,24,0,M Ashwin,1.0,0,14,0
+SRH,10,10.3,4,1,0,0,0,Tripathi,Abhishek,40,25,5,0,Tripathi,23,13,1,1,Ashwin,2.0,0,23,0,M Ashwin,1.0,0,14,0
+SRH,10,10.2,1,0,0,0,0,Abhishek,Abhishek,40,25,5,0,Tripathi,19,12,0,1,Ashwin,2.0,0,19,0,M Ashwin,1.0,0,14,0
+SRH,10,10.2,1,0,0,0,1,Abhishek,Abhishek,39,24,5,0,Tripathi,19,12,0,1,Ashwin,2.0,0,18,0,M Ashwin,1.0,0,14,0
+SRH,10,10.1,3,0,0,0,0,Tripathi,Abhishek,38,24,5,0,Tripathi,19,12,0,1,Ashwin,2.0,0,17,0,M Ashwin,1.0,0,14,0
+SRH,9,9.6,1,0,0,0,0,Tripathi,Abhishek,38,24,5,0,Tripathi,16,11,0,1,M Ashwin,1.0,0,14,0,Kuldip Yadav,2.0,0,16,0
+SRH,9,9.5,1,0,0,0,0,Abhishek,Abhishek,38,24,5,0,Tripathi,15,10,0,1,M Ashwin,0,0,13,0,Kuldip Yadav,2.0,0,16,0
+SRH,9,9.4,4,1,0,0,0,Abhishek,Abhishek,37,23,5,0,Tripathi,15,10,0,1,M Ashwin,0,0,12,0,Kuldip Yadav,2.0,0,16,0
+SRH,9,9.3,1,0,0,0,0,Tripathi,Abhishek,33,22,4,0,Tripathi,15,10,0,1,M Ashwin,0,0,8,0,Kuldip Yadav,2.0,0,16,0
+SRH,9,9.2,6,1,0,0,0,Tripathi,Abhishek,33,22,4,0,Tripathi,14,9,0,1,M Ashwin,0,0,7,0,Kuldip Yadav,2.0,0,16,0
+SRH,9,9.1,1,0,0,0,0,Abhishek,Abhishek,33,22,4,0,Tripathi,8,8,0,0,M Ashwin,0,0,1,0,Kuldip Yadav,2.0,0,16,0
+SRH,8,8.6,1,0,0,0,0,Abhishek,Abhishek,32,21,4,0,Tripathi,8,8,0,0,Kuldip Yadav,2.0,0,16,0,Chahal,2.0,0,14,1
+SRH,8,8.5,2,0,0,0,0,Abhishek,Abhishek,31,20,4,0,Tripathi,8,8,0,0,Kuldip Yadav,1.0,0,15,0,Chahal,2.0,0,14,1
+SRH,8,8.4,0,0,1,0,0,Abhishek,Abhishek,29,19,4,0,Tripathi,8,8,0,0,Kuldip Yadav,1.0,0,13,0,Chahal,2.0,0,14,1
+SRH,8,8.3,2,0,0,0,0,Abhishek,Abhishek,29,18,4,0,Tripathi,8,8,0,0,Kuldip Yadav,1.0,0,13,0,Chahal,2.0,0,14,1
+SRH,8,8.2,2,0,0,0,0,Abhishek,Abhishek,27,17,4,0,Tripathi,8,8,0,0,Kuldip Yadav,1.0,0,11,0,Chahal,2.0,0,14,1
+SRH,8,8.1,1,0,0,0,0,Tripathi,Abhishek,25,16,4,0,Tripathi,8,8,0,0,Kuldip Yadav,1.0,0,9,0,Chahal,2.0,0,14,1
+SRH,7,7.6,4,1,0,0,0,Abhishek,Abhishek,25,16,4,0,Tripathi,7,7,0,0,Chahal,2.0,0,14,1,Ashwin,2.0,0,14,0
+SRH,7,7.5,0,0,1,0,0,Abhishek,Abhishek,21,15,3,0,Tripathi,7,7,0,0,Chahal,1.0,0,10,1,Ashwin,2.0,0,14,0
+SRH,7,7.4,1,0,0,0,0,Tripathi,Abhishek,21,14,3,0,Tripathi,7,7,0,0,Chahal,1.0,0,10,1,Ashwin,2.0,0,14,0
+SRH,7,7.3,0,0,1,0,0,Tripathi,Abhishek,21,14,3,0,Tripathi,6,6,0,0,Chahal,1.0,0,9,1,Ashwin,2.0,0,14,0
+SRH,7,7.2,1,0,0,0,0,Abhishek,Abhishek,21,14,3,0,Tripathi,6,5,0,0,Chahal,1.0,0,9,1,Ashwin,2.0,0,14,0
+SRH,7,7.1,1,0,0,0,0,Tripathi,Abhishek,20,13,3,0,Tripathi,6,5,0,0,Chahal,1.0,0,8,1,Ashwin,2.0,0,14,0
+SRH,6,6.6,1,0,0,0,0,Tripathi,Abhishek,20,13,3,0,Tripathi,5,4,0,0,Ashwin,2.0,0,14,0,Chahal,1.0,0,7,1
+SRH,6,6.5,1,0,0,0,0,Abhishek,Abhishek,20,13,3,0,Tripathi,4,3,0,0,Ashwin,1.0,0,13,0,Chahal,1.0,0,7,1
+SRH,6,6.4,0,0,1,0,0,Abhishek,Abhishek,19,12,3,0,Tripathi,4,3,0,0,Ashwin,1.0,0,12,0,Chahal,1.0,0,7,1
+SRH,6,6.3,1,0,0,0,0,Tripathi,Abhishek,19,11,3,0,Tripathi,4,3,0,0,Ashwin,1.0,0,12,0,Chahal,1.0,0,7,1
+SRH,6,6.3,1,0,0,0,1,Tripathi,Abhishek,19,11,3,0,Tripathi,3,2,0,0,Ashwin,1.0,0,11,0,Chahal,1.0,0,7,1
+SRH,6,6.2,1,0,0,0,0,Abhishek,Abhishek,19,11,3,0,Tripathi,2,2,0,0,Ashwin,1.0,0,10,0,Chahal,1.0,0,7,1
+SRH,6,6.1,1,0,0,0,0,Tripathi,Abhishek,18,10,3,0,Tripathi,2,2,0,0,Ashwin,1.0,0,9,0,Chahal,1.0,0,7,1
+SRH,5,5.6,1,0,0,0,0,Tripathi,Abhishek,18,10,3,0,Tripathi,1,1,0,0,Chahal,1.0,0,7,1,Sandeep,3.0,0,29,0
+SRH,5,5.5,0,0,0,1,0,Anmolpreet Singh,Abhishek,18,10,3,0,,0,0,0,0,Chahal,0,0,6,1,Sandeep,3.0,0,29,0
+SRH,5,5.4,2,0,0,0,0,Anmolpreet Singh,Anmolpreet Singh,33,24,4,1,Abhishek,18,10,3,0,Chahal,0,0,6,0,Sandeep,3.0,0,29,0
+SRH,5,5.3,4,1,0,0,0,Anmolpreet Singh,Anmolpreet Singh,31,23,4,1,Abhishek,18,10,3,0,Chahal,0,0,4,0,Sandeep,3.0,0,29,0
+SRH,5,5.2,0,0,1,0,0,Anmolpreet Singh,Anmolpreet Singh,27,22,3,1,Abhishek,18,10,3,0,Chahal,0,0,0,0,Sandeep,3.0,0,29,0
+SRH,5,5.1,0,0,1,0,0,Anmolpreet Singh,Anmolpreet Singh,27,21,3,1,Abhishek,18,10,3,0,Chahal,0,0,0,0,Sandeep,3.0,0,29,0
+SRH,4,4.6,4,1,0,0,0,Abhishek,Anmolpreet Singh,27,20,3,1,Abhishek,18,10,3,0,Sandeep,3.0,0,29,0,Ashwin,1.0,0,8,0
+SRH,4,4.5,1,0,0,0,0,Anmolpreet Singh,Anmolpreet Singh,27,20,3,1,Abhishek,14,9,2,0,Sandeep,2.0,0,25,0,Ashwin,1.0,0,8,0
+SRH,4,4.4,1,0,0,0,0,Abhishek,Anmolpreet Singh,26,19,3,1,Abhishek,14,9,2,0,Sandeep,2.0,0,24,0,Ashwin,1.0,0,8,0
+SRH,4,4.3,4,1,0,0,0,Abhishek,Anmolpreet Singh,26,19,3,1,Abhishek,13,8,2,0,Sandeep,2.0,0,23,0,Ashwin,1.0,0,8,0
+SRH,4,4.2,1,0,0,0,0,Anmolpreet Singh,Anmolpreet Singh,26,19,3,1,Abhishek,9,7,1,0,Sandeep,2.0,0,19,0,Ashwin,1.0,0,8,0
+SRH,4,4.1,4,1,0,0,0,Anmolpreet Singh,Anmolpreet Singh,25,18,3,1,Abhishek,9,7,1,0,Sandeep,2.0,0,18,0,Ashwin,1.0,0,8,0
+SRH,3,3.6,1,0,0,0,0,Anmolpreet Singh,Anmolpreet Singh,21,17,2,1,Abhishek,9,7,1,0,Ashwin,1.0,0,8,0,Sandeep,2.0,0,14,0
+SRH,3,3.5,4,1,0,0,0,Anmolpreet Singh,Anmolpreet Singh,20,16,2,1,Abhishek,9,7,1,0,Ashwin,0,0,7,0,Sandeep,2.0,0,14,0
+SRH,3,3.4,1,0,0,0,0,Abhishek,Anmolpreet Singh,16,15,1,1,Abhishek,9,7,1,0,Ashwin,0,0,3,0,Sandeep,2.0,0,14,0
+SRH,3,3.3,1,0,0,0,0,Anmolpreet Singh,Anmolpreet Singh,16,15,1,1,Abhishek,8,6,1,0,Ashwin,0,0,2,0,Sandeep,2.0,0,14,0
+SRH,3,3.2,0,0,1,0,0,Anmolpreet Singh,Anmolpreet Singh,15,14,1,1,Abhishek,8,6,1,0,Ashwin,0,0,1,0,Sandeep,2.0,0,14,0
+SRH,3,3.1,1,0,0,0,0,Abhishek,Anmolpreet Singh,15,13,1,1,Abhishek,8,6,1,0,Ashwin,0,0,1,0,Sandeep,2.0,0,14,0
+SRH,2,2.6,4,1,0,0,0,Anmolpreet Singh,Anmolpreet Singh,15,13,1,1,Abhishek,7,5,1,0,Sandeep,2.0,0,14,0,Kuldip Yadav,1.0,0,8,0
+SRH,2,2.5,1,0,0,0,0,Abhishek,Anmolpreet Singh,11,12,0,1,Abhishek,7,5,1,0,Sandeep,1.0,0,10,0,Kuldip Yadav,1.0,0,8,0
+SRH,2,2.4,4,1,0,0,0,Abhishek,Anmolpreet Singh,11,12,0,1,Abhishek,6,4,1,0,Sandeep,1.0,0,9,0,Kuldip Yadav,1.0,0,8,0
+SRH,2,2.3,1,0,0,0,0,Anmolpreet Singh,Anmolpreet Singh,11,12,0,1,Abhishek,2,3,0,0,Sandeep,1.0,0,5,0,Kuldip Yadav,1.0,0,8,0
+SRH,2,2.2,0,0,1,0,0,Anmolpreet Singh,Anmolpreet Singh,10,11,0,1,Abhishek,2,3,0,0,Sandeep,1.0,0,4,0,Kuldip Yadav,1.0,0,8,0
+SRH,2,2.1,0,0,1,0,0,Anmolpreet Singh,Anmolpreet Singh,10,10,0,1,Abhishek,2,3,0,0,Sandeep,1.0,0,4,0,Kuldip Yadav,1.0,0,8,0
+SRH,1,1.6,0,0,1,0,0,Abhishek,Anmolpreet Singh,10,9,0,1,Abhishek,2,3,0,0,Kuldip Yadav,1.0,0,8,0,Sandeep,1.0,0,4,0
+SRH,1,1.5,1,0,0,0,0,Anmolpreet Singh,Anmolpreet Singh,10,9,0,1,Abhishek,2,2,0,0,Kuldip Yadav,0,0,8,0,Sandeep,1.0,0,4,0
+SRH,1,1.4,6,1,0,0,0,Anmolpreet Singh,Anmolpreet Singh,9,8,0,1,Abhishek,2,2,0,0,Kuldip Yadav,0,0,7,0,Sandeep,1.0,0,4,0
+SRH,1,1.3,0,0,1,0,0,Anmolpreet Singh,Anmolpreet Singh,3,7,0,0,Abhishek,2,2,0,0,Kuldip Yadav,0,0,1,0,Sandeep,1.0,0,4,0
+SRH,1,1.2,0,0,1,0,0,Anmolpreet Singh,Anmolpreet Singh,3,6,0,0,Abhishek,2,2,0,0,Kuldip Yadav,0,0,1,0,Sandeep,1.0,0,4,0
+SRH,1,1.1,1,0,0,0,0,Abhishek,Anmolpreet Singh,3,5,0,0,Abhishek,2,2,0,0,Kuldip Yadav,0,0,1,0,Sandeep,1.0,0,4,0
+SRH,0,0.6,2,0,0,0,0,Anmolpreet Singh,Anmolpreet Singh,3,5,0,0,Abhishek,1,1,0,0,Sandeep,1.0,0,4,0,,0,0,0,0
+SRH,0,0.5,1,0,0,0,0,Abhishek,Anmolpreet Singh,1,4,0,0,Abhishek,1,1,0,0,Sandeep,0,0,2,0,,0,0,0,0
+SRH,0,0.4,1,0,0,0,0,Anmolpreet Singh,Anmolpreet Singh,1,4,0,0,,0,0,0,0,Sandeep,0,0,1,0,,0,0,0,0
+SRH,0,0.3,0,0,1,0,0,Anmolpreet Singh,Anmolpreet Singh,0,3,0,0,,0,0,0,0,Sandeep,0,0,0,0,,0,0,0,0
+SRH,0,0.2,0,0,1,0,0,Anmolpreet Singh,Anmolpreet Singh,0,2,0,0,,0,0,0,0,Sandeep,0,0,0,0,,0,0,0,0
+SRH,0,0.1,0,0,1,0,0,Anmolpreet Singh,Anmolpreet Singh,0,1,0,0,,0,0,0,0,Sandeep,0,0,0,0,,0,0,0,0

@@ -1,0 +1,20 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+MI,18,18.1,13,2,1,0,0,Tilak Varma,David,18,9,3,0,Tilak Varma,18,7,1,2,Arshdeep,3.0,0,57,1,Sam Curran,3.0,0,41,0
+MI,17,17.1,9,1,0,0,0,David,David,11,5,2,0,Tilak Varma,16,5,1,2,Sam Curran,2.0,0,36,0,Arshdeep,3.0,0,53,1
+MI,16,16.1,16,3,2,1,0,Tilak Varma,David,7,4,1,0,,0,0,0,0,Arshdeep,2.0,0,37,1,Ellis,4.0,0,34,2
+MI,15,15.1,8,1,1,1,0,David,Ishan,73,38,7,4,,0,0,0,0,Ellis,3.0,0,26,2,Arshdeep,2.0,0,37,0
+MI,14,14.1,21,4,0,0,1,Ishan,Ishan,59,35,5,3,Suryakumar,62,28,7,2,Arshdeep,1.0,0,17,0,Ellis,3.0,0,26,1
+MI,13,13.1,11,1,0,0,0,Ishan,Ishan,57,33,5,3,Suryakumar,53,24,6,2,Ellis,2.0,0,16,1,Sam Curran,2.0,0,32,0
+MI,12,12.1,23,4,0,0,1,Ishan,Ishan,55,31,5,3,Suryakumar,37,20,4,1,Sam Curran,1.0,0,15,0,Ellis,2.0,0,15,1
+MI,11,11.1,10,1,0,0,0,Ishan,Ishan,49,28,4,3,Suryakumar,29,17,4,0,Ellis,1.0,0,7,1,Chahar,3.0,0,30,0
+MI,10,10.1,14,3,1,0,0,Ishan,Ishan,42,25,3,3,Suryakumar,20,14,2,0,Chahar,2.0,0,16,0,Harpreet Brar,1.0,0,20,0
+MI,9,9.1,13,2,0,0,0,Ishan,Ishan,32,23,2,2,Suryakumar,18,11,2,0,Harpreet Brar,1.0,0,8,0,Chahar,2.0,0,16,0
+MI,8,8.1,10,1,1,0,0,Ishan,Ishan,28,19,2,2,Suryakumar,13,9,1,0,Chahar,1.0,0,8,0,Harpreet Brar,1.0,0,7,0
+MI,7,7.1,7,0,1,0,0,Ishan,Ishan,27,17,2,2,Suryakumar,6,5,1,0,Harpreet Brar,0,0,1,0,Chahar,1.0,0,6,0
+MI,6,6.1,6,1,3,0,0,Ishan,Ishan,27,16,2,2,,0,0,0,0,Chahar,0,0,1,0,Ellis,1.0,0,5,1
+MI,5,5.1,5,0,1,1,0,Green,Green,25,15,5,0,Ishan,24,13,2,2,Ellis,0,0,0,0,R Dhawan,3.0,0,20,1
+MI,4,4.1,17,3,2,0,0,Green,Green,21,13,4,0,Ishan,17,9,2,1,R Dhawan,2.0,0,9,1,Sam Curran,1.0,0,9,0
+MI,3,3.1,9,2,3,0,0,Green,Green,13,10,2,0,Ishan,10,6,2,0,Sam Curran,0,0,0,0,R Dhawan,2.0,0,3,1
+MI,2,2.1,2,0,4,0,0,Green,Green,12,6,2,0,Ishan,9,4,2,0,R Dhawan,1.0,0,1,1,Arshdeep,1.0,0,16,0
+MI,1,1.1,16,3,0,0,1,Ishan,Green,6,2,1,0,Ishan,0,1,0,0,Arshdeep,0,0,1,0,R Dhawan,1.0,0,1,1
+MI,0,0.1,5,1,3,1,1,Ishan,Rohit Sharma,0,1,0,0,,0,0,0,0,R Dhawan,0,0,0,0,,0,0,0,0

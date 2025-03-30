@@ -1,0 +1,124 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+RCB,19,19.6,0,0,0,1,0,Kohli,Karthik,20,8,0,3,,0,0,0,0,Starc,4.0,0,47,1,Russell,4.0,0,29,2
+RCB,19,19.5,1,0,0,0,0,Karthik,Kohli,84,58,4,4,Karthik,20,8,0,3,Starc,3.0,0,47,0,Russell,4.0,0,29,2
+RCB,19,19.4,6,1,0,0,0,Karthik,Kohli,84,58,4,4,Karthik,19,7,0,3,Starc,3.0,0,46,0,Russell,4.0,0,29,2
+RCB,19,19.3,1,0,0,0,0,Kohli,Kohli,84,58,4,4,Karthik,13,6,0,2,Starc,3.0,0,40,0,Russell,4.0,0,29,2
+RCB,19,19.2,6,1,0,0,0,Kohli,Kohli,83,57,4,4,Karthik,13,6,0,2,Starc,3.0,0,39,0,Russell,4.0,0,29,2
+RCB,19,19.1,2,0,0,0,0,Kohli,Kohli,77,56,4,3,Karthik,13,6,0,2,Starc,3.0,0,33,0,Russell,4.0,0,29,2
+RCB,18,18.6,6,1,0,0,0,Karthik,Kohli,75,55,4,3,Karthik,13,6,0,2,Russell,4.0,0,29,2,Harshit Rana,4.0,0,39,2
+RCB,18,18.5,0,0,1,0,0,Karthik,Kohli,75,55,4,3,Karthik,7,5,0,1,Russell,3.0,0,23,2,Harshit Rana,4.0,0,39,2
+RCB,18,18.4,6,1,0,0,0,Karthik,Kohli,75,55,4,3,Karthik,7,4,0,1,Russell,3.0,0,23,2,Harshit Rana,4.0,0,39,2
+RCB,18,18.3,0,0,1,0,0,Karthik,Kohli,75,55,4,3,Karthik,1,3,0,0,Russell,3.0,0,17,2,Harshit Rana,4.0,0,39,2
+RCB,18,18.2,0,0,1,0,0,Karthik,Kohli,75,55,4,3,Karthik,1,2,0,0,Russell,3.0,0,17,2,Harshit Rana,4.0,0,39,2
+RCB,18,18.1,1,0,0,0,0,Kohli,Kohli,75,55,4,3,Karthik,1,1,0,0,Russell,3.0,0,17,2,Harshit Rana,4.0,0,39,2
+RCB,17,17.6,1,0,0,0,0,Kohli,Kohli,74,54,4,3,Karthik,1,1,0,0,Harshit Rana,4.0,0,39,2,Russell,3.0,0,16,2
+RCB,17,17.5,0,0,1,0,0,Kohli,Kohli,73,53,4,3,Karthik,1,1,0,0,Harshit Rana,3.0,0,38,2,Russell,3.0,0,16,2
+RCB,17,17.4,1,0,0,0,0,Karthik,Kohli,73,52,4,3,Karthik,1,1,0,0,Harshit Rana,3.0,0,38,2,Russell,3.0,0,16,2
+RCB,17,17.3,0,0,0,1,0,Rawat,Kohli,73,52,4,3,,0,0,0,0,Harshit Rana,3.0,0,37,2,Russell,3.0,0,16,2
+RCB,17,17.2,1,0,0,0,0,Kohli,Kohli,73,52,4,3,Rawat,3,2,0,0,Harshit Rana,3.0,0,37,1,Russell,3.0,0,16,2
+RCB,17,17.1,2,0,0,0,0,Kohli,Kohli,72,51,4,3,Rawat,3,2,0,0,Harshit Rana,3.0,0,36,1,Russell,3.0,0,16,2
+RCB,16,16.6,1,0,0,0,0,Kohli,Kohli,70,50,4,3,Rawat,3,2,0,0,Russell,3.0,0,16,2,Starc,3.0,0,31,0
+RCB,16,16.5,1,0,0,0,0,Rawat,Kohli,69,49,4,3,Rawat,3,2,0,0,Russell,2.0,0,15,2,Starc,3.0,0,31,0
+RCB,16,16.4,2,0,0,0,0,Rawat,Kohli,69,49,4,3,Rawat,2,1,0,0,Russell,2.0,0,14,2,Starc,3.0,0,31,0
+RCB,16,16.3,0,0,0,1,0,Patidar,Kohli,69,49,4,3,,0,0,0,0,Russell,2.0,0,12,2,Starc,3.0,0,31,0
+RCB,16,16.3,1,0,0,0,1,Patidar,Kohli,69,49,4,3,Patidar,4,3,0,0,Russell,2.0,0,12,1,Starc,3.0,0,31,0
+RCB,16,16.2,1,0,0,0,0,Kohli,Kohli,69,49,4,3,Patidar,3,3,0,0,Russell,2.0,0,11,1,Starc,3.0,0,31,0
+RCB,16,16.1,1,0,0,0,0,Patidar,Kohli,68,48,4,3,Patidar,3,3,0,0,Russell,2.0,0,10,1,Starc,3.0,0,31,0
+RCB,15,15.6,4,1,0,0,0,Kohli,Kohli,68,48,4,3,Patidar,2,2,0,0,Starc,3.0,0,31,0,Narine,4.0,0,40,1
+RCB,15,15.6,1,0,0,0,1,Kohli,Kohli,64,47,3,3,Patidar,2,2,0,0,Starc,2.0,0,27,0,Narine,4.0,0,40,1
+RCB,15,15.5,0,0,1,0,0,Kohli,Kohli,63,47,3,3,Patidar,2,2,0,0,Starc,2.0,0,26,0,Narine,4.0,0,40,1
+RCB,15,15.4,1,0,0,0,0,Patidar,Kohli,63,46,3,3,Patidar,2,2,0,0,Starc,2.0,0,26,0,Narine,4.0,0,40,1
+RCB,15,15.3,1,0,0,0,0,Kohli,Kohli,63,46,3,3,Patidar,1,1,0,0,Starc,2.0,0,25,0,Narine,4.0,0,40,1
+RCB,15,15.2,0,0,1,0,0,Kohli,Kohli,62,45,3,3,Patidar,1,1,0,0,Starc,2.0,0,24,0,Narine,4.0,0,40,1
+RCB,15,15.1,0,0,1,0,0,Kohli,Kohli,62,44,3,3,Patidar,1,1,0,0,Starc,2.0,0,24,0,Narine,4.0,0,40,1
+RCB,14,14.6,1,0,0,0,0,Kohli,Kohli,62,43,3,3,Patidar,1,1,0,0,Narine,4.0,0,40,1,Harshit Rana,3.0,0,34,1
+RCB,14,14.5,2,0,0,0,0,Kohli,Kohli,61,42,3,3,Patidar,1,1,0,0,Narine,3.0,0,39,1,Harshit Rana,3.0,0,34,1
+RCB,14,14.4,4,1,0,0,0,Kohli,Kohli,59,41,3,3,Patidar,1,1,0,0,Narine,3.0,0,37,1,Harshit Rana,3.0,0,34,1
+RCB,14,14.3,2,0,0,0,0,Kohli,Kohli,55,40,2,3,Patidar,1,1,0,0,Narine,3.0,0,33,1,Harshit Rana,3.0,0,34,1
+RCB,14,14.2,1,0,0,0,0,Patidar,Kohli,53,39,2,3,Patidar,1,1,0,0,Narine,3.0,0,31,1,Harshit Rana,3.0,0,34,1
+RCB,14,14.1,0,0,0,1,0,Maxwell,Kohli,53,39,2,3,,0,0,0,0,Narine,3.0,0,30,1,Harshit Rana,3.0,0,34,1
+RCB,13,13.6,1,0,0,0,0,Maxwell,Kohli,53,39,2,3,Maxwell,29,18,3,1,Harshit Rana,3.0,0,34,1,Narine,3.0,0,30,0
+RCB,13,13.5,4,1,0,0,0,Maxwell,Kohli,53,39,2,3,Maxwell,28,17,3,1,Harshit Rana,2.0,0,33,1,Narine,3.0,0,30,0
+RCB,13,13.4,2,0,0,0,0,Maxwell,Kohli,53,39,2,3,Maxwell,24,16,2,1,Harshit Rana,2.0,0,29,1,Narine,3.0,0,30,0
+RCB,13,13.3,6,1,0,0,0,Maxwell,Kohli,53,39,2,3,Maxwell,22,15,2,1,Harshit Rana,2.0,0,27,1,Narine,3.0,0,30,0
+RCB,13,13.2,1,0,0,0,0,Kohli,Kohli,53,39,2,3,Maxwell,16,14,2,0,Harshit Rana,2.0,0,21,1,Narine,3.0,0,30,0
+RCB,13,13.1,1,0,0,0,0,Maxwell,Kohli,52,38,2,3,Maxwell,16,14,2,0,Harshit Rana,2.0,0,20,1,Narine,3.0,0,30,0
+RCB,12,12.6,1,0,0,0,0,Maxwell,Kohli,52,38,2,3,Maxwell,15,13,2,0,Narine,3.0,0,30,0,Varun,2.0,0,20,0
+RCB,12,12.5,1,0,0,0,0,Kohli,Kohli,52,38,2,3,Maxwell,14,12,2,0,Narine,2.0,0,29,0,Varun,2.0,0,20,0
+RCB,12,12.4,1,0,0,0,0,Maxwell,Kohli,51,37,2,3,Maxwell,14,12,2,0,Narine,2.0,0,28,0,Varun,2.0,0,20,0
+RCB,12,12.3,1,0,0,0,0,Kohli,Kohli,51,37,2,3,Maxwell,13,11,2,0,Narine,2.0,0,27,0,Varun,2.0,0,20,0
+RCB,12,12.2,1,0,0,0,0,Maxwell,Kohli,50,36,2,3,Maxwell,13,11,2,0,Narine,2.0,0,26,0,Varun,2.0,0,20,0
+RCB,12,12.1,0,0,1,0,0,Maxwell,Kohli,50,36,2,3,Maxwell,12,10,2,0,Narine,2.0,0,25,0,Varun,2.0,0,20,0
+RCB,11,11.6,1,0,0,0,0,Maxwell,Kohli,50,36,2,3,Maxwell,12,9,2,0,Varun,2.0,0,20,0,Russell,2.0,0,9,1
+RCB,11,11.5,4,1,0,0,0,Maxwell,Kohli,50,36,2,3,Maxwell,11,8,2,0,Varun,1.0,0,19,0,Russell,2.0,0,9,1
+RCB,11,11.4,4,1,0,0,0,Maxwell,Kohli,50,36,2,3,Maxwell,7,7,1,0,Varun,1.0,0,15,0,Russell,2.0,0,9,1
+RCB,11,11.3,1,0,0,0,0,Kohli,Kohli,50,36,2,3,Maxwell,3,6,0,0,Varun,1.0,0,11,0,Russell,2.0,0,9,1
+RCB,11,11.2,6,1,0,0,0,Kohli,Kohli,49,35,2,3,Maxwell,3,6,0,0,Varun,1.0,0,10,0,Russell,2.0,0,9,1
+RCB,11,11.1,1,0,0,0,0,Maxwell,Kohli,43,34,2,2,Maxwell,3,6,0,0,Varun,1.0,0,4,0,Russell,2.0,0,9,1
+RCB,10,10.6,1,0,0,0,1,Maxwell,Kohli,43,34,2,2,Maxwell,2,5,0,0,Russell,2.0,0,9,1,Varun,1.0,0,3,0
+RCB,10,10.5,0,0,1,0,0,Maxwell,Kohli,43,34,2,2,Maxwell,1,4,0,0,Russell,1.0,0,9,1,Varun,1.0,0,3,0
+RCB,10,10.4,0,0,1,0,0,Maxwell,Kohli,43,34,2,2,Maxwell,1,3,0,0,Russell,1.0,0,9,1,Varun,1.0,0,3,0
+RCB,10,10.3,1,0,0,0,0,Kohli,Kohli,43,34,2,2,Maxwell,1,2,0,0,Russell,1.0,0,9,1,Varun,1.0,0,3,0
+RCB,10,10.2,0,0,1,0,0,Kohli,Kohli,42,33,2,2,Maxwell,1,2,0,0,Russell,1.0,0,8,1,Varun,1.0,0,3,0
+RCB,10,10.1,0,0,1,0,0,Kohli,Kohli,42,32,2,2,Maxwell,1,2,0,0,Russell,1.0,0,8,1,Varun,1.0,0,3,0
+RCB,9,9.6,0,0,1,0,0,Maxwell,Kohli,42,31,2,2,Maxwell,1,2,0,0,Varun,1.0,0,3,0,Russell,1.0,0,8,1
+RCB,9,9.5,1,0,0,0,0,Kohli,Kohli,42,31,2,2,Maxwell,1,1,0,0,Varun,0,0,3,0,Russell,1.0,0,8,1
+RCB,9,9.4,0,0,1,0,0,Kohli,Kohli,41,30,2,2,Maxwell,1,1,0,0,Varun,0,0,2,0,Russell,1.0,0,8,1
+RCB,9,9.3,0,0,1,0,0,Kohli,Kohli,41,29,2,2,Maxwell,1,1,0,0,Varun,0,0,2,0,Russell,1.0,0,8,1
+RCB,9,9.2,1,0,0,0,0,Maxwell,Kohli,41,28,2,2,Maxwell,1,1,0,0,Varun,0,0,2,0,Russell,1.0,0,8,1
+RCB,9,9.1,1,0,0,0,0,Kohli,Kohli,41,28,2,2,,0,0,0,0,Varun,0,0,1,0,Russell,1.0,0,8,1
+RCB,8,8.6,0,0,0,1,0,Green,Kohli,40,27,2,2,,0,0,0,0,Russell,1.0,0,8,1,Narine,2.0,0,25,0
+RCB,8,8.5,6,1,0,0,0,Green,Kohli,40,27,2,2,Green,33,20,4,2,Russell,0,0,8,0,Narine,2.0,0,25,0
+RCB,8,8.4,0,0,1,0,0,Green,Kohli,40,27,2,2,Green,27,19,4,1,Russell,0,0,2,0,Narine,2.0,0,25,0
+RCB,8,8.3,1,0,0,0,0,Kohli,Kohli,40,27,2,2,Green,27,18,4,1,Russell,0,0,2,0,Narine,2.0,0,25,0
+RCB,8,8.2,0,0,1,0,0,Kohli,Kohli,39,26,2,2,Green,27,18,4,1,Russell,0,0,1,0,Narine,2.0,0,25,0
+RCB,8,8.1,1,0,0,0,0,Green,Kohli,39,25,2,2,Green,27,18,4,1,Russell,0,0,1,0,Narine,2.0,0,25,0
+RCB,7,7.6,0,0,1,0,0,Kohli,Kohli,39,25,2,2,Green,26,17,4,1,Narine,2.0,0,25,0,Roy,2.0,0,6,0
+RCB,7,7.5,6,1,0,0,0,Kohli,Kohli,39,24,2,2,Green,26,17,4,1,Narine,1.0,0,25,0,Roy,2.0,0,6,0
+RCB,7,7.4,0,0,1,0,0,Kohli,Kohli,33,23,2,1,Green,26,17,4,1,Narine,1.0,0,19,0,Roy,2.0,0,6,0
+RCB,7,7.3,2,0,0,0,0,Kohli,Kohli,33,22,2,1,Green,26,17,4,1,Narine,1.0,0,19,0,Roy,2.0,0,6,0
+RCB,7,7.2,1,0,0,0,0,Green,Kohli,31,21,2,1,Green,26,17,4,1,Narine,1.0,0,17,0,Roy,2.0,0,6,0
+RCB,7,7.1,1,0,0,0,0,Kohli,Kohli,31,21,2,1,Green,25,16,4,1,Narine,1.0,0,16,0,Roy,2.0,0,6,0
+RCB,6,6.6,1,0,0,0,0,Kohli,Kohli,30,20,2,1,Green,25,16,4,1,Roy,2.0,0,6,0,Narine,1.0,0,15,0
+RCB,6,6.5,1,0,0,0,0,Green,Kohli,29,19,2,1,Green,25,16,4,1,Roy,1.0,0,5,0,Narine,1.0,0,15,0
+RCB,6,6.4,0,0,1,0,0,Green,Kohli,29,19,2,1,Green,24,15,4,1,Roy,1.0,0,4,0,Narine,1.0,0,15,0
+RCB,6,6.3,0,0,1,0,0,Green,Kohli,29,19,2,1,Green,24,14,4,1,Roy,1.0,0,4,0,Narine,1.0,0,15,0
+RCB,6,6.2,0,0,1,0,0,Green,Kohli,29,19,2,1,Green,24,13,4,1,Roy,1.0,0,4,0,Narine,1.0,0,15,0
+RCB,6,6.1,1,0,0,0,0,Kohli,Kohli,29,19,2,1,Green,24,12,4,1,Roy,1.0,0,4,0,Narine,1.0,0,15,0
+RCB,5,5.6,6,1,0,0,0,Green,Kohli,28,18,2,1,Green,24,12,4,1,Narine,1.0,0,15,0,Roy,1.0,0,3,0
+RCB,5,5.5,4,1,0,0,0,Green,Kohli,28,18,2,1,Green,18,11,4,0,Narine,0,0,9,0,Roy,1.0,0,3,0
+RCB,5,5.4,4,1,0,0,0,Green,Kohli,28,18,2,1,Green,14,10,3,0,Narine,0,0,5,0,Roy,1.0,0,3,0
+RCB,5,5.3,0,0,1,0,0,Green,Kohli,28,18,2,1,Green,10,9,2,0,Narine,0,0,1,0,Roy,1.0,0,3,0
+RCB,5,5.2,0,0,1,0,0,Green,Kohli,28,18,2,1,Green,10,8,2,0,Narine,0,0,1,0,Roy,1.0,0,3,0
+RCB,5,5.1,1,0,0,0,0,Kohli,Kohli,28,18,2,1,Green,10,7,2,0,Narine,0,0,1,0,Roy,1.0,0,3,0
+RCB,4,4.6,0,0,1,0,0,Green,Kohli,27,17,2,1,Green,10,7,2,0,Roy,1.0,0,3,0,Harshit Rana,2.0,0,19,1
+RCB,4,4.5,0,0,1,0,0,Green,Kohli,27,17,2,1,Green,10,6,2,0,Roy,0,0,3,0,Harshit Rana,2.0,0,19,1
+RCB,4,4.4,0,0,1,0,0,Green,Kohli,27,17,2,1,Green,10,5,2,0,Roy,0,0,3,0,Harshit Rana,2.0,0,19,1
+RCB,4,4.3,2,0,0,0,0,Green,Kohli,27,17,2,1,Green,10,4,2,0,Roy,0,0,3,0,Harshit Rana,2.0,0,19,1
+RCB,4,4.2,1,0,0,0,0,Kohli,Kohli,27,17,2,1,Green,8,3,2,0,Roy,0,0,1,0,Harshit Rana,2.0,0,19,1
+RCB,4,4.1,0,0,1,0,0,Kohli,Kohli,26,16,2,1,Green,8,3,2,0,Roy,0,0,0,0,Harshit Rana,2.0,0,19,1
+RCB,3,3.6,4,1,0,0,0,Green,Kohli,26,15,2,1,Green,8,3,2,0,Harshit Rana,2.0,0,19,1,Starc,2.0,0,24,0
+RCB,3,3.5,0,0,1,0,0,Green,Kohli,26,15,2,1,Green,4,2,1,0,Harshit Rana,1.0,0,15,1,Starc,2.0,0,24,0
+RCB,3,3.4,1,0,0,0,0,Kohli,Kohli,26,15,2,1,Green,4,1,1,0,Harshit Rana,1.0,0,15,1,Starc,2.0,0,24,0
+RCB,3,3.3,0,0,1,0,0,Kohli,Kohli,25,14,2,1,Green,4,1,1,0,Harshit Rana,1.0,0,14,1,Starc,2.0,0,24,0
+RCB,3,3.2,2,0,0,0,0,Kohli,Kohli,25,13,2,1,Green,4,1,1,0,Harshit Rana,1.0,0,14,1,Starc,2.0,0,24,0
+RCB,3,3.1,2,0,0,0,0,Kohli,Kohli,23,12,2,1,Green,4,1,1,0,Harshit Rana,1.0,0,12,1,Starc,2.0,0,24,0
+RCB,2,2.6,4,1,0,0,0,Green,Kohli,21,11,2,1,Green,4,1,1,0,Starc,2.0,0,24,0,Harshit Rana,1.0,0,10,1
+RCB,2,2.5,1,0,0,0,0,Kohli,Kohli,21,11,2,1,,0,0,0,0,Starc,1.0,0,20,0,Harshit Rana,1.0,0,10,1
+RCB,2,2.4,2,0,0,0,0,Kohli,Kohli,20,10,2,1,,0,0,0,0,Starc,1.0,0,19,0,Harshit Rana,1.0,0,10,1
+RCB,2,2.3,4,1,0,0,0,Kohli,Kohli,18,9,2,1,,0,0,0,0,Starc,1.0,0,17,0,Harshit Rana,1.0,0,10,1
+RCB,2,2.2,6,1,0,0,0,Kohli,Kohli,14,8,1,1,,0,0,0,0,Starc,1.0,0,13,0,Harshit Rana,1.0,0,10,1
+RCB,2,2.1,0,0,1,0,0,Kohli,Kohli,8,7,1,0,,0,0,0,0,Starc,1.0,0,7,0,Harshit Rana,1.0,0,10,1
+RCB,1,1.6,0,0,0,1,0,du Plessis,Kohli,8,6,1,0,,0,0,0,0,Harshit Rana,1.0,0,10,1,Starc,1.0,0,7,0
+RCB,1,1.5,6,1,0,0,0,du Plessis,Kohli,8,6,1,0,du Plessis,9,5,0,1,Harshit Rana,0,0,10,0,Starc,1.0,0,7,0
+RCB,1,1.4,1,0,0,0,0,Kohli,Kohli,8,6,1,0,du Plessis,3,4,0,0,Harshit Rana,0,0,4,0,Starc,1.0,0,7,0
+RCB,1,1.3,1,0,0,0,0,du Plessis,Kohli,7,5,1,0,du Plessis,3,4,0,0,Harshit Rana,0,0,3,0,Starc,1.0,0,7,0
+RCB,1,1.3,1,0,0,0,1,du Plessis,Kohli,7,5,1,0,du Plessis,2,3,0,0,Harshit Rana,0,0,2,0,Starc,1.0,0,7,0
+RCB,1,1.2,1,0,0,0,0,Kohli,Kohli,7,5,1,0,du Plessis,1,3,0,0,Harshit Rana,0,0,1,0,Starc,1.0,0,7,0
+RCB,1,1.1,0,0,1,0,0,Kohli,Kohli,6,4,1,0,du Plessis,1,3,0,0,Harshit Rana,0,0,0,0,Starc,1.0,0,7,0
+RCB,0,0.6,0,0,1,0,0,du Plessis,Kohli,6,3,1,0,du Plessis,1,3,0,0,Starc,1.0,0,7,0,,0,0,0,0
+RCB,0,0.5,0,0,1,0,0,du Plessis,Kohli,6,3,1,0,du Plessis,1,2,0,0,Starc,0,0,7,0,,0,0,0,0
+RCB,0,0.4,1,0,0,0,0,Kohli,Kohli,6,3,1,0,du Plessis,1,1,0,0,Starc,0,0,7,0,,0,0,0,0
+RCB,0,0.3,1,0,0,0,0,du Plessis,Kohli,5,2,1,0,du Plessis,1,1,0,0,Starc,0,0,6,0,,0,0,0,0
+RCB,0,0.2,1,0,0,0,0,Kohli,Kohli,5,2,1,0,,0,0,0,0,Starc,0,0,5,0,,0,0,0,0
+RCB,0,0.1,4,1,0,0,0,Kohli,Kohli,4,1,1,0,,0,0,0,0,Starc,0,0,4,0,,0,0,0,0

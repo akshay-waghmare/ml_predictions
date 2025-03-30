@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+MI,19,19.1,5,0,2,0,0,David,Green,16,7,1,1,David,10,7,0,1,Nortje,3.0,0,31,0,Mustafizur,4.0,0,38,1
+MI,18,18.1,15,2,1,0,0,David,Green,8,4,1,0,David,3,4,0,0,Mustafizur,3.0,0,24,1,Nortje,3.0,0,30,0
+MI,17,17.1,6,0,2,0,0,Green,Green,4,1,1,0,David,0,1,0,0,Nortje,2.0,0,24,0,Mustafizur,3.0,0,23,1
+MI,16,16.1,8,2,3,1,0,Green,Rohit Sharma,69,41,7,4,,0,0,0,0,Mustafizur,2.0,0,19,0,Mukesh Kumar,2.0,0,30,2
+MI,15,15.1,16,3,1,2,0,Suryakumar,Rohit Sharma,65,40,6,4,Tilak Varma,30,25,1,2,Mukesh Kumar,1.0,0,18,0,Mustafizur,2.0,0,15,0
+MI,14,14.1,2,0,4,0,0,Tilak Varma,Rohit Sharma,64,38,6,4,Tilak Varma,25,21,0,2,Mustafizur,1.0,0,13,0,Lalit Yadav,4.0,0,23,1
+MI,13,13.1,4,0,2,0,0,Rohit Sharma,Rohit Sharma,62,35,6,4,Tilak Varma,24,18,0,2,Lalit Yadav,3.0,0,20,1,Axar Patel,4.0,0,20,0
+MI,12,12.1,5,0,2,0,0,Rohit Sharma,Rohit Sharma,59,31,6,4,Tilak Varma,22,16,0,2,Axar Patel,3.0,0,16,0,Kuldeep,2.0,0,23,0
+MI,11,11.1,14,2,0,0,0,Rohit Sharma,Rohit Sharma,54,29,5,4,Tilak Varma,13,12,0,1,Kuldeep,1.0,0,10,0,Axar Patel,3.0,0,15,0
+MI,10,10.1,7,1,3,0,2,Tilak Varma,Rohit Sharma,48,24,4,4,Tilak Varma,12,10,0,1,Axar Patel,2.0,0,13,0,Kuldeep,1.0,0,9,0
+MI,9,9.1,9,1,2,0,0,Tilak Varma,Rohit Sharma,47,23,4,4,Tilak Varma,4,6,0,0,Kuldeep,0,0,1,0,Nortje,2.0,0,24,0
+MI,8,8.1,9,1,2,0,0,Rohit Sharma,Rohit Sharma,40,20,4,3,Tilak Varma,1,3,0,0,Nortje,1.0,0,15,0,Lalit Yadav,3.0,0,19,1
+MI,7,7.1,3,0,2,1,0,Tilak Varma,Rohit Sharma,39,19,4,3,Ishan,32,24,6,0,Lalit Yadav,2.0,0,17,0,Axar Patel,2.0,0,12,0
+MI,6,6.1,2,0,4,0,0,Ishan,Rohit Sharma,37,17,4,3,Ishan,32,20,6,0,Axar Patel,1.0,0,11,0,Lalit Yadav,2.0,0,16,0
+MI,5,5.1,9,1,2,0,0,Rohit Sharma,Rohit Sharma,30,15,4,2,Ishan,30,16,6,0,Lalit Yadav,1.0,0,8,0,Axar Patel,1.0,0,10,0
+MI,4,4.1,10,2,2,0,0,Rohit Sharma,Rohit Sharma,25,13,3,2,Ishan,24,12,5,0,Axar Patel,0,0,0,0,Lalit Yadav,1.0,0,7,0
+MI,3,3.1,7,1,3,0,1,Ishan,Rohit Sharma,24,11,3,2,Ishan,18,8,4,0,Lalit Yadav,0,0,0,0,Nortje,1.0,0,15,0
+MI,2,2.1,15,3,2,0,0,Rohit Sharma,Rohit Sharma,14,7,2,1,Ishan,17,6,4,0,Nortje,0,0,4,0,Mustafizur,1.0,0,13,0
+MI,1,1.1,13,3,2,0,0,Rohit Sharma,Rohit Sharma,14,6,2,1,Ishan,0,1,0,0,Mustafizur,0,0,0,0,Mukesh Kumar,1.0,0,14,0
+MI,0,0.1,14,3,3,0,0,Rohit Sharma,Rohit Sharma,0,1,0,0,,0,0,0,0,Mukesh Kumar,0,0,0,0,,0,0,0,0

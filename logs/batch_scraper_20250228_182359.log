@@ -1,0 +1,14 @@
+[2025-02-28 18:23:59] Starting batch processing of matches from ipl_2024_matches.csv
+[2025-02-28 18:23:59] Found 74 matches to process
+[2025-02-28 18:23:59] Processing matches from index 0 to 73
+[2025-02-28 18:23:59] Processing match 1 of 74 (ID: chennai-super-kings-vs-royal-challengers-bengaluru-1st-match-1422119)
+[2025-02-28 18:23:59] Processing match: chennai-super-kings-vs-royal-challengers-bengaluru-1st-match-1422119 - https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/chennai-super-kings-vs-royal-challengers-bengaluru-1st-match-1422119/full-scorecard
+[2025-02-28 18:23:59] Executing espnscraper.py with URL: https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/chennai-super-kings-vs-royal-challengers-bengaluru-1st-match-1422119/full-scorecard
+[2025-02-28 18:24:06] espnscraper.py execution failed with return code 1
+[2025-02-28 18:24:06] Error output: Traceback (most recent call last):
+  File "c:\Project\crawler_learning\ipl_prediction_model\ipl_scraper\espnscraper.py", line 846, in <module>
+    if len(sys.argv) > 1:
+           ^^^
+NameError: name 'sys' is not defined
+
+[2025-02-28 18:24:06] Waiting 30 seconds before processing the next match...

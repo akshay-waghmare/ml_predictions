@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+GT,19,19.1,12,1,1,0,2,Miller,Miller,7,6,0,0,Shahrukh Khan,2,3,0,0,Simarjeet Singh,3.0,0,49,0,Thakur,4.0,0,25,0
+GT,18,18.1,6,0,2,0,0,Miller,Miller,4,3,0,0,,0,0,0,0,Thakur,3.0,0,21,0,Deshpande,4.0,0,33,2
+GT,17,17.1,4,0,0,2,0,Gill,B Sai Sudharsan,103,50,5,8,Gill,107,53,9,6,Deshpande,3.0,0,30,0,Simarjeet Singh,3.0,0,48,0
+GT,16,16.1,13,2,1,0,0,B Sai Sudharsan,B Sai Sudharsan,96,48,5,7,Gill,100,49,8,6,Simarjeet Singh,2.0,0,35,0,Thakur,3.0,0,19,0
+GT,15,15.1,6,0,1,0,1,Gill,B Sai Sudharsan,95,47,5,7,Gill,96,44,8,6,Thakur,2.0,0,15,0,Deshpande,3.0,0,29,0
+GT,14,14.1,11,1,0,0,1,Gill,B Sai Sudharsan,92,44,5,7,Gill,88,41,7,6,Deshpande,2.0,0,19,0,Mitchell,4.0,0,52,0
+GT,13,13.1,19,3,2,0,0,Gill,B Sai Sudharsan,92,44,5,7,Gill,68,35,7,3,Mitchell,3.0,0,33,0,Santner,2.0,0,31,0
+GT,12,12.1,17,3,1,0,0,B Sai Sudharsan,B Sai Sudharsan,80,41,4,6,Gill,67,32,7,3,Santner,1.0,0,18,0,Mitchell,3.0,0,33,0
+GT,11,11.1,13,2,0,0,0,Gill,B Sai Sudharsan,71,38,2,6,Gill,60,29,6,3,Mitchell,2.0,0,21,0,Simarjeet Singh,2.0,0,35,0
+GT,10,10.1,23,4,1,0,0,B Sai Sudharsan,B Sai Sudharsan,59,36,2,4,Gill,54,25,5,3,Simarjeet Singh,1.0,0,18,0,Mitchell,2.0,0,20,0
+GT,9,9.1,13,2,0,0,0,B Sai Sudharsan,B Sai Sudharsan,52,33,1,4,Gill,46,22,5,2,Mitchell,1.0,0,11,0,Jadeja,2.0,0,29,0
+GT,8,8.1,15,2,0,0,0,Gill,B Sai Sudharsan,39,29,0,3,Gill,41,20,4,2,Jadeja,1.0,0,15,0,Mitchell,1.0,0,7,0
+GT,7,7.1,7,0,0,0,1,Gill,B Sai Sudharsan,37,27,0,3,Gill,36,16,4,2,Mitchell,0,0,1,0,Jadeja,1.0,0,14,0
+GT,6,6.1,14,2,0,0,0,B Sai Sudharsan,B Sai Sudharsan,28,23,0,2,Gill,34,14,4,2,Jadeja,0,0,4,0,Simarjeet Singh,1.0,0,12,0
+GT,5,5.1,12,1,1,0,0,Gill,B Sai Sudharsan,23,20,0,2,Gill,23,11,3,1,Simarjeet Singh,0,0,0,0,Thakur,2.0,0,14,0
+GT,4,4.1,3,0,3,0,0,B Sai Sudharsan,B Sai Sudharsan,21,16,0,2,Gill,22,9,3,1,Thakur,1.0,0,11,0,Deshpande,2.0,0,18,0
+GT,3,3.1,11,1,1,0,0,B Sai Sudharsan,B Sai Sudharsan,17,11,0,2,Gill,21,8,3,1,Deshpande,1.0,0,13,0,Thakur,1.0,0,11,0
+GT,2,2.1,11,2,3,0,0,Gill,B Sai Sudharsan,4,6,0,0,Gill,17,7,2,1,Thakur,0,0,0,0,Deshpande,1.0,0,7,0
+GT,1,1.1,7,1,3,0,1,Gill,B Sai Sudharsan,3,2,0,0,Gill,12,4,1,1,Deshpande,0,0,1,0,Santner,1.0,0,14,0
+GT,0,0.1,14,2,1,0,0,Gill,B Sai Sudharsan,2,1,0,0,,0,0,0,0,Santner,0,0,2,0,,0,0,0,0

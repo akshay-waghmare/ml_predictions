@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+MI,19,19.1,15,2,1,1,1,Naman Dhir,Ishan,16,14,1,0,Naman Dhir,58,25,4,4,Haq,3.0,0,41,1,Mohsin Khan,4.0,0,45,1
+MI,18,18.1,18,2,0,0,1,Naman Dhir,Ishan,13,13,1,0,Naman Dhir,38,20,4,1,Mohsin Khan,3.0,0,28,1,Haq,3.0,0,35,1
+MI,17,17.1,14,2,1,0,1,Ishan,Ishan,9,11,0,0,Naman Dhir,29,15,3,1,Haq,2.0,0,23,1,Krunal,4.0,0,29,1
+MI,16,16.1,14,2,1,0,1,Naman Dhir,Ishan,8,10,0,0,Naman Dhir,14,10,2,0,Krunal,3.0,0,15,1,Henry,2.0,0,24,0
+MI,15,15.1,10,1,1,0,1,Naman Dhir,Ishan,7,9,0,0,Naman Dhir,9,5,2,0,Henry,1.0,0,18,0,Ravi Bishnoi,4.0,0,37,2
+MI,14,14.1,6,1,2,1,0,Naman Dhir,Ishan,7,9,0,0,Wadhera,2,2,0,0,Ravi Bishnoi,3.0,0,32,1,Mohsin Khan,3.0,0,27,1
+MI,13,13.1,4,0,2,1,1,Ishan,Ishan,5,7,0,0,Hardik,16,11,1,1,Mohsin Khan,2.0,0,24,0,Ravi Bishnoi,3.0,0,31,1
+MI,12,12.1,14,2,1,0,0,Ishan,Ishan,3,5,0,0,Hardik,3,7,0,0,Ravi Bishnoi,2.0,0,17,1,Krunal,3.0,0,15,1
+MI,11,11.1,3,0,3,0,0,Hardik,Ishan,2,4,0,0,Hardik,1,2,0,0,Krunal,2.0,0,12,1,Ravi Bishnoi,2.0,0,17,1
+MI,10,10.1,6,1,2,1,0,Hardik,Rohit Sharma,67,35,9,3,Ishan,1,3,0,0,Ravi Bishnoi,1.0,0,11,0,Krunal,2.0,0,12,1
+MI,9,9.1,4,0,2,1,0,Rohit Sharma,Rohit Sharma,65,33,9,3,Suryakumar,0,2,0,0,Krunal,1.0,0,9,0,Haq,2.0,0,21,1
+MI,8,8.1,10,2,3,1,0,Suryakumar,Rohit Sharma,64,32,9,3,Brevis,18,17,1,1,Haq,1.0,0,15,0,Ravi Bishnoi,1.0,0,11,0
+MI,7,7.1,11,2,2,0,0,Rohit Sharma,Rohit Sharma,56,29,7,3,Brevis,11,14,0,1,Ravi Bishnoi,0,0,0,0,Mohsin Khan,2.0,0,23,0
+MI,6,6.1,14,3,3,0,0,Rohit Sharma,Rohit Sharma,46,24,6,2,Brevis,11,13,0,1,Mohsin Khan,1.0,0,13,0,Haq,1.0,0,11,0
+MI,5,5.1,11,2,1,0,0,Brevis,Rohit Sharma,33,20,3,2,Brevis,10,11,0,1,Haq,0,0,1,0,Mohsin Khan,1.0,0,9,0
+MI,4,4.1,9,2,3,0,0,Rohit Sharma,Rohit Sharma,27,14,2,2,Brevis,10,11,0,1,Mohsin Khan,0,0,4,0,Krunal,1.0,0,8,0
+MI,3,3.1,8,1,3,0,0,Brevis,Rohit Sharma,22,12,1,2,Brevis,3,7,0,0,Krunal,0,0,0,0,Arshad Khan,2.0,0,11,0
+MI,2,2.1,3,0,4,0,1,Brevis,Rohit Sharma,21,10,1,2,Brevis,1,3,0,0,Arshad Khan,1.0,0,8,0,Henry,1.0,0,14,0
+MI,1,1.1,14,2,3,0,1,Brevis,Rohit Sharma,7,5,1,0,Brevis,1,2,0,0,Henry,0,0,0,0,Arshad Khan,1.0,0,8,0
+MI,0,0.1,8,1,3,0,1,Rohit Sharma,Rohit Sharma,0,1,0,0,,0,0,0,0,Arshad Khan,0,0,0,0,,0,0,0,0

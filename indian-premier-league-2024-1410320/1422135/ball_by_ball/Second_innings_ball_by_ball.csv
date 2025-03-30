@@ -1,0 +1,125 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+GT,19,19.6,4,1,0,0,0,Tewatia,Gill,90,48,6,4,Tewatia,26,8,3,1,Arshdeep,4.0,0,33,0,Harshal,4.0,0,44,1
+GT,19,19.5,4,1,0,0,0,Tewatia,Gill,90,48,6,4,Tewatia,22,7,2,1,Arshdeep,3.0,0,29,0,Harshal,4.0,0,44,1
+GT,19,19.4,1,0,0,0,0,Gill,Gill,90,48,6,4,Tewatia,18,6,1,1,Arshdeep,3.0,0,25,0,Harshal,4.0,0,44,1
+GT,19,19.3,1,0,0,0,0,Tewatia,Gill,89,47,6,4,Tewatia,18,6,1,1,Arshdeep,3.0,0,24,0,Harshal,4.0,0,44,1
+GT,19,19.2,1,0,0,0,0,Gill,Gill,89,47,6,4,Tewatia,17,5,1,1,Arshdeep,3.0,0,23,0,Harshal,4.0,0,44,1
+GT,19,19.1,2,0,0,0,0,Gill,Gill,88,46,6,4,Tewatia,17,5,1,1,Arshdeep,3.0,0,22,0,Harshal,4.0,0,44,1
+GT,18,18.6,3,0,0,0,0,Gill,Gill,86,45,6,4,Tewatia,17,5,1,1,Harshal,4.0,0,44,1,Rabada,4.0,0,44,2
+GT,18,18.5,1,0,0,0,0,Tewatia,Gill,83,44,6,4,Tewatia,17,5,1,1,Harshal,3.0,0,41,1,Rabada,4.0,0,44,2
+GT,18,18.5,1,0,0,0,1,Tewatia,Gill,83,44,6,4,Tewatia,16,4,1,1,Harshal,3.0,0,40,1,Rabada,4.0,0,44,2
+GT,18,18.4,4,1,0,0,0,Tewatia,Gill,83,44,6,4,Tewatia,15,4,1,1,Harshal,3.0,0,39,1,Rabada,4.0,0,44,2
+GT,18,18.4,1,0,0,0,1,Tewatia,Gill,83,44,6,4,Tewatia,11,3,0,1,Harshal,3.0,0,35,1,Rabada,4.0,0,44,2
+GT,18,18.3,2,0,0,0,0,Tewatia,Gill,83,44,6,4,Tewatia,10,3,0,1,Harshal,3.0,0,34,1,Rabada,4.0,0,44,2
+GT,18,18.3,1,0,0,0,1,Tewatia,Gill,83,44,6,4,Tewatia,8,2,0,1,Harshal,3.0,0,32,1,Rabada,4.0,0,44,2
+GT,18,18.2,6,1,0,0,0,Tewatia,Gill,83,44,6,4,Tewatia,7,2,0,1,Harshal,3.0,0,31,1,Rabada,4.0,0,44,2
+GT,18,18.1,1,0,0,0,0,Gill,Gill,83,44,6,4,Tewatia,1,1,0,0,Harshal,3.0,0,25,1,Rabada,4.0,0,44,2
+GT,17,17.6,1,0,0,0,0,Gill,Gill,82,43,6,4,Tewatia,1,1,0,0,Rabada,4.0,0,44,2,Harshal,3.0,0,24,1
+GT,17,17.5,1,0,0,0,0,Tewatia,Gill,81,42,6,4,Tewatia,1,1,0,0,Rabada,3.0,0,43,2,Harshal,3.0,0,24,1
+GT,17,17.4,0,0,0,1,0,Shankar,Gill,81,42,6,4,,0,0,0,0,Rabada,3.0,0,42,2,Harshal,3.0,0,24,1
+GT,17,17.3,1,0,0,0,0,Gill,Gill,81,42,6,4,Shankar,8,9,0,0,Rabada,3.0,0,42,1,Harshal,3.0,0,24,1
+GT,17,17.2,4,1,0,0,0,Gill,Gill,80,41,6,4,Shankar,8,9,0,0,Rabada,3.0,0,41,1,Harshal,3.0,0,24,1
+GT,17,17.1,6,1,0,0,0,Gill,Gill,76,40,5,4,Shankar,8,9,0,0,Rabada,3.0,0,37,1,Harshal,3.0,0,24,1
+GT,16,16.6,1,0,0,0,0,Gill,Gill,70,39,5,3,Shankar,8,9,0,0,Harshal,3.0,0,24,1,Arshdeep,3.0,0,20,0
+GT,16,16.5,2,0,0,0,0,Gill,Gill,69,38,5,3,Shankar,8,9,0,0,Harshal,2.0,0,23,1,Arshdeep,3.0,0,20,0
+GT,16,16.4,6,1,0,0,0,Gill,Gill,67,37,5,3,Shankar,8,9,0,0,Harshal,2.0,0,21,1,Arshdeep,3.0,0,20,0
+GT,16,16.3,1,0,0,0,0,Shankar,Gill,61,36,5,2,Shankar,8,9,0,0,Harshal,2.0,0,15,1,Arshdeep,3.0,0,20,0
+GT,16,16.2,1,0,0,0,0,Gill,Gill,61,36,5,2,Shankar,7,8,0,0,Harshal,2.0,0,14,1,Arshdeep,3.0,0,20,0
+GT,16,16.1,1,0,0,0,0,Shankar,Gill,60,35,5,2,Shankar,7,8,0,0,Harshal,2.0,0,13,1,Arshdeep,3.0,0,20,0
+GT,15,15.6,1,0,0,0,0,Shankar,Gill,60,35,5,2,Shankar,6,7,0,0,Arshdeep,3.0,0,20,0,Harpreet Brar,4.0,0,33,1
+GT,15,15.5,1,0,0,0,0,Gill,Gill,60,35,5,2,Shankar,5,6,0,0,Arshdeep,2.0,0,19,0,Harpreet Brar,4.0,0,33,1
+GT,15,15.4,2,0,0,0,0,Gill,Gill,59,34,5,2,Shankar,5,6,0,0,Arshdeep,2.0,0,18,0,Harpreet Brar,4.0,0,33,1
+GT,15,15.3,1,0,0,0,0,Shankar,Gill,57,33,5,2,Shankar,5,6,0,0,Arshdeep,2.0,0,16,0,Harpreet Brar,4.0,0,33,1
+GT,15,15.2,1,0,0,0,0,Gill,Gill,57,33,5,2,Shankar,4,5,0,0,Arshdeep,2.0,0,15,0,Harpreet Brar,4.0,0,33,1
+GT,15,15.1,1,0,0,0,0,Shankar,Gill,56,32,5,2,Shankar,4,5,0,0,Arshdeep,2.0,0,14,0,Harpreet Brar,4.0,0,33,1
+GT,14,14.6,1,0,0,0,0,Shankar,Gill,56,32,5,2,Shankar,3,4,0,0,Harpreet Brar,4.0,0,33,1,Harshal,2.0,0,12,1
+GT,14,14.5,3,0,0,0,0,Gill,Gill,56,32,5,2,Shankar,2,3,0,0,Harpreet Brar,3.0,0,32,1,Harshal,2.0,0,12,1
+GT,14,14.4,4,1,0,0,0,Gill,Gill,53,31,5,2,Shankar,2,3,0,0,Harpreet Brar,3.0,0,29,1,Harshal,2.0,0,12,1
+GT,14,14.3,2,0,0,0,0,Gill,Gill,49,30,4,2,Shankar,2,3,0,0,Harpreet Brar,3.0,0,25,1,Harshal,2.0,0,12,1
+GT,14,14.2,1,0,0,0,0,Shankar,Gill,47,29,4,2,Shankar,2,3,0,0,Harpreet Brar,3.0,0,23,1,Harshal,2.0,0,12,1
+GT,14,14.1,0,0,1,0,0,Shankar,Gill,47,29,4,2,Shankar,1,2,0,0,Harpreet Brar,3.0,0,22,1,Harshal,2.0,0,12,1
+GT,13,13.6,1,0,0,0,0,Shankar,Gill,47,29,4,2,Shankar,1,1,0,0,Harshal,2.0,0,12,1,Rabada,3.0,0,31,1
+GT,13,13.5,0,0,0,1,0,B Sai Sudharsan,Gill,47,29,4,2,,0,0,0,0,Harshal,1.0,0,11,1,Rabada,3.0,0,31,1
+GT,13,13.4,0,0,1,0,0,B Sai Sudharsan,Gill,47,29,4,2,B Sai Sudharsan,33,18,6,0,Harshal,1.0,0,11,0,Rabada,3.0,0,31,1
+GT,13,13.3,1,0,0,0,0,Gill,Gill,47,29,4,2,B Sai Sudharsan,33,17,6,0,Harshal,1.0,0,11,0,Rabada,3.0,0,31,1
+GT,13,13.2,1,0,0,0,0,B Sai Sudharsan,Gill,46,28,4,2,B Sai Sudharsan,33,17,6,0,Harshal,1.0,0,10,0,Rabada,3.0,0,31,1
+GT,13,13.1,1,0,0,0,0,Gill,Gill,46,28,4,2,B Sai Sudharsan,32,16,6,0,Harshal,1.0,0,9,0,Rabada,3.0,0,31,1
+GT,12,12.6,1,0,0,0,0,Gill,Gill,45,27,4,2,B Sai Sudharsan,32,16,6,0,Rabada,3.0,0,31,1,Raza,2.0,0,22,0
+GT,12,12.5,1,0,0,0,0,B Sai Sudharsan,Gill,44,26,4,2,B Sai Sudharsan,32,16,6,0,Rabada,2.0,0,30,1,Raza,2.0,0,22,0
+GT,12,12.4,4,1,0,0,0,B Sai Sudharsan,Gill,44,26,4,2,B Sai Sudharsan,31,15,6,0,Rabada,2.0,0,29,1,Raza,2.0,0,22,0
+GT,12,12.3,1,0,0,0,0,Gill,Gill,44,26,4,2,B Sai Sudharsan,27,14,5,0,Rabada,2.0,0,25,1,Raza,2.0,0,22,0
+GT,12,12.2,6,1,0,0,0,Gill,Gill,43,25,4,2,B Sai Sudharsan,27,14,5,0,Rabada,2.0,0,24,1,Raza,2.0,0,22,0
+GT,12,12.1,1,0,0,0,0,B Sai Sudharsan,Gill,37,24,4,1,B Sai Sudharsan,27,14,5,0,Rabada,2.0,0,18,1,Raza,2.0,0,22,0
+GT,11,11.6,1,0,0,0,0,B Sai Sudharsan,Gill,37,24,4,1,B Sai Sudharsan,26,13,5,0,Raza,2.0,0,22,0,Sam Curran,2.0,0,18,0
+GT,11,11.5,4,1,0,0,0,B Sai Sudharsan,Gill,37,24,4,1,B Sai Sudharsan,25,12,5,0,Raza,1.0,0,21,0,Sam Curran,2.0,0,18,0
+GT,11,11.4,4,1,0,0,0,B Sai Sudharsan,Gill,37,24,4,1,B Sai Sudharsan,21,11,4,0,Raza,1.0,0,17,0,Sam Curran,2.0,0,18,0
+GT,11,11.3,1,0,0,0,0,Gill,Gill,37,24,4,1,B Sai Sudharsan,17,10,3,0,Raza,1.0,0,13,0,Sam Curran,2.0,0,18,0
+GT,11,11.2,4,1,0,0,0,Gill,Gill,36,23,4,1,B Sai Sudharsan,17,10,3,0,Raza,1.0,0,12,0,Sam Curran,2.0,0,18,0
+GT,11,11.1,0,0,1,0,0,Gill,Gill,32,22,3,1,B Sai Sudharsan,17,10,3,0,Raza,1.0,0,8,0,Sam Curran,2.0,0,18,0
+GT,10,10.6,1,0,0,0,0,Gill,Gill,32,21,3,1,B Sai Sudharsan,17,10,3,0,Sam Curran,2.0,0,18,0,Raza,1.0,0,8,0
+GT,10,10.5,1,0,0,0,0,B Sai Sudharsan,Gill,31,20,3,1,B Sai Sudharsan,17,10,3,0,Sam Curran,1.0,0,17,0,Raza,1.0,0,8,0
+GT,10,10.4,4,1,0,0,0,B Sai Sudharsan,Gill,31,20,3,1,B Sai Sudharsan,16,9,3,0,Sam Curran,1.0,0,16,0,Raza,1.0,0,8,0
+GT,10,10.3,0,0,1,0,0,B Sai Sudharsan,Gill,31,20,3,1,B Sai Sudharsan,12,8,2,0,Sam Curran,1.0,0,12,0,Raza,1.0,0,8,0
+GT,10,10.2,1,0,0,0,0,Gill,Gill,31,20,3,1,B Sai Sudharsan,12,7,2,0,Sam Curran,1.0,0,12,0,Raza,1.0,0,8,0
+GT,10,10.1,1,0,0,0,0,B Sai Sudharsan,Gill,30,19,3,1,B Sai Sudharsan,12,7,2,0,Sam Curran,1.0,0,11,0,Raza,1.0,0,8,0
+GT,9,9.6,1,0,0,0,0,B Sai Sudharsan,Gill,30,19,3,1,B Sai Sudharsan,11,6,2,0,Raza,1.0,0,8,0,Harpreet Brar,3.0,0,22,1
+GT,9,9.5,4,1,0,0,0,B Sai Sudharsan,Gill,30,19,3,1,B Sai Sudharsan,10,5,2,0,Raza,0,0,7,0,Harpreet Brar,3.0,0,22,1
+GT,9,9.4,0,0,1,0,0,B Sai Sudharsan,Gill,30,19,3,1,B Sai Sudharsan,6,4,1,0,Raza,0,0,3,0,Harpreet Brar,3.0,0,22,1
+GT,9,9.3,1,0,0,0,0,Gill,Gill,30,19,3,1,B Sai Sudharsan,6,3,1,0,Raza,0,0,3,0,Harpreet Brar,3.0,0,22,1
+GT,9,9.2,1,0,0,0,0,B Sai Sudharsan,Gill,29,18,3,1,B Sai Sudharsan,6,3,1,0,Raza,0,0,2,0,Harpreet Brar,3.0,0,22,1
+GT,9,9.1,1,0,0,0,0,Gill,Gill,29,18,3,1,B Sai Sudharsan,5,2,1,0,Raza,0,0,1,0,Harpreet Brar,3.0,0,22,1
+GT,8,8.6,4,1,0,0,0,B Sai Sudharsan,Gill,28,17,3,1,B Sai Sudharsan,5,2,1,0,Harpreet Brar,3.0,0,22,1,Harshal,1.0,0,8,0
+GT,8,8.5,1,0,0,0,0,Gill,Gill,28,17,3,1,B Sai Sudharsan,1,1,0,0,Harpreet Brar,2.0,0,18,1,Harshal,1.0,0,8,0
+GT,8,8.4,1,0,0,0,0,B Sai Sudharsan,Gill,27,16,3,1,B Sai Sudharsan,1,1,0,0,Harpreet Brar,2.0,0,17,1,Harshal,1.0,0,8,0
+GT,8,8.3,0,0,0,1,0,Williamson,Gill,27,16,3,1,,0,0,0,0,Harpreet Brar,2.0,0,16,1,Harshal,1.0,0,8,0
+GT,8,8.2,4,1,0,0,0,Williamson,Gill,27,16,3,1,Williamson,26,21,4,0,Harpreet Brar,2.0,0,16,0,Harshal,1.0,0,8,0
+GT,8,8.1,0,0,1,0,0,Williamson,Gill,27,16,3,1,Williamson,22,20,3,0,Harpreet Brar,2.0,0,12,0,Harshal,1.0,0,8,0
+GT,7,7.6,0,0,1,0,0,Gill,Gill,27,16,3,1,Williamson,22,19,3,0,Harshal,1.0,0,8,0,Harpreet Brar,2.0,0,12,0
+GT,7,7.5,1,0,0,0,0,Williamson,Gill,27,15,3,1,Williamson,22,19,3,0,Harshal,0,0,8,0,Harpreet Brar,2.0,0,12,0
+GT,7,7.4,1,0,0,0,0,Gill,Gill,27,15,3,1,Williamson,21,18,3,0,Harshal,0,0,7,0,Harpreet Brar,2.0,0,12,0
+GT,7,7.3,4,1,0,0,0,Gill,Gill,26,14,3,1,Williamson,21,18,3,0,Harshal,0,0,6,0,Harpreet Brar,2.0,0,12,0
+GT,7,7.2,1,0,0,0,0,Williamson,Gill,22,13,2,1,Williamson,21,18,3,0,Harshal,0,0,2,0,Harpreet Brar,2.0,0,12,0
+GT,7,7.1,1,0,0,0,0,Gill,Gill,22,13,2,1,Williamson,20,17,3,0,Harshal,0,0,1,0,Harpreet Brar,2.0,0,12,0
+GT,6,6.6,0,0,1,0,0,Williamson,Gill,21,12,2,1,Williamson,20,17,3,0,Harpreet Brar,2.0,0,12,0,Sam Curran,1.0,0,10,0
+GT,6,6.5,0,0,1,0,0,Williamson,Gill,21,12,2,1,Williamson,20,16,3,0,Harpreet Brar,1.0,0,12,0,Sam Curran,1.0,0,10,0
+GT,6,6.4,2,0,0,0,0,Williamson,Gill,21,12,2,1,Williamson,20,15,3,0,Harpreet Brar,1.0,0,12,0,Sam Curran,1.0,0,10,0
+GT,6,6.3,2,0,0,0,0,Williamson,Gill,21,12,2,1,Williamson,18,14,3,0,Harpreet Brar,1.0,0,10,0,Sam Curran,1.0,0,10,0
+GT,6,6.2,1,0,0,0,0,Gill,Gill,21,12,2,1,Williamson,16,13,3,0,Harpreet Brar,1.0,0,8,0,Sam Curran,1.0,0,10,0
+GT,6,6.1,0,0,1,0,0,Gill,Gill,20,11,2,1,Williamson,16,13,3,0,Harpreet Brar,1.0,0,7,0,Sam Curran,1.0,0,10,0
+GT,5,5.6,0,0,1,0,0,Williamson,Gill,20,10,2,1,Williamson,16,13,3,0,Sam Curran,1.0,0,10,0,Rabada,2.0,0,17,1
+GT,5,5.5,0,0,1,0,0,Williamson,Gill,20,10,2,1,Williamson,16,12,3,0,Sam Curran,0,0,10,0,Rabada,2.0,0,17,1
+GT,5,5.4,4,1,0,0,0,Williamson,Gill,20,10,2,1,Williamson,16,11,3,0,Sam Curran,0,0,10,0,Rabada,2.0,0,17,1
+GT,5,5.3,2,0,0,0,0,Williamson,Gill,20,10,2,1,Williamson,12,10,2,0,Sam Curran,0,0,6,0,Rabada,2.0,0,17,1
+GT,5,5.2,4,1,0,0,0,Williamson,Gill,20,10,2,1,Williamson,10,9,2,0,Sam Curran,0,0,4,0,Rabada,2.0,0,17,1
+GT,5,5.1,1,0,0,0,1,Gill,Gill,20,10,2,1,Williamson,6,8,1,0,Sam Curran,0,0,0,0,Rabada,2.0,0,17,1
+GT,4,4.6,0,0,1,0,0,Williamson,Gill,19,9,2,1,Williamson,6,8,1,0,Rabada,2.0,0,17,1,Arshdeep,2.0,0,13,0
+GT,4,4.5,0,0,1,0,0,Williamson,Gill,19,9,2,1,Williamson,6,7,1,0,Rabada,1.0,0,17,1,Arshdeep,2.0,0,13,0
+GT,4,4.4,1,0,0,0,0,Gill,Gill,19,9,2,1,Williamson,6,6,1,0,Rabada,1.0,0,17,1,Arshdeep,2.0,0,13,0
+GT,4,4.3,1,0,0,0,0,Williamson,Gill,18,8,2,1,Williamson,6,6,1,0,Rabada,1.0,0,16,1,Arshdeep,2.0,0,13,0
+GT,4,4.2,4,1,0,0,0,Williamson,Gill,18,8,2,1,Williamson,5,5,1,0,Rabada,1.0,0,15,1,Arshdeep,2.0,0,13,0
+GT,4,4.1,0,0,1,0,0,Williamson,Gill,18,8,2,1,Williamson,1,4,0,0,Rabada,1.0,0,11,1,Arshdeep,2.0,0,13,0
+GT,3,3.6,4,1,0,0,0,Gill,Gill,18,8,2,1,Williamson,1,3,0,0,Arshdeep,2.0,0,13,0,Rabada,1.0,0,11,1
+GT,3,3.5,1,0,0,0,0,Williamson,Gill,14,7,1,1,Williamson,1,3,0,0,Arshdeep,1.0,0,9,0,Rabada,1.0,0,11,1
+GT,3,3.4,0,0,1,0,0,Williamson,Gill,14,7,1,1,Williamson,0,2,0,0,Arshdeep,1.0,0,8,0,Rabada,1.0,0,11,1
+GT,3,3.3,0,0,1,0,0,Williamson,Gill,14,7,1,1,Williamson,0,1,0,0,Arshdeep,1.0,0,8,0,Rabada,1.0,0,11,1
+GT,3,3.2,1,0,0,0,0,Gill,Gill,14,7,1,1,,0,0,0,0,Arshdeep,1.0,0,8,0,Rabada,1.0,0,11,1
+GT,3,3.1,0,0,1,0,0,Gill,Gill,13,6,1,1,,0,0,0,0,Arshdeep,1.0,0,7,0,Rabada,1.0,0,11,1
+GT,2,2.6,0,0,0,1,0,Saha,Gill,13,5,1,1,,0,0,0,0,Rabada,1.0,0,11,1,Arshdeep,1.0,0,7,0
+GT,2,2.5,4,1,0,0,0,Saha,Saha,16,12,3,0,Gill,13,5,1,1,Rabada,0,0,11,0,Arshdeep,1.0,0,7,0
+GT,2,2.4,0,0,1,0,0,Saha,Saha,12,11,2,0,Gill,13,5,1,1,Rabada,0,0,7,0,Arshdeep,1.0,0,7,0
+GT,2,2.3,1,0,0,0,0,Gill,Saha,12,10,2,0,Gill,13,5,1,1,Rabada,0,0,7,0,Arshdeep,1.0,0,7,0
+GT,2,2.2,4,1,0,0,0,Gill,Saha,12,10,2,0,Gill,12,4,1,1,Rabada,0,0,6,0,Arshdeep,1.0,0,7,0
+GT,2,2.1,1,0,0,0,0,Saha,Saha,12,10,2,0,Gill,8,3,0,1,Rabada,0,0,2,0,Arshdeep,1.0,0,7,0
+GT,2,2.1,1,0,0,0,1,Saha,Saha,11,9,2,0,Gill,8,3,0,1,Rabada,0,0,1,0,Arshdeep,1.0,0,7,0
+GT,1,1.6,2,0,0,0,0,Gill,Saha,10,9,2,0,Gill,8,3,0,1,Arshdeep,1.0,0,7,0,Harpreet Brar,1.0,0,7,0
+GT,1,1.5,1,0,0,0,0,Saha,Saha,10,9,2,0,Gill,6,2,0,1,Arshdeep,0,0,5,0,Harpreet Brar,1.0,0,7,0
+GT,1,1.4,4,1,0,0,0,Saha,Saha,9,8,2,0,Gill,6,2,0,1,Arshdeep,0,0,4,0,Harpreet Brar,1.0,0,7,0
+GT,1,1.3,0,0,1,0,0,Saha,Saha,5,7,1,0,Gill,6,2,0,1,Arshdeep,0,0,0,0,Harpreet Brar,1.0,0,7,0
+GT,1,1.2,4,1,0,0,1,Saha,Saha,5,6,1,0,Gill,6,2,0,1,Arshdeep,0,0,0,0,Harpreet Brar,1.0,0,7,0
+GT,1,1.1,0,0,1,0,0,Saha,Saha,1,5,0,0,Gill,6,2,0,1,Arshdeep,0,0,0,0,Harpreet Brar,1.0,0,7,0
+GT,0,0.6,6,1,0,0,0,Gill,Saha,1,4,0,0,Gill,6,2,0,1,Harpreet Brar,1.0,0,7,0,,0,0,0,0
+GT,0,0.5,0,0,1,0,0,Gill,Saha,1,4,0,0,Gill,0,1,0,0,Harpreet Brar,0,0,1,0,,0,0,0,0
+GT,0,0.4,1,0,0,0,0,Saha,Saha,1,4,0,0,,0,0,0,0,Harpreet Brar,0,0,1,0,,0,0,0,0
+GT,0,0.3,0,0,1,0,0,Saha,Saha,0,3,0,0,,0,0,0,0,Harpreet Brar,0,0,0,0,,0,0,0,0
+GT,0,0.2,0,0,1,0,0,Saha,Saha,0,2,0,0,,0,0,0,0,Harpreet Brar,0,0,0,0,,0,0,0,0
+GT,0,0.1,0,0,1,0,0,Saha,Saha,0,1,0,0,,0,0,0,0,Harpreet Brar,0,0,0,0,,0,0,0,0

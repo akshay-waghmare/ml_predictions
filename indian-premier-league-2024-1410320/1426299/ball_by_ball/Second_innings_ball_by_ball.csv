@@ -1,0 +1,125 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+RR,19,19.6,1,0,0,0,0,Parag,Parag,50,35,1,3,Ashwin,1,1,0,0,Deshpande,4.0,0,30,2,Thakur,4.0,0,32,0
+RR,19,19.5,6,1,0,0,0,Parag,Parag,49,34,1,3,Ashwin,1,1,0,0,Deshpande,3.0,0,29,2,Thakur,4.0,0,32,0
+RR,19,19.4,2,0,0,0,0,Parag,Parag,43,33,1,2,Ashwin,1,1,0,0,Deshpande,3.0,0,23,2,Thakur,4.0,0,32,0
+RR,19,19.3,1,0,0,0,0,Ashwin,Parag,41,32,1,2,Ashwin,1,1,0,0,Deshpande,3.0,0,21,2,Thakur,4.0,0,32,0
+RR,19,19.2,0,0,0,1,0,Dubey,Parag,41,32,1,2,,0,0,0,0,Deshpande,3.0,0,20,2,Thakur,4.0,0,32,0
+RR,19,19.1,0,0,0,1,0,Jurel,Parag,41,32,1,2,,0,0,0,0,Deshpande,3.0,0,20,1,Thakur,4.0,0,32,0
+RR,18,18.6,1,0,0,0,0,Jurel,Parag,41,32,1,2,Jurel,28,17,1,2,Thakur,4.0,0,32,0,Deshpande,3.0,0,20,0
+RR,18,18.5,1,0,0,0,0,Parag,Parag,41,32,1,2,Jurel,27,16,1,2,Thakur,3.0,0,31,0,Deshpande,3.0,0,20,0
+RR,18,18.4,1,0,0,0,0,Jurel,Parag,40,31,1,2,Jurel,27,16,1,2,Thakur,3.0,0,30,0,Deshpande,3.0,0,20,0
+RR,18,18.3,1,0,0,0,0,Parag,Parag,40,31,1,2,Jurel,26,15,1,2,Thakur,3.0,0,29,0,Deshpande,3.0,0,20,0
+RR,18,18.2,2,0,0,0,0,Parag,Parag,39,30,1,2,Jurel,26,15,1,2,Thakur,3.0,0,28,0,Deshpande,3.0,0,20,0
+RR,18,18.1,1,0,0,0,0,Jurel,Parag,37,29,1,2,Jurel,26,15,1,2,Thakur,3.0,0,26,0,Deshpande,3.0,0,20,0
+RR,17,17.6,1,0,0,0,0,Jurel,Parag,37,29,1,2,Jurel,25,14,1,2,Deshpande,3.0,0,20,0,Simarjeet Singh,4.0,0,26,3
+RR,17,17.5,1,0,0,0,1,Parag,Parag,37,29,1,2,Jurel,24,13,1,2,Deshpande,2.0,0,19,0,Simarjeet Singh,4.0,0,26,3
+RR,17,17.4,1,0,0,0,0,Jurel,Parag,36,28,1,2,Jurel,24,13,1,2,Deshpande,2.0,0,19,0,Simarjeet Singh,4.0,0,26,3
+RR,17,17.3,6,1,0,0,0,Jurel,Parag,36,28,1,2,Jurel,23,12,1,2,Deshpande,2.0,0,18,0,Simarjeet Singh,4.0,0,26,3
+RR,17,17.2,1,0,0,0,0,Parag,Parag,36,28,1,2,Jurel,17,11,1,1,Deshpande,2.0,0,12,0,Simarjeet Singh,4.0,0,26,3
+RR,17,17.1,1,0,0,0,0,Jurel,Parag,35,27,1,2,Jurel,17,11,1,1,Deshpande,2.0,0,11,0,Simarjeet Singh,4.0,0,26,3
+RR,16,16.6,0,0,1,0,0,Parag,Parag,35,27,1,2,Jurel,16,10,1,1,Simarjeet Singh,4.0,0,26,3,Thakur,3.0,0,25,0
+RR,16,16.6,1,0,0,0,1,Parag,Parag,35,26,1,2,Jurel,16,10,1,1,Simarjeet Singh,3.0,0,26,3,Thakur,3.0,0,25,0
+RR,16,16.5,0,0,1,0,0,Parag,Parag,34,26,1,2,Jurel,16,10,1,1,Simarjeet Singh,3.0,0,25,3,Thakur,3.0,0,25,0
+RR,16,16.4,0,0,1,0,0,Parag,Parag,34,25,1,2,Jurel,16,10,1,1,Simarjeet Singh,3.0,0,25,3,Thakur,3.0,0,25,0
+RR,16,16.3,4,1,0,0,0,Parag,Parag,34,24,1,2,Jurel,16,10,1,1,Simarjeet Singh,3.0,0,25,3,Thakur,3.0,0,25,0
+RR,16,16.2,1,0,0,0,0,Jurel,Parag,30,23,0,2,Jurel,16,10,1,1,Simarjeet Singh,3.0,0,21,3,Thakur,3.0,0,25,0
+RR,16,16.1,4,1,0,0,0,Jurel,Parag,30,23,0,2,Jurel,15,9,1,1,Simarjeet Singh,3.0,0,20,3,Thakur,3.0,0,25,0
+RR,15,15.6,0,0,1,0,0,Parag,Parag,30,23,0,2,Jurel,11,8,0,1,Thakur,3.0,0,25,0,Simarjeet Singh,3.0,0,16,3
+RR,15,15.5,1,0,0,0,0,Jurel,Parag,30,22,0,2,Jurel,11,8,0,1,Thakur,2.0,0,25,0,Simarjeet Singh,3.0,0,16,3
+RR,15,15.4,0,0,1,0,0,Jurel,Parag,30,22,0,2,Jurel,10,7,0,1,Thakur,2.0,0,24,0,Simarjeet Singh,3.0,0,16,3
+RR,15,15.3,6,1,0,0,0,Jurel,Parag,30,22,0,2,Jurel,10,6,0,1,Thakur,2.0,0,24,0,Simarjeet Singh,3.0,0,16,3
+RR,15,15.2,2,0,0,0,0,Jurel,Parag,30,22,0,2,Jurel,4,5,0,0,Thakur,2.0,0,18,0,Simarjeet Singh,3.0,0,16,3
+RR,15,15.1,0,0,1,0,0,Jurel,Parag,30,22,0,2,Jurel,2,4,0,0,Thakur,2.0,0,16,0,Simarjeet Singh,3.0,0,16,3
+RR,14,14.6,1,0,0,0,0,Jurel,Parag,30,22,0,2,Jurel,2,3,0,0,Simarjeet Singh,3.0,0,16,3,Jadeja,4.0,0,24,0
+RR,14,14.5,0,0,1,0,0,Jurel,Parag,30,22,0,2,Jurel,1,2,0,0,Simarjeet Singh,2.0,0,15,3,Jadeja,4.0,0,24,0
+RR,14,14.4,1,0,0,0,0,Parag,Parag,30,22,0,2,Jurel,1,1,0,0,Simarjeet Singh,2.0,0,15,3,Jadeja,4.0,0,24,0
+RR,14,14.3,1,0,0,0,0,Jurel,Parag,29,21,0,2,Jurel,1,1,0,0,Simarjeet Singh,2.0,0,14,3,Jadeja,4.0,0,24,0
+RR,14,14.2,0,0,0,1,0,Samson,Parag,29,21,0,2,,0,0,0,0,Simarjeet Singh,2.0,0,13,3,Jadeja,4.0,0,24,0
+RR,14,14.1,1,0,0,0,0,Parag,Samson,16,18,0,0,Parag,29,21,0,2,Simarjeet Singh,2.0,0,13,2,Jadeja,4.0,0,24,0
+RR,14,14.1,1,0,0,0,1,Parag,Samson,16,18,0,0,Parag,28,20,0,2,Simarjeet Singh,2.0,0,12,2,Jadeja,4.0,0,24,0
+RR,13,13.6,2,0,0,0,0,Samson,Samson,16,18,0,0,Parag,27,20,0,2,Jadeja,4.0,0,24,0,Theekshana,4.0,0,28,0
+RR,13,13.5,0,0,1,0,0,Samson,Samson,14,17,0,0,Parag,27,20,0,2,Jadeja,3.0,0,22,0,Theekshana,4.0,0,28,0
+RR,13,13.4,0,0,1,0,0,Samson,Samson,14,16,0,0,Parag,27,20,0,2,Jadeja,3.0,0,22,0,Theekshana,4.0,0,28,0
+RR,13,13.3,1,0,0,0,0,Parag,Samson,14,15,0,0,Parag,27,20,0,2,Jadeja,3.0,0,22,0,Theekshana,4.0,0,28,0
+RR,13,13.2,6,1,0,0,0,Parag,Samson,14,15,0,0,Parag,26,19,0,2,Jadeja,3.0,0,21,0,Theekshana,4.0,0,28,0
+RR,13,13.1,1,0,0,0,0,Samson,Samson,14,15,0,0,Parag,20,18,0,1,Jadeja,3.0,0,15,0,Theekshana,4.0,0,28,0
+RR,12,12.6,0,0,1,0,0,Parag,Samson,13,14,0,0,Parag,20,18,0,1,Theekshana,4.0,0,28,0,Jadeja,3.0,0,14,0
+RR,12,12.5,0,0,1,0,0,Parag,Samson,13,14,0,0,Parag,20,17,0,1,Theekshana,3.0,0,28,0,Jadeja,3.0,0,14,0
+RR,12,12.4,1,0,0,0,0,Samson,Samson,13,14,0,0,Parag,20,16,0,1,Theekshana,3.0,0,28,0,Jadeja,3.0,0,14,0
+RR,12,12.3,1,0,0,0,0,Parag,Samson,12,13,0,0,Parag,20,16,0,1,Theekshana,3.0,0,27,0,Jadeja,3.0,0,14,0
+RR,12,12.2,2,0,0,0,0,Parag,Samson,12,13,0,0,Parag,19,15,0,1,Theekshana,3.0,0,26,0,Jadeja,3.0,0,14,0
+RR,12,12.1,1,0,0,0,0,Samson,Samson,12,13,0,0,Parag,17,14,0,1,Theekshana,3.0,0,24,0,Jadeja,3.0,0,14,0
+RR,11,11.6,1,0,0,0,0,Samson,Samson,11,12,0,0,Parag,17,14,0,1,Jadeja,3.0,0,14,0,Thakur,2.0,0,16,0
+RR,11,11.5,0,0,1,0,0,Samson,Samson,10,11,0,0,Parag,17,14,0,1,Jadeja,2.0,0,13,0,Thakur,2.0,0,16,0
+RR,11,11.4,1,0,0,0,0,Parag,Samson,10,10,0,0,Parag,17,14,0,1,Jadeja,2.0,0,13,0,Thakur,2.0,0,16,0
+RR,11,11.3,1,0,0,0,0,Samson,Samson,10,10,0,0,Parag,16,13,0,1,Jadeja,2.0,0,12,0,Thakur,2.0,0,16,0
+RR,11,11.2,2,0,0,0,0,Samson,Samson,9,9,0,0,Parag,16,13,0,1,Jadeja,2.0,0,11,0,Thakur,2.0,0,16,0
+RR,11,11.1,1,0,0,0,0,Parag,Samson,7,8,0,0,Parag,16,13,0,1,Jadeja,2.0,0,9,0,Thakur,2.0,0,16,0
+RR,10,10.6,1,0,0,0,0,Parag,Samson,7,8,0,0,Parag,15,12,0,1,Thakur,2.0,0,16,0,Jadeja,2.0,0,8,0
+RR,10,10.5,1,0,0,0,0,Samson,Samson,7,8,0,0,Parag,14,11,0,1,Thakur,1.0,0,15,0,Jadeja,2.0,0,8,0
+RR,10,10.4,1,0,0,0,0,Parag,Samson,6,7,0,0,Parag,14,11,0,1,Thakur,1.0,0,14,0,Jadeja,2.0,0,8,0
+RR,10,10.3,1,0,0,0,0,Samson,Samson,6,7,0,0,Parag,13,10,0,1,Thakur,1.0,0,13,0,Jadeja,2.0,0,8,0
+RR,10,10.2,1,0,0,0,0,Parag,Samson,5,6,0,0,Parag,13,10,0,1,Thakur,1.0,0,12,0,Jadeja,2.0,0,8,0
+RR,10,10.1,2,0,0,0,0,Parag,Samson,5,6,0,0,Parag,12,9,0,1,Thakur,1.0,0,11,0,Jadeja,2.0,0,8,0
+RR,9,9.6,1,0,0,0,0,Parag,Samson,5,6,0,0,Parag,10,8,0,1,Jadeja,2.0,0,8,0,Simarjeet Singh,2.0,0,11,2
+RR,9,9.5,1,0,0,0,0,Samson,Samson,5,6,0,0,Parag,9,7,0,1,Jadeja,1.0,0,7,0,Simarjeet Singh,2.0,0,11,2
+RR,9,9.4,0,0,1,0,0,Samson,Samson,4,5,0,0,Parag,9,7,0,1,Jadeja,1.0,0,6,0,Simarjeet Singh,2.0,0,11,2
+RR,9,9.3,1,0,0,0,0,Parag,Samson,4,4,0,0,Parag,9,7,0,1,Jadeja,1.0,0,6,0,Simarjeet Singh,2.0,0,11,2
+RR,9,9.2,1,0,0,0,0,Samson,Samson,4,4,0,0,Parag,8,6,0,1,Jadeja,1.0,0,5,0,Simarjeet Singh,2.0,0,11,2
+RR,9,9.1,1,0,0,0,0,Parag,Samson,3,3,0,0,Parag,8,6,0,1,Jadeja,1.0,0,4,0,Simarjeet Singh,2.0,0,11,2
+RR,8,8.6,1,0,0,0,0,Parag,Samson,3,3,0,0,Parag,7,5,0,1,Simarjeet Singh,2.0,0,11,2,Jadeja,1.0,0,3,0
+RR,8,8.5,0,0,1,0,0,Parag,Samson,3,3,0,0,Parag,6,4,0,1,Simarjeet Singh,1.0,0,10,2,Jadeja,1.0,0,3,0
+RR,8,8.4,6,1,0,0,0,Parag,Samson,3,3,0,0,Parag,6,3,0,1,Simarjeet Singh,1.0,0,10,2,Jadeja,1.0,0,3,0
+RR,8,8.3,0,0,1,0,0,Parag,Samson,3,3,0,0,Parag,0,2,0,0,Simarjeet Singh,1.0,0,4,2,Jadeja,1.0,0,3,0
+RR,8,8.2,0,0,1,0,0,Parag,Samson,3,3,0,0,Parag,0,1,0,0,Simarjeet Singh,1.0,0,4,2,Jadeja,1.0,0,3,0
+RR,8,8.1,0,0,0,1,0,Buttler,Samson,3,3,0,0,,0,0,0,0,Simarjeet Singh,1.0,0,4,2,Jadeja,1.0,0,3,0
+RR,7,7.6,1,0,0,0,0,Buttler,Buttler,21,24,2,0,Samson,3,3,0,0,Jadeja,1.0,0,3,0,Simarjeet Singh,1.0,0,4,1
+RR,7,7.5,0,0,1,0,0,Buttler,Buttler,20,23,2,0,Samson,3,3,0,0,Jadeja,0,0,2,0,Simarjeet Singh,1.0,0,4,1
+RR,7,7.4,0,0,1,0,0,Buttler,Buttler,20,22,2,0,Samson,3,3,0,0,Jadeja,0,0,2,0,Simarjeet Singh,1.0,0,4,1
+RR,7,7.3,0,0,1,0,0,Buttler,Buttler,20,21,2,0,Samson,3,3,0,0,Jadeja,0,0,2,0,Simarjeet Singh,1.0,0,4,1
+RR,7,7.2,1,0,0,0,0,Samson,Buttler,20,20,2,0,Samson,3,3,0,0,Jadeja,0,0,2,0,Simarjeet Singh,1.0,0,4,1
+RR,7,7.1,1,0,0,0,0,Buttler,Buttler,20,20,2,0,Samson,2,2,0,0,Jadeja,0,0,1,0,Simarjeet Singh,1.0,0,4,1
+RR,6,6.6,1,0,0,0,0,Buttler,Buttler,19,19,2,0,Samson,2,2,0,0,Simarjeet Singh,1.0,0,4,1,Theekshana,3.0,0,23,0
+RR,6,6.5,0,0,1,0,0,Buttler,Buttler,18,18,2,0,Samson,2,2,0,0,Simarjeet Singh,0,0,3,1,Theekshana,3.0,0,23,0
+RR,6,6.4,1,0,0,0,0,Samson,Buttler,18,17,2,0,Samson,2,2,0,0,Simarjeet Singh,0,0,3,1,Theekshana,3.0,0,23,0
+RR,6,6.3,0,0,1,0,0,Samson,Buttler,18,17,2,0,Samson,1,1,0,0,Simarjeet Singh,0,0,2,1,Theekshana,3.0,0,23,0
+RR,6,6.3,1,0,0,0,1,Samson,Buttler,18,17,2,0,Samson,1,0,0,0,Simarjeet Singh,0,0,2,1,Theekshana,3.0,0,23,0
+RR,6,6.2,0,0,0,1,0,Jaiswal,Buttler,18,17,2,0,,0,0,0,0,Simarjeet Singh,0,0,1,1,Theekshana,3.0,0,23,0
+RR,6,6.2,1,0,0,0,1,Jaiswal,Jaiswal,25,20,3,1,Buttler,18,17,2,0,Simarjeet Singh,0,0,1,0,Theekshana,3.0,0,23,0
+RR,6,6.1,0,0,1,0,0,Jaiswal,Jaiswal,24,20,3,1,Buttler,18,17,2,0,Simarjeet Singh,0,0,0,0,Theekshana,3.0,0,23,0
+RR,5,5.6,4,1,0,0,0,Buttler,Jaiswal,24,19,3,1,Buttler,18,17,2,0,Theekshana,3.0,0,23,0,Thakur,1.0,0,9,0
+RR,5,5.5,0,0,1,0,0,Buttler,Jaiswal,24,19,3,1,Buttler,14,16,1,0,Theekshana,2.0,0,19,0,Thakur,1.0,0,9,0
+RR,5,5.4,0,0,1,0,0,Buttler,Jaiswal,24,19,3,1,Buttler,14,15,1,0,Theekshana,2.0,0,19,0,Thakur,1.0,0,9,0
+RR,5,5.3,1,0,0,0,0,Jaiswal,Jaiswal,24,19,3,1,Buttler,14,14,1,0,Theekshana,2.0,0,19,0,Thakur,1.0,0,9,0
+RR,5,5.2,0,0,1,0,0,Jaiswal,Jaiswal,23,18,3,1,Buttler,14,14,1,0,Theekshana,2.0,0,18,0,Thakur,1.0,0,9,0
+RR,5,5.1,1,0,0,0,0,Buttler,Jaiswal,23,17,3,1,Buttler,14,14,1,0,Theekshana,2.0,0,18,0,Thakur,1.0,0,9,0
+RR,4,4.6,0,0,1,0,0,Jaiswal,Jaiswal,23,17,3,1,Buttler,13,13,1,0,Thakur,1.0,0,9,0,Theekshana,2.0,0,17,0
+RR,4,4.5,4,1,0,0,0,Jaiswal,Jaiswal,23,16,3,1,Buttler,13,13,1,0,Thakur,0,0,9,0,Theekshana,2.0,0,17,0
+RR,4,4.4,4,1,0,0,0,Jaiswal,Jaiswal,19,15,2,1,Buttler,13,13,1,0,Thakur,0,0,5,0,Theekshana,2.0,0,17,0
+RR,4,4.3,0,0,1,0,0,Jaiswal,Jaiswal,15,14,1,1,Buttler,13,13,1,0,Thakur,0,0,1,0,Theekshana,2.0,0,17,0
+RR,4,4.2,0,0,1,0,0,Jaiswal,Jaiswal,15,13,1,1,Buttler,13,13,1,0,Thakur,0,0,1,0,Theekshana,2.0,0,17,0
+RR,4,4.1,1,0,0,0,0,Buttler,Jaiswal,15,12,1,1,Buttler,13,13,1,0,Thakur,0,0,1,0,Theekshana,2.0,0,17,0
+RR,3,3.6,4,1,0,0,0,Jaiswal,Jaiswal,15,12,1,1,Buttler,12,12,1,0,Theekshana,2.0,0,17,0,Deshpande,2.0,0,10,0
+RR,3,3.5,2,0,0,0,0,Jaiswal,Jaiswal,11,11,0,1,Buttler,12,12,1,0,Theekshana,1.0,0,13,0,Deshpande,2.0,0,10,0
+RR,3,3.4,0,0,1,0,0,Jaiswal,Jaiswal,9,10,0,1,Buttler,12,12,1,0,Theekshana,1.0,0,11,0,Deshpande,2.0,0,10,0
+RR,3,3.3,6,1,0,0,0,Jaiswal,Jaiswal,9,9,0,1,Buttler,12,12,1,0,Theekshana,1.0,0,11,0,Deshpande,2.0,0,10,0
+RR,3,3.2,0,0,1,0,0,Jaiswal,Jaiswal,3,8,0,0,Buttler,12,12,1,0,Theekshana,1.0,0,5,0,Deshpande,2.0,0,10,0
+RR,3,3.1,1,0,0,0,0,Buttler,Jaiswal,3,7,0,0,Buttler,12,12,1,0,Theekshana,1.0,0,5,0,Deshpande,2.0,0,10,0
+RR,2,2.6,1,0,0,0,0,Buttler,Jaiswal,3,7,0,0,Buttler,11,11,1,0,Deshpande,2.0,0,10,0,Theekshana,1.0,0,4,0
+RR,2,2.5,2,0,0,0,0,Buttler,Jaiswal,3,7,0,0,Buttler,10,10,1,0,Deshpande,1.0,0,9,0,Theekshana,1.0,0,4,0
+RR,2,2.4,4,1,0,0,0,Buttler,Jaiswal,3,7,0,0,Buttler,8,9,1,0,Deshpande,1.0,0,7,0,Theekshana,1.0,0,4,0
+RR,2,2.3,0,0,1,0,0,Buttler,Jaiswal,3,7,0,0,Buttler,4,8,0,0,Deshpande,1.0,0,3,0,Theekshana,1.0,0,4,0
+RR,2,2.2,0,0,1,0,0,Buttler,Jaiswal,3,7,0,0,Buttler,4,7,0,0,Deshpande,1.0,0,3,0,Theekshana,1.0,0,4,0
+RR,2,2.1,0,0,1,0,0,Buttler,Jaiswal,3,7,0,0,Buttler,4,6,0,0,Deshpande,1.0,0,3,0,Theekshana,1.0,0,4,0
+RR,1,1.6,1,0,0,0,0,Buttler,Jaiswal,3,7,0,0,Buttler,4,5,0,0,Theekshana,1.0,0,4,0,Deshpande,1.0,0,3,0
+RR,1,1.5,1,0,0,0,0,Jaiswal,Jaiswal,3,7,0,0,Buttler,3,4,0,0,Theekshana,0,0,3,0,Deshpande,1.0,0,3,0
+RR,1,1.4,0,0,1,0,0,Jaiswal,Jaiswal,2,6,0,0,Buttler,3,4,0,0,Theekshana,0,0,2,0,Deshpande,1.0,0,3,0
+RR,1,1.3,1,0,0,0,0,Buttler,Jaiswal,2,5,0,0,Buttler,3,4,0,0,Theekshana,0,0,2,0,Deshpande,1.0,0,3,0
+RR,1,1.2,1,0,0,0,0,Jaiswal,Jaiswal,2,5,0,0,Buttler,2,3,0,0,Theekshana,0,0,1,0,Deshpande,1.0,0,3,0
+RR,1,1.1,0,0,1,0,0,Jaiswal,Jaiswal,1,4,0,0,Buttler,2,3,0,0,Theekshana,0,0,0,0,Deshpande,1.0,0,3,0
+RR,0,0.6,0,0,1,0,0,Buttler,Jaiswal,1,3,0,0,Buttler,2,3,0,0,Deshpande,1.0,0,3,0,,0,0,0,0
+RR,0,0.5,2,0,0,0,0,Buttler,Jaiswal,1,3,0,0,Buttler,2,2,0,0,Deshpande,0,0,3,0,,0,0,0,0
+RR,0,0.4,0,0,1,0,0,Buttler,Jaiswal,1,3,0,0,Buttler,0,1,0,0,Deshpande,0,0,1,0,,0,0,0,0
+RR,0,0.3,1,0,0,0,0,Jaiswal,Jaiswal,1,3,0,0,,0,0,0,0,Deshpande,0,0,1,0,,0,0,0,0
+RR,0,0.2,0,0,1,0,0,Jaiswal,Jaiswal,0,2,0,0,,0,0,0,0,Deshpande,0,0,0,0,,0,0,0,0
+RR,0,0.1,0,0,1,0,0,Jaiswal,Jaiswal,0,1,0,0,,0,0,0,0,Deshpande,0,0,0,0,,0,0,0,0

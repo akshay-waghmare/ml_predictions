@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+DC,19,19.1,31,5,0,0,1,Pant,Pant,62,38,4,4,Stubbs,26,7,3,2,Mohit,3.0,0,44,0,Sai Kishore,1.0,0,22,0
+DC,18,18.1,22,4,0,0,0,Stubbs,Pant,59,36,4,4,Stubbs,6,3,1,0,Sai Kishore,0,0,1,0,Mohit,3.0,0,42,0
+DC,17,17.1,14,2,1,0,0,Pant,Pant,51,33,4,3,,0,0,0,0,Mohit,2.0,0,29,0,Noor Ahmad,3.0,0,36,1
+DC,16,16.1,14,2,1,1,0,Axar Patel,Axar Patel,55,40,5,2,Pant,49,30,4,3,Noor Ahmad,2.0,0,23,0,Mohit,2.0,0,28,0
+DC,15,15.1,16,2,1,0,0,Pant,Axar Patel,51,37,5,2,Pant,42,27,4,2,Mohit,1.0,0,18,0,Rashid Khan,4.0,0,35,0
+DC,14,14.1,7,1,2,0,0,Axar Patel,Axar Patel,46,33,4,2,Pant,35,25,4,1,Rashid Khan,3.0,0,29,0,Shahrukh Khan,1.0,0,8,0
+DC,13,13.1,9,1,2,0,1,Axar Patel,Axar Patel,39,31,4,1,Pant,32,21,4,1,Shahrukh Khan,0,0,0,0,Rashid Khan,3.0,0,28,0
+DC,12,12.1,6,1,3,0,0,Axar Patel,Axar Patel,34,28,3,1,Pant,31,18,4,1,Rashid Khan,2.0,0,22,0,Mohit,1.0,0,12,0
+DC,11,11.1,12,2,0,0,0,Pant,Axar Patel,32,25,3,1,Pant,25,15,3,1,Mohit,0,0,4,0,Noor Ahmad,2.0,0,22,0
+DC,10,10.1,13,2,1,0,0,Pant,Axar Patel,27,23,2,1,Pant,13,11,2,0,Noor Ahmad,1.0,0,9,0,Rashid Khan,2.0,0,22,0
+DC,9,9.1,12,2,1,0,0,Pant,Axar Patel,20,20,1,1,Pant,8,8,1,0,Rashid Khan,1.0,0,10,0,Noor Ahmad,1.0,0,9,0
+DC,8,8.1,9,1,1,0,1,Axar Patel,Axar Patel,18,17,1,1,Pant,5,5,1,0,Noor Ahmad,0,0,4,0,Rashid Khan,1.0,0,10,0
+DC,7,7.1,10,1,2,0,0,Axar Patel,Axar Patel,10,13,1,0,Pant,0,3,0,0,Rashid Khan,0,0,1,0,Azmatullah,4.0,0,33,0
+DC,6,6.1,5,1,4,0,1,Pant,Axar Patel,4,8,0,0,Pant,0,2,0,0,Azmatullah,3.0,0,29,0,Sandeep,3.0,0,15,3
+DC,5,5.1,1,0,4,1,0,Pant,Axar Patel,3,6,0,0,Hope,5,4,1,0,Sandeep,2.0,0,14,2,Azmatullah,3.0,0,29,0
+DC,4,4.1,7,1,2,0,0,Hope,Axar Patel,1,3,0,0,Hope,0,1,0,0,Azmatullah,2.0,0,22,0,Sandeep,2.0,0,14,2
+DC,3,3.1,2,0,2,2,0,Hope,Shaw,11,6,2,0,J Fraser,24,13,2,2,Sandeep,1.0,0,13,0,Azmatullah,2.0,0,22,0
+DC,2,2.1,12,2,2,0,0,J Fraser,Shaw,5,2,1,0,J Fraser,18,11,2,1,Azmatullah,1.0,0,11,0,Sandeep,1.0,0,12,0
+DC,1,1.1,12,2,3,0,1,J Fraser,Shaw,5,2,1,0,J Fraser,5,5,1,0,Sandeep,0,0,0,0,Azmatullah,1.0,0,10,0
+DC,0,0.1,10,2,2,0,0,J Fraser,Shaw,4,1,1,0,,0,0,0,0,Azmatullah,0,0,4,0,,0,0,0,0

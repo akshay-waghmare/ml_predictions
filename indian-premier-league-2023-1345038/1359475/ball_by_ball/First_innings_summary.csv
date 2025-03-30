@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+GT,19,19.1,11,2,0,0,1,Tewatia,Tewatia,10,12,1,0,Rashid Khan,10,3,1,1,Deshpande,3.0,0,41,1,Chahar,4.0,0,29,0
+GT,18,18.1,15,3,2,0,1,Rashid Khan,Tewatia,4,10,0,0,,0,0,0,0,Chahar,3.0,0,18,0,RS Hangargekar,4.0,0,36,3
+GT,17,17.1,7,1,3,1,0,Shankar,Shankar,23,18,2,0,Tewatia,3,7,0,0,RS Hangargekar,3.0,0,29,2,Chahar,3.0,0,18,0
+GT,16,16.1,4,0,2,0,0,Tewatia,Shankar,22,16,2,0,Tewatia,1,3,0,0,Chahar,2.0,0,15,0,Santner,4.0,0,32,0
+GT,15,15.1,7,1,2,0,0,Tewatia,Shankar,16,13,1,0,,0,0,0,0,Santner,3.0,0,26,0,Deshpande,3.0,0,40,1
+GT,14,14.1,11,1,0,1,0,Gill,Gill,57,33,6,2,Shankar,12,10,1,0,Deshpande,2.0,0,30,0,RS Hangargekar,3.0,0,29,2
+GT,13,13.1,13,2,1,0,2,Gill,Gill,52,31,5,2,Shankar,4,5,0,0,RS Hangargekar,2.0,0,17,2,Jadeja,4.0,0,28,1
+GT,12,12.1,3,0,3,1,0,Shankar,Gill,52,31,5,2,,0,0,0,0,Jadeja,3.0,0,25,1,Santner,3.0,0,25,0
+GT,11,11.1,5,0,1,0,0,Hardik,Gill,50,29,5,2,Hardik,6,7,0,0,Santner,2.0,0,21,0,Jadeja,3.0,0,25,0
+GT,10,10.1,13,2,1,0,0,Gill,Gill,39,26,4,1,Hardik,3,4,0,0,Jadeja,2.0,0,12,0,RS Hangargekar,2.0,0,16,2
+GT,9,9.1,4,0,2,1,0,Hardik,Gill,39,26,4,1,B Sai Sudharsan,23,15,3,0,RS Hangargekar,1.0,0,13,1,Jadeja,2.0,0,12,0
+GT,8,8.1,7,0,1,0,0,B Sai Sudharsan,Gill,35,22,4,1,B Sai Sudharsan,20,13,3,0,Jadeja,1.0,0,6,0,Santner,2.0,0,20,0
+GT,7,7.1,11,2,1,0,0,Gill,Gill,28,18,3,1,B Sai Sudharsan,15,11,2,0,Santner,1.0,0,9,0,Jadeja,1.0,0,5,0
+GT,6,6.1,6,0,2,0,1,B Sai Sudharsan,Gill,25,14,3,1,B Sai Sudharsan,13,9,2,0,Jadeja,0,0,1,0,Santner,1.0,0,9,0
+GT,5,5.1,9,2,3,0,0,Gill,Gill,21,13,2,1,B Sai Sudharsan,7,4,1,0,Santner,0,0,0,0,Deshpande,2.0,0,29,0
+GT,4,4.1,15,2,1,0,1,B Sai Sudharsan,Gill,13,9,2,0,B Sai Sudharsan,4,1,1,0,Deshpande,1.0,0,18,0,RS Hangargekar,1.0,0,12,1
+GT,3,3.1,12,2,1,1,2,B Sai Sudharsan,Saha,21,12,1,2,Gill,8,7,1,0,RS Hangargekar,0,0,0,0,Chahar,2.0,0,14,0
+GT,2,2.1,11,1,0,0,0,Saha,Saha,13,8,1,1,Gill,6,5,1,0,Chahar,1.0,0,4,0,Deshpande,1.0,0,14,0
+GT,1,1.1,15,3,2,0,1,Gill,Saha,7,5,0,1,Gill,2,2,0,0,Deshpande,0,0,6,0,Chahar,1.0,0,3,0
+GT,0,0.1,3,0,4,0,0,Gill,Saha,0,1,0,0,,0,0,0,0,Chahar,0,0,0,0,,0,0,0,0

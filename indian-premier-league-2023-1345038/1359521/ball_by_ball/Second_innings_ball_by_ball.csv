@@ -1,0 +1,127 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+KKR,19,19.6,2,0,0,0,0,Arora,Arora,2,1,0,0,,0,0,0,0,Natarajan,4.0,0,30,3,Bhuvneshwar,3.0,0,33,1
+KKR,19,19.5,1,0,0,0,0,Roy,,0,0,0,0,,0,0,0,0,Natarajan,3.0,0,28,3,Bhuvneshwar,3.0,0,33,1
+KKR,19,19.4,0,0,1,0,0,Roy,,0,0,0,0,,0,0,0,0,Natarajan,3.0,0,27,3,Bhuvneshwar,3.0,0,33,1
+KKR,19,19.3,0,0,0,1,0,Harshit Rana,,0,0,0,0,,0,0,0,0,Natarajan,3.0,0,27,3,Bhuvneshwar,3.0,0,33,1
+KKR,19,19.2,0,0,0,1,0,Rinku Singh,,0,0,0,0,,0,0,0,0,Natarajan,3.0,0,27,2,Bhuvneshwar,3.0,0,33,1
+KKR,19,19.1,0,0,1,0,0,Rinku Singh,Rinku Singh,50,34,4,1,,0,0,0,0,Natarajan,3.0,0,27,1,Bhuvneshwar,3.0,0,33,1
+KKR,18,18.6,1,0,0,0,0,Rinku Singh,Rinku Singh,50,33,4,1,,0,0,0,0,Bhuvneshwar,3.0,0,33,1,Natarajan,3.0,0,27,1
+KKR,18,18.5,1,0,0,0,0,Roy,Rinku Singh,49,32,4,1,,0,0,0,0,Bhuvneshwar,3.0,0,32,1,Natarajan,3.0,0,27,1
+KKR,18,18.4,4,1,0,0,0,Roy,Rinku Singh,49,32,4,1,,0,0,0,0,Bhuvneshwar,3.0,0,31,1,Natarajan,3.0,0,27,1
+KKR,18,18.3,4,1,0,0,0,Roy,Rinku Singh,49,32,4,1,,0,0,0,0,Bhuvneshwar,3.0,0,27,1,Natarajan,3.0,0,27,1
+KKR,18,18.2,1,0,0,0,0,Rinku Singh,Rinku Singh,49,32,4,1,,0,0,0,0,Bhuvneshwar,3.0,0,23,1,Natarajan,3.0,0,27,1
+KKR,18,18.1,2,0,0,0,0,Rinku Singh,Rinku Singh,48,31,4,1,,0,0,0,0,Bhuvneshwar,3.0,0,22,1,Natarajan,3.0,0,27,1
+KKR,17,17.6,2,0,0,0,0,Roy,Rinku Singh,46,30,4,1,,0,0,0,0,Natarajan,3.0,0,27,1,Markande,4.0,0,29,1
+KKR,17,17.5,1,0,0,0,0,Rinku Singh,Rinku Singh,46,30,4,1,,0,0,0,0,Natarajan,2.0,0,25,1,Markande,4.0,0,29,1
+KKR,17,17.4,1,0,0,0,0,Roy,Rinku Singh,45,29,4,1,,0,0,0,0,Natarajan,2.0,0,24,1,Markande,4.0,0,29,1
+KKR,17,17.3,0,0,0,1,0,Thakur,Rinku Singh,45,29,4,1,,0,0,0,0,Natarajan,2.0,0,23,1,Markande,4.0,0,29,1
+KKR,17,17.2,1,0,0,0,0,Rinku Singh,Rinku Singh,45,29,4,1,Thakur,9,5,1,0,Natarajan,2.0,0,23,0,Markande,4.0,0,29,1
+KKR,17,17.1,2,0,0,0,0,Rinku Singh,Rinku Singh,44,28,4,1,Thakur,9,5,1,0,Natarajan,2.0,0,22,0,Markande,4.0,0,29,1
+KKR,16,16.6,1,0,0,0,0,Rinku Singh,Rinku Singh,42,27,4,1,Thakur,9,5,1,0,Markande,4.0,0,29,1,Bhuvneshwar,2.0,0,20,1
+KKR,16,16.5,6,1,0,0,0,Rinku Singh,Rinku Singh,41,26,4,1,Thakur,9,5,1,0,Markande,3.0,0,28,1,Bhuvneshwar,2.0,0,20,1
+KKR,16,16.4,1,0,0,0,0,Thakur,Rinku Singh,35,25,4,0,Thakur,9,5,1,0,Markande,3.0,0,22,1,Bhuvneshwar,2.0,0,20,1
+KKR,16,16.3,1,0,0,0,0,Rinku Singh,Rinku Singh,35,25,4,0,Thakur,8,4,1,0,Markande,3.0,0,21,1,Bhuvneshwar,2.0,0,20,1
+KKR,16,16.2,1,0,0,0,0,Thakur,Rinku Singh,34,24,4,0,Thakur,8,4,1,0,Markande,3.0,0,20,1,Bhuvneshwar,2.0,0,20,1
+KKR,16,16.1,1,0,0,0,0,Rinku Singh,Rinku Singh,34,24,4,0,Thakur,7,3,1,0,Markande,3.0,0,19,1,Bhuvneshwar,2.0,0,20,1
+KKR,15,15.6,0,0,1,0,0,Thakur,Rinku Singh,33,23,4,0,Thakur,7,3,1,0,Bhuvneshwar,2.0,0,20,1,Markande,3.0,0,18,1
+KKR,15,15.5,2,0,0,0,0,Thakur,Rinku Singh,33,23,4,0,Thakur,7,2,1,0,Bhuvneshwar,2.0,0,20,1,Markande,3.0,0,18,1
+KKR,15,15.5,1,0,0,0,1,Thakur,Rinku Singh,33,23,4,0,Thakur,5,1,1,0,Bhuvneshwar,2.0,0,18,1,Markande,3.0,0,18,1
+KKR,15,15.4,4,1,0,0,0,Thakur,Rinku Singh,33,23,4,0,Thakur,4,1,1,0,Bhuvneshwar,2.0,0,17,1,Markande,3.0,0,18,1
+KKR,15,15.3,0,0,0,1,0,Narine,Rinku Singh,33,23,4,0,,0,0,0,0,Bhuvneshwar,2.0,0,13,1,Markande,3.0,0,18,1
+KKR,15,15.2,1,0,0,0,0,Rinku Singh,Rinku Singh,33,23,4,0,Narine,1,1,0,0,Bhuvneshwar,2.0,0,13,0,Markande,3.0,0,18,1
+KKR,15,15.1,0,0,1,0,0,Rinku Singh,Rinku Singh,32,22,4,0,Narine,1,1,0,0,Bhuvneshwar,2.0,0,12,0,Markande,3.0,0,18,1
+KKR,14,14.6,1,0,0,0,0,Rinku Singh,Rinku Singh,32,21,4,0,Narine,1,1,0,0,Markande,3.0,0,18,1,Natarajan,2.0,0,20,0
+KKR,14,14.5,0,0,1,0,0,Rinku Singh,Rinku Singh,31,20,4,0,Narine,1,1,0,0,Markande,2.0,0,17,1,Natarajan,2.0,0,20,0
+KKR,14,14.4,0,0,1,0,0,Rinku Singh,Rinku Singh,31,19,4,0,Narine,1,1,0,0,Markande,2.0,0,17,1,Natarajan,2.0,0,20,0
+KKR,14,14.3,1,0,0,0,0,Narine,Rinku Singh,31,18,4,0,Narine,1,1,0,0,Markande,2.0,0,17,1,Natarajan,2.0,0,20,0
+KKR,14,14.2,0,0,0,1,0,Russell,Rinku Singh,31,18,4,0,,0,0,0,0,Markande,2.0,0,16,1,Natarajan,2.0,0,20,0
+KKR,14,14.1,0,0,1,0,0,Russell,Rinku Singh,31,18,4,0,Russell,24,14,1,2,Markande,2.0,0,16,0,Natarajan,2.0,0,20,0
+KKR,13,13.6,1,0,0,0,0,Russell,Rinku Singh,31,18,4,0,Russell,24,13,1,2,Natarajan,2.0,0,20,0,Markande,2.0,0,16,0
+KKR,13,13.5,4,1,0,0,0,Russell,Rinku Singh,31,18,4,0,Russell,23,12,1,2,Natarajan,1.0,0,19,0,Markande,2.0,0,16,0
+KKR,13,13.4,2,0,0,0,0,Russell,Rinku Singh,31,18,4,0,Russell,19,11,0,2,Natarajan,1.0,0,15,0,Markande,2.0,0,16,0
+KKR,13,13.3,1,0,0,0,0,Rinku Singh,Rinku Singh,31,18,4,0,Russell,17,10,0,2,Natarajan,1.0,0,13,0,Markande,2.0,0,16,0
+KKR,13,13.3,1,0,0,0,1,Rinku Singh,Rinku Singh,30,17,4,0,Russell,17,10,0,2,Natarajan,1.0,0,12,0,Markande,2.0,0,16,0
+KKR,13,13.3,1,0,0,0,1,Rinku Singh,Rinku Singh,29,17,4,0,Russell,17,10,0,2,Natarajan,1.0,0,11,0,Markande,2.0,0,16,0
+KKR,13,13.2,1,0,0,0,0,Russell,Rinku Singh,28,17,4,0,Russell,17,10,0,2,Natarajan,1.0,0,10,0,Markande,2.0,0,16,0
+KKR,13,13.1,2,0,0,0,0,Russell,Rinku Singh,28,17,4,0,Russell,16,9,0,2,Natarajan,1.0,0,9,0,Markande,2.0,0,16,0
+KKR,12,12.6,4,1,0,0,0,Rinku Singh,Rinku Singh,28,17,4,0,Russell,14,8,0,2,Markande,2.0,0,16,0,Markram,3.0,0,24,1
+KKR,12,12.5,0,0,1,0,0,Rinku Singh,Rinku Singh,24,16,3,0,Russell,14,8,0,2,Markande,1.0,0,12,0,Markram,3.0,0,24,1
+KKR,12,12.4,1,0,0,0,0,Russell,Rinku Singh,24,15,3,0,Russell,14,8,0,2,Markande,1.0,0,12,0,Markram,3.0,0,24,1
+KKR,12,12.3,0,0,1,0,0,Russell,Rinku Singh,24,15,3,0,Russell,13,7,0,2,Markande,1.0,0,11,0,Markram,3.0,0,24,1
+KKR,12,12.2,6,1,0,0,0,Russell,Rinku Singh,24,15,3,0,Russell,13,6,0,2,Markande,1.0,0,11,0,Markram,3.0,0,24,1
+KKR,12,12.1,0,0,1,0,0,Russell,Rinku Singh,24,15,3,0,Russell,7,5,0,1,Markande,1.0,0,5,0,Markram,3.0,0,24,1
+KKR,11,11.6,1,0,0,0,0,Russell,Rinku Singh,24,15,3,0,Russell,7,4,0,1,Markram,3.0,0,24,1,Markande,1.0,0,5,0
+KKR,11,11.5,6,1,0,0,0,Russell,Rinku Singh,24,15,3,0,Russell,6,3,0,1,Markram,2.0,0,23,1,Markande,1.0,0,5,0
+KKR,11,11.4,0,0,1,0,0,Russell,Rinku Singh,24,15,3,0,Russell,0,2,0,0,Markram,2.0,0,17,1,Markande,1.0,0,5,0
+KKR,11,11.3,0,0,1,0,0,Russell,Rinku Singh,24,15,3,0,Russell,0,1,0,0,Markram,2.0,0,17,1,Markande,1.0,0,5,0
+KKR,11,11.2,0,0,0,1,0,Rana,Rinku Singh,24,15,3,0,,0,0,0,0,Markram,2.0,0,17,1,Markande,1.0,0,5,0
+KKR,11,11.1,1,0,0,0,0,Rinku Singh,Rana,43,30,2,3,Rinku Singh,24,15,3,0,Markram,2.0,0,17,0,Markande,1.0,0,5,0
+KKR,10,10.6,1,0,0,0,0,Rinku Singh,Rana,43,30,2,3,Rinku Singh,23,14,3,0,Markande,1.0,0,5,0,Kartik Tyagi,2.0,0,30,1
+KKR,10,10.5,1,0,0,0,0,Rana,Rana,43,30,2,3,Rinku Singh,22,13,3,0,Markande,0,0,4,0,Kartik Tyagi,2.0,0,30,1
+KKR,10,10.4,0,0,1,0,0,Rana,Rana,42,29,2,3,Rinku Singh,22,13,3,0,Markande,0,0,3,0,Kartik Tyagi,2.0,0,30,1
+KKR,10,10.3,1,0,0,0,0,Rinku Singh,Rana,42,28,2,3,Rinku Singh,22,13,3,0,Markande,0,0,3,0,Kartik Tyagi,2.0,0,30,1
+KKR,10,10.2,1,0,0,0,0,Rana,Rana,42,28,2,3,Rinku Singh,21,12,3,0,Markande,0,0,2,0,Kartik Tyagi,2.0,0,30,1
+KKR,10,10.1,1,0,0,0,0,Rinku Singh,Rana,41,27,2,3,Rinku Singh,21,12,3,0,Markande,0,0,1,0,Kartik Tyagi,2.0,0,30,1
+KKR,9,9.6,0,0,1,0,0,Rana,Rana,41,27,2,3,Rinku Singh,20,11,3,0,Kartik Tyagi,2.0,0,30,1,Markram,2.0,0,16,0
+KKR,9,9.5,0,0,1,0,0,Rana,Rana,41,26,2,3,Rinku Singh,20,11,3,0,Kartik Tyagi,2.0,0,30,1,Markram,2.0,0,16,0
+KKR,9,9.4,6,1,0,0,0,Rana,Rana,41,25,2,3,Rinku Singh,20,11,3,0,Kartik Tyagi,1.0,0,30,1,Markram,2.0,0,16,0
+KKR,9,9.3,6,1,0,0,0,Rana,Rana,35,24,2,2,Rinku Singh,20,11,3,0,Kartik Tyagi,1.0,0,24,1,Markram,2.0,0,16,0
+KKR,9,9.2,4,1,0,0,0,Rana,Rana,29,23,2,1,Rinku Singh,20,11,3,0,Kartik Tyagi,1.0,0,18,1,Markram,2.0,0,16,0
+KKR,9,9.1,1,0,0,0,0,Rinku Singh,Rana,25,22,1,1,Rinku Singh,20,11,3,0,Kartik Tyagi,1.0,0,14,1,Markram,2.0,0,16,0
+KKR,8,8.6,1,0,0,0,0,Rinku Singh,Rana,25,22,1,1,Rinku Singh,19,10,3,0,Markram,2.0,0,16,0,Natarajan,1.0,0,7,0
+KKR,8,8.5,4,1,0,0,0,Rinku Singh,Rana,25,22,1,1,Rinku Singh,18,9,3,0,Markram,1.0,0,15,0,Natarajan,1.0,0,7,0
+KKR,8,8.4,4,1,0,0,0,Rinku Singh,Rana,25,22,1,1,Rinku Singh,14,8,2,0,Markram,1.0,0,11,0,Natarajan,1.0,0,7,0
+KKR,8,8.3,1,0,0,0,0,Rana,Rana,25,22,1,1,Rinku Singh,10,7,1,0,Markram,1.0,0,7,0,Natarajan,1.0,0,7,0
+KKR,8,8.2,1,0,0,0,1,Rinku Singh,Rana,24,21,1,1,Rinku Singh,10,7,1,0,Markram,1.0,0,6,0,Natarajan,1.0,0,7,0
+KKR,8,8.1,1,0,0,0,0,Rana,Rana,24,21,1,1,Rinku Singh,9,6,1,0,Markram,1.0,0,6,0,Natarajan,1.0,0,7,0
+KKR,7,7.6,1,0,0,0,0,Rana,Rana,23,20,1,1,Rinku Singh,9,6,1,0,Natarajan,1.0,0,7,0,Markram,1.0,0,5,0
+KKR,7,7.5,0,0,1,0,0,Rana,Rana,22,19,1,1,Rinku Singh,9,6,1,0,Natarajan,0,0,6,0,Markram,1.0,0,5,0
+KKR,7,7.4,0,0,1,0,0,Rana,Rana,22,18,1,1,Rinku Singh,9,6,1,0,Natarajan,0,0,6,0,Markram,1.0,0,5,0
+KKR,7,7.3,0,0,1,0,0,Rana,Rana,22,17,1,1,Rinku Singh,9,6,1,0,Natarajan,0,0,6,0,Markram,1.0,0,5,0
+KKR,7,7.2,6,1,0,0,0,Rana,Rana,22,16,1,1,Rinku Singh,9,6,1,0,Natarajan,0,0,6,0,Markram,1.0,0,5,0
+KKR,7,7.1,0,0,1,0,0,Rana,Rana,16,15,1,0,Rinku Singh,9,6,1,0,Natarajan,0,0,0,0,Markram,1.0,0,5,0
+KKR,6,6.6,1,0,0,0,0,Rana,Rana,16,14,1,0,Rinku Singh,9,6,1,0,Markram,1.0,0,5,0,Jansen,3.0,0,24,2
+KKR,6,6.5,0,0,1,0,0,Rana,Rana,15,13,1,0,Rinku Singh,9,6,1,0,Markram,0,0,4,0,Jansen,3.0,0,24,2
+KKR,6,6.4,1,0,0,0,0,Rinku Singh,Rana,15,12,1,0,Rinku Singh,9,6,1,0,Markram,0,0,4,0,Jansen,3.0,0,24,2
+KKR,6,6.3,1,0,0,0,0,Rana,Rana,15,12,1,0,Rinku Singh,8,5,1,0,Markram,0,0,3,0,Jansen,3.0,0,24,2
+KKR,6,6.2,1,0,0,0,0,Rinku Singh,Rana,14,11,1,0,Rinku Singh,8,5,1,0,Markram,0,0,2,0,Jansen,3.0,0,24,2
+KKR,6,6.1,1,0,0,0,0,Rana,Rana,14,11,1,0,Rinku Singh,7,4,1,0,Markram,0,0,1,0,Jansen,3.0,0,24,2
+KKR,5,5.6,1,0,0,0,0,Rana,Rana,13,10,1,0,Rinku Singh,7,4,1,0,Jansen,3.0,0,24,2,Kartik Tyagi,1.0,0,13,1
+KKR,5,5.5,1,0,0,0,0,Rinku Singh,Rana,12,9,1,0,Rinku Singh,7,4,1,0,Jansen,3.0,0,23,2,Kartik Tyagi,1.0,0,13,1
+KKR,5,5.4,1,0,0,0,0,Rana,Rana,12,9,1,0,Rinku Singh,6,3,1,0,Jansen,2.0,0,22,2,Kartik Tyagi,1.0,0,13,1
+KKR,5,5.3,1,0,0,0,0,Rinku Singh,Rana,11,8,1,0,Rinku Singh,6,3,1,0,Jansen,2.0,0,21,2,Kartik Tyagi,1.0,0,13,1
+KKR,5,5.2,1,0,0,0,0,Rana,Rana,11,8,1,0,Rinku Singh,5,2,1,0,Jansen,2.0,0,20,2,Kartik Tyagi,1.0,0,13,1
+KKR,5,5.1,4,1,0,0,0,Rana,Rana,10,7,1,0,Rinku Singh,5,2,1,0,Jansen,2.0,0,19,2,Kartik Tyagi,1.0,0,13,1
+KKR,4,4.6,4,1,0,0,0,Rinku Singh,Rana,6,6,0,0,Rinku Singh,5,2,1,0,Kartik Tyagi,1.0,0,13,1,Jansen,2.0,0,15,2
+KKR,4,4.6,1,0,0,0,1,Rinku Singh,Rana,6,6,0,0,Rinku Singh,1,1,0,0,Kartik Tyagi,1.0,0,9,1,Jansen,2.0,0,15,2
+KKR,4,4.5,0,0,1,0,0,Rinku Singh,Rana,6,6,0,0,Rinku Singh,0,1,0,0,Kartik Tyagi,1.0,0,8,1,Jansen,2.0,0,15,2
+KKR,4,4.4,0,0,0,1,0,Roy,Rana,6,6,0,0,,0,0,0,0,Kartik Tyagi,0,0,8,1,Jansen,2.0,0,15,2
+KKR,4,4.3,4,1,0,0,0,Roy,Roy,22,17,4,0,Rana,6,6,0,0,Kartik Tyagi,0,0,8,0,Jansen,2.0,0,15,2
+KKR,4,4.2,0,0,1,0,0,Roy,Roy,18,16,3,0,Rana,6,6,0,0,Kartik Tyagi,0,0,4,0,Jansen,2.0,0,15,2
+KKR,4,4.1,2,0,0,0,0,Roy,Roy,18,15,3,0,Rana,6,6,0,0,Kartik Tyagi,0,0,4,0,Jansen,2.0,0,15,2
+KKR,4,4.1,1,0,0,0,1,Roy,Roy,16,14,3,0,Rana,6,6,0,0,Kartik Tyagi,0,0,2,0,Jansen,2.0,0,15,2
+KKR,4,4.1,1,0,0,0,1,Roy,Roy,15,13,3,0,Rana,6,6,0,0,Kartik Tyagi,0,0,1,0,Jansen,2.0,0,15,2
+KKR,3,3.6,0,0,1,0,0,Rana,Roy,14,13,3,0,Rana,6,6,0,0,Jansen,2.0,0,15,2,Bhuvneshwar,1.0,0,12,0
+KKR,3,3.5,0,0,1,0,0,Rana,Roy,14,13,3,0,Rana,6,5,0,0,Jansen,2.0,0,15,2,Bhuvneshwar,1.0,0,12,0
+KKR,3,3.4,0,0,1,0,0,Rana,Roy,14,13,3,0,Rana,6,4,0,0,Jansen,1.0,0,15,2,Bhuvneshwar,1.0,0,12,0
+KKR,3,3.3,1,0,0,0,0,Roy,Roy,14,13,3,0,Rana,6,3,0,0,Jansen,1.0,0,15,2,Bhuvneshwar,1.0,0,12,0
+KKR,3,3.2,1,0,0,0,0,Rana,Roy,13,12,3,0,Rana,6,3,0,0,Jansen,1.0,0,14,2,Bhuvneshwar,1.0,0,12,0
+KKR,3,3.1,0,0,1,0,0,Rana,Roy,13,12,3,0,Rana,5,2,0,0,Jansen,1.0,0,13,2,Bhuvneshwar,1.0,0,12,0
+KKR,3,3.1,5,0,0,0,1,Rana,Roy,13,12,3,0,Rana,5,1,0,0,Jansen,1.0,0,13,2,Bhuvneshwar,1.0,0,12,0
+KKR,2,2.6,0,0,1,0,0,Roy,Roy,13,12,3,0,,0,0,0,0,Bhuvneshwar,1.0,0,12,0,Jansen,1.0,0,8,2
+KKR,2,2.5,0,0,1,0,0,Roy,Roy,13,11,3,0,,0,0,0,0,Bhuvneshwar,1.0,0,12,0,Jansen,1.0,0,8,2
+KKR,2,2.4,0,0,1,0,0,Roy,Roy,13,10,3,0,,0,0,0,0,Bhuvneshwar,1.0,0,12,0,Jansen,1.0,0,8,2
+KKR,2,2.3,4,1,0,0,0,Roy,Roy,13,9,3,0,,0,0,0,0,Bhuvneshwar,1.0,0,12,0,Jansen,1.0,0,8,2
+KKR,2,2.2,0,0,1,0,0,Roy,Roy,9,8,2,0,,0,0,0,0,Bhuvneshwar,1.0,0,8,0,Jansen,1.0,0,8,2
+KKR,2,2.1,0,0,1,0,0,Roy,Roy,9,7,2,0,,0,0,0,0,Bhuvneshwar,1.0,0,8,0,Jansen,1.0,0,8,2
+KKR,1,1.6,0,0,0,1,0,Venkatesh Iyer,Roy,9,6,2,0,,0,0,0,0,Jansen,1.0,0,8,2,Bhuvneshwar,0,0,8,0
+KKR,1,1.5,1,0,0,0,0,Roy,Roy,9,6,2,0,Venkatesh Iyer,7,3,1,0,Jansen,0,0,8,1,Bhuvneshwar,0,0,8,0
+KKR,1,1.4,3,0,0,0,0,Venkatesh Iyer,Roy,8,5,2,0,Venkatesh Iyer,7,3,1,0,Jansen,0,0,7,1,Bhuvneshwar,0,0,8,0
+KKR,1,1.3,4,1,0,0,0,Venkatesh Iyer,Roy,8,5,2,0,Venkatesh Iyer,4,2,1,0,Jansen,0,0,4,1,Bhuvneshwar,0,0,8,0
+KKR,1,1.2,0,0,1,0,0,Venkatesh Iyer,Roy,8,5,2,0,Venkatesh Iyer,0,1,0,0,Jansen,0,0,0,1,Bhuvneshwar,0,0,8,0
+KKR,1,1.1,0,0,0,1,0,Gurbaz,Roy,8,5,2,0,,0,0,0,0,Jansen,0,0,0,1,Bhuvneshwar,0,0,8,0
+KKR,0,0.6,0,0,1,0,0,Roy,Roy,8,5,2,0,,0,0,0,0,Bhuvneshwar,0,0,8,0,,0,0,0,0
+KKR,0,0.5,0,0,1,0,0,Roy,Roy,8,4,2,0,,0,0,0,0,Bhuvneshwar,0,0,8,0,,0,0,0,0
+KKR,0,0.4,4,1,0,0,0,Roy,Roy,8,3,2,0,,0,0,0,0,Bhuvneshwar,0,0,8,0,,0,0,0,0
+KKR,0,0.3,4,1,0,0,0,Roy,Roy,4,2,1,0,,0,0,0,0,Bhuvneshwar,0,0,4,0,,0,0,0,0
+KKR,0,0.1,0,0,1,0,0,Roy,Roy,0,1,0,0,,0,0,0,0,Bhuvneshwar,0,0,0,0,,0,0,0,0

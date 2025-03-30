@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+MI,19,19.1,5,0,2,0,0,David,David,36,17,1,3,Green,3,3,0,0,Mohsin Khan,2.0,0,21,1,Haq,4.0,0,36,0
+MI,18,18.1,19,2,3,0,1,David,David,17,11,1,1,Green,3,2,0,0,Haq,3.0,0,22,0,Thakur,4.0,0,40,2
+MI,17,17.1,9,0,1,1,4,Green,David,14,8,1,1,Vishnu,2,2,0,0,Thakur,3.0,0,32,1,Mohsin Khan,2.0,0,21,1
+MI,16,16.1,8,1,3,1,1,David,David,7,4,1,0,,0,0,0,0,Mohsin Khan,1.0,0,13,1,Haq,3.0,0,22,0
+MI,15,15.1,6,0,1,0,0,Wadhera,Wadhera,13,15,2,0,David,6,3,1,0,Haq,2.0,0,17,0,Thakur,3.0,0,32,1
+MI,14,14.1,10,2,2,1,1,Wadhera,Wadhera,8,12,1,0,,0,0,0,0,Thakur,2.0,0,22,1,Ravi Bishnoi,4.0,0,26,2
+MI,13,13.1,8,1,2,0,0,Suryakumar,Suryakumar,4,6,0,0,Wadhera,3,9,0,0,Ravi Bishnoi,3.0,0,18,2,Krunal,4.0,0,27,0
+MI,12,12.1,1,0,5,0,0,Suryakumar,Suryakumar,4,4,0,0,Wadhera,2,5,0,0,Krunal,3.0,0,26,0,Ravi Bishnoi,3.0,0,18,2
+MI,11,11.1,3,0,2,1,0,Wadhera,Suryakumar,3,3,0,0,,0,0,0,0,Ravi Bishnoi,2.0,0,15,2,Krunal,3.0,0,26,0
+MI,10,10.1,11,2,1,0,0,Ishan,Ishan,55,34,7,1,Suryakumar,2,2,0,0,Krunal,2.0,0,19,0,Ravi Bishnoi,2.0,0,15,1
+MI,9,9.1,10,1,1,1,1,Suryakumar,Ishan,50,32,6,1,Rohit Sharma,34,23,0,3,Ravi Bishnoi,1.0,0,7,0,Krunal,2.0,0,15,0
+MI,8,8.1,8,1,2,0,0,Rohit Sharma,Ishan,43,29,5,1,Rohit Sharma,33,20,0,3,Krunal,1.0,0,9,0,Ravi Bishnoi,1.0,0,5,0
+MI,7,7.1,5,0,2,0,0,Ishan,Ishan,40,26,5,1,Rohit Sharma,29,17,0,3,Ravi Bishnoi,0,0,0,0,Swapnil,1.0,0,11,0
+MI,6,6.1,11,2,1,0,0,Ishan,Ishan,31,22,3,1,Rohit Sharma,28,15,0,3,Swapnil,0,0,1,0,Thakur,2.0,0,22,0
+MI,5,5.1,11,1,1,0,1,Rohit Sharma,Ishan,30,20,3,1,Rohit Sharma,18,11,0,2,Thakur,1.0,0,12,0,Haq,2.0,0,16,0
+MI,4,4.1,9,1,2,0,0,Ishan,Ishan,27,17,3,1,Rohit Sharma,11,8,0,1,Haq,1.0,0,7,0,Thakur,1.0,0,11,0
+MI,3,3.1,11,1,2,0,1,Ishan,Ishan,23,14,3,1,Rohit Sharma,10,5,0,1,Thakur,0,0,6,0,Haq,1.0,0,7,0
+MI,2,2.1,7,1,2,0,0,Ishan,Ishan,18,10,2,1,Rohit Sharma,3,3,0,0,Haq,0,0,1,0,Mohsin Khan,1.0,0,13,0
+MI,1,1.1,13,2,2,0,1,Ishan,Ishan,6,6,1,0,Rohit Sharma,1,1,0,0,Mohsin Khan,0,0,0,0,Krunal,1.0,0,7,0
+MI,0,0.1,7,1,2,0,0,Ishan,Ishan,0,1,0,0,,0,0,0,0,Krunal,0,0,0,0,,0,0,0,0

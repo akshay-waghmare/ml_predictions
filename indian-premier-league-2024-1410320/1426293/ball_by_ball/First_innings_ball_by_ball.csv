@@ -1,0 +1,109 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+MI,17,17.2,6,1,0,0,0,Suryakumar,Suryakumar,104,51,12,6,Tilak Varma,39,32,6,0,Natarajan,3.0,0,31,0,Cummins,4.0,1,35,1
+MI,17,17.1,1,0,0,0,0,Tilak Varma,Suryakumar,98,50,12,5,Tilak Varma,39,32,6,0,Natarajan,3.0,0,25,0,Cummins,4.0,1,35,1
+MI,16,16.6,6,1,0,0,0,Suryakumar,Suryakumar,98,50,12,5,Tilak Varma,38,31,6,0,Cummins,4.0,1,35,1,Natarajan,3.0,0,24,0
+MI,16,16.5,4,1,0,0,0,Suryakumar,Suryakumar,92,49,12,4,Tilak Varma,38,31,6,0,Cummins,3.0,1,29,1,Natarajan,3.0,0,24,0
+MI,16,16.4,4,1,0,0,0,Suryakumar,Suryakumar,88,48,11,4,Tilak Varma,38,31,6,0,Cummins,3.0,1,25,1,Natarajan,3.0,0,24,0
+MI,16,16.3,1,0,0,0,0,Tilak Varma,Suryakumar,84,47,10,4,Tilak Varma,38,31,6,0,Cummins,3.0,1,21,1,Natarajan,3.0,0,24,0
+MI,16,16.2,1,0,0,0,0,Suryakumar,Suryakumar,84,47,10,4,Tilak Varma,37,30,6,0,Cummins,3.0,1,20,1,Natarajan,3.0,0,24,0
+MI,16,16.2,1,0,0,0,1,Suryakumar,Suryakumar,83,46,10,4,Tilak Varma,37,30,6,0,Cummins,3.0,1,19,1,Natarajan,3.0,0,24,0
+MI,16,16.1,1,0,0,0,0,Tilak Varma,Suryakumar,82,46,10,4,Tilak Varma,37,30,6,0,Cummins,3.0,1,18,1,Natarajan,3.0,0,24,0
+MI,15,15.6,1,0,0,0,0,Tilak Varma,Suryakumar,82,46,10,4,Tilak Varma,36,29,6,0,Natarajan,3.0,0,24,0,Shahbaz Ahmed,1.0,0,11,0
+MI,15,15.5,4,1,0,0,0,Tilak Varma,Suryakumar,82,46,10,4,Tilak Varma,35,28,6,0,Natarajan,2.0,0,23,0,Shahbaz Ahmed,1.0,0,11,0
+MI,15,15.4,0,0,1,0,0,Tilak Varma,Suryakumar,82,46,10,4,Tilak Varma,31,27,5,0,Natarajan,2.0,0,19,0,Shahbaz Ahmed,1.0,0,11,0
+MI,15,15.3,1,0,0,0,0,Suryakumar,Suryakumar,82,46,10,4,Tilak Varma,31,26,5,0,Natarajan,2.0,0,19,0,Shahbaz Ahmed,1.0,0,11,0
+MI,15,15.2,4,1,0,0,0,Suryakumar,Suryakumar,81,45,10,4,Tilak Varma,31,26,5,0,Natarajan,2.0,0,18,0,Shahbaz Ahmed,1.0,0,11,0
+MI,15,15.1,0,0,1,0,0,Suryakumar,Suryakumar,77,44,9,4,Tilak Varma,31,26,5,0,Natarajan,2.0,0,14,0,Shahbaz Ahmed,1.0,0,11,0
+MI,14,14.6,1,0,0,0,0,Suryakumar,Suryakumar,77,43,9,4,Tilak Varma,31,26,5,0,Shahbaz Ahmed,1.0,0,11,0,Bhuvneshwar,4.0,0,22,1
+MI,14,14.5,0,0,1,0,0,Suryakumar,Suryakumar,76,42,9,4,Tilak Varma,31,26,5,0,Shahbaz Ahmed,0,0,10,0,Bhuvneshwar,4.0,0,22,1
+MI,14,14.4,4,1,0,0,0,Suryakumar,Suryakumar,76,41,9,4,Tilak Varma,31,26,5,0,Shahbaz Ahmed,0,0,10,0,Bhuvneshwar,4.0,0,22,1
+MI,14,14.3,4,1,0,0,0,Suryakumar,Suryakumar,72,40,8,4,Tilak Varma,31,26,5,0,Shahbaz Ahmed,0,0,6,0,Bhuvneshwar,4.0,0,22,1
+MI,14,14.2,1,0,0,0,0,Tilak Varma,Suryakumar,68,39,7,4,Tilak Varma,31,26,5,0,Shahbaz Ahmed,0,0,2,0,Bhuvneshwar,4.0,0,22,1
+MI,14,14.1,1,0,0,0,0,Suryakumar,Suryakumar,68,39,7,4,Tilak Varma,30,25,5,0,Shahbaz Ahmed,0,0,1,0,Bhuvneshwar,4.0,0,22,1
+MI,13,13.6,1,0,0,0,0,Suryakumar,Suryakumar,67,38,7,4,Tilak Varma,30,25,5,0,Bhuvneshwar,4.0,0,22,1,Jansen,3.0,0,45,1
+MI,13,13.5,6,1,0,0,0,Suryakumar,Suryakumar,66,37,7,4,Tilak Varma,30,25,5,0,Bhuvneshwar,3.0,0,21,1,Jansen,3.0,0,45,1
+MI,13,13.4,0,0,1,0,0,Suryakumar,Suryakumar,60,36,7,3,Tilak Varma,30,25,5,0,Bhuvneshwar,3.0,0,15,1,Jansen,3.0,0,45,1
+MI,13,13.3,0,0,1,0,0,Suryakumar,Suryakumar,60,35,7,3,Tilak Varma,30,25,5,0,Bhuvneshwar,3.0,0,15,1,Jansen,3.0,0,45,1
+MI,13,13.2,0,0,1,0,0,Suryakumar,Suryakumar,60,34,7,3,Tilak Varma,30,25,5,0,Bhuvneshwar,3.0,0,15,1,Jansen,3.0,0,45,1
+MI,13,13.1,1,0,0,0,0,Tilak Varma,Suryakumar,60,33,7,3,Tilak Varma,30,25,5,0,Bhuvneshwar,3.0,0,15,1,Jansen,3.0,0,45,1
+MI,13,13.1,1,0,0,0,1,Tilak Varma,Suryakumar,60,33,7,3,Tilak Varma,29,24,5,0,Bhuvneshwar,3.0,0,14,1,Jansen,3.0,0,45,1
+MI,12,12.6,1,0,0,0,0,Tilak Varma,Suryakumar,60,33,7,3,Tilak Varma,28,24,5,0,Jansen,3.0,0,45,1,Nitish Kumar,2.0,0,16,0
+MI,12,12.5,1,0,0,0,0,Suryakumar,Suryakumar,60,33,7,3,Tilak Varma,27,23,5,0,Jansen,2.0,0,44,1,Nitish Kumar,2.0,0,16,0
+MI,12,12.4,4,1,0,0,0,Suryakumar,Suryakumar,59,32,7,3,Tilak Varma,27,23,5,0,Jansen,2.0,0,43,1,Nitish Kumar,2.0,0,16,0
+MI,12,12.3,4,1,0,0,0,Suryakumar,Suryakumar,55,31,6,3,Tilak Varma,27,23,5,0,Jansen,2.0,0,39,1,Nitish Kumar,2.0,0,16,0
+MI,12,12.3,1,0,0,0,1,Suryakumar,Suryakumar,51,30,5,3,Tilak Varma,27,23,5,0,Jansen,2.0,0,35,1,Nitish Kumar,2.0,0,16,0
+MI,12,12.2,2,0,0,0,0,Suryakumar,Suryakumar,50,30,5,3,Tilak Varma,27,23,5,0,Jansen,2.0,0,34,1,Nitish Kumar,2.0,0,16,0
+MI,12,12.1,1,0,0,0,0,Tilak Varma,Suryakumar,48,29,5,3,Tilak Varma,27,23,5,0,Jansen,2.0,0,32,1,Nitish Kumar,2.0,0,16,0
+MI,11,11.6,1,0,0,0,0,Tilak Varma,Suryakumar,48,29,5,3,Tilak Varma,26,22,5,0,Nitish Kumar,2.0,0,16,0,Natarajan,2.0,0,14,0
+MI,11,11.5,1,0,0,0,0,Suryakumar,Suryakumar,48,29,5,3,Tilak Varma,25,21,5,0,Nitish Kumar,1.0,0,15,0,Natarajan,2.0,0,14,0
+MI,11,11.4,4,1,0,0,0,Suryakumar,Suryakumar,47,28,5,3,Tilak Varma,25,21,5,0,Nitish Kumar,1.0,0,14,0,Natarajan,2.0,0,14,0
+MI,11,11.3,1,0,0,0,0,Tilak Varma,Suryakumar,43,27,4,3,Tilak Varma,25,21,5,0,Nitish Kumar,1.0,0,10,0,Natarajan,2.0,0,14,0
+MI,11,11.2,4,1,0,0,0,Tilak Varma,Suryakumar,43,27,4,3,Tilak Varma,24,20,5,0,Nitish Kumar,1.0,0,9,0,Natarajan,2.0,0,14,0
+MI,11,11.1,1,0,0,0,0,Suryakumar,Suryakumar,43,27,4,3,Tilak Varma,20,19,4,0,Nitish Kumar,1.0,0,5,0,Natarajan,2.0,0,14,0
+MI,10,10.6,0,0,1,0,0,Tilak Varma,Suryakumar,42,26,4,3,Tilak Varma,20,19,4,0,Natarajan,2.0,0,14,0,Cummins,3.0,1,17,1
+MI,10,10.5,1,0,0,0,0,Suryakumar,Suryakumar,42,26,4,3,Tilak Varma,20,18,4,0,Natarajan,1.0,0,14,0,Cummins,3.0,1,17,1
+MI,10,10.4,0,0,1,0,0,Suryakumar,Suryakumar,41,25,4,3,Tilak Varma,20,18,4,0,Natarajan,1.0,0,13,0,Cummins,3.0,1,17,1
+MI,10,10.3,4,1,0,0,0,Suryakumar,Suryakumar,41,24,4,3,Tilak Varma,20,18,4,0,Natarajan,1.0,0,13,0,Cummins,3.0,1,17,1
+MI,10,10.2,2,0,0,0,0,Suryakumar,Suryakumar,37,23,3,3,Tilak Varma,20,18,4,0,Natarajan,1.0,0,9,0,Cummins,3.0,1,17,1
+MI,10,10.1,2,0,0,0,0,Suryakumar,Suryakumar,35,22,3,3,Tilak Varma,20,18,4,0,Natarajan,1.0,0,7,0,Cummins,3.0,1,17,1
+MI,9,9.6,0,0,1,0,0,Tilak Varma,Suryakumar,33,21,3,3,Tilak Varma,20,18,4,0,Cummins,3.0,1,17,1,Nitish Kumar,1.0,0,4,0
+MI,9,9.5,1,0,0,0,0,Suryakumar,Suryakumar,33,21,3,3,Tilak Varma,20,17,4,0,Cummins,2.0,1,17,1,Nitish Kumar,1.0,0,4,0
+MI,9,9.4,0,0,1,0,0,Suryakumar,Suryakumar,32,20,3,3,Tilak Varma,20,17,4,0,Cummins,2.0,1,16,1,Nitish Kumar,1.0,0,4,0
+MI,9,9.3,0,0,1,0,0,Suryakumar,Suryakumar,32,19,3,3,Tilak Varma,20,17,4,0,Cummins,2.0,1,16,1,Nitish Kumar,1.0,0,4,0
+MI,9,9.2,0,0,1,0,0,Suryakumar,Suryakumar,32,18,3,3,Tilak Varma,20,17,4,0,Cummins,2.0,1,16,1,Nitish Kumar,1.0,0,4,0
+MI,9,9.1,0,0,1,0,0,Suryakumar,Suryakumar,32,17,3,3,Tilak Varma,20,17,4,0,Cummins,2.0,1,16,1,Nitish Kumar,1.0,0,4,0
+MI,8,8.6,0,0,1,0,0,Tilak Varma,Suryakumar,32,16,3,3,Tilak Varma,20,17,4,0,Nitish Kumar,1.0,0,4,0,Natarajan,1.0,0,5,0
+MI,8,8.5,0,0,1,0,0,Tilak Varma,Suryakumar,32,16,3,3,Tilak Varma,20,16,4,0,Nitish Kumar,0,0,4,0,Natarajan,1.0,0,5,0
+MI,8,8.4,4,1,0,0,0,Tilak Varma,Suryakumar,32,16,3,3,Tilak Varma,20,15,4,0,Nitish Kumar,0,0,4,0,Natarajan,1.0,0,5,0
+MI,8,8.3,0,0,1,0,0,Tilak Varma,Suryakumar,32,16,3,3,Tilak Varma,16,14,3,0,Nitish Kumar,0,0,0,0,Natarajan,1.0,0,5,0
+MI,8,8.2,0,0,1,0,0,Tilak Varma,Suryakumar,32,16,3,3,Tilak Varma,16,13,3,0,Nitish Kumar,0,0,0,0,Natarajan,1.0,0,5,0
+MI,8,8.1,0,0,1,0,0,Tilak Varma,Suryakumar,32,16,3,3,Tilak Varma,16,12,3,0,Nitish Kumar,0,0,0,0,Natarajan,1.0,0,5,0
+MI,7,7.6,0,0,1,0,0,Suryakumar,Suryakumar,32,16,3,3,Tilak Varma,16,11,3,0,Natarajan,1.0,0,5,0,Jansen,2.0,0,31,1
+MI,7,7.5,0,0,1,0,0,Suryakumar,Suryakumar,32,15,3,3,Tilak Varma,16,11,3,0,Natarajan,0,0,5,0,Jansen,2.0,0,31,1
+MI,7,7.4,1,0,0,0,0,Tilak Varma,Suryakumar,32,14,3,3,Tilak Varma,16,11,3,0,Natarajan,0,0,5,0,Jansen,2.0,0,31,1
+MI,7,7.3,0,0,1,0,0,Tilak Varma,Suryakumar,32,14,3,3,Tilak Varma,15,10,3,0,Natarajan,0,0,4,0,Jansen,2.0,0,31,1
+MI,7,7.2,0,0,1,0,0,Tilak Varma,Suryakumar,32,14,3,3,Tilak Varma,15,9,3,0,Natarajan,0,0,4,0,Jansen,2.0,0,31,1
+MI,7,7.1,4,1,0,0,0,Tilak Varma,Suryakumar,32,14,3,3,Tilak Varma,15,8,3,0,Natarajan,0,0,4,0,Jansen,2.0,0,31,1
+MI,6,6.6,6,1,0,0,0,Suryakumar,Suryakumar,32,14,3,3,Tilak Varma,11,7,2,0,Jansen,2.0,0,31,1,Cummins,2.0,1,16,1
+MI,6,6.5,1,0,0,0,0,Tilak Varma,Suryakumar,26,13,3,2,Tilak Varma,11,7,2,0,Jansen,1.0,0,25,1,Cummins,2.0,1,16,1
+MI,6,6.4,1,0,0,0,0,Suryakumar,Suryakumar,26,13,3,2,Tilak Varma,10,6,2,0,Jansen,1.0,0,24,1,Cummins,2.0,1,16,1
+MI,6,6.3,6,1,0,0,0,Suryakumar,Suryakumar,25,12,3,2,Tilak Varma,10,6,2,0,Jansen,1.0,0,23,1,Cummins,2.0,1,16,1
+MI,6,6.2,4,1,0,0,0,Suryakumar,Suryakumar,19,11,3,1,Tilak Varma,10,6,2,0,Jansen,1.0,0,17,1,Cummins,2.0,1,16,1
+MI,6,6.1,4,1,0,0,0,Suryakumar,Suryakumar,15,10,2,1,Tilak Varma,10,6,2,0,Jansen,1.0,0,13,1,Cummins,2.0,1,16,1
+MI,5,5.6,0,0,1,0,0,Tilak Varma,Suryakumar,11,9,1,1,Tilak Varma,10,6,2,0,Cummins,2.0,1,16,1,Bhuvneshwar,3.0,0,13,1
+MI,5,5.5,4,1,0,0,0,Tilak Varma,Suryakumar,11,9,1,1,Tilak Varma,10,5,2,0,Cummins,1.0,1,16,1,Bhuvneshwar,3.0,0,13,1
+MI,5,5.4,1,0,0,0,0,Suryakumar,Suryakumar,11,9,1,1,Tilak Varma,6,4,1,0,Cummins,1.0,1,12,1,Bhuvneshwar,3.0,0,13,1
+MI,5,5.3,6,1,0,0,0,Suryakumar,Suryakumar,10,8,1,1,Tilak Varma,6,4,1,0,Cummins,1.0,1,11,1,Bhuvneshwar,3.0,0,13,1
+MI,5,5.2,1,0,0,0,0,Tilak Varma,Suryakumar,4,7,1,0,Tilak Varma,6,4,1,0,Cummins,1.0,1,5,1,Bhuvneshwar,3.0,0,13,1
+MI,5,5.1,4,1,0,0,0,Tilak Varma,Suryakumar,4,7,1,0,Tilak Varma,5,3,1,0,Cummins,1.0,1,4,1,Bhuvneshwar,3.0,0,13,1
+MI,4,4.6,0,0,1,0,0,Suryakumar,Suryakumar,4,7,1,0,Tilak Varma,1,2,0,0,Bhuvneshwar,3.0,0,13,1,Cummins,1.0,1,0,1
+MI,4,4.5,4,1,0,0,0,Suryakumar,Suryakumar,4,6,1,0,Tilak Varma,1,2,0,0,Bhuvneshwar,2.0,0,13,1,Cummins,1.0,1,0,1
+MI,4,4.4,0,0,1,0,0,Suryakumar,Suryakumar,0,5,0,0,Tilak Varma,1,2,0,0,Bhuvneshwar,2.0,0,9,1,Cummins,1.0,1,0,1
+MI,4,4.3,1,0,0,0,1,Tilak Varma,Suryakumar,0,4,0,0,Tilak Varma,1,2,0,0,Bhuvneshwar,2.0,0,9,1,Cummins,1.0,1,0,1
+MI,4,4.2,0,0,1,0,0,Tilak Varma,Suryakumar,0,4,0,0,Tilak Varma,0,1,0,0,Bhuvneshwar,2.0,0,9,1,Cummins,1.0,1,0,1
+MI,4,4.1,0,0,0,1,0,Naman Dhir,Suryakumar,0,4,0,0,,0,0,0,0,Bhuvneshwar,2.0,0,9,1,Cummins,1.0,1,0,1
+MI,3,3.6,0,0,1,0,0,Suryakumar,Naman Dhir,5,8,1,0,Suryakumar,0,4,0,0,Cummins,1.0,1,0,1,Bhuvneshwar,2.0,0,9,0
+MI,3,3.5,0,0,1,0,0,Suryakumar,Naman Dhir,5,8,1,0,Suryakumar,0,3,0,0,Cummins,0,0,0,1,Bhuvneshwar,2.0,0,9,0
+MI,3,3.4,0,0,1,0,0,Suryakumar,Naman Dhir,5,8,1,0,Suryakumar,0,2,0,0,Cummins,0,0,0,1,Bhuvneshwar,2.0,0,9,0
+MI,3,3.3,0,0,1,0,0,Suryakumar,Naman Dhir,5,8,1,0,Suryakumar,0,1,0,0,Cummins,0,0,0,1,Bhuvneshwar,2.0,0,9,0
+MI,3,3.2,0,0,0,1,0,Rohit Sharma,Naman Dhir,5,8,1,0,,0,0,0,0,Cummins,0,0,0,1,Bhuvneshwar,2.0,0,9,0
+MI,3,3.1,0,0,1,0,0,Rohit Sharma,Rohit Sharma,4,4,1,0,Naman Dhir,5,8,1,0,Cummins,0,0,0,0,Bhuvneshwar,2.0,0,9,0
+MI,2,2.6,0,0,1,0,0,Naman Dhir,Rohit Sharma,4,3,1,0,Naman Dhir,5,8,1,0,Bhuvneshwar,2.0,0,9,0,Jansen,1.0,0,9,1
+MI,2,2.5,0,0,1,0,0,Naman Dhir,Rohit Sharma,4,3,1,0,Naman Dhir,5,7,1,0,Bhuvneshwar,1.0,0,9,0,Jansen,1.0,0,9,1
+MI,2,2.4,0,0,1,0,0,Naman Dhir,Rohit Sharma,4,3,1,0,Naman Dhir,5,6,1,0,Bhuvneshwar,1.0,0,9,0,Jansen,1.0,0,9,1
+MI,2,2.3,0,0,1,0,0,Naman Dhir,Rohit Sharma,4,3,1,0,Naman Dhir,5,5,1,0,Bhuvneshwar,1.0,0,9,0,Jansen,1.0,0,9,1
+MI,2,2.2,4,1,0,0,1,Naman Dhir,Rohit Sharma,4,3,1,0,Naman Dhir,5,4,1,0,Bhuvneshwar,1.0,0,9,0,Jansen,1.0,0,9,1
+MI,2,2.1,0,0,1,0,0,Naman Dhir,Rohit Sharma,4,3,1,0,Naman Dhir,1,3,0,0,Bhuvneshwar,1.0,0,9,0,Jansen,1.0,0,9,1
+MI,1,1.6,1,0,0,0,1,Naman Dhir,Rohit Sharma,4,3,1,0,Naman Dhir,1,2,0,0,Jansen,1.0,0,9,1,Bhuvneshwar,1.0,0,9,0
+MI,1,1.5,0,0,1,0,0,Naman Dhir,Rohit Sharma,4,3,1,0,Naman Dhir,0,1,0,0,Jansen,0,0,9,1,Bhuvneshwar,1.0,0,9,0
+MI,1,1.4,0,0,0,1,0,Ishan,Rohit Sharma,4,3,1,0,,0,0,0,0,Jansen,0,0,9,1,Bhuvneshwar,1.0,0,9,0
+MI,1,1.3,4,1,0,0,1,Ishan,Ishan,22,6,4,0,Rohit Sharma,4,3,1,0,Jansen,0,0,9,0,Bhuvneshwar,1.0,0,9,0
+MI,1,1.2,4,1,0,0,0,Ishan,Ishan,18,5,3,0,Rohit Sharma,4,3,1,0,Jansen,0,0,9,0,Bhuvneshwar,1.0,0,9,0
+MI,1,1.1,0,0,1,0,0,Ishan,Ishan,14,4,2,0,Rohit Sharma,4,3,1,0,Jansen,0,0,5,0,Bhuvneshwar,1.0,0,9,0
+MI,1,1.1,5,0,0,0,1,Ishan,Ishan,14,3,2,0,Rohit Sharma,4,3,1,0,Jansen,0,0,5,0,Bhuvneshwar,1.0,0,9,0
+MI,0,0.6,0,0,1,0,0,Rohit Sharma,Ishan,9,3,2,0,Rohit Sharma,4,3,1,0,Bhuvneshwar,1.0,0,9,0,,0,0,0,0
+MI,0,0.5,4,1,0,0,0,Rohit Sharma,Ishan,9,3,2,0,Rohit Sharma,4,2,1,0,Bhuvneshwar,0,0,9,0,,0,0,0,0
+MI,0,0.4,0,0,1,0,0,Rohit Sharma,Ishan,9,3,2,0,Rohit Sharma,0,1,0,0,Bhuvneshwar,0,0,5,0,,0,0,0,0
+MI,0,0.3,1,0,0,0,0,Ishan,Ishan,9,3,2,0,,0,0,0,0,Bhuvneshwar,0,0,5,0,,0,0,0,0
+MI,0,0.2,4,1,0,0,1,Ishan,Ishan,8,2,2,0,,0,0,0,0,Bhuvneshwar,0,0,4,0,,0,0,0,0
+MI,0,0.1,4,1,0,0,0,Ishan,Ishan,4,1,1,0,,0,0,0,0,Bhuvneshwar,0,0,4,0,,0,0,0,0

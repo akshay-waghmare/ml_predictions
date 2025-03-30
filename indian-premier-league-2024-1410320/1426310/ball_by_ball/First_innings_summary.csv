@@ -1,0 +1,20 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+RR,18,18.1,14,3,3,0,0,Powell,Powell,6,3,1,0,,0,0,0,0,Ferguson,3.0,0,27,1,Siraj,4.0,0,33,2
+RR,17,17.1,6,0,0,2,2,Hetmyer,Jurel,8,8,1,0,Hetmyer,26,12,3,1,Siraj,3.0,0,28,0,Yash Dayal,3.0,0,37,0
+RR,16,16.1,11,2,1,0,0,Parag,Jurel,8,8,1,0,Hetmyer,16,8,1,1,Yash Dayal,2.0,0,27,0,Green,4.0,0,28,1
+RR,15,15.1,17,3,2,0,0,Parag,Jurel,8,8,1,0,Hetmyer,14,6,1,1,Green,3.0,0,17,1,Siraj,3.0,0,27,0
+RR,14,14.1,11,1,0,0,1,Hetmyer,Jurel,8,8,1,0,Hetmyer,1,2,0,0,Siraj,2.0,0,17,0,Green,3.0,0,11,1
+RR,13,13.1,4,0,2,0,0,Parag,Parag,20,13,1,1,Jurel,8,8,1,0,Green,2.0,0,8,1,Ferguson,3.0,0,23,1
+RR,12,12.1,11,1,2,0,0,Parag,Parag,12,9,1,0,Jurel,7,6,1,0,Ferguson,2.0,0,15,1,Green,2.0,0,7,1
+RR,11,11.1,2,0,4,0,0,Jurel,Parag,8,5,1,0,Jurel,6,4,1,0,Green,1.0,0,5,1,Karn,2.0,0,19,0
+RR,10,10.1,13,2,1,0,2,Jurel,Samson,18,13,0,1,Parag,2,2,0,0,Karn,1.0,0,7,0,Green,1.0,0,5,1
+RR,9,9.1,5,0,0,1,0,Samson,Jaiswal,45,29,8,0,Samson,15,11,0,1,Green,0,0,1,0,Karn,1.0,0,6,0
+RR,8,8.1,6,0,0,0,0,Samson,Jaiswal,43,27,8,0,Samson,11,7,0,1,Karn,0,0,1,0,Ferguson,2.0,0,12,1
+RR,7,7.1,10,1,0,0,0,Jaiswal,Jaiswal,34,22,7,0,Samson,10,6,0,1,Ferguson,1.0,0,3,1,Swapnil,2.0,0,19,0
+RR,6,6.1,17,3,0,0,0,Jaiswal,Jaiswal,25,19,5,0,Samson,7,3,0,1,Swapnil,1.0,0,8,0,Ferguson,1.0,0,2,1
+RR,5,5.1,2,0,3,1,0,Jaiswal,Jaiswal,24,17,5,0,Kohler,21,14,4,0,Ferguson,0,0,0,0,Yash Dayal,2.0,0,26,0
+RR,4,4.1,10,2,2,0,0,Kohler,Jaiswal,23,15,5,0,Kohler,13,10,2,0,Yash Dayal,1.0,0,17,0,Siraj,2.0,0,16,0
+RR,3,3.1,13,3,2,0,0,Jaiswal,Jaiswal,19,12,4,0,Kohler,7,7,1,0,Siraj,1.0,0,7,0,Yash Dayal,1.0,0,16,0
+RR,2,2.1,16,4,2,0,0,Jaiswal,Jaiswal,3,7,0,0,Kohler,3,6,0,0,Yash Dayal,0,0,0,0,Siraj,1.0,0,3,0
+RR,1,1.1,4,0,2,0,1,Jaiswal,Jaiswal,1,4,0,0,Kohler,1,3,0,0,Siraj,0,0,0,0,Swapnil,1.0,0,2,0
+RR,0,0.1,2,0,4,0,0,Jaiswal,Jaiswal,0,1,0,0,,0,0,0,0,Swapnil,0,0,0,0,,0,0,0,0

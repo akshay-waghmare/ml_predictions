@@ -1,0 +1,41 @@
+over,innings,score,projected_score,required,CRR,RRR,fav_team,win_probability,venue,matches_played,total_runs,total_wickets,balls_bowled,average_runs_per_wicket,average_runs_per_over
+20,GT,199/7,N/A,N/A,9.95,N/A,GT,100.0,"Sawai Mansingh Stadium, Jaipur",N/A,N/A,N/A,N/A,N/A,N/A
+1,RR,6/0,168,N/A,6.00,N/A,GT,50.13,"Sawai Mansingh Stadium, Jaipur",N/A,N/A,N/A,N/A,N/A,N/A
+2,RR,13/0,166,N/A,6.50,N/A,GT,52.37,"Sawai Mansingh Stadium, Jaipur",N/A,N/A,N/A,N/A,N/A,N/A
+3,RR,22/0,167,N/A,7.33,N/A,GT,51.25,"Sawai Mansingh Stadium, Jaipur",N/A,N/A,N/A,N/A,N/A,N/A
+4,RR,28/0,170,N/A,7.00,N/A,RR,52.12,"Sawai Mansingh Stadium, Jaipur",N/A,N/A,N/A,N/A,N/A,N/A
+5,RR,41/1,180,N/A,8.20,N/A,RR,62.99,"Sawai Mansingh Stadium, Jaipur",N/A,N/A,N/A,N/A,N/A,N/A
+6,RR,43/2,174,N/A,7.17,N/A,RR,56.56,"Sawai Mansingh Stadium, Jaipur",N/A,N/A,N/A,N/A,N/A,N/A
+7,RR,49/2,166,N/A,7.00,N/A,GT,52.37,"Sawai Mansingh Stadium, Jaipur",N/A,N/A,N/A,N/A,N/A,N/A
+8,RR,52/2,152,N/A,6.50,N/A,GT,67.38,"Sawai Mansingh Stadium, Jaipur",N/A,N/A,N/A,N/A,N/A,N/A
+9,RR,65/2,166,N/A,7.22,N/A,GT,52.37,"Sawai Mansingh Stadium, Jaipur",N/A,N/A,N/A,N/A,N/A,N/A
+10,RR,73/2,174,N/A,7.30,N/A,RR,56.56,"Sawai Mansingh Stadium, Jaipur",N/A,N/A,N/A,N/A,N/A,N/A
+11,RR,82/2,181,N/A,7.45,N/A,RR,64.02,"Sawai Mansingh Stadium, Jaipur",N/A,N/A,N/A,N/A,N/A,N/A
+12,RR,89/2,173,N/A,7.42,N/A,RR,55.46,"Sawai Mansingh Stadium, Jaipur",N/A,N/A,N/A,N/A,N/A,N/A
+13,RR,104/2,182,N/A,8.00,N/A,RR,65.04,"Sawai Mansingh Stadium, Jaipur",N/A,N/A,N/A,N/A,N/A,N/A
+14,RR,118/2,185,N/A,8.43,N/A,RR,68.0,"Sawai Mansingh Stadium, Jaipur",N/A,N/A,N/A,N/A,N/A,N/A
+15,RR,134/2,192,N/A,8.93,N/A,RR,74.33,"Sawai Mansingh Stadium, Jaipur",N/A,N/A,N/A,N/A,N/A,N/A
+16,RR,139/2,185,N/A,8.69,N/A,RR,68.0,"Sawai Mansingh Stadium, Jaipur",N/A,N/A,N/A,N/A,N/A,N/A
+17,RR,154/2,187,N/A,9.06,N/A,RR,69.9,"Sawai Mansingh Stadium, Jaipur",N/A,N/A,N/A,N/A,N/A,N/A
+18,RR,162/2,185,N/A,9.00,N/A,RR,68.0,"Sawai Mansingh Stadium, Jaipur",N/A,N/A,N/A,N/A,N/A,N/A
+19,RR,177/3,190,N/A,9.32,N/A,RR,72.61,"Sawai Mansingh Stadium, Jaipur",N/A,N/A,N/A,N/A,N/A,N/A
+20,RR,196/3,196,N/A,9.80,N/A,RR,77.54,"Sawai Mansingh Stadium, Jaipur",N/A,N/A,N/A,N/A,N/A,N/A
+1,GT,5/0,N/A,192 from 114,5.00,10.11,RR,80.57,"Sawai Mansingh Stadium, Jaipur",N/A,N/A,N/A,N/A,N/A,N/A
+2,GT,15/0,N/A,182 from 108,7.50,10.11,RR,78.44,"Sawai Mansingh Stadium, Jaipur",N/A,N/A,N/A,N/A,N/A,N/A
+3,GT,18/0,N/A,179 from 102,6.00,10.53,RR,81.8,"Sawai Mansingh Stadium, Jaipur",N/A,N/A,N/A,N/A,N/A,N/A
+4,GT,26/0,N/A,171 from 96,6.50,10.69,RR,82.41,"Sawai Mansingh Stadium, Jaipur",N/A,N/A,N/A,N/A,N/A,N/A
+5,GT,30/0,N/A,167 from 90,6.00,11.13,RR,85.78,"Sawai Mansingh Stadium, Jaipur",N/A,N/A,N/A,N/A,N/A,N/A
+6,GT,44/0,N/A,153 from 84,7.33,10.93,RR,79.01,"Sawai Mansingh Stadium, Jaipur",N/A,N/A,N/A,N/A,N/A,N/A
+7,GT,51/0,N/A,146 from 78,7.29,11.23,RR,79.26,"Sawai Mansingh Stadium, Jaipur",N/A,N/A,N/A,N/A,N/A,N/A
+8,GT,63/0,N/A,134 from 72,7.88,11.17,RR,60.95,"Sawai Mansingh Stadium, Jaipur",N/A,N/A,N/A,N/A,N/A,N/A
+9,GT,67/1,N/A,130 from 66,7.44,11.82,RR,82.05,"Sawai Mansingh Stadium, Jaipur",N/A,N/A,N/A,N/A,N/A,N/A
+10,GT,76/1,N/A,121 from 60,7.60,12.10,RR,84.24,"Sawai Mansingh Stadium, Jaipur",N/A,N/A,N/A,N/A,N/A,N/A
+11,GT,83/3,N/A,114 from 54,7.55,12.67,RR,94.36,"Sawai Mansingh Stadium, Jaipur",N/A,N/A,N/A,N/A,N/A,N/A
+12,GT,91/3,N/A,106 from 48,7.58,13.25,RR,94.43,"Sawai Mansingh Stadium, Jaipur",N/A,N/A,N/A,N/A,N/A,N/A
+13,GT,102/3,N/A,95 from 42,7.85,13.57,RR,92.65,"Sawai Mansingh Stadium, Jaipur",N/A,N/A,N/A,N/A,N/A,N/A
+14,GT,111/4,N/A,86 from 36,7.93,14.33,RR,95.83,"Sawai Mansingh Stadium, Jaipur",N/A,N/A,N/A,N/A,N/A,N/A
+15,GT,124/4,N/A,73 from 30,8.27,14.60,RR,93.75,"Sawai Mansingh Stadium, Jaipur",N/A,N/A,N/A,N/A,N/A,N/A
+16,GT,138/5,N/A,59 from 24,8.62,14.75,RR,95.5,"Sawai Mansingh Stadium, Jaipur",N/A,N/A,N/A,N/A,N/A,N/A
+17,GT,155/5,N/A,42 from 18,9.12,14.00,RR,86.47,"Sawai Mansingh Stadium, Jaipur",N/A,N/A,N/A,N/A,N/A,N/A
+18,GT,162/6,N/A,35 from 12,9.00,17.50,RR,94.47,"Sawai Mansingh Stadium, Jaipur",N/A,N/A,N/A,N/A,N/A,N/A
+19,GT,182/6,N/A,15 from 6,9.58,15.00,RR,69.5,"Sawai Mansingh Stadium, Jaipur",N/A,N/A,N/A,N/A,N/A,N/A

@@ -1,0 +1,17 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+RCB,15,15.1,29,5,0,0,0,Jacks,Kohli,71,44,6,3,Jacks,78,36,5,5,Rashid Khan,3.0,0,23,0,Mohit,2.0,0,41,0
+RCB,14,14.1,29,4,1,0,1,Jacks,Kohli,70,43,6,3,Jacks,53,30,4,3,Mohit,1.0,0,16,0,Noor Ahmad,4.0,0,43,0
+RCB,13,13.1,14,2,1,0,1,Jacks,Kohli,69,42,6,3,Jacks,38,25,2,2,Noor Ahmad,3.0,0,35,0,Sai Kishore,3.0,0,30,1
+RCB,12,12.1,11,1,0,0,0,Jacks,Kohli,65,39,6,3,Jacks,30,22,2,1,Sai Kishore,2.0,0,20,1,Noor Ahmad,3.0,0,33,0
+RCB,11,11.1,13,2,2,0,0,Jacks,Kohli,53,34,5,2,Jacks,28,21,2,1,Noor Ahmad,2.0,0,20,0,Mohit,1.0,0,12,0
+RCB,10,10.1,12,2,2,0,0,Jacks,Kohli,52,32,5,2,Jacks,18,17,1,0,Mohit,0,0,1,0,Rashid Khan,3.0,0,22,0
+RCB,9,9.1,8,1,1,0,0,Kohli,Kohli,47,30,4,2,Jacks,15,13,1,0,Rashid Khan,2.0,0,15,0,Noor Ahmad,2.0,0,20,0
+RCB,8,8.1,9,1,0,0,0,Kohli,Kohli,40,26,3,2,Jacks,13,11,1,0,Noor Ahmad,1.0,0,12,0,Rashid Khan,2.0,0,14,0
+RCB,7,7.1,7,0,0,0,0,Kohli,Kohli,35,22,3,2,Jacks,11,9,1,0,Rashid Khan,1.0,0,8,0,Noor Ahmad,1.0,0,11,0
+RCB,6,6.1,11,2,2,0,1,Jacks,Kohli,29,19,2,2,Jacks,6,5,0,0,Noor Ahmad,0,0,1,0,Sai Kishore,2.0,0,19,1
+RCB,5,5.1,15,2,2,0,0,Kohli,Kohli,15,14,2,0,Jacks,5,5,0,0,Sai Kishore,1.0,0,5,1,Rashid Khan,1.0,0,7,0
+RCB,4,4.1,7,1,3,0,0,Kohli,Kohli,11,11,1,0,Jacks,3,2,0,0,Rashid Khan,0,0,2,0,Sai Kishore,1.0,0,4,1
+RCB,3,3.1,4,0,1,1,0,Jacks,Kohli,10,10,1,0,du Plessis,28,9,2,3,Sai Kishore,0,0,1,0,Azmatullah,2.0,0,18,0
+RCB,2,2.1,17,3,2,0,0,du Plessis,Kohli,8,8,1,0,du Plessis,12,5,1,1,Azmatullah,1.0,0,1,0,Sandeep,1.0,0,15,0
+RCB,1,1.1,15,2,1,0,2,du Plessis,Kohli,2,5,0,0,du Plessis,4,2,1,0,Sandeep,0,0,1,0,Azmatullah,1.0,0,1,0
+RCB,0,0.1,5,1,4,0,1,du Plessis,Kohli,0,1,0,0,,0,0,0,0,Azmatullah,0,0,0,0,,0,0,0,0

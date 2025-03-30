@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+GT,19,19.1,9,1,0,2,0,Miller,Hardik,65,48,2,4,Miller,6,10,0,0,Stoinis,2.0,0,17,0,Haq,4.0,0,19,1
+GT,18,18.1,5,0,2,0,1,Miller,Hardik,58,46,2,3,Miller,3,6,0,0,Haq,3.0,0,16,1,Ravi Bishnoi,3.0,0,48,0
+GT,17,17.1,18,3,0,0,0,Hardik,Hardik,40,41,1,1,Miller,3,6,0,0,Ravi Bishnoi,3.0,0,31,0,Avesh Khan,3.0,0,21,0
+GT,16,16.1,5,0,2,0,0,Hardik,Hardik,36,38,1,1,Miller,1,3,0,0,Avesh Khan,2.0,0,16,0,Ravi Bishnoi,3.0,0,30,0
+GT,15,15.1,5,0,2,0,0,Hardik,Hardik,34,35,1,1,,0,0,0,0,Ravi Bishnoi,2.0,0,27,0,Haq,3.0,0,15,1
+GT,14,14.1,3,0,2,1,0,Shankar,Hardik,30,32,1,1,Shankar,9,9,1,0,Haq,2.0,0,12,0,Stoinis,2.0,0,11,0
+GT,13,13.1,4,0,2,0,0,Shankar,Hardik,28,29,1,1,Shankar,7,6,1,0,Stoinis,1.0,0,7,0,Avesh Khan,2.0,0,16,0
+GT,12,12.1,7,1,2,0,0,Shankar,Hardik,27,26,1,1,Shankar,2,3,0,0,Avesh Khan,1.0,0,10,0,Mishra,2.0,0,9,1
+GT,11,11.1,3,0,2,1,0,Shankar,Hardik,26,25,1,1,Manohar,2,3,0,0,Mishra,1.0,0,6,0,Krunal,4.0,0,16,2
+GT,10,10.1,4,0,1,1,0,Manohar,Saha,47,36,6,0,Hardik,24,23,1,1,Krunal,3.0,0,12,1,Mishra,1.0,0,6,0
+GT,9,9.1,6,0,1,0,0,Hardik,Saha,43,33,6,0,Hardik,22,20,1,1,Mishra,0,0,0,0,Ravi Bishnoi,2.0,0,25,0
+GT,8,8.1,14,2,0,0,0,Hardik,Saha,41,30,6,0,Hardik,11,17,0,0,Ravi Bishnoi,1.0,0,12,0,Stoinis,1.0,0,7,0
+GT,7,7.1,7,1,3,0,0,Saha,Saha,37,28,5,0,Hardik,9,13,0,0,Stoinis,0,0,2,0,Krunal,3.0,0,12,1
+GT,6,6.1,4,0,3,0,0,Saha,Saha,35,25,5,0,Hardik,6,10,0,0,Krunal,2.0,0,9,1,Ravi Bishnoi,1.0,0,11,0
+GT,5,5.1,11,2,2,0,0,Hardik,Saha,29,20,4,0,Hardik,4,9,0,0,Ravi Bishnoi,0,0,4,0,Avesh Khan,1.0,0,9,0
+GT,4,4.1,9,1,2,0,0,Hardik,Saha,18,16,2,0,Hardik,4,7,0,0,Avesh Khan,0,0,2,0,Krunal,2.0,0,8,1
+GT,3,3.1,7,1,3,0,0,Hardik,Saha,13,12,2,0,Hardik,4,5,0,0,Krunal,1.0,0,5,1,Haq,2.0,0,12,0
+GT,2,2.1,8,1,2,0,0,Saha,Saha,4,7,0,0,Hardik,3,4,0,0,Haq,1.0,0,6,0,Krunal,1.0,0,1,1
+GT,1,1.1,1,0,4,1,0,Saha,Saha,4,6,0,0,Gill,0,1,0,0,Krunal,0,0,0,0,Haq,1.0,0,4,0
+GT,0,0.1,4,0,4,0,0,Saha,Saha,0,1,0,0,,0,0,0,0,Haq,0,0,0,0,,0,0,0,0

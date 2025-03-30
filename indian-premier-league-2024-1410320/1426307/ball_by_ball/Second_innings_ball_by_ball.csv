@@ -1,0 +1,126 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+PBKS,19,19.6,6,1,0,0,0,Sharma,Shashank Singh,2,4,0,0,Shivam Singh,2,3,0,0,Nitish Kumar,3.0,0,54,0,Natarajan,4.0,0,33,2
+PBKS,19,19.5,6,1,0,0,0,Sharma,Shashank Singh,2,4,0,0,Shivam Singh,2,3,0,0,Nitish Kumar,3.0,0,48,0,Natarajan,4.0,0,33,2
+PBKS,19,19.5,1,0,0,0,1,Sharma,Shashank Singh,2,4,0,0,Shivam Singh,2,3,0,0,Nitish Kumar,2.0,0,42,0,Natarajan,4.0,0,33,2
+PBKS,19,19.4,4,1,0,0,0,Sharma,Shashank Singh,2,4,0,0,Shivam Singh,2,3,0,0,Nitish Kumar,2.0,0,41,0,Natarajan,4.0,0,33,2
+PBKS,19,19.3,1,0,0,0,0,Shivam Singh,Shashank Singh,2,4,0,0,Shivam Singh,2,3,0,0,Nitish Kumar,2.0,0,37,0,Natarajan,4.0,0,33,2
+PBKS,19,19.2,0,0,1,0,0,Shivam Singh,Shashank Singh,2,4,0,0,Shivam Singh,1,2,0,0,Nitish Kumar,2.0,0,36,0,Natarajan,4.0,0,33,2
+PBKS,19,19.1,1,0,0,0,0,Sharma,Shashank Singh,2,4,0,0,Shivam Singh,1,1,0,0,Nitish Kumar,2.0,0,36,0,Natarajan,4.0,0,33,2
+PBKS,18,18.6,1,0,0,0,0,Sharma,Shashank Singh,2,4,0,0,Shivam Singh,1,1,0,0,Natarajan,4.0,0,33,2,Cummins,4.0,0,36,1
+PBKS,18,18.5,0,0,1,0,0,Sharma,Shashank Singh,2,4,0,0,Shivam Singh,1,1,0,0,Natarajan,3.0,0,32,2,Cummins,4.0,0,36,1
+PBKS,18,18.4,2,0,0,0,0,Sharma,Shashank Singh,2,4,0,0,Shivam Singh,1,1,0,0,Natarajan,3.0,0,32,2,Cummins,4.0,0,36,1
+PBKS,18,18.3,4,1,0,0,0,Sharma,Shashank Singh,2,4,0,0,Shivam Singh,1,1,0,0,Natarajan,3.0,0,30,2,Cummins,4.0,0,36,1
+PBKS,18,18.2,1,0,0,0,0,Shivam Singh,Shashank Singh,2,4,0,0,Shivam Singh,1,1,0,0,Natarajan,3.0,0,26,2,Cummins,4.0,0,36,1
+PBKS,18,18.1,0,0,0,1,0,Sharma,Shashank Singh,2,4,0,0,,0,0,0,0,Natarajan,3.0,0,25,2,Cummins,4.0,0,36,1
+PBKS,18,18.1,1,0,0,0,1,Sharma,Shashank Singh,2,4,0,0,Sharma,11,9,0,0,Natarajan,3.0,0,25,1,Cummins,4.0,0,36,1
+PBKS,17,17.6,2,0,0,0,0,Sharma,Shashank Singh,2,4,0,0,Sharma,10,9,0,0,Cummins,4.0,0,36,1,Bhuvneshwar,4.0,0,36,0
+PBKS,17,17.5,1,0,0,0,0,Sharma,Shashank Singh,2,4,0,0,Sharma,8,8,0,0,Cummins,3.0,0,34,1,Bhuvneshwar,4.0,0,36,0
+PBKS,17,17.4,1,0,0,0,0,Sharma,Shashank Singh,2,4,0,0,Sharma,7,7,0,0,Cummins,3.0,0,33,1,Bhuvneshwar,4.0,0,36,0
+PBKS,17,17.3,1,0,0,0,0,Sharma,Shashank Singh,2,4,0,0,Sharma,6,6,0,0,Cummins,3.0,0,32,1,Bhuvneshwar,4.0,0,36,0
+PBKS,17,17.2,0,0,0,1,0,Rossouw,Shashank Singh,2,4,0,0,Sharma,5,5,0,0,Cummins,3.0,0,31,1,Bhuvneshwar,4.0,0,36,0
+PBKS,17,17.1,1,0,0,0,0,Sharma,Shashank Singh,2,4,0,0,Sharma,5,5,0,0,Cummins,3.0,0,31,0,Bhuvneshwar,4.0,0,36,0
+PBKS,16,16.6,1,0,0,0,0,Sharma,Shashank Singh,2,4,0,0,Sharma,4,4,0,0,Bhuvneshwar,4.0,0,36,0,Nitish Kumar,2.0,0,35,0
+PBKS,16,16.5,0,0,1,0,0,Sharma,Shashank Singh,2,4,0,0,Sharma,3,3,0,0,Bhuvneshwar,3.0,0,35,0,Nitish Kumar,2.0,0,35,0
+PBKS,16,16.4,2,0,0,0,0,Sharma,Shashank Singh,2,4,0,0,Sharma,3,2,0,0,Bhuvneshwar,3.0,0,35,0,Nitish Kumar,2.0,0,35,0
+PBKS,16,16.3,1,0,0,0,0,Rossouw,Shashank Singh,2,4,0,0,Sharma,1,1,0,0,Bhuvneshwar,3.0,0,33,0,Nitish Kumar,2.0,0,35,0
+PBKS,16,16.2,1,0,0,0,0,Sharma,Shashank Singh,2,4,0,0,Sharma,1,1,0,0,Bhuvneshwar,3.0,0,32,0,Nitish Kumar,2.0,0,35,0
+PBKS,16,16.1,1,0,0,0,0,Rossouw,Rossouw,52,22,3,4,Shashank Singh,2,4,0,0,Bhuvneshwar,3.0,0,31,0,Nitish Kumar,2.0,0,35,0
+PBKS,15,15.6,1,0,0,0,0,Shashank Singh,Rossouw,51,21,3,4,Shashank Singh,2,4,0,0,Nitish Kumar,2.0,0,35,0,Viyaskanth,4.0,0,37,1
+PBKS,15,15.5,0,0,1,0,0,Shashank Singh,Rossouw,51,21,3,4,Shashank Singh,1,3,0,0,Nitish Kumar,2.0,0,34,0,Viyaskanth,4.0,0,37,1
+PBKS,15,15.4,1,0,0,0,0,Rossouw,Rossouw,51,21,3,4,Shashank Singh,1,2,0,0,Nitish Kumar,1.0,0,34,0,Viyaskanth,4.0,0,37,1
+PBKS,15,15.3,4,1,0,0,0,Rossouw,Rossouw,50,20,3,4,Shashank Singh,1,2,0,0,Nitish Kumar,1.0,0,33,0,Viyaskanth,4.0,0,37,1
+PBKS,15,15.3,1,0,0,0,1,Rossouw,Rossouw,46,19,2,4,Shashank Singh,1,2,0,0,Nitish Kumar,1.0,0,29,0,Viyaskanth,4.0,0,37,1
+PBKS,15,15.2,6,1,0,0,0,Rossouw,Rossouw,45,19,2,4,Shashank Singh,1,2,0,0,Nitish Kumar,1.0,0,28,0,Viyaskanth,4.0,0,37,1
+PBKS,15,15.1,2,0,0,0,0,Rossouw,Rossouw,39,18,2,3,Shashank Singh,1,2,0,0,Nitish Kumar,1.0,0,22,0,Viyaskanth,4.0,0,37,1
+PBKS,14,14.6,1,0,0,0,1,Rossouw,Rossouw,37,17,2,3,Shashank Singh,1,2,0,0,Viyaskanth,4.0,0,37,1,Natarajan,3.0,0,24,1
+PBKS,14,14.5,6,1,0,0,0,Rossouw,Rossouw,36,16,2,3,Shashank Singh,1,2,0,0,Viyaskanth,3.0,0,37,1,Natarajan,3.0,0,24,1
+PBKS,14,14.4,1,0,0,0,0,Shashank Singh,Rossouw,30,15,2,2,Shashank Singh,1,2,0,0,Viyaskanth,3.0,0,31,1,Natarajan,3.0,0,24,1
+PBKS,14,14.3,0,0,1,0,0,Shashank Singh,Rossouw,30,15,2,2,Shashank Singh,0,1,0,0,Viyaskanth,3.0,0,30,1,Natarajan,3.0,0,24,1
+PBKS,14,14.2,0,0,0,1,0,Prabhsimran,Rossouw,30,15,2,2,,0,0,0,0,Viyaskanth,3.0,0,30,1,Natarajan,3.0,0,24,1
+PBKS,14,14.1,0,0,1,0,0,Prabhsimran,Prabhsimran,74,44,7,4,Rossouw,30,15,2,2,Viyaskanth,3.0,0,30,0,Natarajan,3.0,0,24,1
+PBKS,13,13.6,0,0,1,0,0,Rossouw,Prabhsimran,74,43,7,4,Rossouw,30,15,2,2,Natarajan,3.0,0,24,1,Cummins,3.0,0,30,0
+PBKS,13,13.5,1,0,0,0,0,Prabhsimran,Prabhsimran,74,43,7,4,Rossouw,30,14,2,2,Natarajan,2.0,0,24,1,Cummins,3.0,0,30,0
+PBKS,13,13.4,1,0,0,0,0,Rossouw,Prabhsimran,73,42,7,4,Rossouw,30,14,2,2,Natarajan,2.0,0,23,1,Cummins,3.0,0,30,0
+PBKS,13,13.3,1,0,0,0,0,Prabhsimran,Prabhsimran,73,42,7,4,Rossouw,29,13,2,2,Natarajan,2.0,0,22,1,Cummins,3.0,0,30,0
+PBKS,13,13.2,1,0,0,0,0,Rossouw,Prabhsimran,72,41,7,4,Rossouw,29,13,2,2,Natarajan,2.0,0,21,1,Cummins,3.0,0,30,0
+PBKS,13,13.1,6,1,0,0,0,Rossouw,Prabhsimran,72,41,7,4,Rossouw,28,12,2,2,Natarajan,2.0,0,20,1,Cummins,3.0,0,30,0
+PBKS,13,13.1,1,0,0,0,1,Rossouw,Prabhsimran,72,41,7,4,Rossouw,22,11,2,1,Natarajan,2.0,0,14,1,Cummins,3.0,0,30,0
+PBKS,12,12.6,1,0,0,0,0,Rossouw,Prabhsimran,72,41,7,4,Rossouw,21,11,2,1,Cummins,3.0,0,30,0,Nitish Kumar,1.0,0,20,0
+PBKS,12,12.5,4,1,0,0,0,Rossouw,Prabhsimran,72,41,7,4,Rossouw,20,10,2,1,Cummins,2.0,0,29,0,Nitish Kumar,1.0,0,20,0
+PBKS,12,12.4,1,0,0,0,0,Prabhsimran,Prabhsimran,72,41,7,4,Rossouw,16,9,1,1,Cummins,2.0,0,25,0,Nitish Kumar,1.0,0,20,0
+PBKS,12,12.3,4,1,0,0,0,Prabhsimran,Prabhsimran,71,40,7,4,Rossouw,16,9,1,1,Cummins,2.0,0,24,0,Nitish Kumar,1.0,0,20,0
+PBKS,12,12.2,0,0,1,0,0,Prabhsimran,Prabhsimran,67,39,6,4,Rossouw,16,9,1,1,Cummins,2.0,0,20,0,Nitish Kumar,1.0,0,20,0
+PBKS,12,12.1,1,0,0,0,0,Rossouw,Prabhsimran,67,38,6,4,Rossouw,16,9,1,1,Cummins,2.0,0,20,0,Nitish Kumar,1.0,0,20,0
+PBKS,11,11.6,1,0,0,0,0,Rossouw,Prabhsimran,67,38,6,4,Rossouw,15,8,1,1,Nitish Kumar,1.0,0,20,0,Viyaskanth,3.0,0,30,0
+PBKS,11,11.5,1,0,0,0,0,Prabhsimran,Prabhsimran,67,38,6,4,Rossouw,14,7,1,1,Nitish Kumar,1.0,0,19,0,Viyaskanth,3.0,0,30,0
+PBKS,11,11.4,6,1,0,0,0,Prabhsimran,Prabhsimran,66,37,6,4,Rossouw,14,7,1,1,Nitish Kumar,0,0,18,0,Viyaskanth,3.0,0,30,0
+PBKS,11,11.3,1,0,0,0,0,Rossouw,Prabhsimran,60,36,6,3,Rossouw,14,7,1,1,Nitish Kumar,0,0,12,0,Viyaskanth,3.0,0,30,0
+PBKS,11,11.2,6,1,0,0,0,Rossouw,Prabhsimran,60,36,6,3,Rossouw,13,6,1,1,Nitish Kumar,0,0,11,0,Viyaskanth,3.0,0,30,0
+PBKS,11,11.1,4,1,0,0,0,Rossouw,Prabhsimran,60,36,6,3,Rossouw,7,5,1,0,Nitish Kumar,0,0,5,0,Viyaskanth,3.0,0,30,0
+PBKS,11,11.1,1,0,0,0,1,Rossouw,Prabhsimran,60,36,6,3,Rossouw,3,4,0,0,Nitish Kumar,0,0,1,0,Viyaskanth,3.0,0,30,0
+PBKS,10,10.6,0,0,1,0,0,Prabhsimran,Prabhsimran,60,36,6,3,Rossouw,2,3,0,0,Viyaskanth,3.0,0,30,0,Natarajan,2.0,0,13,1
+PBKS,10,10.5,6,1,0,0,0,Prabhsimran,Prabhsimran,60,35,6,3,Rossouw,2,3,0,0,Viyaskanth,2.0,0,30,0,Natarajan,2.0,0,13,1
+PBKS,10,10.4,2,0,0,0,0,Prabhsimran,Prabhsimran,54,34,6,2,Rossouw,2,3,0,0,Viyaskanth,2.0,0,24,0,Natarajan,2.0,0,13,1
+PBKS,10,10.3,0,0,1,0,0,Prabhsimran,Prabhsimran,52,33,6,2,Rossouw,2,3,0,0,Viyaskanth,2.0,0,22,0,Natarajan,2.0,0,13,1
+PBKS,10,10.2,1,0,0,0,0,Rossouw,Prabhsimran,52,32,6,2,Rossouw,2,3,0,0,Viyaskanth,2.0,0,22,0,Natarajan,2.0,0,13,1
+PBKS,10,10.1,1,0,0,0,0,Prabhsimran,Prabhsimran,52,32,6,2,Rossouw,1,2,0,0,Viyaskanth,2.0,0,21,0,Natarajan,2.0,0,13,1
+PBKS,9,9.6,0,0,1,0,0,Rossouw,Prabhsimran,51,31,6,2,Rossouw,1,2,0,0,Natarajan,2.0,0,13,1,Viyaskanth,2.0,0,20,0
+PBKS,9,9.5,1,0,0,0,0,Prabhsimran,Prabhsimran,51,31,6,2,Rossouw,1,1,0,0,Natarajan,1.0,0,13,1,Viyaskanth,2.0,0,20,0
+PBKS,9,9.4,0,0,1,0,0,Prabhsimran,Prabhsimran,50,30,6,2,Rossouw,1,1,0,0,Natarajan,1.0,0,12,1,Viyaskanth,2.0,0,20,0
+PBKS,9,9.3,0,0,1,0,0,Prabhsimran,Prabhsimran,50,29,6,2,Rossouw,1,1,0,0,Natarajan,1.0,0,12,1,Viyaskanth,2.0,0,20,0
+PBKS,9,9.2,1,0,0,0,0,Rossouw,Prabhsimran,50,28,6,2,Rossouw,1,1,0,0,Natarajan,1.0,0,12,1,Viyaskanth,2.0,0,20,0
+PBKS,9,9.1,0,0,0,1,0,Atharva,Prabhsimran,50,28,6,2,,0,0,0,0,Natarajan,1.0,0,11,1,Viyaskanth,2.0,0,20,0
+PBKS,8,8.6,1,0,0,0,0,Atharva,Atharva,47,26,5,2,Prabhsimran,50,28,6,2,Viyaskanth,2.0,0,20,0,Shahbaz Ahmed,1.0,0,13,0
+PBKS,8,8.5,4,1,0,0,0,Atharva,Atharva,46,25,5,2,Prabhsimran,50,28,6,2,Viyaskanth,1.0,0,19,0,Shahbaz Ahmed,1.0,0,13,0
+PBKS,8,8.4,1,0,0,0,0,Prabhsimran,Atharva,42,24,4,2,Prabhsimran,50,28,6,2,Viyaskanth,1.0,0,15,0,Shahbaz Ahmed,1.0,0,13,0
+PBKS,8,8.3,2,0,0,0,1,Prabhsimran,Atharva,42,24,4,2,Prabhsimran,49,27,6,2,Viyaskanth,1.0,0,14,0,Shahbaz Ahmed,1.0,0,13,0
+PBKS,8,8.2,6,1,0,0,0,Prabhsimran,Atharva,42,24,4,2,Prabhsimran,47,26,6,2,Viyaskanth,1.0,0,14,0,Shahbaz Ahmed,1.0,0,13,0
+PBKS,8,8.1,1,0,0,0,0,Atharva,Atharva,42,24,4,2,Prabhsimran,41,25,6,1,Viyaskanth,1.0,0,8,0,Shahbaz Ahmed,1.0,0,13,0
+PBKS,7,7.6,1,0,0,0,0,Atharva,Atharva,41,23,4,2,Prabhsimran,41,25,6,1,Shahbaz Ahmed,1.0,0,13,0,Viyaskanth,1.0,0,7,0
+PBKS,7,7.5,0,0,1,0,0,Atharva,Atharva,40,22,4,2,Prabhsimran,41,25,6,1,Shahbaz Ahmed,0,0,12,0,Viyaskanth,1.0,0,7,0
+PBKS,7,7.4,1,0,0,0,0,Prabhsimran,Atharva,40,21,4,2,Prabhsimran,41,25,6,1,Shahbaz Ahmed,0,0,12,0,Viyaskanth,1.0,0,7,0
+PBKS,7,7.3,1,0,0,0,0,Atharva,Atharva,40,21,4,2,Prabhsimran,40,24,6,1,Shahbaz Ahmed,0,0,11,0,Viyaskanth,1.0,0,7,0
+PBKS,7,7.2,6,1,0,0,0,Atharva,Atharva,39,20,4,2,Prabhsimran,40,24,6,1,Shahbaz Ahmed,0,0,10,0,Viyaskanth,1.0,0,7,0
+PBKS,7,7.1,4,1,0,0,0,Atharva,Atharva,33,19,4,1,Prabhsimran,40,24,6,1,Shahbaz Ahmed,0,0,4,0,Viyaskanth,1.0,0,7,0
+PBKS,6,6.6,2,0,0,0,0,Prabhsimran,Atharva,29,18,3,1,Prabhsimran,40,24,6,1,Viyaskanth,1.0,0,7,0,Bhuvneshwar,3.0,0,30,0
+PBKS,6,6.5,0,0,1,0,0,Prabhsimran,Atharva,29,18,3,1,Prabhsimran,38,23,6,1,Viyaskanth,0,0,5,0,Bhuvneshwar,3.0,0,30,0
+PBKS,6,6.4,0,0,1,0,0,Prabhsimran,Atharva,29,18,3,1,Prabhsimran,38,22,6,1,Viyaskanth,0,0,5,0,Bhuvneshwar,3.0,0,30,0
+PBKS,6,6.3,4,1,0,0,0,Prabhsimran,Atharva,29,18,3,1,Prabhsimran,38,21,6,1,Viyaskanth,0,0,5,0,Bhuvneshwar,3.0,0,30,0
+PBKS,6,6.2,1,0,0,0,0,Atharva,Atharva,29,18,3,1,Prabhsimran,34,20,5,1,Viyaskanth,0,0,1,0,Bhuvneshwar,3.0,0,30,0
+PBKS,6,6.1,1,0,0,0,1,Prabhsimran,Atharva,28,17,3,1,Prabhsimran,34,20,5,1,Viyaskanth,0,0,0,0,Bhuvneshwar,3.0,0,30,0
+PBKS,5,5.6,6,1,0,0,0,Atharva,Atharva,28,17,3,1,Prabhsimran,33,19,5,1,Bhuvneshwar,3.0,0,30,0,Cummins,2.0,0,19,0
+PBKS,5,5.5,1,0,0,0,0,Prabhsimran,Atharva,22,16,3,0,Prabhsimran,33,19,5,1,Bhuvneshwar,2.0,0,24,0,Cummins,2.0,0,19,0
+PBKS,5,5.4,2,0,0,0,0,Prabhsimran,Atharva,22,16,3,0,Prabhsimran,32,18,5,1,Bhuvneshwar,2.0,0,23,0,Cummins,2.0,0,19,0
+PBKS,5,5.3,4,1,0,0,0,Prabhsimran,Atharva,22,16,3,0,Prabhsimran,30,17,5,1,Bhuvneshwar,2.0,0,21,0,Cummins,2.0,0,19,0
+PBKS,5,5.2,1,0,0,0,1,Atharva,Atharva,22,16,3,0,Prabhsimran,26,16,4,1,Bhuvneshwar,2.0,0,17,0,Cummins,2.0,0,19,0
+PBKS,5,5.1,0,0,1,0,0,Atharva,Atharva,21,15,3,0,Prabhsimran,26,16,4,1,Bhuvneshwar,2.0,0,17,0,Cummins,2.0,0,19,0
+PBKS,4,4.6,6,1,0,0,0,Prabhsimran,Atharva,21,14,3,0,Prabhsimran,26,16,4,1,Cummins,2.0,0,19,0,Natarajan,1.0,0,11,0
+PBKS,4,4.5,4,1,0,0,0,Prabhsimran,Atharva,21,14,3,0,Prabhsimran,20,15,4,0,Cummins,1.0,0,13,0,Natarajan,1.0,0,11,0
+PBKS,4,4.4,1,0,0,0,0,Atharva,Atharva,21,14,3,0,Prabhsimran,16,14,3,0,Cummins,1.0,0,9,0,Natarajan,1.0,0,11,0
+PBKS,4,4.3,0,0,1,0,0,Atharva,Atharva,20,13,3,0,Prabhsimran,16,14,3,0,Cummins,1.0,0,8,0,Natarajan,1.0,0,11,0
+PBKS,4,4.2,0,0,1,0,0,Atharva,Atharva,20,12,3,0,Prabhsimran,16,14,3,0,Cummins,1.0,0,8,0,Natarajan,1.0,0,11,0
+PBKS,4,4.1,1,0,0,0,0,Prabhsimran,Atharva,20,11,3,0,Prabhsimran,16,14,3,0,Cummins,1.0,0,8,0,Natarajan,1.0,0,11,0
+PBKS,3,3.6,4,1,0,0,0,Atharva,Atharva,20,11,3,0,Prabhsimran,15,13,3,0,Natarajan,1.0,0,11,0,Bhuvneshwar,2.0,0,17,0
+PBKS,3,3.5,4,1,0,0,0,Atharva,Atharva,16,10,2,0,Prabhsimran,15,13,3,0,Natarajan,0,0,7,0,Bhuvneshwar,2.0,0,17,0
+PBKS,3,3.4,1,0,0,0,0,Prabhsimran,Atharva,12,9,1,0,Prabhsimran,15,13,3,0,Natarajan,0,0,3,0,Bhuvneshwar,2.0,0,17,0
+PBKS,3,3.3,0,0,1,0,0,Prabhsimran,Atharva,12,9,1,0,Prabhsimran,14,12,3,0,Natarajan,0,0,2,0,Bhuvneshwar,2.0,0,17,0
+PBKS,3,3.2,1,0,0,0,0,Atharva,Atharva,12,9,1,0,Prabhsimran,14,11,3,0,Natarajan,0,0,2,0,Bhuvneshwar,2.0,0,17,0
+PBKS,3,3.1,1,0,0,0,0,Prabhsimran,Atharva,11,8,1,0,Prabhsimran,14,11,3,0,Natarajan,0,0,1,0,Bhuvneshwar,2.0,0,17,0
+PBKS,2,2.6,1,0,0,0,0,Prabhsimran,Atharva,11,8,1,0,Prabhsimran,13,10,3,0,Bhuvneshwar,2.0,0,17,0,Cummins,1.0,0,7,0
+PBKS,2,2.5,4,1,0,0,0,Prabhsimran,Atharva,11,8,1,0,Prabhsimran,12,9,3,0,Bhuvneshwar,1.0,0,16,0,Cummins,1.0,0,7,0
+PBKS,2,2.4,4,1,0,0,0,Prabhsimran,Atharva,11,8,1,0,Prabhsimran,8,8,2,0,Bhuvneshwar,1.0,0,12,0,Cummins,1.0,0,7,0
+PBKS,2,2.3,1,0,0,0,0,Atharva,Atharva,11,8,1,0,Prabhsimran,4,7,1,0,Bhuvneshwar,1.0,0,8,0,Cummins,1.0,0,7,0
+PBKS,2,2.2,0,0,1,0,0,Atharva,Atharva,10,7,1,0,Prabhsimran,4,7,1,0,Bhuvneshwar,1.0,0,7,0,Cummins,1.0,0,7,0
+PBKS,2,2.1,2,0,0,0,0,Atharva,Atharva,10,6,1,0,Prabhsimran,4,7,1,0,Bhuvneshwar,1.0,0,7,0,Cummins,1.0,0,7,0
+PBKS,1,1.6,0,0,1,0,0,Prabhsimran,Atharva,8,5,1,0,Prabhsimran,4,7,1,0,Cummins,1.0,0,7,0,Bhuvneshwar,1.0,0,5,0
+PBKS,1,1.5,0,0,1,0,0,Prabhsimran,Atharva,8,5,1,0,Prabhsimran,4,6,1,0,Cummins,0,0,7,0,Bhuvneshwar,1.0,0,5,0
+PBKS,1,1.4,1,0,0,0,0,Atharva,Atharva,8,5,1,0,Prabhsimran,4,5,1,0,Cummins,0,0,7,0,Bhuvneshwar,1.0,0,5,0
+PBKS,1,1.3,0,0,1,0,0,Atharva,Atharva,7,4,1,0,Prabhsimran,4,5,1,0,Cummins,0,0,6,0,Bhuvneshwar,1.0,0,5,0
+PBKS,1,1.2,4,1,0,0,0,Atharva,Atharva,7,3,1,0,Prabhsimran,4,5,1,0,Cummins,0,0,6,0,Bhuvneshwar,1.0,0,5,0
+PBKS,1,1.1,2,0,0,0,0,Atharva,Atharva,3,2,0,0,Prabhsimran,4,5,1,0,Cummins,0,0,2,0,Bhuvneshwar,1.0,0,5,0
+PBKS,0,0.6,0,0,1,0,0,Prabhsimran,Atharva,1,1,0,0,Prabhsimran,4,5,1,0,Bhuvneshwar,1.0,0,5,0,,0,0,0,0
+PBKS,0,0.5,4,1,0,0,0,Prabhsimran,Atharva,1,1,0,0,Prabhsimran,4,4,1,0,Bhuvneshwar,0,0,5,0,,0,0,0,0
+PBKS,0,0.4,0,0,1,0,0,Prabhsimran,Atharva,1,1,0,0,Prabhsimran,0,3,0,0,Bhuvneshwar,0,0,1,0,,0,0,0,0
+PBKS,0,0.3,0,0,1,0,0,Prabhsimran,Atharva,1,1,0,0,Prabhsimran,0,2,0,0,Bhuvneshwar,0,0,1,0,,0,0,0,0
+PBKS,0,0.2,0,0,1,0,0,Prabhsimran,Atharva,1,1,0,0,Prabhsimran,0,1,0,0,Bhuvneshwar,0,0,1,0,,0,0,0,0
+PBKS,0,0.1,1,0,0,0,0,Atharva,Atharva,1,1,0,0,,0,0,0,0,Bhuvneshwar,0,0,1,0,,0,0,0,0

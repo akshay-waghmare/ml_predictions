@@ -1,0 +1,126 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+RR,19,19.6,1,0,0,0,0,Parag,Parag,86,45,7,6,Hetmyer,16,7,1,1,Nortje,4.0,0,48,1,Mukesh Kumar,4.0,0,49,1
+RR,19,19.5,6,1,0,0,0,Parag,Parag,85,44,7,6,Hetmyer,16,7,1,1,Nortje,3.0,0,47,1,Mukesh Kumar,4.0,0,49,1
+RR,19,19.4,4,1,0,0,0,Parag,Parag,79,43,7,5,Hetmyer,16,7,1,1,Nortje,3.0,0,41,1,Mukesh Kumar,4.0,0,49,1
+RR,19,19.3,6,1,0,0,0,Parag,Parag,75,42,6,5,Hetmyer,16,7,1,1,Nortje,3.0,0,37,1,Mukesh Kumar,4.0,0,49,1
+RR,19,19.2,4,1,0,0,0,Parag,Parag,69,41,6,4,Hetmyer,16,7,1,1,Nortje,3.0,0,31,1,Mukesh Kumar,4.0,0,49,1
+RR,19,19.1,4,1,0,0,0,Parag,Parag,65,40,5,4,Hetmyer,16,7,1,1,Nortje,3.0,0,27,1,Mukesh Kumar,4.0,0,49,1
+RR,18,18.6,2,0,0,0,0,Hetmyer,Parag,61,39,4,4,Hetmyer,16,7,1,1,Mukesh Kumar,4.0,0,49,1,Nortje,3.0,0,23,1
+RR,18,18.5,0,0,1,0,0,Hetmyer,Parag,61,39,4,4,Hetmyer,14,6,1,1,Mukesh Kumar,3.0,0,47,1,Nortje,3.0,0,23,1
+RR,18,18.4,4,1,0,0,0,Hetmyer,Parag,61,39,4,4,Hetmyer,14,5,1,1,Mukesh Kumar,3.0,0,47,1,Nortje,3.0,0,23,1
+RR,18,18.3,6,1,0,0,0,Hetmyer,Parag,61,39,4,4,Hetmyer,10,4,0,1,Mukesh Kumar,3.0,0,43,1,Nortje,3.0,0,23,1
+RR,18,18.2,1,0,0,0,0,Parag,Parag,61,39,4,4,Hetmyer,4,3,0,0,Mukesh Kumar,3.0,0,37,1,Nortje,3.0,0,23,1
+RR,18,18.1,1,0,0,0,0,Hetmyer,Parag,60,38,4,4,Hetmyer,4,3,0,0,Mukesh Kumar,3.0,0,36,1,Nortje,3.0,0,23,1
+RR,18,18.1,1,0,0,0,1,Hetmyer,Parag,60,38,4,4,Hetmyer,3,2,0,0,Mukesh Kumar,3.0,0,35,1,Nortje,3.0,0,23,1
+RR,17,17.6,1,0,0,0,1,Hetmyer,Parag,60,38,4,4,Hetmyer,2,2,0,0,Nortje,3.0,0,23,1,Kuldeep,4.0,0,41,1
+RR,17,17.5,1,0,0,0,0,Parag,Parag,60,38,4,4,Hetmyer,1,1,0,0,Nortje,2.0,0,23,1,Kuldeep,4.0,0,41,1
+RR,17,17.4,0,0,1,0,0,Parag,Parag,59,37,4,4,Hetmyer,1,1,0,0,Nortje,2.0,0,22,1,Kuldeep,4.0,0,41,1
+RR,17,17.3,1,0,0,0,0,Hetmyer,Parag,59,36,4,4,Hetmyer,1,1,0,0,Nortje,2.0,0,22,1,Kuldeep,4.0,0,41,1
+RR,17,17.2,0,0,0,1,0,Jurel,Parag,59,36,4,4,,0,0,0,0,Nortje,2.0,0,21,1,Kuldeep,4.0,0,41,1
+RR,17,17.1,4,1,0,0,0,Jurel,Parag,59,36,4,4,Jurel,20,11,3,0,Nortje,2.0,0,21,0,Kuldeep,4.0,0,41,1
+RR,16,16.6,6,1,0,0,0,Parag,Parag,59,36,4,4,Jurel,16,10,2,0,Kuldeep,4.0,0,41,1,Mukesh Kumar,3.0,0,34,1
+RR,16,16.5,1,0,0,0,0,Jurel,Parag,53,35,4,3,Jurel,16,10,2,0,Kuldeep,3.0,0,35,1,Mukesh Kumar,3.0,0,34,1
+RR,16,16.4,2,0,0,0,0,Jurel,Parag,53,35,4,3,Jurel,15,9,2,0,Kuldeep,3.0,0,34,1,Mukesh Kumar,3.0,0,34,1
+RR,16,16.3,4,1,0,0,0,Jurel,Parag,53,35,4,3,Jurel,13,8,2,0,Kuldeep,3.0,0,32,1,Mukesh Kumar,3.0,0,34,1
+RR,16,16.2,1,0,0,0,0,Parag,Parag,53,35,4,3,Jurel,9,7,1,0,Kuldeep,3.0,0,28,1,Mukesh Kumar,3.0,0,34,1
+RR,16,16.1,1,0,0,0,0,Jurel,Parag,52,34,4,3,Jurel,9,7,1,0,Kuldeep,3.0,0,27,1,Mukesh Kumar,3.0,0,34,1
+RR,15,15.6,6,1,0,0,0,Parag,Parag,52,34,4,3,Jurel,8,6,1,0,Mukesh Kumar,3.0,0,34,1,Khaleel Ahmed,4.0,0,24,1
+RR,15,15.5,0,0,1,0,0,Parag,Parag,46,33,4,2,Jurel,8,6,1,0,Mukesh Kumar,2.0,0,28,1,Khaleel Ahmed,4.0,0,24,1
+RR,15,15.4,4,1,0,0,0,Parag,Parag,46,32,4,2,Jurel,8,6,1,0,Mukesh Kumar,2.0,0,28,1,Khaleel Ahmed,4.0,0,24,1
+RR,15,15.3,0,0,1,0,0,Parag,Parag,42,31,3,2,Jurel,8,6,1,0,Mukesh Kumar,2.0,0,24,1,Khaleel Ahmed,4.0,0,24,1
+RR,15,15.2,1,0,0,0,0,Jurel,Parag,42,30,3,2,Jurel,8,6,1,0,Mukesh Kumar,2.0,0,24,1,Khaleel Ahmed,4.0,0,24,1
+RR,15,15.1,4,1,0,0,0,Jurel,Parag,42,30,3,2,Jurel,7,5,1,0,Mukesh Kumar,2.0,0,23,1,Khaleel Ahmed,4.0,0,24,1
+RR,14,14.6,0,0,1,0,0,Parag,Parag,42,30,3,2,Jurel,3,4,0,0,Khaleel Ahmed,4.0,0,24,1,Axar Patel,4.0,0,21,1
+RR,14,14.5,4,1,0,0,0,Parag,Parag,42,29,3,2,Jurel,3,4,0,0,Khaleel Ahmed,3.0,0,24,1,Axar Patel,4.0,0,21,1
+RR,14,14.4,4,1,0,0,0,Parag,Parag,38,28,2,2,Jurel,3,4,0,0,Khaleel Ahmed,3.0,0,20,1,Axar Patel,4.0,0,21,1
+RR,14,14.3,6,1,0,0,0,Parag,Parag,34,27,1,2,Jurel,3,4,0,0,Khaleel Ahmed,3.0,0,16,1,Axar Patel,4.0,0,21,1
+RR,14,14.2,1,0,0,0,0,Jurel,Parag,28,26,1,1,Jurel,3,4,0,0,Khaleel Ahmed,3.0,0,10,1,Axar Patel,4.0,0,21,1
+RR,14,14.1,0,0,1,0,0,Jurel,Parag,28,26,1,1,Jurel,2,3,0,0,Khaleel Ahmed,3.0,0,9,1,Axar Patel,4.0,0,21,1
+RR,13,13.6,1,0,0,0,0,Jurel,Parag,28,26,1,1,Jurel,2,2,0,0,Axar Patel,4.0,0,21,1,Kuldeep,3.0,0,26,1
+RR,13,13.5,1,0,0,0,0,Parag,Parag,28,26,1,1,Jurel,1,1,0,0,Axar Patel,3.0,0,20,1,Kuldeep,3.0,0,26,1
+RR,13,13.4,1,0,0,0,0,Jurel,Parag,27,25,1,1,Jurel,1,1,0,0,Axar Patel,3.0,0,19,1,Kuldeep,3.0,0,26,1
+RR,13,13.3,0,0,0,1,0,Ashwin,Parag,27,25,1,1,,0,0,0,0,Axar Patel,3.0,0,18,1,Kuldeep,3.0,0,26,1
+RR,13,13.2,1,0,0,0,0,Parag,Parag,27,25,1,1,Ashwin,31,18,0,3,Axar Patel,3.0,0,18,0,Kuldeep,3.0,0,26,1
+RR,13,13.1,1,0,0,0,0,Ashwin,Parag,26,24,1,1,Ashwin,31,18,0,3,Axar Patel,3.0,0,17,0,Kuldeep,3.0,0,26,1
+RR,12,12.6,0,0,1,0,0,Parag,Parag,26,24,1,1,Ashwin,30,17,0,3,Kuldeep,3.0,0,26,1,Axar Patel,3.0,0,16,0
+RR,12,12.5,2,0,0,0,0,Parag,Parag,26,23,1,1,Ashwin,30,17,0,3,Kuldeep,2.0,0,26,1,Axar Patel,3.0,0,16,0
+RR,12,12.4,0,0,1,0,0,Parag,Parag,24,22,1,1,Ashwin,30,17,0,3,Kuldeep,2.0,0,24,1,Axar Patel,3.0,0,16,0
+RR,12,12.4,1,0,0,0,1,Parag,Parag,24,21,1,1,Ashwin,30,17,0,3,Kuldeep,2.0,0,24,1,Axar Patel,3.0,0,16,0
+RR,12,12.3,6,1,0,0,0,Parag,Parag,23,21,1,1,Ashwin,30,17,0,3,Kuldeep,2.0,0,23,1,Axar Patel,3.0,0,16,0
+RR,12,12.2,1,0,0,0,0,Ashwin,Parag,17,20,1,0,Ashwin,30,17,0,3,Kuldeep,2.0,0,17,1,Axar Patel,3.0,0,16,0
+RR,12,12.1,1,0,0,0,0,Parag,Parag,17,20,1,0,Ashwin,29,16,0,3,Kuldeep,2.0,0,16,1,Axar Patel,3.0,0,16,0
+RR,11,11.6,1,0,0,0,0,Parag,Parag,16,19,1,0,Ashwin,29,16,0,3,Axar Patel,3.0,0,16,0,Nortje,2.0,0,17,0
+RR,11,11.5,1,0,0,0,0,Ashwin,Parag,15,18,1,0,Ashwin,29,16,0,3,Axar Patel,2.0,0,15,0,Nortje,2.0,0,17,0
+RR,11,11.4,1,0,0,0,0,Parag,Parag,15,18,1,0,Ashwin,28,15,0,3,Axar Patel,2.0,0,14,0,Nortje,2.0,0,17,0
+RR,11,11.3,1,0,0,0,0,Ashwin,Parag,14,17,1,0,Ashwin,28,15,0,3,Axar Patel,2.0,0,13,0,Nortje,2.0,0,17,0
+RR,11,11.2,0,0,1,0,0,Ashwin,Parag,14,17,1,0,Ashwin,27,14,0,3,Axar Patel,2.0,0,12,0,Nortje,2.0,0,17,0
+RR,11,11.1,0,0,1,0,0,Ashwin,Parag,14,17,1,0,Ashwin,27,13,0,3,Axar Patel,2.0,0,12,0,Nortje,2.0,0,17,0
+RR,10,10.6,0,0,1,0,0,Parag,Parag,14,17,1,0,Ashwin,27,12,0,3,Nortje,2.0,0,17,0,Kuldeep,2.0,0,15,1
+RR,10,10.5,1,0,0,0,0,Ashwin,Parag,14,16,1,0,Ashwin,27,12,0,3,Nortje,1.0,0,17,0,Kuldeep,2.0,0,15,1
+RR,10,10.4,6,1,0,0,0,Ashwin,Parag,14,16,1,0,Ashwin,26,11,0,3,Nortje,1.0,0,16,0,Kuldeep,2.0,0,15,1
+RR,10,10.3,1,0,0,0,0,Parag,Parag,14,16,1,0,Ashwin,20,10,0,2,Nortje,1.0,0,10,0,Kuldeep,2.0,0,15,1
+RR,10,10.2,1,0,0,0,1,Ashwin,Parag,13,15,1,0,Ashwin,20,10,0,2,Nortje,1.0,0,9,0,Kuldeep,2.0,0,15,1
+RR,10,10.1,6,1,0,0,0,Ashwin,Parag,13,15,1,0,Ashwin,19,9,0,2,Nortje,1.0,0,9,0,Kuldeep,2.0,0,15,1
+RR,9,9.6,1,0,0,0,0,Ashwin,Parag,13,15,1,0,Ashwin,13,8,0,1,Kuldeep,2.0,0,15,1,Axar Patel,2.0,0,12,0
+RR,9,9.5,6,1,0,0,0,Ashwin,Parag,13,15,1,0,Ashwin,12,7,0,1,Kuldeep,1.0,0,14,1,Axar Patel,2.0,0,12,0
+RR,9,9.4,1,0,0,0,0,Parag,Parag,13,15,1,0,Ashwin,6,6,0,0,Kuldeep,1.0,0,8,1,Axar Patel,2.0,0,12,0
+RR,9,9.3,1,0,0,0,0,Ashwin,Parag,12,14,1,0,Ashwin,6,6,0,0,Kuldeep,1.0,0,7,1,Axar Patel,2.0,0,12,0
+RR,9,9.3,1,0,0,0,1,Ashwin,Parag,12,14,1,0,Ashwin,5,5,0,0,Kuldeep,1.0,0,6,1,Axar Patel,2.0,0,12,0
+RR,9,9.2,1,0,0,0,0,Parag,Parag,12,14,1,0,Ashwin,4,5,0,0,Kuldeep,1.0,0,5,1,Axar Patel,2.0,0,12,0
+RR,9,9.1,1,0,0,0,0,Ashwin,Parag,11,13,1,0,Ashwin,4,5,0,0,Kuldeep,1.0,0,4,1,Axar Patel,2.0,0,12,0
+RR,8,8.6,0,0,1,0,0,Parag,Parag,11,13,1,0,Ashwin,3,4,0,0,Axar Patel,2.0,0,12,0,Kuldeep,1.0,0,3,1
+RR,8,8.5,4,1,0,0,0,Parag,Parag,11,12,1,0,Ashwin,3,4,0,0,Axar Patel,1.0,0,12,0,Kuldeep,1.0,0,3,1
+RR,8,8.4,1,0,0,0,0,Ashwin,Parag,7,11,0,0,Ashwin,3,4,0,0,Axar Patel,1.0,0,8,0,Kuldeep,1.0,0,3,1
+RR,8,8.3,1,0,0,0,0,Parag,Parag,7,11,0,0,Ashwin,2,3,0,0,Axar Patel,1.0,0,7,0,Kuldeep,1.0,0,3,1
+RR,8,8.2,1,0,0,0,0,Ashwin,Parag,6,10,0,0,Ashwin,2,3,0,0,Axar Patel,1.0,0,6,0,Kuldeep,1.0,0,3,1
+RR,8,8.1,1,0,0,0,0,Parag,Parag,6,10,0,0,Ashwin,1,2,0,0,Axar Patel,1.0,0,5,0,Kuldeep,1.0,0,3,1
+RR,7,7.6,1,0,0,0,0,Parag,Parag,5,9,0,0,Ashwin,1,2,0,0,Kuldeep,1.0,0,3,1,Axar Patel,1.0,0,4,0
+RR,7,7.5,0,0,1,0,0,Parag,Parag,4,8,0,0,Ashwin,1,2,0,0,Kuldeep,0,0,2,1,Axar Patel,1.0,0,4,0
+RR,7,7.4,1,0,0,0,0,Ashwin,Parag,4,7,0,0,Ashwin,1,2,0,0,Kuldeep,0,0,2,1,Axar Patel,1.0,0,4,0
+RR,7,7.3,0,0,1,0,0,Ashwin,Parag,4,7,0,0,Ashwin,0,1,0,0,Kuldeep,0,0,1,1,Axar Patel,1.0,0,4,0
+RR,7,7.2,0,0,0,1,0,Buttler,Parag,4,7,0,0,,0,0,0,0,Kuldeep,0,0,1,1,Axar Patel,1.0,0,4,0
+RR,7,7.1,1,0,0,0,0,Parag,Buttler,11,15,0,0,Parag,4,7,0,0,Kuldeep,0,0,1,0,Axar Patel,1.0,0,4,0
+RR,6,6.6,0,0,1,0,0,Buttler,Buttler,11,15,0,0,Parag,3,6,0,0,Axar Patel,1.0,0,4,0,Khaleel Ahmed,3.0,0,9,1
+RR,6,6.5,0,0,1,0,0,Buttler,Buttler,11,14,0,0,Parag,3,6,0,0,Axar Patel,0,0,4,0,Khaleel Ahmed,3.0,0,9,1
+RR,6,6.4,1,0,0,0,0,Parag,Buttler,11,13,0,0,Parag,3,6,0,0,Axar Patel,0,0,4,0,Khaleel Ahmed,3.0,0,9,1
+RR,6,6.3,1,0,0,0,0,Buttler,Buttler,11,13,0,0,Parag,2,5,0,0,Axar Patel,0,0,3,0,Khaleel Ahmed,3.0,0,9,1
+RR,6,6.2,1,0,0,0,0,Parag,Buttler,10,12,0,0,Parag,2,5,0,0,Axar Patel,0,0,2,0,Khaleel Ahmed,3.0,0,9,1
+RR,6,6.1,1,0,0,0,0,Buttler,Buttler,10,12,0,0,Parag,1,4,0,0,Axar Patel,0,0,1,0,Khaleel Ahmed,3.0,0,9,1
+RR,5,5.6,0,0,1,0,0,Parag,Buttler,9,11,0,0,Parag,1,4,0,0,Khaleel Ahmed,3.0,0,9,1,Nortje,1.0,0,3,0
+RR,5,5.6,1,0,0,0,1,Parag,Buttler,9,11,0,0,Parag,1,3,0,0,Khaleel Ahmed,2.0,0,9,1,Nortje,1.0,0,3,0
+RR,5,5.5,0,0,1,0,0,Parag,Buttler,9,11,0,0,Parag,0,3,0,0,Khaleel Ahmed,2.0,0,8,1,Nortje,1.0,0,3,0
+RR,5,5.4,0,0,1,0,0,Parag,Buttler,9,11,0,0,Parag,0,2,0,0,Khaleel Ahmed,2.0,0,8,1,Nortje,1.0,0,3,0
+RR,5,5.3,0,0,1,0,0,Parag,Buttler,9,11,0,0,Parag,0,1,0,0,Khaleel Ahmed,2.0,0,8,1,Nortje,1.0,0,3,0
+RR,5,5.2,0,0,0,1,0,Samson,Buttler,9,11,0,0,,0,0,0,0,Khaleel Ahmed,2.0,0,8,1,Nortje,1.0,0,3,0
+RR,5,5.1,1,0,0,0,0,Buttler,Buttler,9,11,0,0,Samson,16,13,3,0,Khaleel Ahmed,2.0,0,8,0,Nortje,1.0,0,3,0
+RR,4,4.6,0,0,1,0,0,Samson,Buttler,8,10,0,0,Samson,16,13,3,0,Nortje,1.0,0,3,0,Mukesh Kumar,2.0,0,19,1
+RR,4,4.5,0,0,1,0,0,Samson,Buttler,8,10,0,0,Samson,16,12,3,0,Nortje,0,0,3,0,Mukesh Kumar,2.0,0,19,1
+RR,4,4.4,1,0,0,0,0,Buttler,Buttler,8,10,0,0,Samson,16,11,3,0,Nortje,0,0,3,0,Mukesh Kumar,2.0,0,19,1
+RR,4,4.3,1,0,0,0,0,Samson,Buttler,7,9,0,0,Samson,16,11,3,0,Nortje,0,0,2,0,Mukesh Kumar,2.0,0,19,1
+RR,4,4.2,0,0,1,0,0,Samson,Buttler,7,9,0,0,Samson,15,10,3,0,Nortje,0,0,1,0,Mukesh Kumar,2.0,0,19,1
+RR,4,4.1,1,0,0,0,0,Buttler,Buttler,7,9,0,0,Samson,15,9,3,0,Nortje,0,0,1,0,Mukesh Kumar,2.0,0,19,1
+RR,3,3.6,1,0,0,0,0,Buttler,Buttler,6,8,0,0,Samson,15,9,3,0,Mukesh Kumar,2.0,0,19,1,Khaleel Ahmed,2.0,0,7,0
+RR,3,3.5,0,0,1,0,0,Buttler,Buttler,5,7,0,0,Samson,15,9,3,0,Mukesh Kumar,1.0,0,18,1,Khaleel Ahmed,2.0,0,7,0
+RR,3,3.4,1,0,0,0,0,Samson,Buttler,5,6,0,0,Samson,15,9,3,0,Mukesh Kumar,1.0,0,18,1,Khaleel Ahmed,2.0,0,7,0
+RR,3,3.3,4,1,0,0,0,Samson,Buttler,5,6,0,0,Samson,14,8,3,0,Mukesh Kumar,1.0,0,17,1,Khaleel Ahmed,2.0,0,7,0
+RR,3,3.2,4,1,0,0,0,Samson,Buttler,5,6,0,0,Samson,10,7,2,0,Mukesh Kumar,1.0,0,13,1,Khaleel Ahmed,2.0,0,7,0
+RR,3,3.1,4,1,0,0,0,Samson,Buttler,5,6,0,0,Samson,6,6,1,0,Mukesh Kumar,1.0,0,9,1,Khaleel Ahmed,2.0,0,7,0
+RR,2,2.6,1,0,0,0,0,Samson,Buttler,5,6,0,0,Samson,2,5,0,0,Khaleel Ahmed,2.0,0,7,0,Mukesh Kumar,1.0,0,5,1
+RR,2,2.5,0,0,1,0,0,Samson,Buttler,5,6,0,0,Samson,1,4,0,0,Khaleel Ahmed,1.0,0,6,0,Mukesh Kumar,1.0,0,5,1
+RR,2,2.4,0,0,1,0,0,Samson,Buttler,5,6,0,0,Samson,1,3,0,0,Khaleel Ahmed,1.0,0,6,0,Mukesh Kumar,1.0,0,5,1
+RR,2,2.4,1,0,0,0,1,Samson,Buttler,5,6,0,0,Samson,1,2,0,0,Khaleel Ahmed,1.0,0,6,0,Mukesh Kumar,1.0,0,5,1
+RR,2,2.3,0,0,1,0,0,Samson,Buttler,5,6,0,0,Samson,0,2,0,0,Khaleel Ahmed,1.0,0,5,0,Mukesh Kumar,1.0,0,5,1
+RR,2,2.2,1,0,0,0,0,Buttler,Buttler,5,6,0,0,Samson,0,1,0,0,Khaleel Ahmed,1.0,0,5,0,Mukesh Kumar,1.0,0,5,1
+RR,2,2.1,0,0,1,0,0,Buttler,Buttler,4,5,0,0,Samson,0,1,0,0,Khaleel Ahmed,1.0,0,4,0,Mukesh Kumar,1.0,0,5,1
+RR,1,1.6,0,0,1,0,0,Samson,Buttler,4,4,0,0,Samson,0,1,0,0,Mukesh Kumar,1.0,0,5,1,Khaleel Ahmed,1.0,0,4,0
+RR,1,1.5,0,0,0,1,0,Jaiswal,Buttler,4,4,0,0,,0,0,0,0,Mukesh Kumar,0,0,5,1,Khaleel Ahmed,1.0,0,4,0
+RR,1,1.4,0,0,1,0,0,Jaiswal,Jaiswal,5,6,1,0,Buttler,4,4,0,0,Mukesh Kumar,0,0,5,0,Khaleel Ahmed,1.0,0,4,0
+RR,1,1.3,0,0,1,0,0,Jaiswal,Jaiswal,5,5,1,0,Buttler,4,4,0,0,Mukesh Kumar,0,0,5,0,Khaleel Ahmed,1.0,0,4,0
+RR,1,1.2,4,1,0,0,0,Jaiswal,Jaiswal,5,4,1,0,Buttler,4,4,0,0,Mukesh Kumar,0,0,5,0,Khaleel Ahmed,1.0,0,4,0
+RR,1,1.1,1,0,0,0,0,Buttler,Jaiswal,1,3,0,0,Buttler,4,4,0,0,Mukesh Kumar,0,0,1,0,Khaleel Ahmed,1.0,0,4,0
+RR,0,0.6,0,0,1,0,0,Jaiswal,Jaiswal,1,3,0,0,Buttler,3,3,0,0,Khaleel Ahmed,1.0,0,4,0,,0,0,0,0
+RR,0,0.5,1,0,0,0,0,Buttler,Jaiswal,1,2,0,0,Buttler,3,3,0,0,Khaleel Ahmed,0,0,4,0,,0,0,0,0
+RR,0,0.4,2,0,0,0,0,Buttler,Jaiswal,1,2,0,0,Buttler,2,2,0,0,Khaleel Ahmed,0,0,3,0,,0,0,0,0
+RR,0,0.3,0,0,1,0,0,Buttler,Jaiswal,1,2,0,0,Buttler,0,1,0,0,Khaleel Ahmed,0,0,1,0,,0,0,0,0
+RR,0,0.2,1,0,0,0,0,Jaiswal,Jaiswal,1,2,0,0,,0,0,0,0,Khaleel Ahmed,0,0,1,0,,0,0,0,0
+RR,0,0.1,0,0,1,0,0,Jaiswal,Jaiswal,0,1,0,0,,0,0,0,0,Khaleel Ahmed,0,0,0,0,,0,0,0,0

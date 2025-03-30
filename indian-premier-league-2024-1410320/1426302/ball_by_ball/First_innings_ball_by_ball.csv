@@ -1,0 +1,126 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+LSG,19,19.6,0,0,1,0,0,Naveen,Ravi Bishnoi,2,2,0,0,Naveen,2,4,0,0,Rasikh Salam,3.0,0,30,0,Mukesh Kumar,4.0,0,33,1
+LSG,19,19.5,0,0,1,0,0,Naveen,Ravi Bishnoi,2,2,0,0,Naveen,2,3,0,0,Rasikh Salam,2.0,0,30,0,Mukesh Kumar,4.0,0,33,1
+LSG,19,19.4,0,0,1,0,0,Naveen,Ravi Bishnoi,2,2,0,0,Naveen,2,2,0,0,Rasikh Salam,2.0,0,30,0,Mukesh Kumar,4.0,0,33,1
+LSG,19,19.3,1,0,0,0,0,Arshad Khan,Ravi Bishnoi,2,2,0,0,Naveen,2,1,0,0,Rasikh Salam,2.0,0,30,0,Mukesh Kumar,4.0,0,33,1
+LSG,19,19.2,2,0,0,0,0,Arshad Khan,Ravi Bishnoi,2,2,0,0,Naveen,2,1,0,0,Rasikh Salam,2.0,0,29,0,Mukesh Kumar,4.0,0,33,1
+LSG,19,19.1,0,0,1,0,0,Arshad Khan,Ravi Bishnoi,2,2,0,0,Naveen,2,1,0,0,Rasikh Salam,2.0,0,27,0,Mukesh Kumar,4.0,0,33,1
+LSG,18,18.6,2,0,0,0,0,Naveen,Ravi Bishnoi,2,2,0,0,Naveen,2,1,0,0,Mukesh Kumar,4.0,0,33,1,Rasikh Salam,2.0,0,27,0
+LSG,18,18.5,1,0,0,0,0,Arshad Khan,Arshad Khan,57,30,3,5,Ravi Bishnoi,2,2,0,0,Mukesh Kumar,3.0,0,31,1,Rasikh Salam,2.0,0,27,0
+LSG,18,18.4,0,0,1,0,0,Arshad Khan,Arshad Khan,56,29,3,5,Ravi Bishnoi,2,2,0,0,Mukesh Kumar,3.0,0,30,1,Rasikh Salam,2.0,0,27,0
+LSG,18,18.3,1,0,0,0,0,Arshad Khan,Arshad Khan,56,28,3,5,Ravi Bishnoi,2,2,0,0,Mukesh Kumar,3.0,0,30,1,Rasikh Salam,2.0,0,27,0
+LSG,18,18.2,1,0,0,0,0,Ravi Bishnoi,Arshad Khan,55,27,3,5,Ravi Bishnoi,2,2,0,0,Mukesh Kumar,3.0,0,29,1,Rasikh Salam,2.0,0,27,0
+LSG,18,18.1,1,0,0,0,0,Arshad Khan,Arshad Khan,55,27,3,5,Ravi Bishnoi,1,1,0,0,Mukesh Kumar,3.0,0,28,1,Rasikh Salam,2.0,0,27,0
+LSG,17,17.6,1,0,0,0,0,Arshad Khan,Arshad Khan,54,26,3,5,Ravi Bishnoi,1,1,0,0,Rasikh Salam,2.0,0,27,0,Khaleel Ahmed,2.0,0,22,1
+LSG,17,17.5,2,0,0,0,0,Arshad Khan,Arshad Khan,53,25,3,5,Ravi Bishnoi,1,1,0,0,Rasikh Salam,1.0,0,26,0,Khaleel Ahmed,2.0,0,22,1
+LSG,17,17.4,2,0,0,0,0,Arshad Khan,Arshad Khan,51,24,3,5,Ravi Bishnoi,1,1,0,0,Rasikh Salam,1.0,0,24,0,Khaleel Ahmed,2.0,0,22,1
+LSG,17,17.3,6,1,0,0,0,Arshad Khan,Arshad Khan,49,23,3,5,Ravi Bishnoi,1,1,0,0,Rasikh Salam,1.0,0,22,0,Khaleel Ahmed,2.0,0,22,1
+LSG,17,17.2,1,0,0,0,0,Ravi Bishnoi,Arshad Khan,43,22,3,4,Ravi Bishnoi,1,1,0,0,Rasikh Salam,1.0,0,16,0,Khaleel Ahmed,2.0,0,22,1
+LSG,17,17.1,1,0,0,0,0,Arshad Khan,Arshad Khan,43,22,3,4,,0,0,0,0,Rasikh Salam,1.0,0,15,0,Khaleel Ahmed,2.0,0,22,1
+LSG,16,16.6,0,0,0,1,0,Yudhvir Singh,Arshad Khan,42,21,3,4,,0,0,0,0,Khaleel Ahmed,2.0,0,22,1,Rasikh Salam,1.0,0,14,0
+LSG,16,16.5,1,0,0,0,1,Arshad Khan,Arshad Khan,42,21,3,4,Yudhvir Singh,14,6,1,1,Khaleel Ahmed,1.0,0,22,0,Rasikh Salam,1.0,0,14,0
+LSG,16,16.4,4,1,0,0,0,Arshad Khan,Arshad Khan,41,20,3,4,Yudhvir Singh,14,6,1,1,Khaleel Ahmed,1.0,0,22,0,Rasikh Salam,1.0,0,14,0
+LSG,16,16.3,6,1,0,0,0,Arshad Khan,Arshad Khan,37,19,2,4,Yudhvir Singh,14,6,1,1,Khaleel Ahmed,1.0,0,18,0,Rasikh Salam,1.0,0,14,0
+LSG,16,16.3,1,0,0,0,1,Arshad Khan,Arshad Khan,31,18,2,3,Yudhvir Singh,14,6,1,1,Khaleel Ahmed,1.0,0,12,0,Rasikh Salam,1.0,0,14,0
+LSG,16,16.2,6,1,0,0,0,Arshad Khan,Arshad Khan,30,18,2,3,Yudhvir Singh,14,6,1,1,Khaleel Ahmed,1.0,0,11,0,Rasikh Salam,1.0,0,14,0
+LSG,16,16.1,0,0,1,0,0,Arshad Khan,Arshad Khan,24,17,2,2,Yudhvir Singh,14,6,1,1,Khaleel Ahmed,1.0,0,5,0,Rasikh Salam,1.0,0,14,0
+LSG,15,15.6,1,0,0,0,0,Arshad Khan,Arshad Khan,24,16,2,2,Yudhvir Singh,14,6,1,1,Rasikh Salam,1.0,0,14,0,Kuldeep,4.0,0,33,1
+LSG,15,15.5,0,0,1,0,0,Arshad Khan,Arshad Khan,23,15,2,2,Yudhvir Singh,14,6,1,1,Rasikh Salam,0,0,13,0,Kuldeep,4.0,0,33,1
+LSG,15,15.4,1,0,0,0,0,Yudhvir Singh,Arshad Khan,23,14,2,2,Yudhvir Singh,14,6,1,1,Rasikh Salam,0,0,13,0,Kuldeep,4.0,0,33,1
+LSG,15,15.3,2,0,0,0,0,Yudhvir Singh,Arshad Khan,23,14,2,2,Yudhvir Singh,13,5,1,1,Rasikh Salam,0,0,12,0,Kuldeep,4.0,0,33,1
+LSG,15,15.2,6,1,0,0,0,Yudhvir Singh,Arshad Khan,23,14,2,2,Yudhvir Singh,11,4,1,1,Rasikh Salam,0,0,10,0,Kuldeep,4.0,0,33,1
+LSG,15,15.1,4,1,0,0,0,Yudhvir Singh,Arshad Khan,23,14,2,2,Yudhvir Singh,5,3,1,0,Rasikh Salam,0,0,4,0,Kuldeep,4.0,0,33,1
+LSG,14,14.6,1,0,0,0,0,Yudhvir Singh,Arshad Khan,23,14,2,2,Yudhvir Singh,1,2,0,0,Kuldeep,4.0,0,33,1,Ishant Sharma,4.0,0,34,3
+LSG,14,14.5,0,0,1,0,0,Yudhvir Singh,Arshad Khan,23,14,2,2,Yudhvir Singh,0,1,0,0,Kuldeep,3.0,0,32,1,Ishant Sharma,4.0,0,34,3
+LSG,14,14.4,0,0,0,1,0,Krunal,Arshad Khan,23,14,2,2,,0,0,0,0,Kuldeep,3.0,0,32,1,Ishant Sharma,4.0,0,34,3
+LSG,14,14.3,1,0,0,0,0,Arshad Khan,Krunal,20,17,2,0,Arshad Khan,23,14,2,2,Kuldeep,3.0,0,32,0,Ishant Sharma,4.0,0,34,3
+LSG,14,14.2,4,1,0,0,0,Arshad Khan,Krunal,20,17,2,0,Arshad Khan,22,13,2,2,Kuldeep,3.0,0,31,0,Ishant Sharma,4.0,0,34,3
+LSG,14,14.1,1,0,0,0,0,Krunal,Krunal,20,17,2,0,Arshad Khan,18,12,1,2,Kuldeep,3.0,0,27,0,Ishant Sharma,4.0,0,34,3
+LSG,13,13.6,6,1,0,0,0,Arshad Khan,Krunal,19,16,2,0,Arshad Khan,18,12,1,2,Ishant Sharma,4.0,0,34,3,Kuldeep,3.0,0,26,0
+LSG,13,13.5,0,0,1,0,0,Arshad Khan,Krunal,19,16,2,0,Arshad Khan,12,11,1,1,Ishant Sharma,3.0,0,28,3,Kuldeep,3.0,0,26,0
+LSG,13,13.4,0,0,1,0,0,Arshad Khan,Krunal,19,16,2,0,Arshad Khan,12,10,1,1,Ishant Sharma,3.0,0,28,3,Kuldeep,3.0,0,26,0
+LSG,13,13.3,0,0,1,0,0,Arshad Khan,Krunal,19,16,2,0,Arshad Khan,12,9,1,1,Ishant Sharma,3.0,0,28,3,Kuldeep,3.0,0,26,0
+LSG,13,13.2,4,1,0,0,0,Arshad Khan,Krunal,19,16,2,0,Arshad Khan,12,8,1,1,Ishant Sharma,3.0,0,28,3,Kuldeep,3.0,0,26,0
+LSG,13,13.1,1,0,0,0,0,Krunal,Krunal,19,16,2,0,Arshad Khan,8,7,0,1,Ishant Sharma,3.0,0,24,3,Kuldeep,3.0,0,26,0
+LSG,12,12.6,0,0,1,0,0,Arshad Khan,Krunal,18,15,2,0,Arshad Khan,8,7,0,1,Kuldeep,3.0,0,26,0,Mukesh Kumar,3.0,0,27,1
+LSG,12,12.5,0,0,1,0,0,Arshad Khan,Krunal,18,15,2,0,Arshad Khan,8,6,0,1,Kuldeep,2.0,0,26,0,Mukesh Kumar,3.0,0,27,1
+LSG,12,12.4,6,1,0,0,0,Arshad Khan,Krunal,18,15,2,0,Arshad Khan,8,5,0,1,Kuldeep,2.0,0,26,0,Mukesh Kumar,3.0,0,27,1
+LSG,12,12.3,1,0,0,0,0,Krunal,Krunal,18,15,2,0,Arshad Khan,2,4,0,0,Kuldeep,2.0,0,20,0,Mukesh Kumar,3.0,0,27,1
+LSG,12,12.2,4,1,0,0,0,Krunal,Krunal,17,14,2,0,Arshad Khan,2,4,0,0,Kuldeep,2.0,0,19,0,Mukesh Kumar,3.0,0,27,1
+LSG,12,12.1,1,0,0,0,0,Arshad Khan,Krunal,13,13,1,0,Arshad Khan,2,4,0,0,Kuldeep,2.0,0,15,0,Mukesh Kumar,3.0,0,27,1
+LSG,11,11.6,0,0,1,0,0,Krunal,Krunal,13,13,1,0,Arshad Khan,1,3,0,0,Mukesh Kumar,3.0,0,27,1,Kuldeep,2.0,0,14,0
+LSG,11,11.5,2,0,0,0,0,Krunal,Krunal,13,12,1,0,Arshad Khan,1,3,0,0,Mukesh Kumar,2.0,0,27,1,Kuldeep,2.0,0,14,0
+LSG,11,11.5,1,0,0,0,1,Krunal,Krunal,11,11,1,0,Arshad Khan,1,3,0,0,Mukesh Kumar,2.0,0,25,1,Kuldeep,2.0,0,14,0
+LSG,11,11.4,1,0,0,0,0,Arshad Khan,Krunal,10,11,1,0,Arshad Khan,1,3,0,0,Mukesh Kumar,2.0,0,24,1,Kuldeep,2.0,0,14,0
+LSG,11,11.3,0,0,1,0,0,Arshad Khan,Krunal,10,11,1,0,Arshad Khan,0,2,0,0,Mukesh Kumar,2.0,0,23,1,Kuldeep,2.0,0,14,0
+LSG,11,11.2,0,0,1,0,0,Arshad Khan,Krunal,10,11,1,0,Arshad Khan,0,1,0,0,Mukesh Kumar,2.0,0,23,1,Kuldeep,2.0,0,14,0
+LSG,11,11.1,0,0,0,1,0,Pooran,Krunal,10,11,1,0,,0,0,0,0,Mukesh Kumar,2.0,0,23,1,Kuldeep,2.0,0,14,0
+LSG,10,10.6,0,0,1,0,0,Krunal,Pooran,61,26,6,4,Krunal,10,11,1,0,Kuldeep,2.0,0,14,0,Mukesh Kumar,2.0,0,23,0
+LSG,10,10.5,1,0,0,0,0,Pooran,Pooran,61,26,6,4,Krunal,10,10,1,0,Kuldeep,1.0,0,14,0,Mukesh Kumar,2.0,0,23,0
+LSG,10,10.4,2,0,0,0,0,Pooran,Pooran,60,25,6,4,Krunal,10,10,1,0,Kuldeep,1.0,0,13,0,Mukesh Kumar,2.0,0,23,0
+LSG,10,10.3,1,0,0,0,0,Krunal,Pooran,58,24,6,4,Krunal,10,10,1,0,Kuldeep,1.0,0,11,0,Mukesh Kumar,2.0,0,23,0
+LSG,10,10.2,0,0,1,0,0,Krunal,Pooran,58,24,6,4,Krunal,9,9,1,0,Kuldeep,1.0,0,10,0,Mukesh Kumar,2.0,0,23,0
+LSG,10,10.1,0,0,1,0,0,Krunal,Pooran,58,24,6,4,Krunal,9,8,1,0,Kuldeep,1.0,0,10,0,Mukesh Kumar,2.0,0,23,0
+LSG,9,9.6,4,1,0,0,0,Pooran,Pooran,58,24,6,4,Krunal,9,7,1,0,Mukesh Kumar,2.0,0,23,0,Gulbadin,1.0,0,12,0
+LSG,9,9.5,1,0,0,0,0,Krunal,Pooran,54,23,5,4,Krunal,9,7,1,0,Mukesh Kumar,1.0,0,19,0,Gulbadin,1.0,0,12,0
+LSG,9,9.4,4,1,0,0,0,Krunal,Pooran,54,23,5,4,Krunal,8,6,1,0,Mukesh Kumar,1.0,0,18,0,Gulbadin,1.0,0,12,0
+LSG,9,9.4,1,0,0,0,1,Krunal,Pooran,54,23,5,4,Krunal,4,5,0,0,Mukesh Kumar,1.0,0,14,0,Gulbadin,1.0,0,12,0
+LSG,9,9.3,1,0,0,0,0,Pooran,Pooran,54,23,5,4,Krunal,3,5,0,0,Mukesh Kumar,1.0,0,13,0,Gulbadin,1.0,0,12,0
+LSG,9,9.2,1,0,0,0,0,Krunal,Pooran,53,22,5,4,Krunal,3,5,0,0,Mukesh Kumar,1.0,0,12,0,Gulbadin,1.0,0,12,0
+LSG,9,9.1,0,0,1,0,0,Krunal,Pooran,53,22,5,4,Krunal,2,4,0,0,Mukesh Kumar,1.0,0,11,0,Gulbadin,1.0,0,12,0
+LSG,8,8.6,0,0,1,0,0,Pooran,Pooran,53,22,5,4,Krunal,2,3,0,0,Gulbadin,1.0,0,12,0,Stubbs,1.0,0,4,1
+LSG,8,8.5,1,0,0,0,0,Krunal,Pooran,53,21,5,4,Krunal,2,3,0,0,Gulbadin,0,0,12,0,Stubbs,1.0,0,4,1
+LSG,8,8.4,1,0,0,0,0,Pooran,Pooran,53,21,5,4,Krunal,1,2,0,0,Gulbadin,0,0,11,0,Stubbs,1.0,0,4,1
+LSG,8,8.3,4,1,0,0,0,Pooran,Pooran,52,20,5,4,Krunal,1,2,0,0,Gulbadin,0,0,10,0,Stubbs,1.0,0,4,1
+LSG,8,8.2,4,1,0,0,0,Pooran,Pooran,48,19,4,4,Krunal,1,2,0,0,Gulbadin,0,0,6,0,Stubbs,1.0,0,4,1
+LSG,8,8.1,2,0,0,0,0,Pooran,Pooran,44,18,3,4,Krunal,1,2,0,0,Gulbadin,0,0,2,0,Stubbs,1.0,0,4,1
+LSG,7,7.6,1,0,0,0,0,Pooran,Pooran,42,17,3,4,Krunal,1,2,0,0,Stubbs,1.0,0,4,1,Kuldeep,1.0,0,10,0
+LSG,7,7.5,1,0,0,0,0,Krunal,Pooran,41,16,3,4,Krunal,1,2,0,0,Stubbs,0,0,3,1,Kuldeep,1.0,0,10,0
+LSG,7,7.4,0,0,1,0,0,Krunal,Pooran,41,16,3,4,Krunal,0,1,0,0,Stubbs,0,0,2,1,Kuldeep,1.0,0,10,0
+LSG,7,7.3,0,0,0,1,0,Badoni,Pooran,41,16,3,4,,0,0,0,0,Stubbs,0,0,2,1,Kuldeep,1.0,0,10,0
+LSG,7,7.2,0,0,1,0,0,Badoni,Pooran,41,16,3,4,Badoni,6,8,0,0,Stubbs,0,0,2,0,Kuldeep,1.0,0,10,0
+LSG,7,7.1,2,0,0,0,0,Badoni,Pooran,41,16,3,4,Badoni,6,7,0,0,Stubbs,0,0,2,0,Kuldeep,1.0,0,10,0
+LSG,6,6.6,0,0,1,0,0,Pooran,Pooran,41,16,3,4,Badoni,4,6,0,0,Kuldeep,1.0,0,10,0,Mukesh Kumar,1.0,0,11,0
+LSG,6,6.5,2,0,0,0,0,Pooran,Pooran,41,15,3,4,Badoni,4,6,0,0,Kuldeep,0,0,10,0,Mukesh Kumar,1.0,0,11,0
+LSG,6,6.4,6,1,0,0,0,Pooran,Pooran,39,14,3,4,Badoni,4,6,0,0,Kuldeep,0,0,8,0,Mukesh Kumar,1.0,0,11,0
+LSG,6,6.3,0,0,1,0,0,Pooran,Pooran,33,13,3,3,Badoni,4,6,0,0,Kuldeep,0,0,2,0,Mukesh Kumar,1.0,0,11,0
+LSG,6,6.2,1,0,0,0,0,Badoni,Pooran,33,12,3,3,Badoni,4,6,0,0,Kuldeep,0,0,2,0,Mukesh Kumar,1.0,0,11,0
+LSG,6,6.1,1,0,0,0,0,Pooran,Pooran,33,12,3,3,Badoni,3,5,0,0,Kuldeep,0,0,1,0,Mukesh Kumar,1.0,0,11,0
+LSG,5,5.6,0,0,1,0,0,Badoni,Pooran,32,11,3,3,Badoni,3,5,0,0,Mukesh Kumar,1.0,0,11,0,Ishant Sharma,3.0,0,23,3
+LSG,5,5.5,0,0,1,0,0,Badoni,Pooran,32,11,3,3,Badoni,3,4,0,0,Mukesh Kumar,0,0,11,0,Ishant Sharma,3.0,0,23,3
+LSG,5,5.4,1,0,0,0,0,Pooran,Pooran,32,11,3,3,Badoni,3,3,0,0,Mukesh Kumar,0,0,11,0,Ishant Sharma,3.0,0,23,3
+LSG,5,5.3,4,1,0,0,0,Pooran,Pooran,31,10,3,3,Badoni,3,3,0,0,Mukesh Kumar,0,0,10,0,Ishant Sharma,3.0,0,23,3
+LSG,5,5.2,0,0,1,0,0,Pooran,Pooran,27,9,2,3,Badoni,3,3,0,0,Mukesh Kumar,0,0,6,0,Ishant Sharma,3.0,0,23,3
+LSG,5,5.1,6,1,0,0,0,Pooran,Pooran,27,8,2,3,Badoni,3,3,0,0,Mukesh Kumar,0,0,6,0,Ishant Sharma,3.0,0,23,3
+LSG,4,4.6,0,0,1,0,0,Badoni,Pooran,21,7,2,2,Badoni,3,3,0,0,Ishant Sharma,3.0,0,23,3,Axar Patel,1.0,0,20,1
+LSG,4,4.5,2,0,0,0,0,Badoni,Pooran,21,7,2,2,Badoni,3,2,0,0,Ishant Sharma,2.0,0,23,3,Axar Patel,1.0,0,20,1
+LSG,4,4.4,1,0,0,0,0,Pooran,Pooran,21,7,2,2,Badoni,1,1,0,0,Ishant Sharma,2.0,0,21,3,Axar Patel,1.0,0,20,1
+LSG,4,4.3,0,0,1,0,0,Pooran,Pooran,20,6,2,2,Badoni,1,1,0,0,Ishant Sharma,2.0,0,20,3,Axar Patel,1.0,0,20,1
+LSG,4,4.2,1,0,0,0,0,Badoni,Pooran,20,5,2,2,Badoni,1,1,0,0,Ishant Sharma,2.0,0,20,3,Axar Patel,1.0,0,20,1
+LSG,4,4.1,0,0,0,1,0,Hooda,Pooran,20,5,2,2,,0,0,0,0,Ishant Sharma,2.0,0,19,3,Axar Patel,1.0,0,20,1
+LSG,3,3.6,6,1,0,0,0,Pooran,Hooda,0,1,0,0,Pooran,20,5,2,2,Axar Patel,1.0,0,20,1,Ishant Sharma,2.0,0,19,2
+LSG,3,3.5,4,1,0,0,0,Pooran,Hooda,0,1,0,0,Pooran,14,4,2,1,Axar Patel,0,0,14,1,Ishant Sharma,2.0,0,19,2
+LSG,3,3.4,0,0,1,0,0,Pooran,Hooda,0,1,0,0,Pooran,10,3,1,1,Axar Patel,0,0,10,1,Ishant Sharma,2.0,0,19,2
+LSG,3,3.3,6,1,0,0,0,Pooran,Hooda,0,1,0,0,Pooran,10,2,1,1,Axar Patel,0,0,10,1,Ishant Sharma,2.0,0,19,2
+LSG,3,3.2,4,1,0,0,0,Pooran,Hooda,0,1,0,0,Pooran,4,1,1,0,Axar Patel,0,0,4,1,Ishant Sharma,2.0,0,19,2
+LSG,3,3.1,0,0,0,1,0,Stoinis,Hooda,0,1,0,0,,0,0,0,0,Axar Patel,0,0,0,1,Ishant Sharma,2.0,0,19,2
+LSG,2,2.6,0,0,1,0,0,Hooda,Stoinis,5,6,1,0,Hooda,0,1,0,0,Ishant Sharma,2.0,0,19,2,Khaleel Ahmed,1.0,0,5,0
+LSG,2,2.5,0,0,0,1,0,de Kock,Stoinis,5,6,1,0,,0,0,0,0,Ishant Sharma,1.0,0,19,2,Khaleel Ahmed,1.0,0,5,0
+LSG,2,2.4,1,0,0,0,0,Stoinis,de Kock,14,7,2,0,Stoinis,5,6,1,0,Ishant Sharma,1.0,0,19,1,Khaleel Ahmed,1.0,0,5,0
+LSG,2,2.3,1,0,0,0,0,de Kock,de Kock,14,7,2,0,Stoinis,4,5,1,0,Ishant Sharma,1.0,0,18,1,Khaleel Ahmed,1.0,0,5,0
+LSG,2,2.2,4,1,0,0,0,de Kock,de Kock,13,6,2,0,Stoinis,4,5,1,0,Ishant Sharma,1.0,0,17,1,Khaleel Ahmed,1.0,0,5,0
+LSG,2,2.1,4,1,0,0,0,de Kock,de Kock,9,5,1,0,Stoinis,4,5,1,0,Ishant Sharma,1.0,0,13,1,Khaleel Ahmed,1.0,0,5,0
+LSG,2,2.1,1,0,0,0,1,de Kock,de Kock,5,4,0,0,Stoinis,4,5,1,0,Ishant Sharma,1.0,0,9,1,Khaleel Ahmed,1.0,0,5,0
+LSG,2,2.1,1,0,0,0,1,de Kock,de Kock,4,4,0,0,Stoinis,4,5,1,0,Ishant Sharma,1.0,0,8,1,Khaleel Ahmed,1.0,0,5,0
+LSG,1,1.6,0,0,1,0,0,Stoinis,de Kock,3,4,0,0,Stoinis,4,5,1,0,Khaleel Ahmed,1.0,0,5,0,Ishant Sharma,1.0,0,7,1
+LSG,1,1.5,4,1,0,0,0,Stoinis,de Kock,3,4,0,0,Stoinis,4,4,1,0,Khaleel Ahmed,0,0,5,0,Ishant Sharma,1.0,0,7,1
+LSG,1,1.4,0,0,1,0,0,Stoinis,de Kock,3,4,0,0,Stoinis,0,3,0,0,Khaleel Ahmed,0,0,1,0,Ishant Sharma,1.0,0,7,1
+LSG,1,1.3,0,0,1,0,0,Stoinis,de Kock,3,4,0,0,Stoinis,0,2,0,0,Khaleel Ahmed,0,0,1,0,Ishant Sharma,1.0,0,7,1
+LSG,1,1.2,1,0,0,0,0,de Kock,de Kock,3,4,0,0,Stoinis,0,1,0,0,Khaleel Ahmed,0,0,1,0,Ishant Sharma,1.0,0,7,1
+LSG,1,1.1,0,0,1,0,0,de Kock,de Kock,2,3,0,0,Stoinis,0,1,0,0,Khaleel Ahmed,0,0,0,0,Ishant Sharma,1.0,0,7,1
+LSG,0,0.6,0,0,1,0,0,Stoinis,de Kock,2,2,0,0,Stoinis,0,1,0,0,Ishant Sharma,1.0,0,7,1,,0,0,0,0
+LSG,0,0.5,0,0,0,1,0,Rahul,de Kock,2,2,0,0,,0,0,0,0,Ishant Sharma,0,0,7,1,,0,0,0,0
+LSG,0,0.4,1,0,0,0,0,de Kock,de Kock,2,2,0,0,Rahul,5,2,1,0,Ishant Sharma,0,0,7,0,,0,0,0,0
+LSG,0,0.3,1,0,0,0,0,Rahul,de Kock,1,1,0,0,Rahul,5,2,1,0,Ishant Sharma,0,0,6,0,,0,0,0,0
+LSG,0,0.2,4,1,0,0,0,Rahul,de Kock,1,1,0,0,Rahul,4,1,1,0,Ishant Sharma,0,0,5,0,,0,0,0,0
+LSG,0,0.1,1,0,0,0,0,de Kock,de Kock,1,1,0,0,,0,0,0,0,Ishant Sharma,0,0,1,0,,0,0,0,0

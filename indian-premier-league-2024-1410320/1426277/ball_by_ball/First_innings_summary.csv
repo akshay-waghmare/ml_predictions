@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+LSG,19,19.1,19,3,0,0,1,Stoinis,Stoinis,116,60,9,6,Hooda,17,6,2,1,Mustafizur,3.0,0,38,1,Pathirana,4.0,0,35,2
+LSG,18,18.1,15,3,1,0,0,Hooda,Stoinis,109,58,9,5,Hooda,7,2,0,1,Pathirana,3.0,0,24,2,Mustafizur,3.0,0,32,1
+LSG,17,17.1,15,2,2,0,0,Hooda,Stoinis,96,53,8,4,Hooda,1,1,0,0,Mustafizur,2.0,0,17,1,Pathirana,3.0,0,20,2
+LSG,16,16.1,7,1,1,1,1,Stoinis,Stoinis,90,49,7,4,Pooran,34,14,3,2,Pathirana,2.0,0,14,1,Thakur,3.0,0,42,0
+LSG,15,15.1,20,3,0,0,0,Stoinis,Stoinis,89,47,7,4,Pooran,21,10,2,1,Thakur,2.0,0,28,0,Mustafizur,2.0,0,17,1
+LSG,14,14.1,13,2,1,0,0,Stoinis,Stoinis,82,44,7,3,Pooran,10,7,1,0,Mustafizur,1.0,0,5,1,Pathirana,2.0,0,14,1
+LSG,13,13.1,9,1,1,0,0,Stoinis,Stoinis,79,41,7,3,Pooran,4,4,0,0,Pathirana,1.0,0,6,1,Deshpande,3.0,0,34,0
+LSG,12,12.1,17,1,1,0,1,Stoinis,Stoinis,64,36,7,2,Pooran,2,2,0,0,Deshpande,2.0,0,18,0,Thakur,2.0,0,22,0
+LSG,11,11.1,10,1,0,0,1,Stoinis,Stoinis,59,32,7,2,,0,0,0,0,Thakur,1.0,0,16,0,Pathirana,1.0,0,5,1
+LSG,10,10.1,5,0,2,1,2,Padikkal,Stoinis,53,29,6,2,Padikkal,14,16,0,0,Pathirana,0,0,1,0,Jadeja,2.0,0,16,0
+LSG,9,9.1,5,0,1,0,1,Stoinis,Stoinis,50,26,6,2,Padikkal,12,13,0,0,Jadeja,1.0,0,13,0,Moeen Ali,2.0,0,21,0
+LSG,8,8.1,15,2,1,0,0,Padikkal,Stoinis,42,23,6,1,Padikkal,8,10,0,0,Moeen Ali,1.0,0,10,0,Jadeja,1.0,0,12,0
+LSG,7,7.1,12,1,1,0,1,Stoinis,Stoinis,30,19,5,0,Padikkal,5,7,0,0,Jadeja,0,0,1,0,Moeen Ali,1.0,0,6,0
+LSG,6,6.1,6,0,0,0,0,Stoinis,Stoinis,26,15,5,0,Padikkal,3,5,0,0,Moeen Ali,0,0,1,0,Thakur,1.0,0,12,0
+LSG,5,5.1,12,2,0,0,0,Padikkal,Stoinis,20,12,4,0,Padikkal,0,2,0,0,Thakur,0,0,4,0,Mustafizur,1.0,0,4,1
+LSG,4,4.1,4,1,4,1,0,Padikkal,Stoinis,16,11,3,0,Rahul,17,11,1,1,Mustafizur,0,0,4,0,Deshpande,2.0,0,17,0
+LSG,3,3.1,8,1,2,0,0,Stoinis,Stoinis,11,8,2,0,Rahul,10,8,0,1,Deshpande,1.0,0,9,0,Chahar,2.0,0,11,1
+LSG,2,2.1,10,2,2,0,0,Stoinis,Stoinis,2,3,0,0,Rahul,9,7,0,1,Chahar,1.0,0,1,1,Deshpande,1.0,0,9,0
+LSG,1,1.1,10,1,2,0,1,Rahul,Stoinis,2,3,0,0,Rahul,0,1,0,0,Deshpande,0,0,1,0,Chahar,1.0,0,1,1
+LSG,0,0.1,1,0,4,1,0,Rahul,de Kock,0,1,0,0,,0,0,0,0,Chahar,0,0,0,0,,0,0,0,0

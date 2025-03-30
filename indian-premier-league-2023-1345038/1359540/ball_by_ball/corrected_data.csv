@@ -1,0 +1,41 @@
+over,innings,score,projected_score,required,CRR,RRR,fav_team,win_probability,venue,matches_played,total_runs,total_wickets,balls_bowled,average_runs_per_wicket,average_runs_per_over
+20,RR,189/6,N/A,N/A,9.45,N/A,RR,100.0,"Himachal Pradesh Cricket Association Stadium, Dharamsala",33,9340,390,7010,23.94,7.99
+1,PBKS,2/1,165,N/A,2.00,N/A,RR,58.44,"Himachal Pradesh Cricket Association Stadium, Dharamsala",33,9340,390,7010,23.94,7.99
+2,PBKS,18/1,173,N/A,9.00,N/A,PBKS,50.44,"Himachal Pradesh Cricket Association Stadium, Dharamsala",33,9340,390,7010,23.94,7.99
+3,PBKS,30/1,180,N/A,10.00,N/A,PBKS,58.26,"Himachal Pradesh Cricket Association Stadium, Dharamsala",33,9340,390,7010,23.94,7.99
+4,PBKS,42/2,186,N/A,10.50,N/A,PBKS,64.7,"Himachal Pradesh Cricket Association Stadium, Dharamsala",33,9340,390,7010,23.94,7.99
+5,PBKS,45/2,180,N/A,9.00,N/A,PBKS,58.26,"Himachal Pradesh Cricket Association Stadium, Dharamsala",33,9340,390,7010,23.94,7.99
+6,PBKS,48/3,164,N/A,8.00,N/A,RR,59.52,"Himachal Pradesh Cricket Association Stadium, Dharamsala",33,9340,390,7010,23.94,7.99
+7,PBKS,53/4,159,N/A,7.57,N/A,RR,64.74,"Himachal Pradesh Cricket Association Stadium, Dharamsala",33,9340,390,7010,23.94,7.99
+8,PBKS,59/4,158,N/A,7.38,N/A,RR,65.74,"Himachal Pradesh Cricket Association Stadium, Dharamsala",33,9340,390,7010,23.94,7.99
+9,PBKS,62/4,152,N/A,6.89,N/A,RR,71.44,"Himachal Pradesh Cricket Association Stadium, Dharamsala",33,9340,390,7010,23.94,7.99
+10,PBKS,78/4,166,N/A,7.80,N/A,RR,57.35,"Himachal Pradesh Cricket Association Stadium, Dharamsala",33,9340,390,7010,23.94,7.99
+11,PBKS,85/4,173,N/A,7.73,N/A,PBKS,50.44,"Himachal Pradesh Cricket Association Stadium, Dharamsala",33,9340,390,7010,23.94,7.99
+12,PBKS,94/4,178,N/A,7.83,N/A,PBKS,56.05,"Himachal Pradesh Cricket Association Stadium, Dharamsala",33,9340,390,7010,23.94,7.99
+13,PBKS,100/4,167,N/A,7.69,N/A,RR,56.25,"Himachal Pradesh Cricket Association Stadium, Dharamsala",33,9340,390,7010,23.94,7.99
+14,PBKS,115/5,172,N/A,8.21,N/A,RR,50.68,"Himachal Pradesh Cricket Association Stadium, Dharamsala",33,9340,390,7010,23.94,7.99
+15,PBKS,117/5,164,N/A,7.80,N/A,RR,59.52,"Himachal Pradesh Cricket Association Stadium, Dharamsala",33,9340,390,7010,23.94,7.99
+16,PBKS,125/5,162,N/A,7.81,N/A,RR,61.64,"Himachal Pradesh Cricket Association Stadium, Dharamsala",33,9340,390,7010,23.94,7.99
+17,PBKS,133/5,161,N/A,7.82,N/A,RR,62.69,"Himachal Pradesh Cricket Association Stadium, Dharamsala",33,9340,390,7010,23.94,7.99
+18,PBKS,141/5,159,N/A,7.83,N/A,RR,64.74,"Himachal Pradesh Cricket Association Stadium, Dharamsala",33,9340,390,7010,23.94,7.99
+19,PBKS,169/5,180,N/A,8.89,N/A,PBKS,58.26,"Himachal Pradesh Cricket Association Stadium, Dharamsala",33,9340,390,7010,23.94,7.99
+20,PBKS,187/5,187,N/A,9.35,N/A,PBKS,65.73,"Himachal Pradesh Cricket Association Stadium, Dharamsala",33,9340,390,7010,23.94,7.99
+1,RR,12/0,N/A,176 from 114,12.00,9.26,PBKS,59.84,"Himachal Pradesh Cricket Association Stadium, Dharamsala",33,9340,390,7010,23.94,7.99
+2,RR,16/1,N/A,172 from 108,8.00,9.56,PBKS,70.59,"Himachal Pradesh Cricket Association Stadium, Dharamsala",33,9340,390,7010,23.94,7.99
+3,RR,27/1,N/A,161 from 102,9.00,9.47,PBKS,67.65,"Himachal Pradesh Cricket Association Stadium, Dharamsala",33,9340,390,7010,23.94,7.99
+4,RR,38/1,N/A,150 from 96,9.50,9.38,PBKS,62.89,"Himachal Pradesh Cricket Association Stadium, Dharamsala",33,9340,390,7010,23.94,7.99
+5,RR,46/1,N/A,142 from 90,9.20,9.47,PBKS,55.79,"Himachal Pradesh Cricket Association Stadium, Dharamsala",33,9340,390,7010,23.94,7.99
+6,RR,57/1,N/A,131 from 84,9.50,9.36,RR,52.58,"Himachal Pradesh Cricket Association Stadium, Dharamsala",33,9340,390,7010,23.94,7.99
+7,RR,61/1,N/A,127 from 78,8.71,9.77,PBKS,60.09,"Himachal Pradesh Cricket Association Stadium, Dharamsala",33,9340,390,7010,23.94,7.99
+8,RR,67/1,N/A,121 from 72,8.38,10.08,PBKS,62.51,"Himachal Pradesh Cricket Association Stadium, Dharamsala",33,9340,390,7010,23.94,7.99
+9,RR,76/1,N/A,112 from 66,8.44,10.18,PBKS,62.03,"Himachal Pradesh Cricket Association Stadium, Dharamsala",33,9340,390,7010,23.94,7.99
+10,RR,86/2,N/A,102 from 60,8.60,10.20,PBKS,56.73,"Himachal Pradesh Cricket Association Stadium, Dharamsala",33,9340,390,7010,23.94,7.99
+11,RR,91/3,N/A,97 from 54,8.27,10.78,PBKS,71.45,"Himachal Pradesh Cricket Association Stadium, Dharamsala",33,9340,390,7010,23.94,7.99
+12,RR,103/3,N/A,85 from 48,8.58,10.62,PBKS,62.9,"Himachal Pradesh Cricket Association Stadium, Dharamsala",33,9340,390,7010,23.94,7.99
+13,RR,116/3,N/A,72 from 42,8.92,10.29,RR,55.74,"Himachal Pradesh Cricket Association Stadium, Dharamsala",33,9340,390,7010,23.94,7.99
+14,RR,134/3,N/A,54 from 36,9.57,9.00,RR,85.69,"Himachal Pradesh Cricket Association Stadium, Dharamsala",33,9340,390,7010,23.94,7.99
+15,RR,141/4,N/A,47 from 30,9.40,9.40,RR,77.24,"Himachal Pradesh Cricket Association Stadium, Dharamsala",33,9340,390,7010,23.94,7.99
+16,RR,149/4,N/A,39 from 24,9.31,9.75,RR,77.97,"Himachal Pradesh Cricket Association Stadium, Dharamsala",33,9340,390,7010,23.94,7.99
+17,RR,155/4,N/A,33 from 18,9.12,11.00,RR,62.63,"Himachal Pradesh Cricket Association Stadium, Dharamsala",33,9340,390,7010,23.94,7.99
+18,RR,169/5,N/A,19 from 12,9.39,9.50,RR,88.08,"Himachal Pradesh Cricket Association Stadium, Dharamsala",33,9340,390,7010,23.94,7.99
+19,RR,179/6,N/A,9 from 6,9.42,9.00,RR,91.69,"Himachal Pradesh Cricket Association Stadium, Dharamsala",33,9340,390,7010,23.94,7.99

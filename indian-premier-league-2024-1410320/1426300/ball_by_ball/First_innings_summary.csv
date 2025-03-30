@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+DC,19,19.1,0,0,0,1,0,Kuldeep,Ishant Sharma,1,4,0,0,,0,0,0,0,Yash Dayal,3.0,0,19,4,Siraj,4.0,0,33,1
+DC,18,18.1,5,0,4,0,2,Ishant Sharma,Kuldeep,5,6,0,0,Ishant Sharma,0,2,0,0,Siraj,3.0,0,30,1,Ferguson,3.0,0,23,2
+DC,17,17.1,2,0,3,1,0,Ishant Sharma,Mukesh Kumar,4,5,0,0,Kuldeep,2,4,0,0,Ferguson,3.0,0,22,1,Green,4.0,0,19,2
+DC,16,16.1,3,0,4,0,1,Kuldeep,Mukesh Kumar,1,1,0,0,Kuldeep,1,2,0,0,Green,3.0,0,16,2,Yash Dayal,3.0,0,19,3
+DC,15,15.1,2,0,3,1,0,Kuldeep,Stubbs,3,4,0,0,,0,0,0,0,Yash Dayal,2.0,0,17,2,Green,3.0,0,16,2
+DC,14,14.1,3,0,2,1,0,Rasikh Salam,Stubbs,3,4,0,0,Rasikh Salam,9,8,1,0,Green,2.0,0,13,1,Ferguson,2.0,0,21,1
+DC,13,13.1,8,1,1,0,0,Rasikh Salam,Stubbs,3,4,0,0,Rasikh Salam,7,5,1,0,Ferguson,2.0,0,17,1,Jacks,1.0,0,16,0
+DC,12,12.1,16,2,0,0,0,Axar Patel,Stubbs,3,4,0,0,Rasikh Salam,1,2,0,0,Jacks,0,0,6,0,Karn,1.0,0,19,0
+DC,11,11.1,10,1,1,0,0,Rasikh Salam,Stubbs,3,4,0,0,Rasikh Salam,1,1,0,0,Karn,1.0,0,10,0,Green,2.0,0,13,1
+DC,10,10.1,3,0,2,1,0,Axar Patel,Axar Patel,30,18,5,0,Stubbs,2,3,0,0,Green,1.0,0,11,0,Ferguson,1.0,0,13,1
+DC,9,9.1,6,1,1,1,0,Stubbs,J Fraser,21,8,2,2,Axar Patel,29,17,5,0,Ferguson,1.0,0,11,0,Green,1.0,0,10,0
+DC,8,8.1,10,1,2,0,1,Hope,J Fraser,21,8,2,2,Axar Patel,22,14,4,0,Green,0,0,4,0,Ferguson,1.0,0,7,0
+DC,7,7.1,8,0,0,0,1,Axar Patel,J Fraser,21,8,2,2,Axar Patel,16,11,3,0,Ferguson,0,0,2,0,Karn,1.0,0,9,0
+DC,6,6.1,9,1,0,0,0,Axar Patel,J Fraser,21,8,2,2,Axar Patel,10,8,2,0,Karn,0,0,1,0,Siraj,3.0,0,28,1
+DC,5,5.1,11,2,2,0,0,Axar Patel,J Fraser,21,8,2,2,Axar Patel,0,3,0,0,Siraj,2.0,0,18,1,Yash Dayal,2.0,0,17,2
+DC,4,4.1,13,3,2,0,0,Hope,J Fraser,21,8,2,2,Axar Patel,0,3,0,0,Yash Dayal,1.0,0,8,2,Siraj,2.0,0,17,1
+DC,3,3.1,2,0,4,1,0,Axar Patel,J Fraser,21,8,2,2,Kushagra,2,1,0,0,Siraj,1.0,0,17,0,Yash Dayal,1.0,0,4,2
+DC,2,2.1,4,1,3,2,0,Hope,J Fraser,21,8,2,2,,0,0,0,0,Yash Dayal,0,0,0,1,Siraj,1.0,0,15,0
+DC,1,1.1,15,3,2,0,0,J Fraser,J Fraser,7,3,0,1,Abishek Porel,2,2,0,0,Siraj,0,0,1,0,Swapnil,1.0,0,9,1
+DC,0,0.1,9,1,1,1,0,J Fraser,Warner,1,1,0,0,,0,0,0,0,Swapnil,0,0,1,0,,0,0,0,0

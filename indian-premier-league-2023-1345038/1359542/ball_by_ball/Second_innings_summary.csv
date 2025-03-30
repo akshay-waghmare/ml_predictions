@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+LSG,19,19.1,13,2,1,0,1,Gowtham,Naveen,2,2,0,0,,0,0,0,0,Russell,0,0,1,0,Thakur,2.0,0,27,2
+LSG,18,18.1,16,2,0,2,1,Naveen,Pooran,55,28,4,4,,0,0,0,0,Thakur,1.0,0,17,0,Narine,4.0,0,28,2
+LSG,17,17.1,14,2,0,1,1,Badoni,Badoni,14,17,1,0,Pooran,48,26,4,3,Narine,3.0,0,15,1,Arora,4.0,0,30,2
+LSG,16,16.1,11,1,1,0,3,Pooran,Badoni,13,16,1,0,Pooran,38,21,3,3,Arora,3.0,0,20,2,Varun,4.0,0,38,1
+LSG,15,15.1,3,0,3,0,0,Badoni,Badoni,10,12,1,0,Pooran,37,19,3,3,Varun,3.0,0,35,1,Suyash Sharma,1.0,0,12,0
+LSG,14,14.1,12,2,2,0,0,Pooran,Badoni,9,10,1,0,Pooran,32,15,2,3,Suyash Sharma,0,0,6,0,Narine,3.0,0,14,1
+LSG,13,13.1,7,1,2,0,0,Badoni,Badoni,4,6,0,0,Pooran,25,13,2,2,Narine,2.0,0,8,1,Varun,3.0,0,35,1
+LSG,12,12.1,9,1,3,0,0,Badoni,Badoni,2,3,0,0,Pooran,23,10,2,2,Varun,2.0,0,32,1,Narine,2.0,0,7,1
+LSG,11,11.1,3,0,3,0,0,Pooran,Badoni,1,2,0,0,Pooran,15,5,2,1,Narine,1.0,0,4,1,Varun,2.0,0,26,1
+LSG,10,10.1,15,3,1,1,0,Badoni,Badoni,1,1,0,0,,0,0,0,0,Varun,1.0,0,11,1,Narine,1.0,0,4,1
+LSG,9,9.1,4,0,1,1,0,de Kock,de Kock,27,23,0,2,Krunal,9,7,0,1,Narine,0,0,1,0,Thakur,1.0,0,11,0
+LSG,8,8.1,11,1,1,0,1,de Kock,de Kock,25,20,0,2,Krunal,0,3,0,0,Thakur,0,0,1,0,Rana,1.0,0,3,0
+LSG,7,7.1,3,0,4,0,0,Krunal,de Kock,21,16,0,2,Krunal,0,1,0,0,Rana,0,0,0,0,Arora,3.0,0,19,2
+LSG,6,6.1,1,0,3,2,0,Krunal,de Kock,20,14,0,2,Mankad,31,19,6,0,Arora,2.0,0,18,0,Varun,1.0,0,11,0
+LSG,5,5.1,15,3,1,0,1,Mankad,de Kock,20,13,0,2,Mankad,17,14,3,0,Varun,0,0,1,0,Harshit Rana,3.0,0,21,1
+LSG,4,4.1,12,3,3,0,0,Mankad,de Kock,19,12,0,2,Mankad,9,9,1,0,Harshit Rana,2.0,0,13,1,Arora,2.0,0,18,0
+LSG,3,3.1,12,1,2,0,1,de Kock,de Kock,11,10,0,1,Mankad,1,4,0,0,Arora,1.0,0,6,0,Harshit Rana,2.0,0,9,1
+LSG,2,2.1,8,1,2,1,0,Mankad,Sharma,3,4,0,0,de Kock,10,9,0,1,Harshit Rana,1.0,0,7,0,Arora,1.0,0,6,0
+LSG,1,1.1,6,0,1,0,0,de Kock,Sharma,1,2,0,0,de Kock,0,5,0,0,Arora,0,0,0,0,Harshit Rana,1.0,0,1,0
+LSG,0,0.1,1,0,5,0,0,de Kock,Sharma,1,1,0,0,,0,0,0,0,Harshit Rana,0,0,1,0,,0,0,0,0

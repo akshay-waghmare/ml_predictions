@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+PBKS,19,19.1,8,1,1,0,2,Livingstone,Livingstone,33,19,2,2,Harpreet Brar,2,2,0,0,Sumit Kumar,1.0,0,12,0,Khaleel Ahmed,4.0,0,43,2
+PBKS,18,18.1,4,0,1,2,0,Harpreet Brar,Sam Curran,65,46,6,1,Livingstone,31,18,2,2,Khaleel Ahmed,3.0,0,40,0,Marsh,4.0,0,52,0
+PBKS,17,17.1,18,3,1,0,0,Livingstone,Sam Curran,53,41,5,0,Livingstone,25,17,2,1,Marsh,3.0,0,35,0,Khaleel Ahmed,3.0,0,39,0
+PBKS,16,16.1,11,2,1,0,0,Livingstone,Sam Curran,52,39,5,0,Livingstone,15,13,0,1,Khaleel Ahmed,2.0,0,29,0,Axar Patel,4.0,0,25,0
+PBKS,15,15.1,6,0,1,0,0,Livingstone,Sam Curran,49,37,5,0,Livingstone,12,9,0,1,Axar Patel,3.0,0,20,0,Marsh,3.0,0,34,0
+PBKS,14,14.1,18,3,1,0,1,Livingstone,Sam Curran,40,32,4,0,Livingstone,6,8,0,0,Marsh,2.0,0,20,0,Kuldeep,4.0,0,20,2
+PBKS,13,13.1,4,0,2,0,0,Sam Curran,Sam Curran,34,27,3,0,Livingstone,5,7,0,0,Kuldeep,3.0,0,17,2,Axar Patel,3.0,0,19,0
+PBKS,12,12.1,5,0,2,0,0,Livingstone,Sam Curran,31,25,3,0,Livingstone,3,3,0,0,Axar Patel,2.0,0,15,0,Kuldeep,3.0,0,16,2
+PBKS,11,11.1,5,0,0,1,0,Livingstone,Sam Curran,29,23,3,0,Sharma,9,8,1,0,Kuldeep,2.0,0,12,1,Sumit Kumar,1.0,0,11,0
+PBKS,10,10.1,11,2,1,0,0,Sharma,Sam Curran,24,21,2,0,Sharma,2,4,0,0,Sumit Kumar,0,0,0,0,Kuldeep,2.0,0,11,1
+PBKS,9,9.1,4,0,1,1,1,Sharma,Bairstow,9,3,2,0,Sam Curran,23,20,2,0,Kuldeep,1.0,0,8,0,Axar Patel,2.0,0,14,0
+PBKS,8,8.1,8,1,1,0,0,Prabhsimran,Bairstow,9,3,2,0,Sam Curran,20,17,2,0,Axar Patel,1.0,0,7,0,Kuldeep,1.0,0,8,0
+PBKS,7,7.1,8,1,1,0,0,Sam Curran,Bairstow,9,3,2,0,Sam Curran,15,14,1,0,Kuldeep,0,0,1,0,Axar Patel,1.0,0,6,0
+PBKS,6,6.1,7,0,0,0,1,Sam Curran,Bairstow,9,3,2,0,Sam Curran,10,10,1,0,Axar Patel,0,0,1,0,Marsh,2.0,0,16,0
+PBKS,5,5.1,7,1,2,0,0,Sam Curran,Bairstow,9,3,2,0,Sam Curran,7,5,1,0,Marsh,1.0,0,13,0,Khaleel Ahmed,2.0,0,28,0
+PBKS,4,4.1,11,2,2,0,0,Prabhsimran,Bairstow,9,3,2,0,Sam Curran,0,1,0,0,Khaleel Ahmed,1.0,0,17,0,Ishant Sharma,2.0,0,16,2
+PBKS,3,3.1,8,2,2,2,0,Prabhsimran,Bairstow,9,3,2,0,,0,0,0,0,Ishant Sharma,1.0,0,8,1,Marsh,1.0,0,9,0
+PBKS,2,2.1,9,1,1,0,0,S Dhawan,S Dhawan,21,11,4,0,Bairstow,8,2,2,0,Marsh,0,0,4,0,Ishant Sharma,1.0,0,8,0
+PBKS,1,1.1,8,1,4,0,3,S Dhawan,S Dhawan,10,4,2,0,Bairstow,8,2,2,0,Ishant Sharma,0,0,1,0,Khaleel Ahmed,1.0,0,17,0
+PBKS,0,0.1,17,4,1,0,0,Bairstow,S Dhawan,4,1,1,0,,0,0,0,0,Khaleel Ahmed,0,0,4,0,,0,0,0,0

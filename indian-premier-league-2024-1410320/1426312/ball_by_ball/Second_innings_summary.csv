@@ -1,0 +1,20 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+SRH,18,18.1,0,0,2,1,0,Cummins,Cummins,29,17,3,1,Bhuvneshwar,0,1,0,0,Russell,2.0,0,19,2,Narine,4.0,0,16,1
+SRH,17,17.1,5,0,1,1,0,Bhuvneshwar,Cummins,26,14,3,1,Unadkat,3,9,0,0,Narine,3.0,0,12,0,Harshit Rana,4.0,0,24,2
+SRH,16,16.1,10,1,2,0,0,Cummins,Cummins,16,8,3,0,Unadkat,3,9,0,0,Harshit Rana,3.0,0,15,2,Narine,3.0,0,11,0
+SRH,15,15.1,8,1,1,0,1,Unadkat,Cummins,14,6,3,0,Unadkat,0,5,0,0,Narine,2.0,0,7,0,Harshit Rana,3.0,0,14,2
+SRH,14,14.1,0,0,5,1,0,Unadkat,Cummins,10,5,2,0,,0,0,0,0,Harshit Rana,2.0,0,14,2,Varun,2.0,0,9,1
+SRH,13,13.1,8,1,2,0,1,Cummins,Klaasen,13,13,1,0,Cummins,9,3,2,0,Varun,1.0,0,6,1,Russell,2.0,0,19,2
+SRH,12,12.1,10,1,0,1,1,Cummins,Klaasen,12,12,1,0,Abdul Samad,3,2,0,0,Russell,1.0,0,11,1,Varun,1.0,0,2,1
+SRH,11,11.1,2,0,3,1,0,Abdul Samad,Klaasen,11,11,1,0,Shahbaz Ahmed,8,4,0,1,Varun,0,0,0,0,Russell,1.0,0,9,1
+SRH,10,10.1,9,1,2,1,0,Shahbaz Ahmed,Markram,22,22,3,0,Klaasen,11,10,1,0,Russell,0,0,1,0,Narine,2.0,0,7,0
+SRH,9,9.1,3,0,3,0,0,Markram,Markram,21,18,3,0,Klaasen,9,8,1,0,Narine,1.0,0,5,0,Harshit Rana,2.0,0,14,1
+SRH,8,8.1,7,1,2,0,0,Klaasen,Markram,20,17,3,0,Klaasen,6,3,1,0,Harshit Rana,1.0,0,11,1,Narine,1.0,0,4,0
+SRH,7,7.1,4,0,2,0,0,Klaasen,Markram,18,14,3,0,,0,0,0,0,Narine,0,0,0,0,Harshit Rana,1.0,0,7,1
+SRH,6,6.1,7,1,2,1,1,Nitish Kumar,Markram,16,11,3,0,Nitish Kumar,12,7,1,1,Harshit Rana,0,0,4,0,Arora,3.0,0,24,1
+SRH,5,5.1,17,3,1,0,1,Nitish Kumar,Markram,7,8,1,0,Nitish Kumar,1,3,0,0,Arora,2.0,0,8,1,Starc,3.0,0,14,2
+SRH,4,4.1,2,0,3,1,0,Nitish Kumar,Tripathi,14,12,1,0,Markram,5,7,1,0,Starc,2.0,0,12,1,Arora,2.0,0,7,1
+SRH,3,3.1,6,0,3,0,3,Markram,Tripathi,10,8,1,0,Markram,4,4,1,0,Arora,1.0,0,2,1,Starc,2.0,0,12,1
+SRH,2,2.1,9,2,3,0,0,Markram,Tripathi,8,7,1,0,,0,0,0,0,Starc,1.0,0,7,1,Arora,1.0,0,1,1
+SRH,1,1.1,3,0,3,1,1,Head,Tripathi,1,2,0,0,,0,0,0,0,Arora,0,0,0,0,Starc,1.0,0,3,1
+SRH,0,0.1,3,0,3,1,0,Tripathi,Abhishek,0,1,0,0,,0,0,0,0,Starc,0,0,0,0,,0,0,0,0

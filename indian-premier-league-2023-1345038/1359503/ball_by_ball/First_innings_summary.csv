@@ -1,0 +1,20 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+CSK,18,18.1,6,1,1,0,0,Moeen Ali,Gaikwad,35,30,2,0,Moeen Ali,2,4,0,0,Sundar,2.0,0,11,0,Umran Malik,3.0,0,18,1
+CSK,17,17.1,10,2,2,0,0,Conway,Gaikwad,35,30,2,0,,0,0,0,0,Umran Malik,2.0,0,9,1,Markande,4.0,0,23,2
+CSK,16,16.1,3,0,2,1,0,Rayudu,Gaikwad,35,30,2,0,Rayudu,8,7,1,0,Markande,3.0,0,20,1,Dagar,3.0,0,21,0
+CSK,15,15.1,8,1,2,0,0,Rayudu,Gaikwad,35,30,2,0,Rayudu,1,3,0,0,Dagar,2.0,0,13,0,Markande,3.0,0,20,1
+CSK,14,14.1,7,1,1,1,0,Rayudu,Gaikwad,35,30,2,0,Rahane,9,9,0,0,Markande,2.0,0,14,0,Dagar,2.0,0,13,0
+CSK,13,13.1,9,1,1,0,0,Rahane,Gaikwad,35,30,2,0,Rahane,4,5,0,0,Dagar,1.0,0,4,0,Sundar,2.0,0,10,0
+CSK,12,12.1,4,0,2,0,0,Rahane,Gaikwad,35,30,2,0,Rahane,2,2,0,0,Sundar,1.0,0,7,0,Dagar,1.0,0,4,0
+CSK,11,11.1,4,0,2,0,0,Conway,Gaikwad,35,30,2,0,Rahane,1,1,0,0,Dagar,0,0,1,0,Umran Malik,2.0,0,8,1
+CSK,10,10.1,1,0,4,1,0,Conway,Gaikwad,34,27,2,0,Conway,52,34,8,1,Umran Malik,1.0,0,7,0,Markande,2.0,0,13,0
+CSK,9,9.1,9,1,1,0,0,Conway,Gaikwad,31,24,2,0,Conway,47,31,7,1,Markande,1.0,0,5,0,Umran Malik,1.0,0,7,0
+CSK,8,8.1,7,0,1,0,0,Gaikwad,Gaikwad,26,19,2,0,Conway,46,30,7,1,Umran Malik,0,0,2,0,Markande,1.0,0,4,0
+CSK,7,7.1,4,0,2,0,0,Gaikwad,Gaikwad,22,15,2,0,Conway,45,28,7,1,Markande,0,0,1,0,Sundar,1.0,0,6,0
+CSK,6,6.1,6,0,1,0,0,Conway,Gaikwad,20,13,2,0,Conway,42,24,7,1,Sundar,0,0,2,0,Jansen,3.0,0,37,0
+CSK,5,5.1,23,5,0,0,0,Conway,Gaikwad,18,12,2,0,Conway,20,19,3,0,Jansen,2.0,0,15,0,Bhuvneshwar,2.0,0,10,0
+CSK,4,4.1,5,0,3,0,0,Conway,Gaikwad,13,9,2,0,Conway,19,16,3,0,Bhuvneshwar,1.0,0,5,0,Jansen,2.0,0,14,0
+CSK,3,3.1,4,0,2,0,0,Gaikwad,Gaikwad,11,6,2,0,Conway,17,13,3,0,Jansen,1.0,0,10,0,Markram,1.0,0,11,0
+CSK,2,2.1,11,2,2,0,0,Gaikwad,Gaikwad,9,4,2,0,Conway,12,9,2,0,Markram,0,0,4,0,Jansen,1.0,0,10,0
+CSK,1,1.1,11,2,2,0,1,Gaikwad,Gaikwad,5,3,1,0,Conway,3,4,0,0,Jansen,0,0,2,0,Bhuvneshwar,1.0,0,5,0
+CSK,0,0.1,6,1,3,0,1,Gaikwad,Gaikwad,4,1,1,0,,0,0,0,0,Bhuvneshwar,0,0,4,0,,0,0,0,0

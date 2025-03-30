@@ -1,0 +1,123 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+RR,19,19.5,6,1,0,0,0,Hetmyer,Hetmyer,27,10,1,3,,0,0,0,0,Arshdeep,3.0,0,45,1,Sam Curran,4.0,0,25,2
+RR,19,19.4,2,0,0,0,0,Hetmyer,Hetmyer,21,9,1,2,,0,0,0,0,Arshdeep,3.0,0,39,1,Sam Curran,4.0,0,25,2
+RR,19,19.3,6,1,0,0,0,Hetmyer,Hetmyer,19,8,1,2,,0,0,0,0,Arshdeep,3.0,0,37,1,Sam Curran,4.0,0,25,2
+RR,19,19.2,0,0,1,0,0,Hetmyer,Hetmyer,13,7,1,1,,0,0,0,0,Arshdeep,3.0,0,31,1,Sam Curran,4.0,0,25,2
+RR,19,19.1,0,0,1,0,0,Hetmyer,Hetmyer,13,6,1,1,,0,0,0,0,Arshdeep,3.0,0,31,1,Sam Curran,4.0,0,25,2
+RR,18,18.6,0,0,0,1,0,Maharaj,Hetmyer,13,5,1,1,,0,0,0,0,Sam Curran,4.0,0,25,2,Harshal,2.0,0,21,1
+RR,18,18.5,1,0,0,0,0,Hetmyer,Hetmyer,13,5,1,1,Maharaj,1,1,0,0,Sam Curran,3.0,0,25,1,Harshal,2.0,0,21,1
+RR,18,18.4,1,0,0,0,0,Maharaj,Hetmyer,12,4,1,1,Maharaj,1,1,0,0,Sam Curran,3.0,0,24,1,Harshal,2.0,0,21,1
+RR,18,18.3,0,0,0,1,0,Powell,Hetmyer,12,4,1,1,,0,0,0,0,Sam Curran,3.0,0,23,1,Harshal,2.0,0,21,1
+RR,18,18.2,4,1,0,0,0,Powell,Hetmyer,12,4,1,1,Powell,11,4,2,0,Sam Curran,3.0,0,23,0,Harshal,2.0,0,21,1
+RR,18,18.1,4,1,0,0,0,Powell,Hetmyer,12,4,1,1,Powell,7,3,1,0,Sam Curran,3.0,0,19,0,Harshal,2.0,0,21,1
+RR,17,17.6,6,1,0,0,0,Hetmyer,Hetmyer,12,4,1,1,Powell,3,2,0,0,Harshal,2.0,0,21,1,Arshdeep,3.0,0,31,1
+RR,17,17.5,4,1,0,0,0,Hetmyer,Hetmyer,6,3,1,0,Powell,3,2,0,0,Harshal,1.0,0,15,1,Arshdeep,3.0,0,31,1
+RR,17,17.4,1,0,0,0,0,Powell,Hetmyer,2,2,0,0,Powell,3,2,0,0,Harshal,1.0,0,11,1,Arshdeep,3.0,0,31,1
+RR,17,17.3,2,0,0,0,0,Powell,Hetmyer,2,2,0,0,Powell,2,1,0,0,Harshal,1.0,0,10,1,Arshdeep,3.0,0,31,1
+RR,17,17.2,0,0,0,1,0,Jurel,Hetmyer,2,2,0,0,,0,0,0,0,Harshal,1.0,0,8,1,Arshdeep,3.0,0,31,1
+RR,17,17.1,1,0,0,0,0,Hetmyer,Jurel,6,10,0,0,Hetmyer,2,2,0,0,Harshal,1.0,0,8,0,Arshdeep,3.0,0,31,1
+RR,16,16.6,0,0,1,0,0,Jurel,Jurel,6,10,0,0,Hetmyer,1,1,0,0,Arshdeep,3.0,0,31,1,Sam Curran,3.0,0,15,0
+RR,16,16.5,1,0,0,0,0,Hetmyer,Jurel,6,9,0,0,Hetmyer,1,1,0,0,Arshdeep,2.0,0,31,1,Sam Curran,3.0,0,15,0
+RR,16,16.4,0,0,0,1,0,Parag,Jurel,6,9,0,0,,0,0,0,0,Arshdeep,2.0,0,30,1,Sam Curran,3.0,0,15,0
+RR,16,16.3,2,0,0,0,0,Parag,Parag,23,17,1,1,Jurel,6,9,0,0,Arshdeep,2.0,0,30,0,Sam Curran,3.0,0,15,0
+RR,16,16.2,6,1,0,0,0,Parag,Parag,21,16,1,1,Jurel,6,9,0,0,Arshdeep,2.0,0,28,0,Sam Curran,3.0,0,15,0
+RR,16,16.1,0,0,1,0,0,Parag,Parag,15,15,1,0,Jurel,6,9,0,0,Arshdeep,2.0,0,22,0,Sam Curran,3.0,0,15,0
+RR,15,15.6,1,0,0,0,0,Parag,Parag,15,14,1,0,Jurel,6,9,0,0,Sam Curran,3.0,0,15,0,Harpreet Brar,3.0,0,22,0
+RR,15,15.5,1,0,0,0,0,Jurel,Parag,14,13,1,0,Jurel,6,9,0,0,Sam Curran,2.0,0,14,0,Harpreet Brar,3.0,0,22,0
+RR,15,15.4,1,0,0,0,0,Parag,Parag,14,13,1,0,Jurel,5,8,0,0,Sam Curran,2.0,0,13,0,Harpreet Brar,3.0,0,22,0
+RR,15,15.3,1,0,0,0,0,Jurel,Parag,13,12,1,0,Jurel,5,8,0,0,Sam Curran,2.0,0,12,0,Harpreet Brar,3.0,0,22,0
+RR,15,15.2,1,0,0,0,0,Parag,Parag,13,12,1,0,Jurel,4,7,0,0,Sam Curran,2.0,0,11,0,Harpreet Brar,3.0,0,22,0
+RR,15,15.1,1,0,0,0,0,Jurel,Parag,12,11,1,0,Jurel,4,7,0,0,Sam Curran,2.0,0,10,0,Harpreet Brar,3.0,0,22,0
+RR,14,14.6,2,0,0,0,0,Parag,Parag,12,11,1,0,Jurel,3,6,0,0,Harpreet Brar,3.0,0,22,0,Rabada,4.0,0,18,2
+RR,14,14.5,1,0,0,0,0,Jurel,Parag,10,10,1,0,Jurel,3,6,0,0,Harpreet Brar,2.0,0,20,0,Rabada,4.0,0,18,2
+RR,14,14.4,1,0,0,0,0,Parag,Parag,10,10,1,0,Jurel,2,5,0,0,Harpreet Brar,2.0,0,19,0,Rabada,4.0,0,18,2
+RR,14,14.3,4,1,0,0,0,Parag,Parag,9,9,1,0,Jurel,2,5,0,0,Harpreet Brar,2.0,0,18,0,Rabada,4.0,0,18,2
+RR,14,14.2,1,0,0,0,0,Jurel,Parag,5,8,0,0,Jurel,2,5,0,0,Harpreet Brar,2.0,0,14,0,Rabada,4.0,0,18,2
+RR,14,14.1,0,0,1,0,0,Jurel,Parag,5,8,0,0,Jurel,1,4,0,0,Harpreet Brar,2.0,0,13,0,Rabada,4.0,0,18,2
+RR,13,13.6,0,0,1,0,0,Parag,Parag,5,8,0,0,Jurel,1,3,0,0,Rabada,4.0,0,18,2,Harpreet Brar,2.0,0,13,0
+RR,13,13.5,1,0,0,0,0,Jurel,Parag,5,7,0,0,Jurel,1,3,0,0,Rabada,3.0,0,18,2,Harpreet Brar,2.0,0,13,0
+RR,13,13.4,0,0,1,0,0,Jurel,Parag,5,7,0,0,Jurel,0,2,0,0,Rabada,3.0,0,17,2,Harpreet Brar,2.0,0,13,0
+RR,13,13.3,0,0,1,0,0,Jurel,Parag,5,7,0,0,Jurel,0,1,0,0,Rabada,3.0,0,17,2,Harpreet Brar,2.0,0,13,0
+RR,13,13.2,0,0,0,1,0,Samson,Parag,5,7,0,0,,0,0,0,0,Rabada,3.0,0,17,2,Harpreet Brar,2.0,0,13,0
+RR,13,13.1,1,0,0,0,0,Parag,Samson,18,13,1,1,Parag,5,7,0,0,Rabada,3.0,0,17,1,Harpreet Brar,2.0,0,13,0
+RR,12,12.6,1,0,0,0,0,Parag,Samson,18,13,1,1,Parag,4,6,0,0,Harpreet Brar,2.0,0,13,0,Rabada,3.0,0,16,1
+RR,12,12.5,1,0,0,0,0,Samson,Samson,18,13,1,1,Parag,3,5,0,0,Harpreet Brar,1.0,0,12,0,Rabada,3.0,0,16,1
+RR,12,12.4,1,0,0,0,0,Parag,Samson,17,12,1,1,Parag,3,5,0,0,Harpreet Brar,1.0,0,11,0,Rabada,3.0,0,16,1
+RR,12,12.3,1,0,0,0,0,Samson,Samson,17,12,1,1,Parag,2,4,0,0,Harpreet Brar,1.0,0,10,0,Rabada,3.0,0,16,1
+RR,12,12.2,1,0,0,0,0,Parag,Samson,16,11,1,1,Parag,2,4,0,0,Harpreet Brar,1.0,0,9,0,Rabada,3.0,0,16,1
+RR,12,12.1,0,0,1,0,0,Parag,Samson,16,11,1,1,Parag,1,3,0,0,Harpreet Brar,1.0,0,8,0,Rabada,3.0,0,16,1
+RR,11,11.6,1,0,0,0,0,Parag,Samson,16,11,1,1,Parag,1,2,0,0,Rabada,3.0,0,16,1,Livingstone,3.0,0,21,1
+RR,11,11.5,0,0,1,0,0,Parag,Samson,16,11,1,1,Parag,0,1,0,0,Rabada,2.0,0,15,1,Livingstone,3.0,0,21,1
+RR,11,11.4,0,0,0,1,0,Jaiswal,Samson,16,11,1,1,,0,0,0,0,Rabada,2.0,0,15,1,Livingstone,3.0,0,21,1
+RR,11,11.3,2,0,0,0,0,Jaiswal,Jaiswal,41,27,4,0,Samson,16,11,1,1,Rabada,2.0,0,15,0,Livingstone,3.0,0,21,1
+RR,11,11.2,0,0,1,0,0,Jaiswal,Jaiswal,39,26,4,0,Samson,16,11,1,1,Rabada,2.0,0,13,0,Livingstone,3.0,0,21,1
+RR,11,11.1,1,0,0,0,0,Samson,Jaiswal,39,25,4,0,Samson,16,11,1,1,Rabada,2.0,0,13,0,Livingstone,3.0,0,21,1
+RR,10,10.6,1,0,0,0,0,Samson,Jaiswal,39,25,4,0,Samson,15,10,1,1,Livingstone,3.0,0,21,1,Harpreet Brar,1.0,0,8,0
+RR,10,10.5,0,0,1,0,0,Samson,Jaiswal,39,25,4,0,Samson,14,9,1,1,Livingstone,2.0,0,20,1,Harpreet Brar,1.0,0,8,0
+RR,10,10.4,4,1,0,0,0,Samson,Jaiswal,39,25,4,0,Samson,14,8,1,1,Livingstone,2.0,0,20,1,Harpreet Brar,1.0,0,8,0
+RR,10,10.3,1,0,0,0,0,Jaiswal,Jaiswal,39,25,4,0,Samson,10,7,0,1,Livingstone,2.0,0,16,1,Harpreet Brar,1.0,0,8,0
+RR,10,10.2,1,0,0,0,0,Samson,Jaiswal,38,24,4,0,Samson,10,7,0,1,Livingstone,2.0,0,15,1,Harpreet Brar,1.0,0,8,0
+RR,10,10.1,6,1,0,0,0,Samson,Jaiswal,38,24,4,0,Samson,9,6,0,1,Livingstone,2.0,0,14,1,Harpreet Brar,1.0,0,8,0
+RR,9,9.6,1,0,0,0,0,Samson,Jaiswal,38,24,4,0,Samson,3,5,0,0,Harpreet Brar,1.0,0,8,0,Livingstone,2.0,0,8,1
+RR,9,9.5,1,0,0,0,0,Jaiswal,Jaiswal,38,24,4,0,Samson,2,4,0,0,Harpreet Brar,0,0,7,0,Livingstone,2.0,0,8,1
+RR,9,9.4,2,0,0,0,0,Jaiswal,Jaiswal,37,23,4,0,Samson,2,4,0,0,Harpreet Brar,0,0,6,0,Livingstone,2.0,0,8,1
+RR,9,9.3,2,0,0,0,0,Jaiswal,Jaiswal,35,22,4,0,Samson,2,4,0,0,Harpreet Brar,0,0,4,0,Livingstone,2.0,0,8,1
+RR,9,9.2,1,0,0,0,0,Samson,Jaiswal,33,21,4,0,Samson,2,4,0,0,Harpreet Brar,0,0,2,0,Livingstone,2.0,0,8,1
+RR,9,9.1,1,0,0,0,0,Jaiswal,Jaiswal,33,21,4,0,Samson,1,3,0,0,Harpreet Brar,0,0,1,0,Livingstone,2.0,0,8,1
+RR,8,8.6,1,0,0,0,0,Jaiswal,Jaiswal,32,20,4,0,Samson,1,3,0,0,Livingstone,2.0,0,8,1,Harshal,1.0,0,7,0
+RR,8,8.5,1,0,0,0,0,Samson,Jaiswal,31,19,4,0,Samson,1,3,0,0,Livingstone,1.0,0,7,1,Harshal,1.0,0,7,0
+RR,8,8.4,0,0,1,0,0,Samson,Jaiswal,31,19,4,0,Samson,0,2,0,0,Livingstone,1.0,0,6,1,Harshal,1.0,0,7,0
+RR,8,8.3,0,0,1,0,0,Samson,Jaiswal,31,19,4,0,Samson,0,1,0,0,Livingstone,1.0,0,6,1,Harshal,1.0,0,7,0
+RR,8,8.2,0,0,0,1,0,Kotian,Jaiswal,31,19,4,0,,0,0,0,0,Livingstone,1.0,0,6,1,Harshal,1.0,0,7,0
+RR,8,8.1,0,0,1,0,0,Kotian,Jaiswal,31,19,4,0,Kotian,25,30,3,0,Livingstone,1.0,0,6,0,Harshal,1.0,0,7,0
+RR,7,7.6,1,0,0,0,0,Kotian,Jaiswal,31,19,4,0,Kotian,25,29,3,0,Harshal,1.0,0,7,0,Livingstone,1.0,0,6,0
+RR,7,7.5,2,0,0,0,0,Kotian,Jaiswal,31,19,4,0,Kotian,24,28,3,0,Harshal,0,0,6,0,Livingstone,1.0,0,6,0
+RR,7,7.4,1,0,0,0,0,Jaiswal,Jaiswal,31,19,4,0,Kotian,22,27,3,0,Harshal,0,0,4,0,Livingstone,1.0,0,6,0
+RR,7,7.3,1,0,0,0,0,Kotian,Jaiswal,30,18,4,0,Kotian,22,27,3,0,Harshal,0,0,3,0,Livingstone,1.0,0,6,0
+RR,7,7.2,1,0,0,0,0,Jaiswal,Jaiswal,30,18,4,0,Kotian,21,26,3,0,Harshal,0,0,2,0,Livingstone,1.0,0,6,0
+RR,7,7.1,1,0,0,0,0,Kotian,Jaiswal,29,17,4,0,Kotian,21,26,3,0,Harshal,0,0,1,0,Livingstone,1.0,0,6,0
+RR,6,6.6,4,1,0,0,0,Jaiswal,Jaiswal,29,17,4,0,Kotian,20,25,3,0,Livingstone,1.0,0,6,0,Rabada,2.0,0,12,0
+RR,6,6.6,1,0,0,0,1,Jaiswal,Jaiswal,25,16,3,0,Kotian,20,25,3,0,Livingstone,0,0,2,0,Rabada,2.0,0,12,0
+RR,6,6.5,1,0,0,0,0,Kotian,Jaiswal,24,16,3,0,Kotian,20,25,3,0,Livingstone,0,0,1,0,Rabada,2.0,0,12,0
+RR,6,6.4,0,0,1,0,0,Kotian,Jaiswal,24,16,3,0,Kotian,19,24,3,0,Livingstone,0,0,0,0,Rabada,2.0,0,12,0
+RR,6,6.3,0,0,1,0,0,Kotian,Jaiswal,24,16,3,0,Kotian,19,23,3,0,Livingstone,0,0,0,0,Rabada,2.0,0,12,0
+RR,6,6.2,0,0,1,0,0,Kotian,Jaiswal,24,16,3,0,Kotian,19,22,3,0,Livingstone,0,0,0,0,Rabada,2.0,0,12,0
+RR,6,6.1,0,0,1,0,0,Kotian,Jaiswal,24,16,3,0,Kotian,19,21,3,0,Livingstone,0,0,0,0,Rabada,2.0,0,12,0
+RR,5,5.6,0,0,1,0,0,Jaiswal,Jaiswal,24,16,3,0,Kotian,19,20,3,0,Rabada,2.0,0,12,0,Sam Curran,2.0,0,9,0
+RR,5,5.5,2,0,0,0,0,Jaiswal,Jaiswal,24,15,3,0,Kotian,19,20,3,0,Rabada,1.0,0,12,0,Sam Curran,2.0,0,9,0
+RR,5,5.4,0,0,1,0,0,Jaiswal,Jaiswal,22,14,3,0,Kotian,19,20,3,0,Rabada,1.0,0,10,0,Sam Curran,2.0,0,9,0
+RR,5,5.3,1,0,0,0,0,Kotian,Jaiswal,22,13,3,0,Kotian,19,20,3,0,Rabada,1.0,0,10,0,Sam Curran,2.0,0,9,0
+RR,5,5.2,0,0,1,0,0,Kotian,Jaiswal,22,13,3,0,Kotian,18,19,3,0,Rabada,1.0,0,9,0,Sam Curran,2.0,0,9,0
+RR,5,5.1,4,1,0,0,0,Kotian,Jaiswal,22,13,3,0,Kotian,18,18,3,0,Rabada,1.0,0,9,0,Sam Curran,2.0,0,9,0
+RR,4,4.6,0,0,1,0,0,Jaiswal,Jaiswal,22,13,3,0,Kotian,14,17,2,0,Sam Curran,2.0,0,9,0,Arshdeep,2.0,0,22,0
+RR,4,4.6,1,0,0,0,1,Jaiswal,Jaiswal,22,12,3,0,Kotian,14,17,2,0,Sam Curran,1.0,0,9,0,Arshdeep,2.0,0,22,0
+RR,4,4.5,1,0,0,0,0,Kotian,Jaiswal,21,12,3,0,Kotian,14,17,2,0,Sam Curran,1.0,0,8,0,Arshdeep,2.0,0,22,0
+RR,4,4.4,0,0,1,0,0,Kotian,Jaiswal,21,12,3,0,Kotian,13,16,2,0,Sam Curran,1.0,0,7,0,Arshdeep,2.0,0,22,0
+RR,4,4.3,0,0,1,0,0,Kotian,Jaiswal,21,12,3,0,Kotian,13,15,2,0,Sam Curran,1.0,0,7,0,Arshdeep,2.0,0,22,0
+RR,4,4.2,1,0,0,0,0,Jaiswal,Jaiswal,21,12,3,0,Kotian,13,14,2,0,Sam Curran,1.0,0,7,0,Arshdeep,2.0,0,22,0
+RR,4,4.1,4,1,0,0,0,Jaiswal,Jaiswal,20,11,3,0,Kotian,13,14,2,0,Sam Curran,1.0,0,6,0,Arshdeep,2.0,0,22,0
+RR,3,3.6,4,1,0,0,0,Kotian,Jaiswal,16,10,2,0,Kotian,13,14,2,0,Arshdeep,2.0,0,22,0,Sam Curran,1.0,0,2,0
+RR,3,3.5,1,0,0,0,0,Jaiswal,Jaiswal,16,10,2,0,Kotian,9,13,1,0,Arshdeep,1.0,0,18,0,Sam Curran,1.0,0,2,0
+RR,3,3.4,1,0,0,0,0,Kotian,Jaiswal,15,9,2,0,Kotian,9,13,1,0,Arshdeep,1.0,0,17,0,Sam Curran,1.0,0,2,0
+RR,3,3.3,1,0,0,0,0,Jaiswal,Jaiswal,15,9,2,0,Kotian,8,12,1,0,Arshdeep,1.0,0,16,0,Sam Curran,1.0,0,2,0
+RR,3,3.2,2,0,0,0,0,Jaiswal,Jaiswal,14,8,2,0,Kotian,8,12,1,0,Arshdeep,1.0,0,15,0,Sam Curran,1.0,0,2,0
+RR,3,3.1,4,1,0,0,0,Jaiswal,Jaiswal,12,7,2,0,Kotian,8,12,1,0,Arshdeep,1.0,0,13,0,Sam Curran,1.0,0,2,0
+RR,2,2.6,1,0,0,0,0,Jaiswal,Jaiswal,8,6,1,0,Kotian,8,12,1,0,Sam Curran,1.0,0,2,0,Rabada,1.0,0,5,0
+RR,2,2.5,0,0,1,0,0,Jaiswal,Jaiswal,7,5,1,0,Kotian,8,12,1,0,Sam Curran,0,0,1,0,Rabada,1.0,0,5,0
+RR,2,2.4,0,0,1,0,0,Jaiswal,Jaiswal,7,4,1,0,Kotian,8,12,1,0,Sam Curran,0,0,1,0,Rabada,1.0,0,5,0
+RR,2,2.3,1,0,0,0,0,Kotian,Jaiswal,7,3,1,0,Kotian,8,12,1,0,Sam Curran,0,0,1,0,Rabada,1.0,0,5,0
+RR,2,2.2,0,0,1,0,0,Kotian,Jaiswal,7,3,1,0,Kotian,7,11,1,0,Sam Curran,0,0,0,0,Rabada,1.0,0,5,0
+RR,2,2.1,0,0,1,0,0,Kotian,Jaiswal,7,3,1,0,Kotian,7,10,1,0,Sam Curran,0,0,0,0,Rabada,1.0,0,5,0
+RR,1,1.6,0,0,1,0,0,Jaiswal,Jaiswal,7,3,1,0,Kotian,7,9,1,0,Rabada,1.0,0,5,0,Arshdeep,1.0,0,9,0
+RR,1,1.5,4,1,0,0,0,Jaiswal,Jaiswal,7,2,1,0,Kotian,7,9,1,0,Rabada,0,0,5,0,Arshdeep,1.0,0,9,0
+RR,1,1.4,1,0,0,0,0,Kotian,Jaiswal,3,1,0,0,Kotian,7,9,1,0,Rabada,0,0,1,0,Arshdeep,1.0,0,9,0
+RR,1,1.3,0,0,1,0,0,Kotian,Jaiswal,3,1,0,0,Kotian,6,8,1,0,Rabada,0,0,0,0,Arshdeep,1.0,0,9,0
+RR,1,1.2,0,0,1,0,0,Kotian,Jaiswal,3,1,0,0,Kotian,6,7,1,0,Rabada,0,0,0,0,Arshdeep,1.0,0,9,0
+RR,1,1.1,0,0,1,0,0,Kotian,Jaiswal,3,1,0,0,Kotian,6,6,1,0,Rabada,0,0,0,0,Arshdeep,1.0,0,9,0
+RR,0,0.6,1,0,0,0,0,Kotian,Jaiswal,3,1,0,0,Kotian,6,5,1,0,Arshdeep,1.0,0,9,0,,0,0,0,0
+RR,0,0.5,4,1,0,0,0,Kotian,Jaiswal,3,1,0,0,Kotian,5,4,1,0,Arshdeep,0,0,8,0,,0,0,0,0
+RR,0,0.4,0,0,1,0,0,Kotian,Jaiswal,3,1,0,0,Kotian,1,3,0,0,Arshdeep,0,0,4,0,,0,0,0,0
+RR,0,0.3,0,0,1,0,0,Kotian,Jaiswal,3,1,0,0,Kotian,1,2,0,0,Arshdeep,0,0,4,0,,0,0,0,0
+RR,0,0.3,1,0,0,0,1,Kotian,Jaiswal,3,1,0,0,Kotian,1,1,0,0,Arshdeep,0,0,4,0,,0,0,0,0
+RR,0,0.2,0,0,1,0,0,Kotian,Jaiswal,3,1,0,0,Kotian,0,1,0,0,Arshdeep,0,0,3,0,,0,0,0,0
+RR,0,0.1,3,0,0,0,0,Jaiswal,Jaiswal,3,1,0,0,,0,0,0,0,Arshdeep,0,0,3,0,,0,0,0,0

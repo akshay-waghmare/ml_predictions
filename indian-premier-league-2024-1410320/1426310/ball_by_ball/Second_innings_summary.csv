@@ -1,0 +1,5 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+RCB,19,19.1,13,2,0,1,0,Karn,Swapnil,2,2,0,0,Karn,0,1,0,0,Sandeep,1.0,0,11,0,Avesh Khan,1.0,0,5,2
+RCB,18,18.1,5,1,2,2,0,Karn,Karthik,7,5,1,0,Lomror,13,8,1,0,Avesh Khan,0,0,0,0,Boult,1.0,0,10,0
+RCB,17,17.1,10,1,1,0,0,Karthik,Karthik,6,3,1,0,Lomror,6,4,0,0,Boult,0,0,2,0,Sandeep,1.0,0,10,0
+RCB,16,16.1,10,1,0,0,0,Lomror,Karthik,4,1,1,0,,0,0,0,0,Sandeep,0,0,4,0,,0,0,0,0

@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+CSK,19,19.1,17,2,1,1,1,Dhoni,Rahane,73,29,6,5,Jadeja,10,5,0,1,Khejroliya,2.0,0,33,1,Varun,4.0,0,49,1
+CSK,18,18.1,19,3,1,0,0,Rahane,Rahane,57,25,5,3,Jadeja,3,3,0,0,Varun,3.0,0,32,1,Khejroliya,2.0,0,27,1
+CSK,17,17.1,13,2,1,1,0,Rahane,Rahane,53,24,4,3,Dube,44,19,2,4,Khejroliya,1.0,0,16,0,Russell,1.0,0,17,0
+CSK,16,16.1,17,2,0,0,2,Rahane,Rahane,38,20,3,2,Dube,41,17,2,4,Russell,0,0,1,0,Suyash Sharma,4.0,0,29,1
+CSK,15,15.1,9,1,2,0,0,Dube,Rahane,37,19,3,2,Dube,32,12,2,3,Suyash Sharma,3.0,0,20,1,Wiese,3.0,0,38,0
+CSK,14,14.1,15,2,0,0,0,Dube,Rahane,36,18,3,2,Dube,24,7,1,3,Wiese,2.0,0,29,0,Umesh Yadav,3.0,0,35,0
+CSK,13,13.1,22,4,0,0,0,Dube,Rahane,25,15,2,1,Dube,13,4,0,2,Umesh Yadav,2.0,0,19,0,Varun,3.0,0,30,1
+CSK,12,12.1,14,2,1,1,0,Dube,Rahane,18,13,2,0,,0,0,0,0,Varun,2.0,0,16,1,Suyash Sharma,3.0,0,20,1
+CSK,11,11.1,8,1,2,0,0,Rahane,Conway,55,38,4,3,Rahane,11,9,1,0,Suyash Sharma,2.0,0,12,1,Varun,2.0,0,16,0
+CSK,10,10.1,7,1,2,0,0,Rahane,Conway,50,34,3,3,Rahane,10,7,1,0,Varun,1.0,0,10,0,Suyash Sharma,2.0,0,12,1
+CSK,9,9.1,5,0,2,0,0,Rahane,Conway,47,30,3,3,Rahane,8,5,1,0,Suyash Sharma,1.0,0,8,1,Narine,2.0,0,23,0
+CSK,8,8.1,10,1,1,0,0,Conway,Conway,40,27,3,2,Rahane,5,2,1,0,Narine,1.0,0,14,0,Suyash Sharma,1.0,0,7,1
+CSK,7,7.1,7,1,1,1,0,Rahane,Gaikwad,35,19,2,3,Conway,37,24,3,2,Suyash Sharma,0,0,0,0,Narine,1.0,0,13,0
+CSK,6,6.1,13,2,2,0,0,Gaikwad,Gaikwad,23,14,1,2,Conway,37,23,3,2,Narine,0,0,1,0,Khejroliya,1.0,0,14,0
+CSK,5,5.1,14,2,1,0,0,Gaikwad,Gaikwad,15,11,1,1,Conway,31,20,2,2,Khejroliya,0,0,1,0,Wiese,2.0,0,23,0
+CSK,4,4.1,14,2,1,0,0,Conway,Gaikwad,14,10,1,1,Conway,21,15,1,2,Wiese,1.0,0,13,0,Varun,1.0,0,9,0
+CSK,3,3.1,9,1,3,0,0,Conway,Gaikwad,14,10,1,1,Conway,8,9,0,1,Varun,0,0,0,0,Umesh Yadav,2.0,0,13,0
+CSK,2,2.1,8,1,3,0,0,Gaikwad,Gaikwad,8,8,1,0,Conway,7,5,0,1,Umesh Yadav,1.0,0,6,0,Wiese,1.0,0,9,0
+CSK,1,1.1,9,1,2,0,0,Conway,Gaikwad,6,6,1,0,Conway,0,1,0,0,Wiese,0,0,1,0,Umesh Yadav,1.0,0,5,0
+CSK,0,0.1,5,1,4,0,0,Conway,Gaikwad,4,1,1,0,,0,0,0,0,Umesh Yadav,0,0,4,0,,0,0,0,0

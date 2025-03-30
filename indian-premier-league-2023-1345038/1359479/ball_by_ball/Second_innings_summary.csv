@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+MI,19,19.1,22,3,0,0,1,Tilak Varma,Tilak Varma,81,43,8,3,Arshad Khan,7,6,0,0,Harshal,3.0,0,23,1,Siraj,4.0,0,21,1
+MI,18,18.1,16,2,2,0,5,Tilak Varma,Tilak Varma,66,39,6,3,Arshad Khan,4,4,0,0,Siraj,3.0,0,5,1,Harshal,3.0,0,21,1
+MI,17,17.1,10,1,1,1,1,Tilak Varma,Tilak Varma,60,37,5,3,,0,0,0,0,Harshal,2.0,0,11,1,Akash Deep,3.0,0,29,1
+MI,16,16.1,12,2,3,0,0,Tilak Varma,Tilak Varma,54,32,4,3,Shokeen,5,2,1,0,Akash Deep,2.0,0,23,1,Karn,4.0,0,32,2
+MI,15,15.1,9,1,0,1,1,Shokeen,Tilak Varma,46,29,4,2,David,4,6,0,0,Karn,3.0,0,24,1,Harshal,2.0,0,11,0
+MI,14,14.1,3,0,3,0,0,Tilak Varma,Tilak Varma,45,27,4,2,David,2,2,0,0,Harshal,1.0,0,9,0,Karn,3.0,0,23,1
+MI,13,13.1,14,2,1,1,0,David,Tilak Varma,45,27,4,2,Wadhera,9,9,1,0,Karn,2.0,0,10,0,Akash Deep,2.0,0,17,1
+MI,12,12.1,7,1,2,0,0,Tilak Varma,Tilak Varma,42,22,4,2,Wadhera,8,8,1,0,Akash Deep,1.0,0,14,1,Maxwell,1.0,0,16,0
+MI,11,11.1,16,2,0,0,1,Wadhera,Tilak Varma,31,18,2,2,Wadhera,5,6,1,0,Maxwell,0,0,6,0,Michael Bracewell,2.0,0,16,1
+MI,10,10.1,7,1,3,0,0,Wadhera,Tilak Varma,22,13,2,1,Wadhera,5,5,1,0,Michael Bracewell,1.0,0,13,1,Karn,2.0,0,9,0
+MI,9,9.1,3,0,3,0,0,Tilak Varma,Tilak Varma,17,11,1,1,Wadhera,4,1,1,0,Karn,1.0,0,7,0,Michael Bracewell,1.0,0,9,1
+MI,8,8.1,9,2,2,1,0,Wadhera,Suryakumar,12,13,0,0,Tilak Varma,15,9,1,1,Michael Bracewell,0,0,0,0,Karn,1.0,0,6,0
+MI,7,7.1,6,0,1,0,0,Suryakumar,Suryakumar,10,10,0,0,Tilak Varma,13,6,1,1,Karn,0,0,2,0,Harshal,1.0,0,8,0
+MI,6,6.1,8,1,1,0,0,Suryakumar,Suryakumar,6,6,0,0,Tilak Varma,8,4,0,1,Harshal,0,0,1,0,Akash Deep,1.0,0,10,1
+MI,5,5.1,10,1,1,1,0,Suryakumar,Rohit Sharma,1,9,0,0,Suryakumar,4,5,0,0,Akash Deep,0,0,1,0,Siraj,3.0,0,5,1
+MI,4,4.1,2,0,5,0,1,Rohit Sharma,Rohit Sharma,1,4,0,0,Suryakumar,2,3,0,0,Siraj,2.0,0,4,1,Topley,2.0,0,14,1
+MI,3,3.1,5,1,3,1,0,Suryakumar,Rohit Sharma,1,4,0,0,Green,5,2,1,0,Topley,1.0,0,13,0,Siraj,2.0,0,3,1
+MI,2,2.1,1,0,4,1,0,Rohit Sharma,Rohit Sharma,1,2,0,0,Ishan,10,11,2,0,Siraj,1.0,0,2,0,Topley,1.0,0,9,0
+MI,1,1.1,9,2,3,0,0,Ishan,Rohit Sharma,1,2,0,0,Ishan,5,5,1,0,Topley,0,0,4,0,Siraj,1.0,0,2,0
+MI,0,0.1,2,0,4,0,0,Rohit Sharma,Rohit Sharma,1,1,0,0,,0,0,0,0,Siraj,0,0,1,0,,0,0,0,0

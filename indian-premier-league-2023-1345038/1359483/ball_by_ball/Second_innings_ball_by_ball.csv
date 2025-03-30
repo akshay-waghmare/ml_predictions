@@ -1,0 +1,130 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+KKR,19,19.6,2,0,0,0,0,Umesh Yadav,Narine,1,1,0,0,Umesh Yadav,6,2,1,0,Siraj,4.0,0,44,1,Harshal,3.0,0,38,1
+KKR,19,19.5,4,1,0,0,0,Umesh Yadav,Narine,1,1,0,0,Umesh Yadav,4,1,1,0,Siraj,4.0,0,42,1,Harshal,3.0,0,38,1
+KKR,19,19.4,0,0,0,1,0,Thakur,Narine,1,1,0,0,,0,0,0,0,Siraj,3.0,0,38,1,Harshal,3.0,0,38,1
+KKR,19,19.3,1,0,0,0,1,Narine,Thakur,69,28,9,3,Narine,1,1,0,0,Siraj,3.0,0,38,0,Harshal,3.0,0,38,1
+KKR,19,19.2,1,0,0,0,0,Thakur,Thakur,69,28,9,3,,0,0,0,0,Siraj,3.0,0,38,0,Harshal,3.0,0,38,1
+KKR,19,19.1,4,1,0,0,0,Thakur,Thakur,68,27,9,3,,0,0,0,0,Siraj,3.0,0,37,0,Harshal,3.0,0,38,1
+KKR,18,18.6,0,0,0,1,0,Rinku Singh,Thakur,64,26,8,3,,0,0,0,0,Harshal,3.0,0,38,1,Siraj,3.0,0,33,0
+KKR,18,18.5,0,0,1,0,0,Rinku Singh,Rinku Singh,51,32,2,2,Thakur,64,26,8,3,Harshal,2.0,0,38,0,Siraj,3.0,0,33,0
+KKR,18,18.4,6,1,0,0,0,Rinku Singh,Rinku Singh,51,31,2,2,Thakur,64,26,8,3,Harshal,2.0,0,38,0,Siraj,3.0,0,33,0
+KKR,18,18.4,1,0,0,0,1,Rinku Singh,Rinku Singh,45,30,2,1,Thakur,64,26,8,3,Harshal,2.0,0,32,0,Siraj,3.0,0,33,0
+KKR,18,18.3,6,1,0,0,0,Rinku Singh,Rinku Singh,44,30,2,1,Thakur,64,26,8,3,Harshal,2.0,0,31,0,Siraj,3.0,0,33,0
+KKR,18,18.2,4,1,0,0,0,Rinku Singh,Rinku Singh,38,29,2,0,Thakur,64,26,8,3,Harshal,2.0,0,25,0,Siraj,3.0,0,33,0
+KKR,18,18.1,0,0,1,0,0,Rinku Singh,Rinku Singh,34,28,1,0,Thakur,64,26,8,3,Harshal,2.0,0,21,0,Siraj,3.0,0,33,0
+KKR,17,17.6,0,0,1,0,0,Thakur,Rinku Singh,34,27,1,0,Thakur,64,26,8,3,Siraj,3.0,0,33,0,Harshal,2.0,0,21,0
+KKR,17,17.5,1,0,0,0,0,Rinku Singh,Rinku Singh,34,27,1,0,Thakur,64,25,8,3,Siraj,3.0,0,33,0,Harshal,2.0,0,21,0
+KKR,17,17.5,7,0,0,0,1,Rinku Singh,Rinku Singh,33,26,1,0,Thakur,64,25,8,3,Siraj,2.0,0,32,0,Harshal,2.0,0,21,0
+KKR,17,17.4,0,0,1,0,0,Rinku Singh,Rinku Singh,26,25,1,0,Thakur,64,25,8,3,Siraj,2.0,0,25,0,Harshal,2.0,0,21,0
+KKR,17,17.3,1,0,0,0,0,Thakur,Rinku Singh,26,24,1,0,Thakur,64,25,8,3,Siraj,2.0,0,25,0,Harshal,2.0,0,21,0
+KKR,17,17.2,4,1,0,0,0,Thakur,Rinku Singh,26,24,1,0,Thakur,63,24,8,3,Siraj,2.0,0,24,0,Harshal,2.0,0,21,0
+KKR,17,17.2,1,0,0,0,1,Thakur,Rinku Singh,26,24,1,0,Thakur,59,23,7,3,Siraj,2.0,0,20,0,Harshal,2.0,0,21,0
+KKR,17,17.1,1,0,0,0,1,Rinku Singh,Rinku Singh,26,24,1,0,Thakur,58,23,7,3,Siraj,2.0,0,19,0,Harshal,2.0,0,21,0
+KKR,16,16.6,2,0,0,0,0,Thakur,Rinku Singh,25,23,1,0,Thakur,58,23,7,3,Harshal,2.0,0,21,0,Willey,4.0,1,16,2
+KKR,16,16.5,4,1,0,0,0,Thakur,Rinku Singh,25,23,1,0,Thakur,56,22,7,3,Harshal,1.0,0,19,0,Willey,4.0,1,16,2
+KKR,16,16.4,1,0,0,0,0,Rinku Singh,Rinku Singh,25,23,1,0,Thakur,52,21,6,3,Harshal,1.0,0,15,0,Willey,4.0,1,16,2
+KKR,16,16.3,1,0,0,0,0,Thakur,Rinku Singh,24,22,1,0,Thakur,52,21,6,3,Harshal,1.0,0,14,0,Willey,4.0,1,16,2
+KKR,16,16.2,4,1,0,0,0,Thakur,Rinku Singh,24,22,1,0,Thakur,51,20,6,3,Harshal,1.0,0,13,0,Willey,4.0,1,16,2
+KKR,16,16.1,1,0,0,0,0,Rinku Singh,Rinku Singh,24,22,1,0,Thakur,47,19,5,3,Harshal,1.0,0,9,0,Willey,4.0,1,16,2
+KKR,15,15.6,1,0,0,0,0,Rinku Singh,Rinku Singh,23,21,1,0,Thakur,47,19,5,3,Willey,4.0,1,16,2,Michael Bracewell,3.0,0,34,1
+KKR,15,15.6,1,0,0,0,1,Rinku Singh,Rinku Singh,22,20,1,0,Thakur,47,19,5,3,Willey,3.0,1,15,2,Michael Bracewell,3.0,0,34,1
+KKR,15,15.5,0,0,1,0,0,Rinku Singh,Rinku Singh,21,20,1,0,Thakur,47,19,5,3,Willey,3.0,1,14,2,Michael Bracewell,3.0,0,34,1
+KKR,15,15.4,1,0,0,0,0,Thakur,Rinku Singh,21,19,1,0,Thakur,47,19,5,3,Willey,3.0,1,14,2,Michael Bracewell,3.0,0,34,1
+KKR,15,15.3,0,0,1,0,0,Thakur,Rinku Singh,21,19,1,0,Thakur,46,18,5,3,Willey,3.0,1,13,2,Michael Bracewell,3.0,0,34,1
+KKR,15,15.2,4,1,0,0,0,Thakur,Rinku Singh,21,19,1,0,Thakur,46,17,5,3,Willey,3.0,1,13,2,Michael Bracewell,3.0,0,34,1
+KKR,15,15.1,0,0,1,0,0,Thakur,Rinku Singh,21,19,1,0,Thakur,42,16,4,3,Willey,3.0,1,9,2,Michael Bracewell,3.0,0,34,1
+KKR,14,14.6,1,0,0,0,0,Thakur,Rinku Singh,21,19,1,0,Thakur,42,15,4,3,Michael Bracewell,3.0,0,34,1,Karn,3.0,0,26,2
+KKR,14,14.5,6,1,0,0,0,Thakur,Rinku Singh,21,19,1,0,Thakur,41,14,4,3,Michael Bracewell,2.0,0,33,1,Karn,3.0,0,26,2
+KKR,14,14.4,6,1,0,0,0,Thakur,Rinku Singh,21,19,1,0,Thakur,35,13,4,2,Michael Bracewell,2.0,0,27,1,Karn,3.0,0,26,2
+KKR,14,14.3,1,0,0,0,0,Rinku Singh,Rinku Singh,21,19,1,0,Thakur,29,12,4,1,Michael Bracewell,2.0,0,21,1,Karn,3.0,0,26,2
+KKR,14,14.2,1,0,0,0,0,Thakur,Rinku Singh,20,18,1,0,Thakur,29,12,4,1,Michael Bracewell,2.0,0,20,1,Karn,3.0,0,26,2
+KKR,14,14.1,1,0,0,0,0,Rinku Singh,Rinku Singh,20,18,1,0,Thakur,28,11,4,1,Michael Bracewell,2.0,0,19,1,Karn,3.0,0,26,2
+KKR,13,13.6,4,1,0,0,0,Thakur,Rinku Singh,19,17,1,0,Thakur,28,11,4,1,Karn,3.0,0,26,2,Akash Deep,2.0,0,30,0
+KKR,13,13.5,1,0,0,0,0,Rinku Singh,Rinku Singh,19,17,1,0,Thakur,24,10,3,1,Karn,2.0,0,22,2,Akash Deep,2.0,0,30,0
+KKR,13,13.4,1,0,0,0,0,Thakur,Rinku Singh,18,16,1,0,Thakur,24,10,3,1,Karn,2.0,0,21,2,Akash Deep,2.0,0,30,0
+KKR,13,13.3,2,0,0,0,0,Thakur,Rinku Singh,18,16,1,0,Thakur,23,9,3,1,Karn,2.0,0,20,2,Akash Deep,2.0,0,30,0
+KKR,13,13.2,1,0,0,0,0,Rinku Singh,Rinku Singh,18,16,1,0,Thakur,21,8,3,1,Karn,2.0,0,18,2,Akash Deep,2.0,0,30,0
+KKR,13,13.1,2,0,0,0,0,Rinku Singh,Rinku Singh,17,15,1,0,Thakur,21,8,3,1,Karn,2.0,0,17,2,Akash Deep,2.0,0,30,0
+KKR,12,12.6,6,1,0,0,0,Thakur,Rinku Singh,15,14,1,0,Thakur,21,8,3,1,Akash Deep,2.0,0,30,0,Karn,2.0,0,15,2
+KKR,12,12.6,2,0,0,0,1,Rinku Singh,Rinku Singh,15,14,1,0,Thakur,15,7,3,0,Akash Deep,2.0,0,24,0,Karn,2.0,0,15,2
+KKR,12,12.5,1,0,0,0,0,Thakur,Rinku Singh,13,13,1,0,Thakur,15,7,3,0,Akash Deep,2.0,0,22,0,Karn,2.0,0,15,2
+KKR,12,12.4,1,0,0,0,0,Rinku Singh,Rinku Singh,13,13,1,0,Thakur,14,6,3,0,Akash Deep,1.0,0,21,0,Karn,2.0,0,15,2
+KKR,12,12.3,1,0,0,0,0,Thakur,Rinku Singh,12,12,1,0,Thakur,14,6,3,0,Akash Deep,1.0,0,20,0,Karn,2.0,0,15,2
+KKR,12,12.2,4,1,0,0,0,Thakur,Rinku Singh,12,12,1,0,Thakur,13,5,3,0,Akash Deep,1.0,0,19,0,Karn,2.0,0,15,2
+KKR,12,12.1,4,1,0,0,0,Thakur,Rinku Singh,12,12,1,0,Thakur,9,4,2,0,Akash Deep,1.0,0,15,0,Karn,2.0,0,15,2
+KKR,11,11.6,1,0,0,0,0,Thakur,Rinku Singh,12,12,1,0,Thakur,5,3,1,0,Karn,2.0,0,15,2,Harshal,1.0,0,8,0
+KKR,11,11.5,0,0,1,0,0,Thakur,Rinku Singh,12,12,1,0,Thakur,4,2,1,0,Karn,1.0,0,14,2,Harshal,1.0,0,8,0
+KKR,11,11.4,4,1,0,0,0,Thakur,Rinku Singh,12,12,1,0,Thakur,4,1,1,0,Karn,1.0,0,14,2,Harshal,1.0,0,8,0
+KKR,11,11.3,0,0,0,1,0,Russell,Rinku Singh,12,12,1,0,,0,0,0,0,Karn,1.0,0,10,2,Harshal,1.0,0,8,0
+KKR,11,11.2,0,0,0,1,0,Gurbaz,Rinku Singh,12,12,1,0,,0,0,0,0,Karn,1.0,0,10,1,Harshal,1.0,0,8,0
+KKR,11,11.1,2,0,0,0,0,Gurbaz,Gurbaz,73,43,8,2,Rinku Singh,12,12,1,0,Karn,1.0,0,10,0,Harshal,1.0,0,8,0
+KKR,10,10.6,4,1,0,0,0,Rinku Singh,Gurbaz,71,42,8,2,Rinku Singh,12,12,1,0,Harshal,1.0,0,8,0,Karn,1.0,0,8,0
+KKR,10,10.5,1,0,0,0,0,Gurbaz,Gurbaz,71,42,8,2,Rinku Singh,8,11,0,0,Harshal,0,0,4,0,Karn,1.0,0,8,0
+KKR,10,10.4,1,0,0,0,0,Rinku Singh,Gurbaz,70,41,8,2,Rinku Singh,8,11,0,0,Harshal,0,0,3,0,Karn,1.0,0,8,0
+KKR,10,10.3,0,0,1,0,0,Rinku Singh,Gurbaz,70,41,8,2,Rinku Singh,7,10,0,0,Harshal,0,0,2,0,Karn,1.0,0,8,0
+KKR,10,10.2,2,0,0,0,0,Rinku Singh,Gurbaz,70,41,8,2,Rinku Singh,7,9,0,0,Harshal,0,0,2,0,Karn,1.0,0,8,0
+KKR,10,10.1,0,0,1,0,0,Rinku Singh,Gurbaz,70,41,8,2,Rinku Singh,5,8,0,0,Harshal,0,0,0,0,Karn,1.0,0,8,0
+KKR,9,9.6,0,0,1,0,0,Gurbaz,Gurbaz,70,41,8,2,Rinku Singh,5,7,0,0,Karn,1.0,0,8,0,Michael Bracewell,2.0,0,18,1
+KKR,9,9.5,1,0,0,0,0,Rinku Singh,Gurbaz,70,40,8,2,Rinku Singh,5,7,0,0,Karn,0,0,8,0,Michael Bracewell,2.0,0,18,1
+KKR,9,9.4,1,0,0,0,0,Gurbaz,Gurbaz,70,40,8,2,Rinku Singh,4,6,0,0,Karn,0,0,7,0,Michael Bracewell,2.0,0,18,1
+KKR,9,9.3,0,0,1,0,0,Gurbaz,Gurbaz,69,39,8,2,Rinku Singh,4,6,0,0,Karn,0,0,6,0,Michael Bracewell,2.0,0,18,1
+KKR,9,9.2,6,1,0,0,0,Gurbaz,Gurbaz,69,38,8,2,Rinku Singh,4,6,0,0,Karn,0,0,6,0,Michael Bracewell,2.0,0,18,1
+KKR,9,9.1,0,0,1,0,0,Gurbaz,Gurbaz,63,37,8,1,Rinku Singh,4,6,0,0,Karn,0,0,0,0,Michael Bracewell,2.0,0,18,1
+KKR,8,8.6,1,0,0,0,0,Gurbaz,Gurbaz,63,36,8,1,Rinku Singh,4,6,0,0,Michael Bracewell,2.0,0,18,1,Shahbaz Ahmed,1.0,0,6,0
+KKR,8,8.5,4,1,0,0,0,Gurbaz,Gurbaz,62,35,8,1,Rinku Singh,4,6,0,0,Michael Bracewell,1.0,0,17,1,Shahbaz Ahmed,1.0,0,6,0
+KKR,8,8.4,1,0,0,0,0,Rinku Singh,Gurbaz,58,34,7,1,Rinku Singh,4,6,0,0,Michael Bracewell,1.0,0,13,1,Shahbaz Ahmed,1.0,0,6,0
+KKR,8,8.3,1,0,0,0,0,Gurbaz,Gurbaz,58,34,7,1,Rinku Singh,3,5,0,0,Michael Bracewell,1.0,0,12,1,Shahbaz Ahmed,1.0,0,6,0
+KKR,8,8.2,6,1,0,0,0,Gurbaz,Gurbaz,57,33,7,1,Rinku Singh,3,5,0,0,Michael Bracewell,1.0,0,11,1,Shahbaz Ahmed,1.0,0,6,0
+KKR,8,8.1,1,0,0,0,0,Rinku Singh,Gurbaz,51,32,7,0,Rinku Singh,3,5,0,0,Michael Bracewell,1.0,0,5,1,Shahbaz Ahmed,1.0,0,6,0
+KKR,7,7.6,0,0,1,0,0,Gurbaz,Gurbaz,51,32,7,0,Rinku Singh,2,4,0,0,Shahbaz Ahmed,1.0,0,6,0,Michael Bracewell,1.0,0,4,1
+KKR,7,7.5,4,1,0,0,0,Gurbaz,Gurbaz,51,31,7,0,Rinku Singh,2,4,0,0,Shahbaz Ahmed,0,0,6,0,Michael Bracewell,1.0,0,4,1
+KKR,7,7.4,0,0,1,0,0,Gurbaz,Gurbaz,47,30,6,0,Rinku Singh,2,4,0,0,Shahbaz Ahmed,0,0,2,0,Michael Bracewell,1.0,0,4,1
+KKR,7,7.3,1,0,0,0,0,Rinku Singh,Gurbaz,47,29,6,0,Rinku Singh,2,4,0,0,Shahbaz Ahmed,0,0,2,0,Michael Bracewell,1.0,0,4,1
+KKR,7,7.2,1,0,0,0,0,Gurbaz,Gurbaz,47,29,6,0,Rinku Singh,1,3,0,0,Shahbaz Ahmed,0,0,1,0,Michael Bracewell,1.0,0,4,1
+KKR,7,7.1,0,0,1,0,0,Gurbaz,Gurbaz,46,28,6,0,Rinku Singh,1,3,0,0,Shahbaz Ahmed,0,0,0,0,Michael Bracewell,1.0,0,4,1
+KKR,6,6.6,1,0,0,0,0,Gurbaz,Gurbaz,46,27,6,0,Rinku Singh,1,3,0,0,Michael Bracewell,1.0,0,4,1,Willey,3.0,1,9,2
+KKR,6,6.5,2,0,0,0,0,Gurbaz,Gurbaz,45,26,6,0,Rinku Singh,1,3,0,0,Michael Bracewell,0,0,3,1,Willey,3.0,1,9,2
+KKR,6,6.4,1,0,0,0,0,Rinku Singh,Gurbaz,43,25,6,0,Rinku Singh,1,3,0,0,Michael Bracewell,0,0,1,1,Willey,3.0,1,9,2
+KKR,6,6.3,0,0,1,0,0,Rinku Singh,Gurbaz,43,25,6,0,Rinku Singh,0,2,0,0,Michael Bracewell,0,0,0,1,Willey,3.0,1,9,2
+KKR,6,6.2,0,0,1,0,0,Rinku Singh,Gurbaz,43,25,6,0,Rinku Singh,0,1,0,0,Michael Bracewell,0,0,0,1,Willey,3.0,1,9,2
+KKR,6,6.1,0,0,0,1,0,Rana,Gurbaz,43,25,6,0,,0,0,0,0,Michael Bracewell,0,0,0,1,Willey,3.0,1,9,2
+KKR,5,5.6,0,0,1,0,0,Gurbaz,Gurbaz,43,25,6,0,Rana,1,4,0,0,Willey,3.0,1,9,2,Akash Deep,1.0,0,11,0
+KKR,5,5.5,1,0,0,0,0,Rana,Gurbaz,43,24,6,0,Rana,1,4,0,0,Willey,2.0,1,9,2,Akash Deep,1.0,0,11,0
+KKR,5,5.4,1,0,0,0,0,Gurbaz,Gurbaz,43,24,6,0,Rana,0,3,0,0,Willey,2.0,1,8,2,Akash Deep,1.0,0,11,0
+KKR,5,5.3,4,1,0,0,0,Gurbaz,Gurbaz,42,23,6,0,Rana,0,3,0,0,Willey,2.0,1,7,2,Akash Deep,1.0,0,11,0
+KKR,5,5.2,0,0,1,0,0,Gurbaz,Gurbaz,38,22,5,0,Rana,0,3,0,0,Willey,2.0,1,3,2,Akash Deep,1.0,0,11,0
+KKR,5,5.1,0,0,1,0,0,Gurbaz,Gurbaz,38,21,5,0,Rana,0,3,0,0,Willey,2.0,1,3,2,Akash Deep,1.0,0,11,0
+KKR,4,4.6,1,0,0,0,0,Gurbaz,Gurbaz,38,20,5,0,Rana,0,3,0,0,Akash Deep,1.0,0,11,0,Willey,2.0,1,3,2
+KKR,4,4.6,1,0,0,0,1,Gurbaz,Gurbaz,37,19,5,0,Rana,0,3,0,0,Akash Deep,1.0,0,10,0,Willey,2.0,1,3,2
+KKR,4,4.5,4,1,0,0,1,Gurbaz,Gurbaz,36,19,5,0,Rana,0,3,0,0,Akash Deep,1.0,0,9,0,Willey,2.0,1,3,2
+KKR,4,4.4,0,0,1,0,0,Gurbaz,Gurbaz,32,18,4,0,Rana,0,3,0,0,Akash Deep,0,0,9,0,Willey,2.0,1,3,2
+KKR,4,4.3,0,0,1,0,0,Gurbaz,Gurbaz,32,17,4,0,Rana,0,3,0,0,Akash Deep,0,0,9,0,Willey,2.0,1,3,2
+KKR,4,4.2,2,0,0,0,0,Gurbaz,Gurbaz,32,16,4,0,Rana,0,3,0,0,Akash Deep,0,0,9,0,Willey,2.0,1,3,2
+KKR,4,4.2,7,0,0,0,1,Gurbaz,Gurbaz,30,15,4,0,Rana,0,3,0,0,Akash Deep,0,0,7,0,Willey,2.0,1,3,2
+KKR,4,4.1,0,0,1,0,0,Gurbaz,Gurbaz,23,14,4,0,Rana,0,3,0,0,Akash Deep,0,0,0,0,Willey,2.0,1,3,2
+KKR,3,3.6,0,0,1,0,0,Rana,Gurbaz,23,13,4,0,Rana,0,3,0,0,Willey,2.0,1,3,2,Siraj,2.0,0,19,0
+KKR,3,3.5,0,0,1,0,0,Rana,Gurbaz,23,13,4,0,Rana,0,2,0,0,Willey,1.0,0,3,2,Siraj,2.0,0,19,0
+KKR,3,3.4,0,0,1,0,0,Rana,Gurbaz,23,13,4,0,Rana,0,1,0,0,Willey,1.0,0,3,2,Siraj,2.0,0,19,0
+KKR,3,3.3,0,0,0,1,0,Mandeep,Gurbaz,23,13,4,0,,0,0,0,0,Willey,1.0,0,3,2,Siraj,2.0,0,19,0
+KKR,3,3.2,0,0,0,1,0,Venkatesh Iyer,Gurbaz,23,13,4,0,,0,0,0,0,Willey,1.0,0,3,1,Siraj,2.0,0,19,0
+KKR,3,3.1,0,0,1,0,0,Venkatesh Iyer,Gurbaz,23,13,4,0,Venkatesh Iyer,3,6,0,0,Willey,1.0,0,3,0,Siraj,2.0,0,19,0
+KKR,2,2.6,0,0,1,0,0,Gurbaz,Gurbaz,23,13,4,0,Venkatesh Iyer,3,5,0,0,Siraj,2.0,0,19,0,Willey,1.0,0,3,0
+KKR,2,2.6,1,0,0,0,1,Gurbaz,Gurbaz,23,12,4,0,Venkatesh Iyer,3,5,0,0,Siraj,1.0,0,19,0,Willey,1.0,0,3,0
+KKR,2,2.5,4,1,0,0,0,Gurbaz,Gurbaz,22,12,4,0,Venkatesh Iyer,3,5,0,0,Siraj,1.0,0,18,0,Willey,1.0,0,3,0
+KKR,2,2.4,4,1,0,0,1,Gurbaz,Gurbaz,18,11,3,0,Venkatesh Iyer,3,5,0,0,Siraj,1.0,0,14,0,Willey,1.0,0,3,0
+KKR,2,2.3,4,1,0,0,0,Gurbaz,Gurbaz,14,10,2,0,Venkatesh Iyer,3,5,0,0,Siraj,1.0,0,14,0,Willey,1.0,0,3,0
+KKR,2,2.2,1,0,0,0,0,Venkatesh Iyer,Gurbaz,10,9,1,0,Venkatesh Iyer,3,5,0,0,Siraj,1.0,0,10,0,Willey,1.0,0,3,0
+KKR,2,2.1,0,0,1,0,0,Venkatesh Iyer,Gurbaz,10,9,1,0,Venkatesh Iyer,2,4,0,0,Siraj,1.0,0,9,0,Willey,1.0,0,3,0
+KKR,1,1.6,0,0,1,0,0,Gurbaz,Gurbaz,10,9,1,0,Venkatesh Iyer,2,3,0,0,Willey,1.0,0,3,0,Siraj,1.0,0,9,0
+KKR,1,1.5,1,0,0,0,0,Venkatesh Iyer,Gurbaz,10,8,1,0,Venkatesh Iyer,2,3,0,0,Willey,0,0,3,0,Siraj,1.0,0,9,0
+KKR,1,1.4,1,0,0,0,0,Gurbaz,Gurbaz,10,8,1,0,Venkatesh Iyer,1,2,0,0,Willey,0,0,2,0,Siraj,1.0,0,9,0
+KKR,1,1.3,0,0,1,0,0,Gurbaz,Gurbaz,9,7,1,0,Venkatesh Iyer,1,2,0,0,Willey,0,0,1,0,Siraj,1.0,0,9,0
+KKR,1,1.2,1,0,0,0,0,Venkatesh Iyer,Gurbaz,9,6,1,0,Venkatesh Iyer,1,2,0,0,Willey,0,0,1,0,Siraj,1.0,0,9,0
+KKR,1,1.1,0,0,1,0,0,Venkatesh Iyer,Gurbaz,9,6,1,0,Venkatesh Iyer,0,1,0,0,Willey,0,0,0,0,Siraj,1.0,0,9,0
+KKR,0,0.6,0,0,1,0,0,Gurbaz,Gurbaz,9,6,1,0,,0,0,0,0,Siraj,1.0,0,9,0,,0,0,0,0
+KKR,0,0.5,4,1,0,0,0,Gurbaz,Gurbaz,9,5,1,0,,0,0,0,0,Siraj,0,0,9,0,,0,0,0,0
+KKR,0,0.4,0,0,1,0,0,Gurbaz,Gurbaz,5,4,0,0,,0,0,0,0,Siraj,0,0,5,0,,0,0,0,0
+KKR,0,0.3,0,0,1,0,0,Gurbaz,Gurbaz,5,3,0,0,,0,0,0,0,Siraj,0,0,5,0,,0,0,0,0
+KKR,0,0.3,5,0,0,0,1,Gurbaz,Gurbaz,5,2,0,0,,0,0,0,0,Siraj,0,0,5,0,,0,0,0,0
+KKR,0,0.2,0,0,1,0,0,Gurbaz,Gurbaz,0,2,0,0,,0,0,0,0,Siraj,0,0,0,0,,0,0,0,0
+KKR,0,0.1,0,0,1,0,0,Gurbaz,Gurbaz,0,1,0,0,,0,0,0,0,Siraj,0,0,0,0,,0,0,0,0

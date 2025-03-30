@@ -1,0 +1,124 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+PBKS,19,19.6,0,0,1,0,0,Sam Curran,Sam Curran,27,17,0,2,Shahrukh Khan,11,7,2,0,Southee,4.0,0,54,2,Thakur,4.0,0,43,0
+PBKS,19,19.5,2,0,0,0,0,Sam Curran,Sam Curran,27,16,0,2,Shahrukh Khan,11,7,2,0,Southee,3.0,0,54,2,Thakur,4.0,0,43,0
+PBKS,19,19.4,2,0,0,0,0,Sam Curran,Sam Curran,25,15,0,2,Shahrukh Khan,11,7,2,0,Southee,3.0,0,52,2,Thakur,4.0,0,43,0
+PBKS,19,19.3,6,1,0,0,0,Sam Curran,Sam Curran,23,14,0,2,Shahrukh Khan,11,7,2,0,Southee,3.0,0,50,2,Thakur,4.0,0,43,0
+PBKS,19,19.2,1,0,0,0,0,Shahrukh Khan,Sam Curran,17,13,0,1,Shahrukh Khan,11,7,2,0,Southee,3.0,0,44,2,Thakur,4.0,0,43,0
+PBKS,19,19.1,4,1,0,0,0,Shahrukh Khan,Sam Curran,17,13,0,1,Shahrukh Khan,10,6,2,0,Southee,3.0,0,43,2,Thakur,4.0,0,43,0
+PBKS,18,18.6,1,0,0,0,0,Shahrukh Khan,Sam Curran,17,13,0,1,Shahrukh Khan,6,5,1,0,Thakur,4.0,0,43,0,Narine,4.0,0,40,1
+PBKS,18,18.5,4,1,0,0,0,Shahrukh Khan,Sam Curran,17,13,0,1,Shahrukh Khan,5,4,1,0,Thakur,4.0,0,42,0,Narine,4.0,0,40,1
+PBKS,18,18.4,0,0,1,0,0,Shahrukh Khan,Sam Curran,17,13,0,1,Shahrukh Khan,1,3,0,0,Thakur,3.0,0,38,0,Narine,4.0,0,40,1
+PBKS,18,18.3,1,0,0,0,0,Sam Curran,Sam Curran,17,13,0,1,Shahrukh Khan,1,2,0,0,Thakur,3.0,0,38,0,Narine,4.0,0,40,1
+PBKS,18,18.2,1,0,0,0,0,Shahrukh Khan,Sam Curran,16,12,0,1,Shahrukh Khan,1,2,0,0,Thakur,3.0,0,37,0,Narine,4.0,0,40,1
+PBKS,18,18.1,1,0,0,0,0,Sam Curran,Sam Curran,16,12,0,1,Shahrukh Khan,0,1,0,0,Thakur,3.0,0,36,0,Narine,4.0,0,40,1
+PBKS,17,17.6,0,0,1,0,0,Shahrukh Khan,Sam Curran,15,11,0,1,Shahrukh Khan,0,1,0,0,Narine,4.0,0,40,1,Varun,4.0,0,26,1
+PBKS,17,17.5,0,0,0,1,0,Raza,Sam Curran,15,11,0,1,,0,0,0,0,Narine,3.0,0,40,1,Varun,4.0,0,26,1
+PBKS,17,17.4,0,0,1,0,0,Raza,Raza,16,12,1,1,Sam Curran,15,11,0,1,Narine,3.0,0,40,0,Varun,4.0,0,26,1
+PBKS,17,17.3,1,0,0,0,0,Sam Curran,Raza,16,11,1,1,Sam Curran,15,11,0,1,Narine,3.0,0,40,0,Varun,4.0,0,26,1
+PBKS,17,17.2,2,0,0,0,0,Sam Curran,Raza,16,11,1,1,Sam Curran,14,10,0,1,Narine,3.0,0,39,0,Varun,4.0,0,26,1
+PBKS,17,17.1,1,0,0,0,0,Raza,Raza,16,11,1,1,Sam Curran,12,9,0,1,Narine,3.0,0,37,0,Varun,4.0,0,26,1
+PBKS,16,16.6,6,1,0,0,0,Sam Curran,Raza,15,10,1,1,Sam Curran,12,9,0,1,Varun,4.0,0,26,1,Thakur,3.0,0,35,0
+PBKS,16,16.5,0,0,1,0,0,Sam Curran,Raza,15,10,1,1,Sam Curran,6,8,0,0,Varun,3.0,0,20,1,Thakur,3.0,0,35,0
+PBKS,16,16.4,1,0,0,0,0,Raza,Raza,15,10,1,1,Sam Curran,6,7,0,0,Varun,3.0,0,20,1,Thakur,3.0,0,35,0
+PBKS,16,16.3,1,0,0,0,0,Sam Curran,Raza,14,9,1,1,Sam Curran,6,7,0,0,Varun,3.0,0,19,1,Thakur,3.0,0,35,0
+PBKS,16,16.2,1,0,0,0,0,Raza,Raza,14,9,1,1,Sam Curran,5,6,0,0,Varun,3.0,0,18,1,Thakur,3.0,0,35,0
+PBKS,16,16.1,1,0,0,0,0,Sam Curran,Raza,13,8,1,1,Sam Curran,5,6,0,0,Varun,3.0,0,17,1,Thakur,3.0,0,35,0
+PBKS,16,16.1,1,0,0,0,1,Sam Curran,Raza,13,8,1,1,Sam Curran,4,5,0,0,Varun,3.0,0,16,1,Thakur,3.0,0,35,0
+PBKS,15,15.6,0,0,1,0,0,Raza,Raza,13,8,1,1,Sam Curran,3,5,0,0,Thakur,3.0,0,35,0,Varun,3.0,0,15,1
+PBKS,15,15.5,0,0,1,0,0,Raza,Raza,13,7,1,1,Sam Curran,3,5,0,0,Thakur,3.0,0,35,0,Varun,3.0,0,15,1
+PBKS,15,15.4,6,1,0,0,0,Raza,Raza,13,6,1,1,Sam Curran,3,5,0,0,Thakur,2.0,0,35,0,Varun,3.0,0,15,1
+PBKS,15,15.3,1,0,0,0,0,Sam Curran,Raza,7,5,1,0,Sam Curran,3,5,0,0,Thakur,2.0,0,29,0,Varun,3.0,0,15,1
+PBKS,15,15.2,2,0,0,0,0,Sam Curran,Raza,7,5,1,0,Sam Curran,2,4,0,0,Thakur,2.0,0,28,0,Varun,3.0,0,15,1
+PBKS,15,15.1,1,0,0,0,0,Raza,Raza,7,5,1,0,Sam Curran,0,3,0,0,Thakur,2.0,0,26,0,Varun,3.0,0,15,1
+PBKS,14,14.6,0,0,1,0,0,Sam Curran,Raza,6,4,1,0,Sam Curran,0,3,0,0,Varun,3.0,0,15,1,Southee,3.0,0,39,2
+PBKS,14,14.5,0,0,1,0,0,Sam Curran,Raza,6,4,1,0,Sam Curran,0,2,0,0,Varun,2.0,0,15,1,Southee,3.0,0,39,2
+PBKS,14,14.4,0,0,1,0,0,Sam Curran,Raza,6,4,1,0,Sam Curran,0,1,0,0,Varun,2.0,0,15,1,Southee,3.0,0,39,2
+PBKS,14,14.3,0,0,0,1,0,S Dhawan,Raza,6,4,1,0,,0,0,0,0,Varun,2.0,0,15,1,Southee,3.0,0,39,2
+PBKS,14,14.2,1,0,0,0,0,Raza,S Dhawan,42,28,5,0,Raza,6,4,1,0,Varun,2.0,0,15,0,Southee,3.0,0,39,2
+PBKS,14,14.1,0,0,1,0,0,Raza,S Dhawan,42,28,5,0,Raza,5,3,1,0,Varun,2.0,0,14,0,Southee,3.0,0,39,2
+PBKS,13,13.6,2,0,0,0,0,S Dhawan,S Dhawan,42,28,5,0,Raza,5,2,1,0,Southee,3.0,0,39,2,Umesh Yadav,4.0,0,27,1
+PBKS,13,13.5,1,0,0,0,0,Raza,S Dhawan,40,27,5,0,Raza,5,2,1,0,Southee,2.0,0,37,2,Umesh Yadav,4.0,0,27,1
+PBKS,13,13.4,4,1,0,0,0,Raza,S Dhawan,40,27,5,0,Raza,4,1,1,0,Southee,2.0,0,36,2,Umesh Yadav,4.0,0,27,1
+PBKS,13,13.3,0,0,0,1,0,Sharma,S Dhawan,40,27,5,0,,0,0,0,0,Southee,2.0,0,32,2,Umesh Yadav,4.0,0,27,1
+PBKS,13,13.2,6,1,0,0,0,Sharma,S Dhawan,40,27,5,0,Sharma,21,10,1,2,Southee,2.0,0,32,1,Umesh Yadav,4.0,0,27,1
+PBKS,13,13.1,0,0,1,0,0,Sharma,S Dhawan,40,27,5,0,Sharma,15,9,1,1,Southee,2.0,0,26,1,Umesh Yadav,4.0,0,27,1
+PBKS,12,12.6,1,0,0,0,0,Sharma,S Dhawan,40,27,5,0,Sharma,15,8,1,1,Umesh Yadav,4.0,0,27,1,Narine,3.0,0,36,0
+PBKS,12,12.5,4,1,0,0,0,Sharma,S Dhawan,40,27,5,0,Sharma,14,7,1,1,Umesh Yadav,3.0,0,26,1,Narine,3.0,0,36,0
+PBKS,12,12.4,1,0,0,0,0,S Dhawan,S Dhawan,40,27,5,0,Sharma,10,6,0,1,Umesh Yadav,3.0,0,22,1,Narine,3.0,0,36,0
+PBKS,12,12.3,1,0,0,0,0,Sharma,S Dhawan,39,26,5,0,Sharma,10,6,0,1,Umesh Yadav,3.0,0,21,1,Narine,3.0,0,36,0
+PBKS,12,12.2,0,0,1,0,0,Sharma,S Dhawan,39,26,5,0,Sharma,9,5,0,1,Umesh Yadav,3.0,0,20,1,Narine,3.0,0,36,0
+PBKS,12,12.1,1,0,0,0,0,S Dhawan,S Dhawan,39,26,5,0,Sharma,9,4,0,1,Umesh Yadav,3.0,0,20,1,Narine,3.0,0,36,0
+PBKS,11,11.6,6,1,0,0,0,Sharma,S Dhawan,38,25,5,0,Sharma,9,4,0,1,Narine,3.0,0,36,0,Umesh Yadav,3.0,0,19,1
+PBKS,11,11.5,0,0,1,0,0,Sharma,S Dhawan,38,25,5,0,Sharma,3,3,0,0,Narine,2.0,0,30,0,Umesh Yadav,3.0,0,19,1
+PBKS,11,11.4,2,0,0,0,0,Sharma,S Dhawan,38,25,5,0,Sharma,3,2,0,0,Narine,2.0,0,30,0,Umesh Yadav,3.0,0,19,1
+PBKS,11,11.3,1,0,0,0,0,S Dhawan,S Dhawan,38,25,5,0,Sharma,1,1,0,0,Narine,2.0,0,28,0,Umesh Yadav,3.0,0,19,1
+PBKS,11,11.3,1,0,0,0,1,S Dhawan,S Dhawan,37,24,5,0,Sharma,1,1,0,0,Narine,2.0,0,27,0,Umesh Yadav,3.0,0,19,1
+PBKS,11,11.2,1,0,0,0,0,Sharma,S Dhawan,36,24,5,0,Sharma,1,1,0,0,Narine,2.0,0,26,0,Umesh Yadav,3.0,0,19,1
+PBKS,11,11.1,1,0,0,0,0,S Dhawan,S Dhawan,36,24,5,0,,0,0,0,0,Narine,2.0,0,25,0,Umesh Yadav,3.0,0,19,1
+PBKS,10,10.6,0,0,0,1,0,Rajapaksa,S Dhawan,35,23,5,0,,0,0,0,0,Umesh Yadav,3.0,0,19,1,Varun,2.0,0,14,0
+PBKS,10,10.5,0,0,1,0,0,Rajapaksa,S Dhawan,35,23,5,0,Rajapaksa,51,31,5,2,Umesh Yadav,2.0,0,19,0,Varun,2.0,0,14,0
+PBKS,10,10.4,2,0,0,0,0,Rajapaksa,S Dhawan,35,23,5,0,Rajapaksa,51,30,5,2,Umesh Yadav,2.0,0,19,0,Varun,2.0,0,14,0
+PBKS,10,10.3,2,0,0,0,0,Rajapaksa,S Dhawan,35,23,5,0,Rajapaksa,49,29,5,2,Umesh Yadav,2.0,0,17,0,Varun,2.0,0,14,0
+PBKS,10,10.2,1,0,0,0,0,S Dhawan,S Dhawan,35,23,5,0,Rajapaksa,47,28,5,2,Umesh Yadav,2.0,0,15,0,Varun,2.0,0,14,0
+PBKS,10,10.1,4,1,0,0,0,S Dhawan,S Dhawan,34,22,5,0,Rajapaksa,47,28,5,2,Umesh Yadav,2.0,0,14,0,Varun,2.0,0,14,0
+PBKS,9,9.6,1,0,0,0,0,S Dhawan,S Dhawan,30,21,4,0,Rajapaksa,47,28,5,2,Varun,2.0,0,14,0,Thakur,2.0,0,25,0
+PBKS,9,9.5,1,0,0,0,0,Rajapaksa,S Dhawan,29,20,4,0,Rajapaksa,47,28,5,2,Varun,1.0,0,13,0,Thakur,2.0,0,25,0
+PBKS,9,9.4,1,0,0,0,0,S Dhawan,S Dhawan,29,20,4,0,Rajapaksa,46,27,5,2,Varun,1.0,0,12,0,Thakur,2.0,0,25,0
+PBKS,9,9.3,1,0,0,0,1,Rajapaksa,S Dhawan,28,19,4,0,Rajapaksa,46,27,5,2,Varun,1.0,0,11,0,Thakur,2.0,0,25,0
+PBKS,9,9.2,1,0,0,0,0,S Dhawan,S Dhawan,28,19,4,0,Rajapaksa,45,26,5,2,Varun,1.0,0,11,0,Thakur,2.0,0,25,0
+PBKS,9,9.1,4,1,0,0,0,S Dhawan,S Dhawan,27,18,4,0,Rajapaksa,45,26,5,2,Varun,1.0,0,10,0,Thakur,2.0,0,25,0
+PBKS,8,8.6,0,0,1,0,0,Rajapaksa,S Dhawan,23,17,3,0,Rajapaksa,45,26,5,2,Thakur,2.0,0,25,0,Narine,2.0,0,24,0
+PBKS,8,8.5,1,0,0,0,0,S Dhawan,S Dhawan,23,17,3,0,Rajapaksa,45,25,5,2,Thakur,2.0,0,25,0,Narine,2.0,0,24,0
+PBKS,8,8.4,0,0,1,0,0,S Dhawan,S Dhawan,22,16,3,0,Rajapaksa,45,25,5,2,Thakur,1.0,0,24,0,Narine,2.0,0,24,0
+PBKS,8,8.4,5,0,0,0,1,S Dhawan,S Dhawan,22,15,3,0,Rajapaksa,45,25,5,2,Thakur,1.0,0,24,0,Narine,2.0,0,24,0
+PBKS,8,8.3,1,0,0,0,0,Rajapaksa,S Dhawan,17,14,3,0,Rajapaksa,45,25,5,2,Thakur,1.0,0,19,0,Narine,2.0,0,24,0
+PBKS,8,8.2,4,1,0,0,0,Rajapaksa,S Dhawan,17,14,3,0,Rajapaksa,44,24,5,2,Thakur,1.0,0,18,0,Narine,2.0,0,24,0
+PBKS,8,8.1,1,0,0,0,0,S Dhawan,S Dhawan,17,14,3,0,Rajapaksa,40,23,4,2,Thakur,1.0,0,14,0,Narine,2.0,0,24,0
+PBKS,7,7.6,2,0,0,0,0,Rajapaksa,S Dhawan,16,13,3,0,Rajapaksa,40,23,4,2,Narine,2.0,0,24,0,Thakur,1.0,0,13,0
+PBKS,7,7.5,1,0,0,0,0,S Dhawan,S Dhawan,16,13,3,0,Rajapaksa,38,22,4,2,Narine,1.0,0,22,0,Thakur,1.0,0,13,0
+PBKS,7,7.4,1,0,0,0,0,Rajapaksa,S Dhawan,15,12,3,0,Rajapaksa,38,22,4,2,Narine,1.0,0,21,0,Thakur,1.0,0,13,0
+PBKS,7,7.3,4,1,0,0,0,Rajapaksa,S Dhawan,15,12,3,0,Rajapaksa,37,21,4,2,Narine,1.0,0,20,0,Thakur,1.0,0,13,0
+PBKS,7,7.2,2,0,0,0,0,Rajapaksa,S Dhawan,15,12,3,0,Rajapaksa,33,20,3,2,Narine,1.0,0,16,0,Thakur,1.0,0,13,0
+PBKS,7,7.1,0,0,1,0,0,Rajapaksa,S Dhawan,15,12,3,0,Rajapaksa,31,19,3,2,Narine,1.0,0,14,0,Thakur,1.0,0,13,0
+PBKS,6,6.6,1,0,0,0,0,Rajapaksa,S Dhawan,15,12,3,0,Rajapaksa,31,18,3,2,Thakur,1.0,0,13,0,Varun,1.0,0,6,0
+PBKS,6,6.5,0,0,1,0,0,Rajapaksa,S Dhawan,15,12,3,0,Rajapaksa,30,17,3,2,Thakur,0,0,12,0,Varun,1.0,0,6,0
+PBKS,6,6.4,6,1,0,0,0,Rajapaksa,S Dhawan,15,12,3,0,Rajapaksa,30,16,3,2,Thakur,0,0,12,0,Varun,1.0,0,6,0
+PBKS,6,6.3,0,0,1,0,0,Rajapaksa,S Dhawan,15,12,3,0,Rajapaksa,24,15,3,1,Thakur,0,0,6,0,Varun,1.0,0,6,0
+PBKS,6,6.2,4,1,0,0,0,Rajapaksa,S Dhawan,15,12,3,0,Rajapaksa,24,14,3,1,Thakur,0,0,6,0,Varun,1.0,0,6,0
+PBKS,6,6.1,2,0,0,0,0,Rajapaksa,S Dhawan,15,12,3,0,Rajapaksa,20,13,2,1,Thakur,0,0,2,0,Varun,1.0,0,6,0
+PBKS,5,5.6,4,1,0,0,0,S Dhawan,S Dhawan,15,12,3,0,Rajapaksa,18,12,2,1,Varun,1.0,0,6,0,Narine,1.0,0,14,0
+PBKS,5,5.5,1,0,0,0,0,Rajapaksa,S Dhawan,11,11,2,0,Rajapaksa,18,12,2,1,Varun,0,0,2,0,Narine,1.0,0,14,0
+PBKS,5,5.4,0,0,1,0,0,Rajapaksa,S Dhawan,11,11,2,0,Rajapaksa,17,11,2,1,Varun,0,0,1,0,Narine,1.0,0,14,0
+PBKS,5,5.3,1,0,0,0,0,S Dhawan,S Dhawan,11,11,2,0,Rajapaksa,17,10,2,1,Varun,0,0,1,0,Narine,1.0,0,14,0
+PBKS,5,5.2,0,0,1,0,0,S Dhawan,S Dhawan,10,10,2,0,Rajapaksa,17,10,2,1,Varun,0,0,0,0,Narine,1.0,0,14,0
+PBKS,5,5.1,0,0,1,0,0,S Dhawan,S Dhawan,10,9,2,0,Rajapaksa,17,10,2,1,Varun,0,0,0,0,Narine,1.0,0,14,0
+PBKS,4,4.6,6,1,0,0,0,Rajapaksa,S Dhawan,10,8,2,0,Rajapaksa,17,10,2,1,Narine,1.0,0,14,0,Southee,2.0,0,26,1
+PBKS,4,4.5,0,0,1,0,0,Rajapaksa,S Dhawan,10,8,2,0,Rajapaksa,11,9,2,0,Narine,0,0,8,0,Southee,2.0,0,26,1
+PBKS,4,4.4,4,1,0,0,0,Rajapaksa,S Dhawan,10,8,2,0,Rajapaksa,11,8,2,0,Narine,0,0,8,0,Southee,2.0,0,26,1
+PBKS,4,4.3,4,1,0,0,0,Rajapaksa,S Dhawan,10,8,2,0,Rajapaksa,7,7,1,0,Narine,0,0,4,0,Southee,2.0,0,26,1
+PBKS,4,4.2,0,0,1,0,0,Rajapaksa,S Dhawan,10,8,2,0,Rajapaksa,3,6,0,0,Narine,0,0,0,0,Southee,2.0,0,26,1
+PBKS,4,4.1,0,0,1,0,0,Rajapaksa,S Dhawan,10,8,2,0,Rajapaksa,3,5,0,0,Narine,0,0,0,0,Southee,2.0,0,26,1
+PBKS,3,3.6,0,0,1,0,0,S Dhawan,S Dhawan,10,8,2,0,Rajapaksa,3,4,0,0,Southee,2.0,0,26,1,Umesh Yadav,2.0,0,10,0
+PBKS,3,3.5,1,0,0,0,0,Rajapaksa,S Dhawan,10,7,2,0,Rajapaksa,3,4,0,0,Southee,1.0,0,26,1,Umesh Yadav,2.0,0,10,0
+PBKS,3,3.4,2,0,0,0,0,Rajapaksa,S Dhawan,10,7,2,0,Rajapaksa,2,3,0,0,Southee,1.0,0,25,1,Umesh Yadav,2.0,0,10,0
+PBKS,3,3.3,1,0,0,0,0,S Dhawan,S Dhawan,10,7,2,0,Rajapaksa,0,2,0,0,Southee,1.0,0,23,1,Umesh Yadav,2.0,0,10,0
+PBKS,3,3.2,4,1,0,0,0,S Dhawan,S Dhawan,9,6,2,0,Rajapaksa,0,2,0,0,Southee,1.0,0,22,1,Umesh Yadav,2.0,0,10,0
+PBKS,3,3.1,4,1,0,0,0,S Dhawan,S Dhawan,5,5,1,0,Rajapaksa,0,2,0,0,Southee,1.0,0,18,1,Umesh Yadav,2.0,0,10,0
+PBKS,2,2.6,0,0,1,0,0,Rajapaksa,S Dhawan,1,4,0,0,Rajapaksa,0,2,0,0,Umesh Yadav,2.0,0,10,0,Southee,1.0,0,14,1
+PBKS,2,2.5,0,0,1,0,0,Rajapaksa,S Dhawan,1,4,0,0,Rajapaksa,0,1,0,0,Umesh Yadav,1.0,0,10,0,Southee,1.0,0,14,1
+PBKS,2,2.4,1,0,0,0,0,S Dhawan,S Dhawan,1,4,0,0,,0,0,0,0,Umesh Yadav,1.0,0,10,0,Southee,1.0,0,14,1
+PBKS,2,2.3,0,0,1,0,0,S Dhawan,S Dhawan,0,3,0,0,,0,0,0,0,Umesh Yadav,1.0,0,9,0,Southee,1.0,0,14,1
+PBKS,2,2.2,0,0,1,0,0,S Dhawan,S Dhawan,0,2,0,0,,0,0,0,0,Umesh Yadav,1.0,0,9,0,Southee,1.0,0,14,1
+PBKS,2,2.1,0,0,1,0,0,S Dhawan,S Dhawan,0,1,0,0,,0,0,0,0,Umesh Yadav,1.0,0,9,0,Southee,1.0,0,14,1
+PBKS,1,1.6,0,0,0,1,0,Prabhsimran,,0,0,0,0,,0,0,0,0,Southee,1.0,0,14,1,Umesh Yadav,1.0,0,9,0
+PBKS,1,1.5,6,1,0,0,0,Prabhsimran,Prabhsimran,23,11,2,2,,0,0,0,0,Southee,0,0,14,0,Umesh Yadav,1.0,0,9,0
+PBKS,1,1.4,0,0,1,0,0,Prabhsimran,Prabhsimran,17,10,2,1,,0,0,0,0,Southee,0,0,8,0,Umesh Yadav,1.0,0,9,0
+PBKS,1,1.3,0,0,1,0,0,Prabhsimran,Prabhsimran,17,9,2,1,,0,0,0,0,Southee,0,0,8,0,Umesh Yadav,1.0,0,9,0
+PBKS,1,1.2,4,1,0,0,0,Prabhsimran,Prabhsimran,17,8,2,1,,0,0,0,0,Southee,0,0,8,0,Umesh Yadav,1.0,0,9,0
+PBKS,1,1.1,4,1,0,0,0,Prabhsimran,Prabhsimran,13,7,1,1,,0,0,0,0,Southee,0,0,4,0,Umesh Yadav,1.0,0,9,0
+PBKS,0,0.6,1,0,0,0,0,Prabhsimran,Prabhsimran,9,6,0,1,,0,0,0,0,Umesh Yadav,1.0,0,9,0,,0,0,0,0
+PBKS,0,0.5,0,0,1,0,0,Prabhsimran,Prabhsimran,8,5,0,1,,0,0,0,0,Umesh Yadav,0,0,8,0,,0,0,0,0
+PBKS,0,0.4,6,1,0,0,0,Prabhsimran,Prabhsimran,8,4,0,1,,0,0,0,0,Umesh Yadav,0,0,8,0,,0,0,0,0
+PBKS,0,0.3,0,0,1,0,0,Prabhsimran,Prabhsimran,2,3,0,0,,0,0,0,0,Umesh Yadav,0,0,2,0,,0,0,0,0
+PBKS,0,0.2,2,0,0,0,0,Prabhsimran,Prabhsimran,2,2,0,0,,0,0,0,0,Umesh Yadav,0,0,2,0,,0,0,0,0
+PBKS,0,0.1,0,0,1,0,0,Prabhsimran,Prabhsimran,0,1,0,0,,0,0,0,0,Umesh Yadav,0,0,0,0,,0,0,0,0

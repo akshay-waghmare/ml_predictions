@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+LSG,19,19.1,12,2,0,1,1,Krunal,Pooran,46,18,7,1,Hooda,6,4,1,0,Arshdeep,3.0,0,43,0,Sam Curran,3.0,0,38,1
+LSG,18,18.1,10,2,2,1,0,Hooda,Stoinis,79,39,7,5,Pooran,45,17,7,1,Sam Curran,2.0,0,32,0,Rabada,4.0,0,51,2
+LSG,17,17.1,19,3,1,0,0,Pooran,Stoinis,74,37,6,5,Pooran,33,13,6,0,Rabada,3.0,0,38,2,Arshdeep,3.0,0,42,0
+LSG,16,16.1,16,3,0,0,0,Pooran,Stoinis,63,34,5,4,Pooran,23,10,4,0,Arshdeep,2.0,0,27,0,Rabada,3.0,0,32,2
+LSG,15,15.1,16,2,1,0,3,Stoinis,Stoinis,54,30,5,3,Pooran,19,7,4,0,Rabada,2.0,0,22,2,Arshdeep,2.0,0,26,0
+LSG,14,14.1,9,1,1,0,0,Pooran,Stoinis,49,28,4,3,Pooran,12,3,3,0,Arshdeep,1.0,0,18,0,Livingstone,1.0,0,19,1
+LSG,13,13.1,19,4,0,1,0,Pooran,Badoni,39,22,3,2,Stoinis,48,27,4,3,Livingstone,0,0,1,0,Chahar,4.0,0,29,0
+LSG,12,12.1,9,1,2,0,0,Badoni,Badoni,38,20,3,2,Stoinis,39,23,4,2,Chahar,3.0,0,20,0,Sam Curran,2.0,0,28,0
+LSG,11,11.1,11,1,2,0,0,Badoni,Badoni,36,18,3,2,Stoinis,30,19,4,1,Sam Curran,1.0,0,17,0,Chahar,3.0,0,20,0
+LSG,10,10.1,8,1,2,0,0,Badoni,Badoni,34,17,3,2,Stoinis,25,14,3,1,Chahar,2.0,0,13,0,Sam Curran,1.0,0,17,0
+LSG,9,9.1,17,3,0,0,0,Stoinis,Badoni,26,14,3,1,Stoinis,16,11,1,1,Sam Curran,0,0,1,0,Chahar,2.0,0,12,0
+LSG,8,8.1,4,0,2,0,0,Badoni,Badoni,23,11,3,1,Stoinis,15,8,1,1,Chahar,1.0,0,9,0,Gurnoor,3.0,0,42,0
+LSG,7,7.1,24,4,1,0,2,Badoni,Badoni,14,8,3,0,Stoinis,3,4,0,0,Gurnoor,2.0,0,22,0,Chahar,1.0,0,8,0
+LSG,6,6.1,9,1,1,0,1,Stoinis,Badoni,8,5,2,0,Stoinis,0,1,0,0,Chahar,0,0,4,0,Rabada,2.0,0,22,2
+LSG,5,5.1,12,1,4,1,2,Stoinis,Mayers,46,19,6,3,Badoni,4,4,1,0,Rabada,1.0,0,10,1,Raza,1.0,0,17,0
+LSG,4,4.1,17,3,2,0,0,Mayers,Mayers,29,13,5,1,Badoni,4,4,1,0,Raza,0,0,0,0,Rabada,1.0,0,10,1
+LSG,3,3.1,10,2,3,1,0,Badoni,Rahul,12,8,1,1,Mayers,29,12,5,1,Rabada,0,0,6,0,Gurnoor,2.0,0,18,0
+LSG,2,2.1,16,3,2,0,1,Mayers,Rahul,5,6,1,0,Mayers,18,7,4,0,Gurnoor,1.0,0,6,0,Arshdeep,1.0,0,17,0
+LSG,1,1.1,17,4,2,0,1,Mayers,Rahul,1,5,0,0,Mayers,5,2,1,0,Arshdeep,0,0,4,0,Gurnoor,1.0,0,2,0
+LSG,0,0.1,2,0,4,0,0,Rahul,Rahul,1,1,0,0,,0,0,0,0,Gurnoor,0,0,1,0,,0,0,0,0

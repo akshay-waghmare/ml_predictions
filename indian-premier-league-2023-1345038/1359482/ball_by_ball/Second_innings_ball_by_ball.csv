@@ -1,0 +1,128 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+PBKS,19,19.6,1,0,0,0,0,Sam Curran,Rajapaksa,1,1,0,0,Sam Curran,1,2,0,0,Holder,4.0,0,29,2,Asif,4.0,0,53,0
+PBKS,19,19.5,0,0,1,0,0,Sam Curran,Rajapaksa,1,1,0,0,Sam Curran,0,1,0,0,Holder,3.0,0,28,2,Asif,4.0,0,53,0
+PBKS,19,19.4,0,0,0,1,0,Shahrukh Khan,Rajapaksa,1,1,0,0,,0,0,0,0,Holder,3.0,0,28,2,Asif,4.0,0,53,0
+PBKS,19,19.3,4,1,0,0,0,Shahrukh Khan,Rajapaksa,1,1,0,0,Shahrukh Khan,13,9,1,0,Holder,3.0,0,28,1,Asif,4.0,0,53,0
+PBKS,19,19.2,1,0,0,0,0,S Dhawan,Rajapaksa,1,1,0,0,Shahrukh Khan,9,8,0,0,Holder,3.0,0,24,1,Asif,4.0,0,53,0
+PBKS,19,19.1,1,0,0,0,0,Shahrukh Khan,Rajapaksa,1,1,0,0,Shahrukh Khan,9,8,0,0,Holder,3.0,0,23,1,Asif,4.0,0,53,0
+PBKS,18,18.6,0,0,1,0,0,S Dhawan,Rajapaksa,1,1,0,0,Shahrukh Khan,8,7,0,0,Asif,4.0,0,53,0,Holder,3.0,0,22,1
+PBKS,18,18.5,1,0,0,0,0,Shahrukh Khan,Rajapaksa,1,1,0,0,Shahrukh Khan,8,7,0,0,Asif,4.0,0,53,0,Holder,3.0,0,22,1
+PBKS,18,18.4,1,0,0,0,0,S Dhawan,Rajapaksa,1,1,0,0,Shahrukh Khan,7,6,0,0,Asif,3.0,0,52,0,Holder,3.0,0,22,1
+PBKS,18,18.3,4,1,0,0,0,S Dhawan,Rajapaksa,1,1,0,0,Shahrukh Khan,7,6,0,0,Asif,3.0,0,51,0,Holder,3.0,0,22,1
+PBKS,18,18.3,2,0,0,0,1,Shahrukh Khan,Rajapaksa,1,1,0,0,Shahrukh Khan,7,6,0,0,Asif,3.0,0,47,0,Holder,3.0,0,22,1
+PBKS,18,18.2,1,0,0,0,0,S Dhawan,Rajapaksa,1,1,0,0,Shahrukh Khan,5,5,0,0,Asif,3.0,0,47,0,Holder,3.0,0,22,1
+PBKS,18,18.1,6,1,0,0,0,S Dhawan,Rajapaksa,1,1,0,0,Shahrukh Khan,5,5,0,0,Asif,3.0,0,46,0,Holder,3.0,0,22,1
+PBKS,18,18.1,1,0,0,0,1,S Dhawan,Rajapaksa,1,1,0,0,Shahrukh Khan,5,5,0,0,Asif,3.0,0,40,0,Holder,3.0,0,22,1
+PBKS,17,17.6,1,0,0,0,0,S Dhawan,Rajapaksa,1,1,0,0,Shahrukh Khan,5,5,0,0,Holder,3.0,0,22,1,Ashwin,4.0,0,25,1
+PBKS,17,17.5,6,1,0,0,0,S Dhawan,Rajapaksa,1,1,0,0,Shahrukh Khan,5,5,0,0,Holder,2.0,0,21,1,Ashwin,4.0,0,25,1
+PBKS,17,17.4,0,0,1,0,0,S Dhawan,Rajapaksa,1,1,0,0,Shahrukh Khan,5,5,0,0,Holder,2.0,0,15,1,Ashwin,4.0,0,25,1
+PBKS,17,17.3,1,0,0,0,0,Shahrukh Khan,Rajapaksa,1,1,0,0,Shahrukh Khan,5,5,0,0,Holder,2.0,0,15,1,Ashwin,4.0,0,25,1
+PBKS,17,17.2,0,0,1,0,0,Shahrukh Khan,Rajapaksa,1,1,0,0,Shahrukh Khan,4,4,0,0,Holder,2.0,0,14,1,Ashwin,4.0,0,25,1
+PBKS,17,17.1,1,0,0,0,0,S Dhawan,Rajapaksa,1,1,0,0,Shahrukh Khan,4,3,0,0,Holder,2.0,0,14,1,Ashwin,4.0,0,25,1
+PBKS,16,16.6,2,0,0,0,0,Shahrukh Khan,Rajapaksa,1,1,0,0,Shahrukh Khan,4,3,0,0,Ashwin,4.0,0,25,1,Chahal,4.0,0,50,1
+PBKS,16,16.5,1,0,0,0,0,S Dhawan,Rajapaksa,1,1,0,0,Shahrukh Khan,2,2,0,0,Ashwin,3.0,0,23,1,Chahal,4.0,0,50,1
+PBKS,16,16.4,1,0,0,0,0,Shahrukh Khan,Rajapaksa,1,1,0,0,Shahrukh Khan,2,2,0,0,Ashwin,3.0,0,22,1,Chahal,4.0,0,50,1
+PBKS,16,16.3,1,0,0,0,0,S Dhawan,Rajapaksa,1,1,0,0,Shahrukh Khan,1,1,0,0,Ashwin,3.0,0,21,1,Chahal,4.0,0,50,1
+PBKS,16,16.2,1,0,0,0,0,Shahrukh Khan,Rajapaksa,1,1,0,0,Shahrukh Khan,1,1,0,0,Ashwin,3.0,0,20,1,Chahal,4.0,0,50,1
+PBKS,16,16.1,0,0,0,1,0,Raza,Rajapaksa,1,1,0,0,,0,0,0,0,Ashwin,3.0,0,19,1,Chahal,4.0,0,50,1
+PBKS,15,15.6,0,0,1,0,0,S Dhawan,Rajapaksa,1,1,0,0,Raza,1,1,0,0,Chahal,4.0,0,50,1,Boult,4.0,0,38,0
+PBKS,15,15.5,1,0,0,0,0,Raza,Rajapaksa,1,1,0,0,Raza,1,1,0,0,Chahal,3.0,0,50,1,Boult,4.0,0,38,0
+PBKS,15,15.4,0,0,0,1,0,Sharma,Rajapaksa,1,1,0,0,,0,0,0,0,Chahal,3.0,0,49,1,Boult,4.0,0,38,0
+PBKS,15,15.4,1,0,0,0,1,Sharma,Rajapaksa,1,1,0,0,Sharma,28,15,2,1,Chahal,3.0,0,49,0,Boult,4.0,0,38,0
+PBKS,15,15.3,1,0,0,0,0,S Dhawan,Rajapaksa,1,1,0,0,Sharma,27,15,2,1,Chahal,3.0,0,48,0,Boult,4.0,0,38,0
+PBKS,15,15.2,4,1,0,0,0,S Dhawan,Rajapaksa,1,1,0,0,Sharma,27,15,2,1,Chahal,3.0,0,47,0,Boult,4.0,0,38,0
+PBKS,15,15.1,0,0,1,0,0,S Dhawan,Rajapaksa,1,1,0,0,Sharma,27,15,2,1,Chahal,3.0,0,43,0,Boult,4.0,0,38,0
+PBKS,14,14.6,1,0,0,0,0,S Dhawan,Rajapaksa,1,1,0,0,Sharma,27,15,2,1,Boult,4.0,0,38,0,Chahal,3.0,0,43,0
+PBKS,14,14.5,1,0,0,0,0,Sharma,Rajapaksa,1,1,0,0,Sharma,27,15,2,1,Boult,3.0,0,37,0,Chahal,3.0,0,43,0
+PBKS,14,14.4,2,0,0,0,0,Sharma,Rajapaksa,1,1,0,0,Sharma,26,14,2,1,Boult,3.0,0,36,0,Chahal,3.0,0,43,0
+PBKS,14,14.3,6,1,0,0,0,Sharma,Rajapaksa,1,1,0,0,Sharma,24,13,2,1,Boult,3.0,0,34,0,Chahal,3.0,0,43,0
+PBKS,14,14.2,1,0,0,0,0,S Dhawan,Rajapaksa,1,1,0,0,Sharma,18,12,2,0,Boult,3.0,0,28,0,Chahal,3.0,0,43,0
+PBKS,14,14.1,1,0,0,0,0,Sharma,Rajapaksa,1,1,0,0,Sharma,18,12,2,0,Boult,3.0,0,27,0,Chahal,3.0,0,43,0
+PBKS,13,13.6,4,1,0,0,0,S Dhawan,Rajapaksa,1,1,0,0,Sharma,17,11,2,0,Chahal,3.0,0,43,0,Asif,3.0,0,39,0
+PBKS,13,13.5,2,0,0,0,0,S Dhawan,Rajapaksa,1,1,0,0,Sharma,17,11,2,0,Chahal,2.0,0,39,0,Asif,3.0,0,39,0
+PBKS,13,13.4,4,1,0,0,0,S Dhawan,Rajapaksa,1,1,0,0,Sharma,17,11,2,0,Chahal,2.0,0,37,0,Asif,3.0,0,39,0
+PBKS,13,13.3,4,1,0,0,0,S Dhawan,Rajapaksa,1,1,0,0,Sharma,17,11,2,0,Chahal,2.0,0,33,0,Asif,3.0,0,39,0
+PBKS,13,13.2,1,0,0,0,0,Sharma,Rajapaksa,1,1,0,0,Sharma,17,11,2,0,Chahal,2.0,0,29,0,Asif,3.0,0,39,0
+PBKS,13,13.1,1,0,0,0,0,S Dhawan,Rajapaksa,1,1,0,0,Sharma,16,10,2,0,Chahal,2.0,0,28,0,Asif,3.0,0,39,0
+PBKS,12,12.6,2,0,0,0,0,Sharma,Rajapaksa,1,1,0,0,Sharma,16,10,2,0,Asif,3.0,0,39,0,Chahal,2.0,0,27,0
+PBKS,12,12.6,2,0,0,0,1,S Dhawan,Rajapaksa,1,1,0,0,Sharma,14,9,2,0,Asif,2.0,0,37,0,Chahal,2.0,0,27,0
+PBKS,12,12.5,4,1,0,0,0,S Dhawan,Rajapaksa,1,1,0,0,Sharma,14,9,2,0,Asif,2.0,0,35,0,Chahal,2.0,0,27,0
+PBKS,12,12.4,1,0,0,0,0,Sharma,Rajapaksa,1,1,0,0,Sharma,14,9,2,0,Asif,2.0,0,31,0,Chahal,2.0,0,27,0
+PBKS,12,12.3,1,0,0,0,0,S Dhawan,Rajapaksa,1,1,0,0,Sharma,13,8,2,0,Asif,2.0,0,30,0,Chahal,2.0,0,27,0
+PBKS,12,12.2,1,0,0,0,0,Sharma,Rajapaksa,1,1,0,0,Sharma,13,8,2,0,Asif,2.0,0,29,0,Chahal,2.0,0,27,0
+PBKS,12,12.1,0,0,1,0,0,Sharma,Rajapaksa,1,1,0,0,Sharma,12,7,2,0,Asif,2.0,0,28,0,Chahal,2.0,0,27,0
+PBKS,11,11.6,6,1,0,0,0,S Dhawan,Rajapaksa,1,1,0,0,Sharma,12,6,2,0,Chahal,2.0,0,27,0,Ashwin,3.0,0,19,0
+PBKS,11,11.5,1,0,0,0,0,Sharma,Rajapaksa,1,1,0,0,Sharma,12,6,2,0,Chahal,1.0,0,21,0,Ashwin,3.0,0,19,0
+PBKS,11,11.4,4,1,0,0,0,Sharma,Rajapaksa,1,1,0,0,Sharma,11,5,2,0,Chahal,1.0,0,20,0,Ashwin,3.0,0,19,0
+PBKS,11,11.3,4,1,0,0,0,Sharma,Rajapaksa,1,1,0,0,Sharma,7,4,1,0,Chahal,1.0,0,16,0,Ashwin,3.0,0,19,0
+PBKS,11,11.2,2,0,0,0,0,Sharma,Rajapaksa,1,1,0,0,Sharma,3,3,0,0,Chahal,1.0,0,12,0,Ashwin,3.0,0,19,0
+PBKS,11,11.1,1,0,0,0,0,S Dhawan,Rajapaksa,1,1,0,0,Sharma,1,2,0,0,Chahal,1.0,0,10,0,Ashwin,3.0,0,19,0
+PBKS,10,10.6,0,0,1,0,0,Sharma,Rajapaksa,1,1,0,0,Sharma,1,2,0,0,Ashwin,3.0,0,19,0,Holder,2.0,0,13,1
+PBKS,10,10.5,1,0,0,0,0,S Dhawan,Rajapaksa,1,1,0,0,Sharma,1,1,0,0,Ashwin,2.0,0,19,0,Holder,2.0,0,13,1
+PBKS,10,10.4,0,0,1,0,0,S Dhawan,Rajapaksa,1,1,0,0,Sharma,1,1,0,0,Ashwin,2.0,0,18,0,Holder,2.0,0,13,1
+PBKS,10,10.3,1,0,0,0,0,Sharma,Rajapaksa,1,1,0,0,Sharma,1,1,0,0,Ashwin,2.0,0,18,0,Holder,2.0,0,13,1
+PBKS,10,10.2,1,0,0,0,0,S Dhawan,S Dhawan,30,27,3,0,Rajapaksa,1,1,0,0,Ashwin,2.0,0,17,0,Holder,2.0,0,13,1
+PBKS,10,10.1,0,0,1,0,0,S Dhawan,S Dhawan,29,26,3,0,Rajapaksa,1,1,0,0,Ashwin,2.0,0,16,0,Holder,2.0,0,13,1
+PBKS,9,9.6,1,0,0,0,0,S Dhawan,S Dhawan,29,25,3,0,Rajapaksa,1,1,0,0,Holder,2.0,0,13,1,Boult,3.0,0,26,0
+PBKS,9,9.5,1,0,0,0,0,Rajapaksa,S Dhawan,28,24,3,0,Rajapaksa,1,1,0,0,Holder,1.0,0,12,1,Boult,3.0,0,26,0
+PBKS,9,9.4,0,0,0,1,0,Prabhsimran,S Dhawan,28,24,3,0,,0,0,0,0,Holder,1.0,0,11,1,Boult,3.0,0,26,0
+PBKS,9,9.3,1,0,0,0,0,S Dhawan,Prabhsimran,62,33,7,3,S Dhawan,28,24,3,0,Holder,1.0,0,11,0,Boult,3.0,0,26,0
+PBKS,9,9.2,2,0,0,0,0,S Dhawan,Prabhsimran,62,33,7,3,S Dhawan,27,23,3,0,Holder,1.0,0,10,0,Boult,3.0,0,26,0
+PBKS,9,9.1,1,0,0,0,0,Prabhsimran,Prabhsimran,62,33,7,3,S Dhawan,25,22,3,0,Holder,1.0,0,8,0,Boult,3.0,0,26,0
+PBKS,8,8.6,0,0,1,0,0,S Dhawan,Prabhsimran,61,32,7,3,S Dhawan,25,22,3,0,Boult,3.0,0,26,0,Chahal,1.0,0,9,0
+PBKS,8,8.5,0,0,1,0,0,S Dhawan,Prabhsimran,61,32,7,3,S Dhawan,25,21,3,0,Boult,2.0,0,26,0,Chahal,1.0,0,9,0
+PBKS,8,8.4,1,0,0,0,0,Prabhsimran,Prabhsimran,61,32,7,3,S Dhawan,25,20,3,0,Boult,2.0,0,26,0,Chahal,1.0,0,9,0
+PBKS,8,8.3,1,0,0,0,0,S Dhawan,Prabhsimran,60,31,7,3,S Dhawan,25,20,3,0,Boult,2.0,0,25,0,Chahal,1.0,0,9,0
+PBKS,8,8.2,1,0,0,0,0,Prabhsimran,Prabhsimran,60,31,7,3,S Dhawan,24,19,3,0,Boult,2.0,0,24,0,Chahal,1.0,0,9,0
+PBKS,8,8.1,6,1,0,0,0,Prabhsimran,Prabhsimran,59,30,7,3,S Dhawan,24,19,3,0,Boult,2.0,0,23,0,Chahal,1.0,0,9,0
+PBKS,7,7.6,2,0,0,0,0,S Dhawan,Prabhsimran,53,29,7,2,S Dhawan,24,19,3,0,Chahal,1.0,0,9,0,Ashwin,2.0,0,16,0
+PBKS,7,7.5,4,1,0,0,0,S Dhawan,Prabhsimran,53,29,7,2,S Dhawan,22,18,3,0,Chahal,0,0,7,0,Ashwin,2.0,0,16,0
+PBKS,7,7.4,0,0,1,0,0,S Dhawan,Prabhsimran,53,29,7,2,S Dhawan,18,17,2,0,Chahal,0,0,3,0,Ashwin,2.0,0,16,0
+PBKS,7,7.3,1,0,0,0,0,Prabhsimran,Prabhsimran,53,29,7,2,S Dhawan,18,16,2,0,Chahal,0,0,3,0,Ashwin,2.0,0,16,0
+PBKS,7,7.2,2,0,0,0,0,Prabhsimran,Prabhsimran,52,28,7,2,S Dhawan,18,16,2,0,Chahal,0,0,2,0,Ashwin,2.0,0,16,0
+PBKS,7,7.1,0,0,1,0,0,Prabhsimran,Prabhsimran,50,27,7,2,S Dhawan,18,16,2,0,Chahal,0,0,0,0,Ashwin,2.0,0,16,0
+PBKS,6,6.6,1,0,0,0,0,Prabhsimran,Prabhsimran,50,26,7,2,S Dhawan,18,16,2,0,Ashwin,2.0,0,16,0,Holder,1.0,0,7,0
+PBKS,6,6.5,1,0,0,0,0,S Dhawan,Prabhsimran,49,25,7,2,S Dhawan,18,16,2,0,Ashwin,1.0,0,15,0,Holder,1.0,0,7,0
+PBKS,6,6.4,1,0,0,0,0,Prabhsimran,Prabhsimran,49,25,7,2,S Dhawan,17,15,2,0,Ashwin,1.0,0,14,0,Holder,1.0,0,7,0
+PBKS,6,6.3,1,0,0,0,0,S Dhawan,Prabhsimran,48,24,7,2,S Dhawan,17,15,2,0,Ashwin,1.0,0,13,0,Holder,1.0,0,7,0
+PBKS,6,6.2,0,0,1,0,0,S Dhawan,Prabhsimran,48,24,7,2,S Dhawan,16,14,2,0,Ashwin,1.0,0,12,0,Holder,1.0,0,7,0
+PBKS,6,6.1,1,0,0,0,0,Prabhsimran,Prabhsimran,48,24,7,2,S Dhawan,16,13,2,0,Ashwin,1.0,0,12,0,Holder,1.0,0,7,0
+PBKS,5,5.6,1,0,0,0,0,Prabhsimran,Prabhsimran,47,23,7,2,S Dhawan,16,13,2,0,Holder,1.0,0,7,0,Ashwin,1.0,0,11,0
+PBKS,5,5.5,1,0,0,0,0,S Dhawan,Prabhsimran,46,22,7,2,S Dhawan,16,13,2,0,Holder,0,0,6,0,Ashwin,1.0,0,11,0
+PBKS,5,5.4,1,0,0,0,0,Prabhsimran,Prabhsimran,46,22,7,2,S Dhawan,15,12,2,0,Holder,0,0,5,0,Ashwin,1.0,0,11,0
+PBKS,5,5.3,0,0,1,0,0,Prabhsimran,Prabhsimran,45,21,7,2,S Dhawan,15,12,2,0,Holder,0,0,4,0,Ashwin,1.0,0,11,0
+PBKS,5,5.2,4,1,0,0,0,Prabhsimran,Prabhsimran,45,20,7,2,S Dhawan,15,12,2,0,Holder,0,0,4,0,Ashwin,1.0,0,11,0
+PBKS,5,5.1,0,0,1,0,0,Prabhsimran,Prabhsimran,41,19,6,2,S Dhawan,15,12,2,0,Holder,0,0,0,0,Ashwin,1.0,0,11,0
+PBKS,4,4.6,0,0,1,0,0,S Dhawan,Prabhsimran,41,18,6,2,S Dhawan,15,12,2,0,Ashwin,1.0,0,11,0,Asif,2.0,0,28,0
+PBKS,4,4.5,0,0,1,0,0,S Dhawan,Prabhsimran,41,18,6,2,S Dhawan,15,11,2,0,Ashwin,0,0,11,0,Asif,2.0,0,28,0
+PBKS,4,4.4,1,0,0,0,0,Prabhsimran,Prabhsimran,41,18,6,2,S Dhawan,15,10,2,0,Ashwin,0,0,11,0,Asif,2.0,0,28,0
+PBKS,4,4.4,1,0,0,0,1,Prabhsimran,Prabhsimran,40,17,6,2,S Dhawan,15,10,2,0,Ashwin,0,0,10,0,Asif,2.0,0,28,0
+PBKS,4,4.3,4,1,0,0,0,Prabhsimran,Prabhsimran,39,17,6,2,S Dhawan,15,10,2,0,Ashwin,0,0,9,0,Asif,2.0,0,28,0
+PBKS,4,4.2,4,1,0,0,0,Prabhsimran,Prabhsimran,35,16,5,2,S Dhawan,15,10,2,0,Ashwin,0,0,5,0,Asif,2.0,0,28,0
+PBKS,4,4.1,1,0,0,0,0,S Dhawan,Prabhsimran,31,15,4,2,S Dhawan,15,10,2,0,Ashwin,0,0,1,0,Asif,2.0,0,28,0
+PBKS,3,3.6,4,1,0,0,0,Prabhsimran,Prabhsimran,31,15,4,2,S Dhawan,14,9,2,0,Asif,2.0,0,28,0,Boult,2.0,0,17,0
+PBKS,3,3.6,1,0,0,0,1,Prabhsimran,Prabhsimran,27,14,3,2,S Dhawan,14,9,2,0,Asif,1.0,0,24,0,Boult,2.0,0,17,0
+PBKS,3,3.5,0,0,1,0,0,Prabhsimran,Prabhsimran,26,14,3,2,S Dhawan,14,9,2,0,Asif,1.0,0,23,0,Boult,2.0,0,17,0
+PBKS,3,3.4,6,1,0,0,0,Prabhsimran,Prabhsimran,26,13,3,2,S Dhawan,14,9,2,0,Asif,1.0,0,23,0,Boult,2.0,0,17,0
+PBKS,3,3.3,4,1,0,0,0,Prabhsimran,Prabhsimran,20,12,3,1,S Dhawan,14,9,2,0,Asif,1.0,0,17,0,Boult,2.0,0,17,0
+PBKS,3,3.2,0,0,1,0,0,Prabhsimran,Prabhsimran,16,11,2,1,S Dhawan,14,9,2,0,Asif,1.0,0,13,0,Boult,2.0,0,17,0
+PBKS,3,3.1,4,1,0,0,0,Prabhsimran,Prabhsimran,16,10,2,1,S Dhawan,14,9,2,0,Asif,1.0,0,13,0,Boult,2.0,0,17,0
+PBKS,2,2.6,1,0,0,0,0,Prabhsimran,Prabhsimran,12,9,1,1,S Dhawan,14,9,2,0,Boult,2.0,0,17,0,Asif,1.0,0,9,0
+PBKS,2,2.5,1,0,0,0,0,S Dhawan,Prabhsimran,11,8,1,1,S Dhawan,14,9,2,0,Boult,1.0,0,16,0,Asif,1.0,0,9,0
+PBKS,2,2.4,0,0,1,0,0,S Dhawan,Prabhsimran,11,8,1,1,S Dhawan,13,8,2,0,Boult,1.0,0,15,0,Asif,1.0,0,9,0
+PBKS,2,2.3,4,1,0,0,0,S Dhawan,Prabhsimran,11,8,1,1,S Dhawan,13,7,2,0,Boult,1.0,0,15,0,Asif,1.0,0,9,0
+PBKS,2,2.2,4,1,0,0,0,S Dhawan,Prabhsimran,11,8,1,1,S Dhawan,9,6,1,0,Boult,1.0,0,11,0,Asif,1.0,0,9,0
+PBKS,2,2.1,0,0,1,0,0,S Dhawan,Prabhsimran,11,8,1,1,S Dhawan,5,5,0,0,Boult,1.0,0,7,0,Asif,1.0,0,9,0
+PBKS,1,1.6,0,0,1,0,0,Prabhsimran,Prabhsimran,11,8,1,1,S Dhawan,5,4,0,0,Asif,1.0,0,9,0,Boult,1.0,0,7,0
+PBKS,1,1.5,6,1,0,0,0,Prabhsimran,Prabhsimran,11,7,1,1,S Dhawan,5,4,0,0,Asif,0,0,9,0,Boult,1.0,0,7,0
+PBKS,1,1.4,1,0,0,0,0,S Dhawan,Prabhsimran,5,6,1,0,S Dhawan,5,4,0,0,Asif,0,0,3,0,Boult,1.0,0,7,0
+PBKS,1,1.3,0,0,1,0,0,S Dhawan,Prabhsimran,5,6,1,0,S Dhawan,4,3,0,0,Asif,0,0,2,0,Boult,1.0,0,7,0
+PBKS,1,1.2,2,0,0,0,0,S Dhawan,Prabhsimran,5,6,1,0,S Dhawan,4,2,0,0,Asif,0,0,2,0,Boult,1.0,0,7,0
+PBKS,1,1.1,0,0,1,0,0,S Dhawan,Prabhsimran,5,6,1,0,S Dhawan,2,1,0,0,Asif,0,0,0,0,Boult,1.0,0,7,0
+PBKS,0,0.6,0,0,1,0,0,Prabhsimran,Prabhsimran,5,6,1,0,S Dhawan,2,0,0,0,Boult,1.0,0,7,0,,0,0,0,0
+PBKS,0,0.5,0,0,1,0,0,Prabhsimran,Prabhsimran,5,5,1,0,S Dhawan,2,0,0,0,Boult,0,0,7,0,,0,0,0,0
+PBKS,0,0.4,0,0,1,0,0,Prabhsimran,Prabhsimran,5,4,1,0,S Dhawan,2,0,0,0,Boult,0,0,7,0,,0,0,0,0
+PBKS,0,0.3,4,1,0,0,0,Prabhsimran,Prabhsimran,5,3,1,0,S Dhawan,2,0,0,0,Boult,0,0,7,0,,0,0,0,0
+PBKS,0,0.2,0,0,1,0,0,Prabhsimran,Prabhsimran,1,2,0,0,S Dhawan,2,0,0,0,Boult,0,0,3,0,,0,0,0,0
+PBKS,0,0.2,2,0,0,0,1,S Dhawan,Prabhsimran,1,1,0,0,S Dhawan,2,0,0,0,Boult,0,0,3,0,,0,0,0,0
+PBKS,0,0.1,1,0,0,0,0,Prabhsimran,Prabhsimran,1,1,0,0,,0,0,0,0,Boult,0,0,1,0,,0,0,0,0

@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+DC,19,19.1,4,1,3,2,0,Mukesh Kumar,Kuldeep,11,10,0,0,,0,0,0,0,Wood,3.0,0,10,4,Unadkat,3.0,0,39,0
+DC,18,18.1,8,0,3,0,1,Kuldeep,Axar Patel,15,9,1,1,Kuldeep,5,6,0,0,Unadkat,2.0,0,32,0,Avesh Khan,4.0,0,29,2
+DC,17,17.1,14,2,1,0,0,Axar Patel,Axar Patel,3,4,0,0,Kuldeep,4,5,0,0,Avesh Khan,3.0,0,17,2,Gowtham,4.0,0,23,0
+DC,16,16.1,4,0,2,0,0,Kuldeep,Axar Patel,2,3,0,0,,0,0,0,0,Gowtham,3.0,0,20,0,Avesh Khan,3.0,0,15,2
+DC,15,15.1,3,0,2,2,0,Warner,Warner,59,47,7,0,Aman Khan,4,3,0,0,Avesh Khan,2.0,0,14,0,Unadkat,2.0,0,31,0
+DC,14,14.1,14,2,0,0,0,Warner,Warner,50,43,6,0,Aman Khan,1,1,0,0,Unadkat,1.0,0,21,0,Ravi Bishnoi,4.0,0,31,2
+DC,13,13.1,3,0,2,1,0,Warner,Warner,44,39,5,0,Powell,1,2,0,0,Ravi Bishnoi,3.0,0,28,1,Wood,3.0,0,10,3
+DC,12,12.1,7,0,1,0,0,Powell,Warner,40,35,5,0,,0,0,0,0,Wood,2.0,0,5,3,Ravi Bishnoi,3.0,0,28,1
+DC,11,11.1,6,1,2,1,0,Rossouw,Warner,37,32,5,0,Rossouw,29,17,3,1,Ravi Bishnoi,2.0,0,26,0,Gowtham,3.0,0,19,0
+DC,10,10.1,5,0,2,0,0,Rossouw,Warner,36,31,5,0,Rossouw,21,12,2,1,Gowtham,2.0,0,14,0,Ravi Bishnoi,2.0,0,22,0
+DC,9,9.1,17,3,0,0,0,Rossouw,Warner,35,30,5,0,Rossouw,9,7,1,0,Ravi Bishnoi,1.0,0,9,0,Gowtham,2.0,0,14,0
+DC,8,8.1,5,0,2,0,1,Warner,Warner,33,28,5,0,Rossouw,3,3,0,0,Gowtham,1.0,0,10,0,Ravi Bishnoi,1.0,0,5,0
+DC,7,7.1,5,0,2,0,0,Rossouw,Warner,30,25,5,0,,0,0,0,0,Ravi Bishnoi,0,0,0,0,Wood,2.0,0,3,3
+DC,6,6.1,1,0,4,1,0,Sarfaraz Khan,Warner,29,22,5,0,Sarfaraz Khan,5,6,1,0,Wood,1.0,0,2,2,Avesh Khan,2.0,0,12,0
+DC,5,5.1,5,1,4,0,0,Sarfaraz Khan,Warner,28,19,5,0,Sarfaraz Khan,1,3,0,0,Avesh Khan,1.0,0,7,0,Wood,1.0,0,2,2
+DC,4,4.1,2,0,4,2,2,Sarfaraz Khan,Shaw,12,7,2,0,Warner,28,18,5,0,Wood,0,0,0,0,Avesh Khan,1.0,0,7,0
+DC,3,3.1,7,1,3,0,0,Warner,Shaw,12,6,2,0,Warner,22,13,4,0,Avesh Khan,0,0,1,0,Gowtham,1.0,0,9,0
+DC,2,2.1,9,2,3,0,0,Warner,Shaw,10,4,2,0,Warner,18,9,3,0,Gowtham,0,0,4,0,Unadkat,1.0,0,17,0
+DC,1,1.1,17,3,0,0,1,Warner,Shaw,1,1,0,0,Warner,7,5,1,0,Unadkat,0,0,1,0,Mayers,1.0,0,7,0
+DC,0,0.1,7,1,3,0,1,Warner,Shaw,1,1,0,0,,0,0,0,0,Mayers,0,0,1,0,,0,0,0,0

@@ -1,0 +1,117 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+PBKS,17,17.5,2,0,0,0,0,Shashank Singh,Shashank Singh,26,26,1,1,Sam Curran,33,20,2,0,Gleeson,4.0,1,30,1,Mustafizur,4.0,0,22,0
+PBKS,17,17.4,1,0,0,0,1,Sam Curran,Shashank Singh,24,25,1,1,Sam Curran,33,20,2,0,Gleeson,3.0,1,28,1,Mustafizur,4.0,0,22,0
+PBKS,17,17.3,0,0,1,0,0,Sam Curran,Shashank Singh,24,25,1,1,Sam Curran,32,19,2,0,Gleeson,3.0,1,28,1,Mustafizur,4.0,0,22,0
+PBKS,17,17.2,4,1,0,0,0,Sam Curran,Shashank Singh,24,25,1,1,Sam Curran,32,18,2,0,Gleeson,3.0,1,28,1,Mustafizur,4.0,0,22,0
+PBKS,17,17.1,0,0,1,0,0,Sam Curran,Shashank Singh,24,25,1,1,Sam Curran,28,17,1,0,Gleeson,3.0,1,24,1,Mustafizur,4.0,0,22,0
+PBKS,17,17.1,1,0,0,0,1,Sam Curran,Shashank Singh,24,25,1,1,Sam Curran,28,16,1,0,Gleeson,3.0,1,24,1,Mustafizur,4.0,0,22,0
+PBKS,16,16.6,1,0,0,0,0,Sam Curran,Shashank Singh,24,25,1,1,Sam Curran,27,15,1,0,Mustafizur,4.0,0,22,0,Moeen Ali,2.0,0,22,0
+PBKS,16,16.6,1,0,0,0,1,Sam Curran,Shashank Singh,24,25,1,1,Sam Curran,26,14,1,0,Mustafizur,3.0,0,21,0,Moeen Ali,2.0,0,22,0
+PBKS,16,16.5,2,0,0,0,0,Sam Curran,Shashank Singh,24,25,1,1,Sam Curran,25,14,1,0,Mustafizur,3.0,0,20,0,Moeen Ali,2.0,0,22,0
+PBKS,16,16.5,1,0,0,0,1,Sam Curran,Shashank Singh,24,25,1,1,Sam Curran,23,13,1,0,Mustafizur,3.0,0,18,0,Moeen Ali,2.0,0,22,0
+PBKS,16,16.5,1,0,0,0,1,Sam Curran,Shashank Singh,24,25,1,1,Sam Curran,22,13,1,0,Mustafizur,3.0,0,17,0,Moeen Ali,2.0,0,22,0
+PBKS,16,16.4,0,0,1,0,0,Sam Curran,Shashank Singh,24,25,1,1,Sam Curran,21,13,1,0,Mustafizur,3.0,0,16,0,Moeen Ali,2.0,0,22,0
+PBKS,16,16.4,1,0,0,0,1,Sam Curran,Shashank Singh,24,25,1,1,Sam Curran,21,12,1,0,Mustafizur,3.0,0,16,0,Moeen Ali,2.0,0,22,0
+PBKS,16,16.3,1,0,0,0,0,Shashank Singh,Shashank Singh,24,25,1,1,Sam Curran,20,12,1,0,Mustafizur,3.0,0,15,0,Moeen Ali,2.0,0,22,0
+PBKS,16,16.2,0,0,1,0,0,Shashank Singh,Shashank Singh,23,24,1,1,Sam Curran,20,12,1,0,Mustafizur,3.0,0,14,0,Moeen Ali,2.0,0,22,0
+PBKS,16,16.1,1,0,0,0,0,Sam Curran,Shashank Singh,23,23,1,1,Sam Curran,20,12,1,0,Mustafizur,3.0,0,14,0,Moeen Ali,2.0,0,22,0
+PBKS,15,15.6,1,0,0,0,0,Sam Curran,Shashank Singh,23,23,1,1,Sam Curran,19,11,1,0,Moeen Ali,2.0,0,22,0,Mustafizur,3.0,0,13,0
+PBKS,15,15.5,1,0,0,0,0,Shashank Singh,Shashank Singh,23,23,1,1,Sam Curran,18,10,1,0,Moeen Ali,1.0,0,21,0,Mustafizur,3.0,0,13,0
+PBKS,15,15.4,2,0,0,0,0,Shashank Singh,Shashank Singh,22,22,1,1,Sam Curran,18,10,1,0,Moeen Ali,1.0,0,20,0,Mustafizur,3.0,0,13,0
+PBKS,15,15.3,6,1,0,0,0,Shashank Singh,Shashank Singh,20,21,1,1,Sam Curran,18,10,1,0,Moeen Ali,1.0,0,18,0,Mustafizur,3.0,0,13,0
+PBKS,15,15.2,1,0,0,0,0,Sam Curran,Shashank Singh,14,20,1,0,Sam Curran,18,10,1,0,Moeen Ali,1.0,0,12,0,Mustafizur,3.0,0,13,0
+PBKS,15,15.1,0,0,1,0,0,Sam Curran,Shashank Singh,14,20,1,0,Sam Curran,17,9,1,0,Moeen Ali,1.0,0,11,0,Mustafizur,3.0,0,13,0
+PBKS,14,14.6,0,0,1,0,0,Shashank Singh,Shashank Singh,14,20,1,0,Sam Curran,17,8,1,0,Mustafizur,3.0,0,13,0,Thakur,3.0,0,48,1
+PBKS,14,14.5,0,0,1,0,0,Shashank Singh,Shashank Singh,14,19,1,0,Sam Curran,17,8,1,0,Mustafizur,2.0,0,13,0,Thakur,3.0,0,48,1
+PBKS,14,14.4,0,0,1,0,0,Shashank Singh,Shashank Singh,14,18,1,0,Sam Curran,17,8,1,0,Mustafizur,2.0,0,13,0,Thakur,3.0,0,48,1
+PBKS,14,14.3,0,0,1,0,0,Shashank Singh,Shashank Singh,14,17,1,0,Sam Curran,17,8,1,0,Mustafizur,2.0,0,13,0,Thakur,3.0,0,48,1
+PBKS,14,14.2,0,0,1,0,0,Shashank Singh,Shashank Singh,14,16,1,0,Sam Curran,17,8,1,0,Mustafizur,2.0,0,13,0,Thakur,3.0,0,48,1
+PBKS,14,14.1,0,0,1,0,0,Shashank Singh,Shashank Singh,14,15,1,0,Sam Curran,17,8,1,0,Mustafizur,2.0,0,13,0,Thakur,3.0,0,48,1
+PBKS,13,13.6,4,1,0,0,0,Sam Curran,Shashank Singh,14,14,1,0,Sam Curran,17,8,1,0,Thakur,3.0,0,48,1,Gleeson,3.0,1,23,1
+PBKS,13,13.6,5,0,0,0,1,Sam Curran,Shashank Singh,14,14,1,0,Sam Curran,13,7,0,0,Thakur,3.0,0,44,1,Gleeson,3.0,1,23,1
+PBKS,13,13.5,1,0,0,0,0,Shashank Singh,Shashank Singh,14,14,1,0,Sam Curran,8,6,0,0,Thakur,3.0,0,39,1,Gleeson,3.0,1,23,1
+PBKS,13,13.4,1,0,0,0,0,Sam Curran,Shashank Singh,13,13,1,0,Sam Curran,8,6,0,0,Thakur,3.0,0,38,1,Gleeson,3.0,1,23,1
+PBKS,13,13.3,1,0,0,0,0,Shashank Singh,Shashank Singh,13,13,1,0,Sam Curran,7,5,0,0,Thakur,3.0,0,37,1,Gleeson,3.0,1,23,1
+PBKS,13,13.2,0,0,1,0,0,Shashank Singh,Shashank Singh,12,12,1,0,Sam Curran,7,5,0,0,Thakur,3.0,0,36,1,Gleeson,3.0,1,23,1
+PBKS,13,13.1,1,0,0,0,0,Sam Curran,Shashank Singh,12,11,1,0,Sam Curran,7,5,0,0,Thakur,2.0,0,36,1,Gleeson,3.0,1,23,1
+PBKS,12,12.6,1,0,0,0,0,Sam Curran,Shashank Singh,12,11,1,0,Sam Curran,6,4,0,0,Gleeson,3.0,1,23,1,Thakur,2.0,0,35,1
+PBKS,12,12.5,2,0,0,0,0,Sam Curran,Shashank Singh,12,11,1,0,Sam Curran,5,3,0,0,Gleeson,2.0,1,22,1,Thakur,2.0,0,35,1
+PBKS,12,12.4,2,0,0,0,0,Sam Curran,Shashank Singh,12,11,1,0,Sam Curran,3,2,0,0,Gleeson,2.0,1,20,1,Thakur,2.0,0,35,1
+PBKS,12,12.3,1,0,0,0,0,Shashank Singh,Shashank Singh,12,11,1,0,Sam Curran,1,1,0,0,Gleeson,2.0,1,18,1,Thakur,2.0,0,35,1
+PBKS,12,12.2,1,0,0,0,0,Sam Curran,Shashank Singh,11,10,1,0,Sam Curran,1,1,0,0,Gleeson,2.0,1,17,1,Thakur,2.0,0,35,1
+PBKS,12,12.1,1,0,0,0,0,Shashank Singh,Shashank Singh,11,10,1,0,,0,0,0,0,Gleeson,2.0,1,16,1,Thakur,2.0,0,35,1
+PBKS,12,12.1,1,0,0,0,1,Shashank Singh,Shashank Singh,10,9,1,0,,0,0,0,0,Gleeson,2.0,1,15,1,Thakur,2.0,0,35,1
+PBKS,11,11.6,0,0,0,1,0,Rossouw,Shashank Singh,9,9,1,0,,0,0,0,0,Thakur,2.0,0,35,1,Jadeja,3.0,0,22,0
+PBKS,11,11.5,1,0,0,0,0,Shashank Singh,Rossouw,45,22,5,2,Shashank Singh,9,9,1,0,Thakur,2.0,0,35,0,Jadeja,3.0,0,22,0
+PBKS,11,11.4,4,1,0,0,0,Shashank Singh,Rossouw,45,22,5,2,Shashank Singh,8,8,1,0,Thakur,2.0,0,34,0,Jadeja,3.0,0,22,0
+PBKS,11,11.3,1,0,0,0,0,Rossouw,Rossouw,45,22,5,2,Shashank Singh,4,7,0,0,Thakur,2.0,0,30,0,Jadeja,3.0,0,22,0
+PBKS,11,11.3,1,0,0,0,1,Rossouw,Rossouw,44,21,5,2,Shashank Singh,4,7,0,0,Thakur,2.0,0,29,0,Jadeja,3.0,0,22,0
+PBKS,11,11.2,6,1,0,0,0,Rossouw,Rossouw,43,21,5,2,Shashank Singh,4,7,0,0,Thakur,2.0,0,28,0,Jadeja,3.0,0,22,0
+PBKS,11,11.1,1,0,0,0,0,Shashank Singh,Rossouw,37,20,5,1,Shashank Singh,4,7,0,0,Thakur,1.0,0,22,0,Jadeja,3.0,0,22,0
+PBKS,10,10.6,1,0,0,0,0,Shashank Singh,Rossouw,37,20,5,1,Shashank Singh,3,6,0,0,Jadeja,3.0,0,22,0,Dube,1.0,0,14,1
+PBKS,10,10.5,0,0,1,0,0,Shashank Singh,Rossouw,37,20,5,1,Shashank Singh,2,5,0,0,Jadeja,2.0,0,21,0,Dube,1.0,0,14,1
+PBKS,10,10.4,0,0,1,0,0,Shashank Singh,Rossouw,37,20,5,1,Shashank Singh,2,4,0,0,Jadeja,2.0,0,21,0,Dube,1.0,0,14,1
+PBKS,10,10.3,0,0,1,0,0,Shashank Singh,Rossouw,37,20,5,1,Shashank Singh,2,3,0,0,Jadeja,2.0,0,21,0,Dube,1.0,0,14,1
+PBKS,10,10.2,1,0,0,0,0,Rossouw,Rossouw,37,20,5,1,Shashank Singh,2,2,0,0,Jadeja,2.0,0,21,0,Dube,1.0,0,14,1
+PBKS,10,10.1,1,0,0,0,0,Shashank Singh,Rossouw,36,19,5,1,Shashank Singh,2,2,0,0,Jadeja,2.0,0,20,0,Dube,1.0,0,14,1
+PBKS,9,9.6,4,1,0,0,0,Rossouw,Rossouw,36,19,5,1,Shashank Singh,1,1,0,0,Dube,1.0,0,14,1,Jadeja,2.0,0,19,0
+PBKS,9,9.5,2,0,0,0,0,Rossouw,Rossouw,32,18,4,1,Shashank Singh,1,1,0,0,Dube,0,0,10,1,Jadeja,2.0,0,19,0
+PBKS,9,9.4,6,1,0,0,0,Rossouw,Rossouw,30,17,4,1,Shashank Singh,1,1,0,0,Dube,0,0,8,1,Jadeja,2.0,0,19,0
+PBKS,9,9.3,1,0,0,0,0,Shashank Singh,Rossouw,24,16,4,0,Shashank Singh,1,1,0,0,Dube,0,0,2,1,Jadeja,2.0,0,19,0
+PBKS,9,9.2,0,0,0,1,0,Bairstow,Rossouw,24,16,4,0,,0,0,0,0,Dube,0,0,1,1,Jadeja,2.0,0,19,0
+PBKS,9,9.1,1,0,0,0,0,Rossouw,Bairstow,46,29,7,1,Rossouw,24,16,4,0,Dube,0,0,1,0,Jadeja,2.0,0,19,0
+PBKS,8,8.6,2,0,0,0,0,Bairstow,Bairstow,46,29,7,1,Rossouw,23,15,4,0,Jadeja,2.0,0,19,0,Moeen Ali,1.0,0,11,0
+PBKS,8,8.5,0,0,1,0,0,Bairstow,Bairstow,44,28,7,1,Rossouw,23,15,4,0,Jadeja,1.0,0,17,0,Moeen Ali,1.0,0,11,0
+PBKS,8,8.4,4,1,0,0,0,Bairstow,Bairstow,44,27,7,1,Rossouw,23,15,4,0,Jadeja,1.0,0,17,0,Moeen Ali,1.0,0,11,0
+PBKS,8,8.3,1,0,0,0,0,Rossouw,Bairstow,40,26,6,1,Rossouw,23,15,4,0,Jadeja,1.0,0,13,0,Moeen Ali,1.0,0,11,0
+PBKS,8,8.2,1,0,0,0,0,Bairstow,Bairstow,40,26,6,1,Rossouw,22,14,4,0,Jadeja,1.0,0,12,0,Moeen Ali,1.0,0,11,0
+PBKS,8,8.1,1,0,0,0,0,Rossouw,Bairstow,39,25,6,1,Rossouw,22,14,4,0,Jadeja,1.0,0,11,0,Moeen Ali,1.0,0,11,0
+PBKS,7,7.6,4,1,0,0,0,Bairstow,Bairstow,39,25,6,1,Rossouw,21,13,4,0,Moeen Ali,1.0,0,11,0,Jadeja,1.0,0,10,0
+PBKS,7,7.5,6,1,0,0,0,Bairstow,Bairstow,35,24,5,1,Rossouw,21,13,4,0,Moeen Ali,0,0,7,0,Jadeja,1.0,0,10,0
+PBKS,7,7.4,0,0,1,0,0,Bairstow,Bairstow,29,23,5,0,Rossouw,21,13,4,0,Moeen Ali,0,0,1,0,Jadeja,1.0,0,10,0
+PBKS,7,7.3,1,0,0,0,0,Rossouw,Bairstow,29,22,5,0,Rossouw,21,13,4,0,Moeen Ali,0,0,1,0,Jadeja,1.0,0,10,0
+PBKS,7,7.2,0,0,1,0,0,Rossouw,Bairstow,29,22,5,0,Rossouw,20,12,4,0,Moeen Ali,0,0,0,0,Jadeja,1.0,0,10,0
+PBKS,7,7.1,0,0,1,0,0,Rossouw,Bairstow,29,22,5,0,Rossouw,20,11,4,0,Moeen Ali,0,0,0,0,Jadeja,1.0,0,10,0
+PBKS,6,6.6,4,1,0,0,0,Bairstow,Bairstow,29,22,5,0,Rossouw,20,10,4,0,Jadeja,1.0,0,10,0,Thakur,1.0,0,21,0
+PBKS,6,6.5,0,0,1,0,0,Bairstow,Bairstow,25,21,4,0,Rossouw,20,10,4,0,Jadeja,0,0,6,0,Thakur,1.0,0,21,0
+PBKS,6,6.4,4,1,0,0,0,Bairstow,Bairstow,25,20,4,0,Rossouw,20,10,4,0,Jadeja,0,0,6,0,Thakur,1.0,0,21,0
+PBKS,6,6.3,0,0,1,0,0,Bairstow,Bairstow,21,19,3,0,Rossouw,20,10,4,0,Jadeja,0,0,2,0,Thakur,1.0,0,21,0
+PBKS,6,6.2,1,0,0,0,0,Rossouw,Bairstow,21,18,3,0,Rossouw,20,10,4,0,Jadeja,0,0,2,0,Thakur,1.0,0,21,0
+PBKS,6,6.1,1,0,0,0,0,Bairstow,Bairstow,21,18,3,0,Rossouw,19,9,4,0,Jadeja,0,0,1,0,Thakur,1.0,0,21,0
+PBKS,5,5.6,1,0,0,0,0,Bairstow,Bairstow,20,17,3,0,Rossouw,19,9,4,0,Thakur,1.0,0,21,0,Mustafizur,2.0,0,13,0
+PBKS,5,5.5,2,0,0,0,0,Bairstow,Bairstow,19,16,3,0,Rossouw,19,9,4,0,Thakur,1.0,0,20,0,Mustafizur,2.0,0,13,0
+PBKS,5,5.4,4,1,0,0,0,Bairstow,Bairstow,17,15,3,0,Rossouw,19,9,4,0,Thakur,1.0,0,18,0,Mustafizur,2.0,0,13,0
+PBKS,5,5.3,1,0,0,0,0,Rossouw,Bairstow,13,14,2,0,Rossouw,19,9,4,0,Thakur,1.0,0,14,0,Mustafizur,2.0,0,13,0
+PBKS,5,5.2,1,0,0,0,0,Bairstow,Bairstow,13,14,2,0,Rossouw,18,8,4,0,Thakur,1.0,0,13,0,Mustafizur,2.0,0,13,0
+PBKS,5,5.1,4,1,0,0,0,Bairstow,Bairstow,12,13,2,0,Rossouw,18,8,4,0,Thakur,0,0,12,0,Mustafizur,2.0,0,13,0
+PBKS,4,4.6,4,1,0,0,0,Rossouw,Bairstow,8,12,1,0,Rossouw,18,8,4,0,Mustafizur,2.0,0,13,0,Gleeson,2.0,1,14,1
+PBKS,4,4.6,1,0,0,0,1,Rossouw,Bairstow,8,12,1,0,Rossouw,14,7,3,0,Mustafizur,1.0,0,9,0,Gleeson,2.0,1,14,1
+PBKS,4,4.5,4,1,0,0,0,Rossouw,Bairstow,8,12,1,0,Rossouw,13,7,3,0,Mustafizur,1.0,0,8,0,Gleeson,2.0,1,14,1
+PBKS,4,4.4,0,0,1,0,0,Rossouw,Bairstow,8,12,1,0,Rossouw,9,6,2,0,Mustafizur,1.0,0,4,0,Gleeson,2.0,1,14,1
+PBKS,4,4.3,0,0,1,0,0,Rossouw,Bairstow,8,12,1,0,Rossouw,9,5,2,0,Mustafizur,1.0,0,4,0,Gleeson,2.0,1,14,1
+PBKS,4,4.2,1,0,0,0,0,Bairstow,Bairstow,8,12,1,0,Rossouw,9,4,2,0,Mustafizur,1.0,0,4,0,Gleeson,2.0,1,14,1
+PBKS,4,4.1,0,0,1,0,0,Bairstow,Bairstow,7,11,1,0,Rossouw,9,4,2,0,Mustafizur,1.0,0,3,0,Gleeson,2.0,1,14,1
+PBKS,3,3.6,1,0,0,0,0,Bairstow,Bairstow,7,10,1,0,Rossouw,9,4,2,0,Gleeson,2.0,1,14,1,Mustafizur,1.0,0,3,0
+PBKS,3,3.5,1,0,0,0,0,Rossouw,Bairstow,6,9,1,0,Rossouw,9,4,2,0,Gleeson,1.0,1,13,1,Mustafizur,1.0,0,3,0
+PBKS,3,3.4,0,0,1,0,0,Rossouw,Bairstow,6,9,1,0,Rossouw,8,3,2,0,Gleeson,1.0,1,12,1,Mustafizur,1.0,0,3,0
+PBKS,3,3.3,4,1,0,0,0,Rossouw,Bairstow,6,9,1,0,Rossouw,8,2,2,0,Gleeson,1.0,1,12,1,Mustafizur,1.0,0,3,0
+PBKS,3,3.2,4,1,0,0,0,Rossouw,Bairstow,6,9,1,0,Rossouw,4,1,1,0,Gleeson,1.0,1,8,1,Mustafizur,1.0,0,3,0
+PBKS,3,3.1,0,0,0,1,0,Prabhsimran,Bairstow,6,9,1,0,,0,0,0,0,Gleeson,1.0,1,4,1,Mustafizur,1.0,0,3,0
+PBKS,2,2.6,1,0,0,0,0,Prabhsimran,Prabhsimran,13,9,1,1,Bairstow,6,9,1,0,Mustafizur,1.0,0,3,0,Gleeson,1.0,1,4,0
+PBKS,2,2.5,0,0,1,0,0,Prabhsimran,Prabhsimran,12,8,1,1,Bairstow,6,9,1,0,Mustafizur,0,0,2,0,Gleeson,1.0,1,4,0
+PBKS,2,2.4,0,0,1,0,0,Prabhsimran,Prabhsimran,12,7,1,1,Bairstow,6,9,1,0,Mustafizur,0,0,2,0,Gleeson,1.0,1,4,0
+PBKS,2,2.3,1,0,0,0,0,Bairstow,Prabhsimran,12,6,1,1,Bairstow,6,9,1,0,Mustafizur,0,0,2,0,Gleeson,1.0,1,4,0
+PBKS,2,2.2,0,0,1,0,0,Bairstow,Prabhsimran,12,6,1,1,Bairstow,5,8,1,0,Mustafizur,0,0,1,0,Gleeson,1.0,1,4,0
+PBKS,2,2.1,1,0,0,0,0,Prabhsimran,Prabhsimran,12,6,1,1,Bairstow,5,7,1,0,Mustafizur,0,0,1,0,Gleeson,1.0,1,4,0
+PBKS,1,1.6,4,1,0,0,0,Bairstow,Prabhsimran,11,5,1,1,Bairstow,5,7,1,0,Gleeson,1.0,1,4,0,Chahar,0,0,4,0
+PBKS,1,1.5,0,0,1,0,0,Bairstow,Prabhsimran,11,5,1,1,Bairstow,1,6,0,0,Gleeson,0,0,0,0,Chahar,0,0,4,0
+PBKS,1,1.4,0,0,1,0,0,Bairstow,Prabhsimran,11,5,1,1,Bairstow,1,5,0,0,Gleeson,0,0,0,0,Chahar,0,0,4,0
+PBKS,1,1.3,0,0,1,0,0,Bairstow,Prabhsimran,11,5,1,1,Bairstow,1,4,0,0,Gleeson,0,0,0,0,Chahar,0,0,4,0
+PBKS,1,1.2,0,0,1,0,0,Bairstow,Prabhsimran,11,5,1,1,Bairstow,1,3,0,0,Gleeson,0,0,0,0,Chahar,0,0,4,0
+PBKS,1,1.1,0,0,1,0,0,Bairstow,Prabhsimran,11,5,1,1,Bairstow,1,2,0,0,Gleeson,0,0,0,0,Chahar,0,0,4,0
+PBKS,0,0.6,1,0,0,0,0,Bairstow,Prabhsimran,11,5,1,1,Bairstow,1,1,0,0,Chahar,0,0,4,0,,0,0,0,0
+PBKS,0,0.5,1,0,0,0,0,Prabhsimran,Prabhsimran,11,5,1,1,,0,0,0,0,Chahar,0,0,4,0,,0,0,0,0
+PBKS,0,0.4,0,0,1,0,0,Prabhsimran,Prabhsimran,10,4,1,1,,0,0,0,0,Chahar,0,0,4,0,,0,0,0,0
+PBKS,0,0.3,6,1,0,0,0,Prabhsimran,Prabhsimran,10,3,1,1,,0,0,0,0,Chahar,0,0,4,0,,0,0,0,0
+PBKS,0,0.2,4,1,0,0,0,Prabhsimran,Prabhsimran,4,2,1,0,,0,0,0,0,Chahar,0,0,4,0,,0,0,0,0
+PBKS,0,0.1,0,0,1,0,0,Prabhsimran,Prabhsimran,0,1,0,0,,0,0,0,0,Chahar,0,0,0,0,,0,0,0,0

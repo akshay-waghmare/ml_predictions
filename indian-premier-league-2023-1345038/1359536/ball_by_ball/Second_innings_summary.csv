@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+GT,19,19.1,2,0,0,4,1,Mohit,Shanaka,8,6,1,0,,0,0,0,0,Bhuvneshwar,3.0,0,29,3,Natarajan,4.0,0,34,1
+GT,18,18.1,8,1,1,0,0,Gill,Gill,99,54,13,1,Shanaka,3,3,0,0,Natarajan,3.0,0,27,1,Fazalhaq Farooqi,3.0,0,31,1
+GT,17,17.1,7,0,0,1,1,Shanaka,Gill,98,53,13,1,Tewatia,1,1,0,0,Fazalhaq Farooqi,2.0,0,25,0,Natarajan,3.0,0,26,1
+GT,16,16.1,8,1,0,1,0,Gill,Gill,95,50,13,1,Miller,3,3,0,0,Natarajan,2.0,0,19,0,Bhuvneshwar,3.0,0,29,2
+GT,15,15.1,9,1,0,1,0,Miller,Gill,90,48,12,1,Hardik,8,5,1,0,Bhuvneshwar,2.0,0,22,1,Jansen,4.0,0,39,1
+GT,14,14.1,7,1,1,1,0,Hardik,Gill,89,47,12,1,,0,0,0,0,Jansen,3.0,0,32,1,Markande,2.0,0,26,0
+GT,13,13.1,7,1,1,0,0,B Sai Sudharsan,B Sai Sudharsan,55,33,6,0,Gill,85,45,11,1,Markande,2.0,0,20,0,Natarajan,2.0,0,18,0
+GT,12,12.1,8,0,0,0,0,Gill,B Sai Sudharsan,54,32,6,0,Gill,78,40,11,1,Natarajan,1.0,0,11,0,Abhishek,1.0,0,13,0
+GT,11,11.1,13,2,2,0,1,Gill,B Sai Sudharsan,52,30,6,0,Gill,67,36,10,0,Abhishek,0,0,1,0,Jansen,3.0,0,32,0
+GT,10,10.1,15,1,2,0,2,B Sai Sudharsan,B Sai Sudharsan,39,26,5,0,Gill,64,33,10,0,Jansen,2.0,0,17,0,Markande,2.0,0,19,0
+GT,9,9.1,8,1,1,0,0,B Sai Sudharsan,B Sai Sudharsan,34,23,4,0,Gill,62,30,10,0,Markande,1.0,0,12,0,Fazalhaq Farooqi,2.0,0,24,0
+GT,8,8.1,6,0,1,0,0,B Sai Sudharsan,B Sai Sudharsan,31,20,4,0,Gill,58,27,10,0,Fazalhaq Farooqi,1.0,0,18,0,Markande,1.0,0,11,0
+GT,7,7.1,11,2,1,0,0,Gill,B Sai Sudharsan,30,19,4,0,Gill,52,22,9,0,Markande,0,0,4,0,Markram,1.0,0,13,0
+GT,6,6.1,13,2,0,0,0,Gill,B Sai Sudharsan,29,18,4,0,Gill,37,17,6,0,Markram,0,0,1,0,Natarajan,1.0,0,10,0
+GT,5,5.1,10,2,2,0,0,Gill,B Sai Sudharsan,24,16,3,0,Gill,31,13,5,0,Natarajan,0,0,0,0,Jansen,2.0,0,17,0
+GT,4,4.1,5,0,2,0,0,Gill,B Sai Sudharsan,23,14,3,0,Gill,28,9,5,0,Jansen,1.0,0,13,0,Fazalhaq Farooqi,1.0,0,18,0
+GT,3,3.1,18,4,1,0,0,Gill,B Sai Sudharsan,22,13,3,0,Gill,10,4,1,0,Fazalhaq Farooqi,0,0,0,0,Bhuvneshwar,2.0,0,20,1
+GT,2,2.1,15,3,2,0,0,B Sai Sudharsan,B Sai Sudharsan,14,9,1,0,Gill,7,2,1,0,Bhuvneshwar,1.0,0,9,1,Jansen,1.0,0,12,0
+GT,1,1.1,12,1,5,0,4,B Sai Sudharsan,B Sai Sudharsan,2,3,0,0,Gill,3,1,0,0,Jansen,0,0,0,0,Bhuvneshwar,1.0,0,5,1
+GT,0,0.1,5,0,2,1,0,B Sai Sudharsan,Saha,0,1,0,0,,0,0,0,0,Bhuvneshwar,0,0,0,0,,0,0,0,0

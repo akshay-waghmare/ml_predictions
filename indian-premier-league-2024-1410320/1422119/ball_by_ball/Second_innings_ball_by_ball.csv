@@ -1,0 +1,130 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+RCB,19,19.6,0,0,0,1,0,Karthik,Rawat,50,25,4,3,,0,0,0,0,Deshpande,4.0,0,47,1,Mustafizur,4.0,0,29,4
+RCB,19,19.5,4,1,0,0,0,Karthik,Rawat,50,25,4,3,Karthik,46,25,3,2,Deshpande,3.0,0,47,0,Mustafizur,4.0,0,29,4
+RCB,19,19.5,2,0,0,0,1,Rawat,Rawat,50,25,4,3,Karthik,42,24,2,2,Deshpande,3.0,0,43,0,Mustafizur,4.0,0,29,4
+RCB,19,19.4,0,0,1,0,0,Rawat,Rawat,48,25,4,3,Karthik,42,24,2,2,Deshpande,3.0,0,41,0,Mustafizur,4.0,0,29,4
+RCB,19,19.3,1,0,0,0,0,Karthik,Rawat,48,24,4,3,Karthik,42,24,2,2,Deshpande,3.0,0,41,0,Mustafizur,4.0,0,29,4
+RCB,19,19.3,1,0,0,0,1,Karthik,Rawat,48,24,4,3,Karthik,41,23,2,2,Deshpande,3.0,0,40,0,Mustafizur,4.0,0,29,4
+RCB,19,19.2,0,0,1,0,0,Karthik,Rawat,48,24,4,3,Karthik,40,23,2,2,Deshpande,3.0,0,39,0,Mustafizur,4.0,0,29,4
+RCB,19,19.1,0,0,1,0,0,Karthik,Rawat,48,24,4,3,Karthik,40,22,2,2,Deshpande,3.0,0,39,0,Mustafizur,4.0,0,29,4
+RCB,19,19.1,1,0,0,0,1,Karthik,Rawat,48,24,4,3,Karthik,40,21,2,2,Deshpande,3.0,0,39,0,Mustafizur,4.0,0,29,4
+RCB,18,18.6,1,0,0,0,1,Karthik,Rawat,48,24,4,3,Karthik,39,21,2,2,Mustafizur,4.0,0,29,4,Deshpande,3.0,0,38,0
+RCB,18,18.6,1,0,0,0,1,Karthik,Rawat,48,24,4,3,Karthik,38,20,2,2,Mustafizur,3.0,0,29,4,Deshpande,3.0,0,38,0
+RCB,18,18.5,4,1,0,0,0,Karthik,Rawat,48,24,4,3,Karthik,37,20,2,2,Mustafizur,3.0,0,28,4,Deshpande,3.0,0,38,0
+RCB,18,18.4,1,0,0,0,0,Rawat,Rawat,48,24,4,3,Karthik,33,19,1,2,Mustafizur,3.0,0,24,4,Deshpande,3.0,0,38,0
+RCB,18,18.3,6,1,0,0,0,Rawat,Rawat,47,23,4,3,Karthik,33,19,1,2,Mustafizur,3.0,0,23,4,Deshpande,3.0,0,38,0
+RCB,18,18.2,1,0,0,0,0,Karthik,Rawat,41,22,4,2,Karthik,33,19,1,2,Mustafizur,3.0,0,17,4,Deshpande,3.0,0,38,0
+RCB,18,18.1,2,0,0,0,0,Karthik,Rawat,41,22,4,2,Karthik,32,18,1,2,Mustafizur,3.0,0,16,4,Deshpande,3.0,0,38,0
+RCB,17,17.6,4,1,0,0,0,Rawat,Rawat,41,22,4,2,Karthik,30,17,1,2,Deshpande,3.0,0,38,0,Mustafizur,3.0,0,14,4
+RCB,17,17.5,6,1,0,0,0,Rawat,Rawat,37,21,3,2,Karthik,30,17,1,2,Deshpande,2.0,0,34,0,Mustafizur,3.0,0,14,4
+RCB,17,17.4,0,0,1,0,0,Rawat,Rawat,31,20,3,1,Karthik,30,17,1,2,Deshpande,2.0,0,28,0,Mustafizur,3.0,0,14,4
+RCB,17,17.3,6,1,0,0,0,Rawat,Rawat,31,19,3,1,Karthik,30,17,1,2,Deshpande,2.0,0,28,0,Mustafizur,3.0,0,14,4
+RCB,17,17.2,1,0,0,0,0,Karthik,Rawat,25,18,3,0,Karthik,30,17,1,2,Deshpande,2.0,0,22,0,Mustafizur,3.0,0,14,4
+RCB,17,17.2,1,0,0,0,1,Karthik,Rawat,25,18,3,0,Karthik,29,16,1,2,Deshpande,2.0,0,21,0,Mustafizur,3.0,0,14,4
+RCB,17,17.1,6,1,0,0,0,Karthik,Rawat,25,18,3,0,Karthik,28,16,1,2,Deshpande,2.0,0,20,0,Mustafizur,3.0,0,14,4
+RCB,17,17.1,1,0,0,0,1,Karthik,Rawat,25,18,3,0,Karthik,22,15,1,1,Deshpande,2.0,0,14,0,Mustafizur,3.0,0,14,4
+RCB,16,16.6,0,0,1,0,0,Rawat,Rawat,25,18,3,0,Karthik,21,15,1,1,Mustafizur,3.0,0,14,4,Theekshana,4.0,0,36,0
+RCB,16,16.5,1,0,0,0,0,Karthik,Rawat,25,17,3,0,Karthik,21,15,1,1,Mustafizur,2.0,0,14,4,Theekshana,4.0,0,36,0
+RCB,16,16.5,1,0,0,0,1,Karthik,Rawat,25,17,3,0,Karthik,20,14,1,1,Mustafizur,2.0,0,13,4,Theekshana,4.0,0,36,0
+RCB,16,16.4,1,0,0,0,0,Rawat,Rawat,25,17,3,0,Karthik,19,14,1,1,Mustafizur,2.0,0,12,4,Theekshana,4.0,0,36,0
+RCB,16,16.3,0,0,1,0,0,Rawat,Rawat,24,16,3,0,Karthik,19,14,1,1,Mustafizur,2.0,0,11,4,Theekshana,4.0,0,36,0
+RCB,16,16.2,4,1,0,0,0,Rawat,Rawat,24,15,3,0,Karthik,19,14,1,1,Mustafizur,2.0,0,11,4,Theekshana,4.0,0,36,0
+RCB,16,16.1,0,0,1,0,0,Rawat,Rawat,20,14,2,0,Karthik,19,14,1,1,Mustafizur,2.0,0,7,4,Theekshana,4.0,0,36,0
+RCB,15,15.6,6,1,0,0,0,Karthik,Rawat,20,13,2,0,Karthik,19,14,1,1,Theekshana,4.0,0,36,0,Chahar,4.0,0,37,1
+RCB,15,15.5,1,0,0,0,0,Rawat,Rawat,20,13,2,0,Karthik,13,13,1,0,Theekshana,3.0,0,30,0,Chahar,4.0,0,37,1
+RCB,15,15.4,1,0,0,0,0,Karthik,Rawat,19,12,2,0,Karthik,13,13,1,0,Theekshana,3.0,0,29,0,Chahar,4.0,0,37,1
+RCB,15,15.3,1,0,0,0,0,Rawat,Rawat,19,12,2,0,Karthik,12,12,1,0,Theekshana,3.0,0,28,0,Chahar,4.0,0,37,1
+RCB,15,15.2,1,0,0,0,0,Karthik,Rawat,18,11,2,0,Karthik,12,12,1,0,Theekshana,3.0,0,27,0,Chahar,4.0,0,37,1
+RCB,15,15.1,4,1,0,0,0,Karthik,Rawat,18,11,2,0,Karthik,11,11,1,0,Theekshana,3.0,0,26,0,Chahar,4.0,0,37,1
+RCB,14,14.6,4,1,0,0,0,Rawat,Rawat,18,11,2,0,Karthik,7,10,0,0,Chahar,4.0,0,37,1,Jadeja,4.0,0,21,0
+RCB,14,14.5,1,0,0,0,0,Karthik,Rawat,14,10,1,0,Karthik,7,10,0,0,Chahar,3.0,0,33,1,Jadeja,4.0,0,21,0
+RCB,14,14.4,1,0,0,0,0,Rawat,Rawat,14,10,1,0,Karthik,6,9,0,0,Chahar,3.0,0,32,1,Jadeja,4.0,0,21,0
+RCB,14,14.3,1,0,0,0,0,Karthik,Rawat,13,9,1,0,Karthik,6,9,0,0,Chahar,3.0,0,31,1,Jadeja,4.0,0,21,0
+RCB,14,14.2,1,0,0,0,0,Rawat,Rawat,13,9,1,0,Karthik,5,8,0,0,Chahar,3.0,0,30,1,Jadeja,4.0,0,21,0
+RCB,14,14.1,4,1,0,0,0,Rawat,Rawat,12,8,1,0,Karthik,5,8,0,0,Chahar,3.0,0,29,1,Jadeja,4.0,0,21,0
+RCB,13,13.6,1,0,0,0,0,Rawat,Rawat,8,7,0,0,Karthik,5,8,0,0,Jadeja,4.0,0,21,0,Deshpande,2.0,0,13,0
+RCB,13,13.5,1,0,0,0,1,Karthik,Rawat,7,6,0,0,Karthik,5,8,0,0,Jadeja,3.0,0,20,0,Deshpande,2.0,0,13,0
+RCB,13,13.4,1,0,0,0,0,Rawat,Rawat,7,6,0,0,Karthik,4,7,0,0,Jadeja,3.0,0,20,0,Deshpande,2.0,0,13,0
+RCB,13,13.3,2,0,0,0,0,Rawat,Rawat,6,5,0,0,Karthik,4,7,0,0,Jadeja,3.0,0,19,0,Deshpande,2.0,0,13,0
+RCB,13,13.2,1,0,0,0,0,Karthik,Rawat,4,4,0,0,Karthik,4,7,0,0,Jadeja,3.0,0,17,0,Deshpande,2.0,0,13,0
+RCB,13,13.1,1,0,0,0,0,Rawat,Rawat,4,4,0,0,Karthik,3,6,0,0,Jadeja,3.0,0,16,0,Deshpande,2.0,0,13,0
+RCB,12,12.6,1,0,0,0,0,Rawat,Rawat,3,3,0,0,Karthik,3,6,0,0,Deshpande,2.0,0,13,0,Mustafizur,2.0,0,7,4
+RCB,12,12.5,1,0,0,0,0,Karthik,Rawat,2,2,0,0,Karthik,3,6,0,0,Deshpande,1.0,0,12,0,Mustafizur,2.0,0,7,4
+RCB,12,12.4,0,0,1,0,0,Karthik,Rawat,2,2,0,0,Karthik,2,5,0,0,Deshpande,1.0,0,11,0,Mustafizur,2.0,0,7,4
+RCB,12,12.3,1,0,0,0,0,Rawat,Rawat,2,2,0,0,Karthik,2,4,0,0,Deshpande,1.0,0,11,0,Mustafizur,2.0,0,7,4
+RCB,12,12.2,1,0,0,0,0,Karthik,Rawat,1,1,0,0,Karthik,2,4,0,0,Deshpande,1.0,0,10,0,Mustafizur,2.0,0,7,4
+RCB,12,12.1,0,0,1,0,0,Karthik,Rawat,1,1,0,0,Karthik,1,3,0,0,Deshpande,1.0,0,9,0,Mustafizur,2.0,0,7,4
+RCB,11,11.6,1,0,0,0,0,Karthik,Rawat,1,1,0,0,Karthik,1,2,0,0,Mustafizur,2.0,0,7,4,Jadeja,3.0,0,15,0
+RCB,11,11.5,0,0,1,0,0,Karthik,Rawat,1,1,0,0,Karthik,0,1,0,0,Mustafizur,1.0,0,6,4,Jadeja,3.0,0,15,0
+RCB,11,11.4,0,0,0,1,0,Green,Rawat,1,1,0,0,,0,0,0,0,Mustafizur,1.0,0,6,4,Jadeja,3.0,0,15,0
+RCB,11,11.3,1,0,0,0,0,Rawat,Green,18,21,1,0,Rawat,1,1,0,0,Mustafizur,1.0,0,6,3,Jadeja,3.0,0,15,0
+RCB,11,11.2,0,0,0,1,0,Kohli,Green,18,21,1,0,,0,0,0,0,Mustafizur,1.0,0,5,3,Jadeja,3.0,0,15,0
+RCB,11,11.1,1,0,0,0,0,Green,Kohli,22,19,0,1,Green,18,21,1,0,Mustafizur,1.0,0,5,2,Jadeja,3.0,0,15,0
+RCB,10,10.6,0,0,1,0,0,Kohli,Kohli,22,19,0,1,Green,17,20,1,0,Jadeja,3.0,0,15,0,Theekshana,3.0,0,22,0
+RCB,10,10.5,0,0,1,0,0,Kohli,Kohli,22,18,0,1,Green,17,20,1,0,Jadeja,2.0,0,15,0,Theekshana,3.0,0,22,0
+RCB,10,10.4,0,0,1,0,0,Kohli,Kohli,22,17,0,1,Green,17,20,1,0,Jadeja,2.0,0,15,0,Theekshana,3.0,0,22,0
+RCB,10,10.3,1,0,0,0,0,Green,Kohli,22,16,0,1,Green,17,20,1,0,Jadeja,2.0,0,15,0,Theekshana,3.0,0,22,0
+RCB,10,10.2,0,0,1,0,0,Green,Kohli,22,16,0,1,Green,16,19,1,0,Jadeja,2.0,0,14,0,Theekshana,3.0,0,22,0
+RCB,10,10.1,0,0,1,0,0,Green,Kohli,22,16,0,1,Green,16,18,1,0,Jadeja,2.0,0,14,0,Theekshana,3.0,0,22,0
+RCB,9,9.6,1,0,0,0,0,Green,Kohli,22,16,0,1,Green,16,17,1,0,Theekshana,3.0,0,22,0,Jadeja,2.0,0,14,0
+RCB,9,9.5,1,0,0,0,0,Kohli,Kohli,22,16,0,1,Green,15,16,1,0,Theekshana,2.0,0,21,0,Jadeja,2.0,0,14,0
+RCB,9,9.4,1,0,0,0,0,Green,Kohli,21,15,0,1,Green,15,16,1,0,Theekshana,2.0,0,20,0,Jadeja,2.0,0,14,0
+RCB,9,9.3,1,0,0,0,0,Kohli,Kohli,21,15,0,1,Green,14,15,1,0,Theekshana,2.0,0,19,0,Jadeja,2.0,0,14,0
+RCB,9,9.2,6,1,0,0,0,Kohli,Kohli,20,14,0,1,Green,14,15,1,0,Theekshana,2.0,0,18,0,Jadeja,2.0,0,14,0
+RCB,9,9.1,2,0,0,0,0,Kohli,Kohli,14,13,0,0,Green,14,15,1,0,Theekshana,2.0,0,12,0,Jadeja,2.0,0,14,0
+RCB,8,8.6,1,0,0,0,0,Kohli,Kohli,12,12,0,0,Green,14,15,1,0,Jadeja,2.0,0,14,0,Theekshana,2.0,0,10,0
+RCB,8,8.5,1,0,0,0,0,Green,Kohli,11,11,0,0,Green,14,15,1,0,Jadeja,1.0,0,13,0,Theekshana,2.0,0,10,0
+RCB,8,8.4,4,1,0,0,0,Green,Kohli,11,11,0,0,Green,13,14,1,0,Jadeja,1.0,0,12,0,Theekshana,2.0,0,10,0
+RCB,8,8.3,0,0,1,0,0,Green,Kohli,11,11,0,0,Green,9,13,0,0,Jadeja,1.0,0,8,0,Theekshana,2.0,0,10,0
+RCB,8,8.2,1,0,0,0,0,Kohli,Kohli,11,11,0,0,Green,9,12,0,0,Jadeja,1.0,0,8,0,Theekshana,2.0,0,10,0
+RCB,8,8.1,1,0,0,0,0,Green,Kohli,10,10,0,0,Green,9,12,0,0,Jadeja,1.0,0,7,0,Theekshana,2.0,0,10,0
+RCB,7,7.6,1,0,0,0,0,Green,Kohli,10,10,0,0,Green,8,11,0,0,Theekshana,2.0,0,10,0,Jadeja,1.0,0,6,0
+RCB,7,7.5,2,0,0,0,0,Green,Kohli,10,10,0,0,Green,7,10,0,0,Theekshana,1.0,0,9,0,Jadeja,1.0,0,6,0
+RCB,7,7.4,1,0,0,0,0,Kohli,Kohli,10,10,0,0,Green,5,9,0,0,Theekshana,1.0,0,7,0,Jadeja,1.0,0,6,0
+RCB,7,7.3,2,0,0,0,0,Kohli,Kohli,9,9,0,0,Green,5,9,0,0,Theekshana,1.0,0,6,0,Jadeja,1.0,0,6,0
+RCB,7,7.2,1,0,0,0,0,Green,Kohli,7,8,0,0,Green,5,9,0,0,Theekshana,1.0,0,4,0,Jadeja,1.0,0,6,0
+RCB,7,7.1,0,0,1,0,0,Green,Kohli,7,8,0,0,Green,4,8,0,0,Theekshana,1.0,0,3,0,Jadeja,1.0,0,6,0
+RCB,6,6.6,1,0,0,0,0,Green,Kohli,7,8,0,0,Green,4,7,0,0,Jadeja,1.0,0,6,0,Chahar,3.0,0,25,1
+RCB,6,6.5,1,0,0,0,0,Kohli,Kohli,7,8,0,0,Green,3,6,0,0,Jadeja,0,0,5,0,Chahar,3.0,0,25,1
+RCB,6,6.4,1,0,0,0,0,Green,Kohli,6,7,0,0,Green,3,6,0,0,Jadeja,0,0,4,0,Chahar,3.0,0,25,1
+RCB,6,6.3,0,0,1,0,0,Green,Kohli,6,7,0,0,Green,2,5,0,0,Jadeja,0,0,3,0,Chahar,3.0,0,25,1
+RCB,6,6.2,2,0,0,0,0,Green,Kohli,6,7,0,0,Green,2,4,0,0,Jadeja,0,0,3,0,Chahar,3.0,0,25,1
+RCB,6,6.1,1,0,0,0,0,Kohli,Kohli,6,7,0,0,Green,0,3,0,0,Jadeja,0,0,1,0,Chahar,3.0,0,25,1
+RCB,5,5.6,0,0,1,0,0,Green,Kohli,5,6,0,0,Green,0,3,0,0,Chahar,3.0,0,25,1,Mustafizur,1.0,0,4,2
+RCB,5,5.5,0,0,1,0,0,Green,Kohli,5,6,0,0,Green,0,2,0,0,Chahar,2.0,0,25,1,Mustafizur,1.0,0,4,2
+RCB,5,5.4,0,0,1,0,0,Green,Kohli,5,6,0,0,Green,0,1,0,0,Chahar,2.0,0,25,1,Mustafizur,1.0,0,4,2
+RCB,5,5.3,0,0,0,1,0,Maxwell,Kohli,5,6,0,0,,0,0,0,0,Chahar,2.0,0,25,1,Mustafizur,1.0,0,4,2
+RCB,5,5.2,1,0,0,0,0,Kohli,Kohli,5,6,0,0,,0,0,0,0,Chahar,2.0,0,25,0,Mustafizur,1.0,0,4,2
+RCB,5,5.1,0,0,1,0,0,Kohli,Kohli,4,5,0,0,,0,0,0,0,Chahar,2.0,0,24,0,Mustafizur,1.0,0,4,2
+RCB,4,4.6,0,0,0,1,0,Patidar,Kohli,4,4,0,0,,0,0,0,0,Mustafizur,1.0,0,4,2,Theekshana,1.0,0,3,0
+RCB,4,4.5,0,0,1,0,0,Patidar,Kohli,4,4,0,0,Patidar,0,2,0,0,Mustafizur,0,0,4,1,Theekshana,1.0,0,3,0
+RCB,4,4.4,0,0,1,0,0,Patidar,Kohli,4,4,0,0,Patidar,0,1,0,0,Mustafizur,0,0,4,1,Theekshana,1.0,0,3,0
+RCB,4,4.3,0,0,0,1,0,du Plessis,Kohli,4,4,0,0,,0,0,0,0,Mustafizur,0,0,4,1,Theekshana,1.0,0,3,0
+RCB,4,4.2,4,1,0,0,0,du Plessis,Kohli,4,4,0,0,du Plessis,37,22,8,0,Mustafizur,0,0,4,0,Theekshana,1.0,0,3,0
+RCB,4,4.1,0,0,1,0,0,du Plessis,Kohli,4,4,0,0,du Plessis,33,21,7,0,Mustafizur,0,0,0,0,Theekshana,1.0,0,3,0
+RCB,3,3.6,1,0,0,0,0,du Plessis,Kohli,4,4,0,0,du Plessis,33,20,7,0,Theekshana,1.0,0,3,0,Chahar,2.0,0,24,0
+RCB,3,3.5,1,0,0,0,0,Kohli,Kohli,4,4,0,0,du Plessis,32,19,7,0,Theekshana,0,0,2,0,Chahar,2.0,0,24,0
+RCB,3,3.4,1,0,0,0,1,du Plessis,Kohli,3,3,0,0,du Plessis,32,19,7,0,Theekshana,0,0,1,0,Chahar,2.0,0,24,0
+RCB,3,3.3,0,0,1,0,0,du Plessis,Kohli,3,3,0,0,du Plessis,31,18,7,0,Theekshana,0,0,1,0,Chahar,2.0,0,24,0
+RCB,3,3.2,1,0,0,0,0,Kohli,Kohli,3,3,0,0,du Plessis,31,17,7,0,Theekshana,0,0,1,0,Chahar,2.0,0,24,0
+RCB,3,3.1,0,0,1,0,0,Kohli,Kohli,2,2,0,0,du Plessis,31,17,7,0,Theekshana,0,0,0,0,Chahar,2.0,0,24,0
+RCB,2,2.6,4,1,0,0,0,du Plessis,Kohli,2,1,0,0,du Plessis,31,17,7,0,Chahar,2.0,0,24,0,Deshpande,1.0,0,9,0
+RCB,2,2.5,0,0,1,0,0,du Plessis,Kohli,2,1,0,0,du Plessis,27,16,6,0,Chahar,1.0,0,20,0,Deshpande,1.0,0,9,0
+RCB,2,2.4,4,1,0,0,0,du Plessis,Kohli,2,1,0,0,du Plessis,27,15,6,0,Chahar,1.0,0,20,0,Deshpande,1.0,0,9,0
+RCB,2,2.3,4,1,0,0,0,du Plessis,Kohli,2,1,0,0,du Plessis,23,14,5,0,Chahar,1.0,0,16,0,Deshpande,1.0,0,9,0
+RCB,2,2.2,0,0,1,0,0,du Plessis,Kohli,2,1,0,0,du Plessis,19,13,4,0,Chahar,1.0,0,12,0,Deshpande,1.0,0,9,0
+RCB,2,2.2,1,0,0,0,1,du Plessis,Kohli,2,1,0,0,du Plessis,19,12,4,0,Chahar,1.0,0,12,0,Deshpande,1.0,0,9,0
+RCB,2,2.1,4,1,0,0,0,du Plessis,Kohli,2,1,0,0,du Plessis,18,12,4,0,Chahar,1.0,0,11,0,Deshpande,1.0,0,9,0
+RCB,1,1.6,1,0,0,0,0,du Plessis,Kohli,2,1,0,0,du Plessis,14,11,3,0,Deshpande,1.0,0,9,0,Chahar,1.0,0,7,0
+RCB,1,1.5,0,0,1,0,0,du Plessis,Kohli,2,1,0,0,du Plessis,13,10,3,0,Deshpande,0,0,8,0,Chahar,1.0,0,7,0
+RCB,1,1.4,0,0,1,0,0,du Plessis,Kohli,2,1,0,0,du Plessis,13,9,3,0,Deshpande,0,0,8,0,Chahar,1.0,0,7,0
+RCB,1,1.3,4,1,0,0,0,du Plessis,Kohli,2,1,0,0,du Plessis,13,8,3,0,Deshpande,0,0,8,0,Chahar,1.0,0,7,0
+RCB,1,1.2,0,0,1,0,0,du Plessis,Kohli,2,1,0,0,du Plessis,9,7,2,0,Deshpande,0,0,4,0,Chahar,1.0,0,7,0
+RCB,1,1.1,4,1,0,0,0,du Plessis,Kohli,2,1,0,0,du Plessis,9,6,2,0,Deshpande,0,0,4,0,Chahar,1.0,0,7,0
+RCB,0,0.6,1,0,0,0,0,du Plessis,Kohli,2,1,0,0,du Plessis,5,5,1,0,Chahar,1.0,0,7,0,,0,0,0,0
+RCB,0,0.5,4,1,0,0,0,du Plessis,Kohli,2,1,0,0,du Plessis,4,4,1,0,Chahar,0,0,6,0,,0,0,0,0
+RCB,0,0.4,0,0,1,0,0,du Plessis,Kohli,2,1,0,0,du Plessis,0,3,0,0,Chahar,0,0,2,0,,0,0,0,0
+RCB,0,0.3,0,0,1,0,0,du Plessis,Kohli,2,1,0,0,du Plessis,0,2,0,0,Chahar,0,0,2,0,,0,0,0,0
+RCB,0,0.2,0,0,1,0,0,du Plessis,Kohli,2,1,0,0,du Plessis,0,1,0,0,Chahar,0,0,2,0,,0,0,0,0
+RCB,0,0.1,1,0,0,0,0,Kohli,Kohli,2,1,0,0,,0,0,0,0,Chahar,0,0,2,0,,0,0,0,0
+RCB,0,0.1,1,0,0,0,1,Kohli,Kohli,1,0,0,0,,0,0,0,0,Chahar,0,0,1,0,,0,0,0,0

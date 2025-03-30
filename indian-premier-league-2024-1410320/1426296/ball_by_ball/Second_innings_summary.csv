@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+RCB,19,19.1,3,0,0,3,1,Green,Green,45,25,5,1,,0,0,0,0,Harshal,3.0,0,36,1,Chahar,3.0,0,47,0
+RCB,18,18.1,21,2,0,0,1,Karthik,Green,41,23,5,1,Karthik,6,2,0,1,Chahar,2.0,0,30,0,Arshdeep,3.0,0,41,1
+RCB,17,17.1,17,3,2,1,1,Karthik,Kohli,86,44,6,5,Green,37,22,4,1,Arshdeep,2.0,0,24,0,Harshal,3.0,0,36,0
+RCB,16,16.1,15,2,0,0,1,Kohli,Kohli,83,41,6,5,Green,29,19,4,0,Harshal,2.0,0,25,0,Sam Curran,3.0,0,50,1
+RCB,15,15.1,21,3,0,0,2,Kohli,Kohli,68,38,6,3,Green,20,16,2,0,Sam Curran,2.0,0,30,1,Livingstone,3.0,0,28,0
+RCB,14,14.1,11,1,1,0,0,Kohli,Kohli,59,35,6,2,Green,17,13,2,0,Livingstone,2.0,0,17,0,Harshal,2.0,0,21,0
+RCB,13,13.1,9,1,0,0,0,Green,Kohli,57,33,6,2,Green,11,9,1,0,Harshal,1.0,0,13,0,Livingstone,2.0,0,17,0
+RCB,12,12.1,11,2,1,0,0,Kohli,Kohli,48,30,4,2,Green,8,6,1,0,Livingstone,1.0,0,6,0,Chahar,2.0,0,26,0
+RCB,11,11.1,8,1,2,0,0,Kohli,Kohli,46,28,4,2,Green,3,2,0,0,Chahar,1.0,0,19,0,Livingstone,1.0,0,6,0
+RCB,10,10.1,6,0,2,0,1,Green,Kohli,43,24,4,2,,0,0,0,0,Livingstone,0,0,1,0,Sam Curran,2.0,0,29,1
+RCB,9,9.1,13,2,0,1,0,Patidar,Kohli,40,21,4,2,Patidar,49,20,3,5,Sam Curran,1.0,0,20,0,Arshdeep,2.0,0,24,0
+RCB,8,8.1,16,2,0,0,1,Patidar,Kohli,34,18,3,2,Patidar,39,17,3,4,Arshdeep,1.0,0,12,0,Chahar,1.0,0,18,0
+RCB,7,7.1,18,3,3,0,0,Patidar,Kohli,30,17,2,2,Patidar,27,12,3,2,Chahar,0,0,6,0,Kaverappa,4.0,0,36,2
+RCB,6,6.1,16,2,0,0,0,Patidar,Kohli,28,15,2,2,Patidar,13,8,3,0,Kaverappa,3.0,0,26,2,Harshal,1.0,0,12,0
+RCB,5,5.1,12,3,3,0,0,Patidar,Kohli,22,14,2,1,Patidar,1,3,0,0,Harshal,0,0,0,0,Kaverappa,3.0,0,20,2
+RCB,4,4.1,8,1,2,1,0,Patidar,Kohli,21,13,2,1,Jacks,12,5,1,1,Kaverappa,2.0,0,18,1,Sam Curran,1.0,0,16,0
+RCB,3,3.1,16,3,1,0,0,Jacks,Kohli,10,10,1,0,Jacks,2,2,0,0,Sam Curran,0,0,1,0,Kaverappa,2.0,0,12,1
+RCB,2,2.1,1,0,4,1,0,Kohli,Kohli,10,7,1,0,du Plessis,9,6,2,0,Kaverappa,1.0,0,11,0,Arshdeep,1.0,0,8,0
+RCB,1,1.1,8,1,2,0,0,Kohli,Kohli,4,4,0,0,du Plessis,8,3,2,0,Arshdeep,0,0,1,0,Kaverappa,1.0,0,11,0
+RCB,0,0.1,11,2,3,0,0,du Plessis,Kohli,0,1,0,0,,0,0,0,0,Kaverappa,0,0,0,0,,0,0,0,0

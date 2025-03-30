@@ -1,0 +1,121 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+SRH,19,19.6,2,0,0,0,0,Abdul Samad,Markram,34,17,2,2,Abdul Samad,38,10,4,3,Vyshak,4.0,0,64,0,Topley,3.0,0,48,1
+SRH,19,19.6,1,0,0,0,1,Abdul Samad,Markram,34,17,2,2,Abdul Samad,36,9,4,3,Vyshak,3.0,0,62,0,Topley,3.0,0,48,1
+SRH,19,19.5,6,1,0,0,0,Abdul Samad,Markram,34,17,2,2,Abdul Samad,35,9,4,3,Vyshak,3.0,0,61,0,Topley,3.0,0,48,1
+SRH,19,19.4,0,0,1,0,0,Abdul Samad,Markram,34,17,2,2,Abdul Samad,29,8,4,2,Vyshak,3.0,0,55,0,Topley,3.0,0,48,1
+SRH,19,19.3,1,0,0,0,0,Markram,Markram,34,17,2,2,Abdul Samad,29,7,4,2,Vyshak,3.0,0,55,0,Topley,3.0,0,48,1
+SRH,19,19.2,6,1,0,0,0,Markram,Markram,33,16,2,2,Abdul Samad,29,7,4,2,Vyshak,3.0,0,54,0,Topley,3.0,0,48,1
+SRH,19,19.1,4,1,0,0,0,Markram,Markram,27,15,2,1,Abdul Samad,29,7,4,2,Vyshak,3.0,0,48,0,Topley,3.0,0,48,1
+SRH,19,19.1,1,0,0,0,1,Markram,Markram,23,14,1,1,Abdul Samad,29,7,4,2,Vyshak,3.0,0,44,0,Topley,3.0,0,48,1
+SRH,18,18.6,4,1,0,0,0,Abdul Samad,Markram,22,14,1,1,Abdul Samad,29,7,4,2,Topley,3.0,0,48,1,Yash Dayal,4.0,0,51,0
+SRH,18,18.5,6,1,0,0,0,Abdul Samad,Markram,22,14,1,1,Abdul Samad,25,6,3,2,Topley,2.0,0,44,1,Yash Dayal,4.0,0,51,0
+SRH,18,18.4,6,1,0,0,0,Abdul Samad,Markram,22,14,1,1,Abdul Samad,19,5,3,1,Topley,2.0,0,38,1,Yash Dayal,4.0,0,51,0
+SRH,18,18.3,4,1,0,0,0,Abdul Samad,Markram,22,14,1,1,Abdul Samad,13,4,3,0,Topley,2.0,0,32,1,Yash Dayal,4.0,0,51,0
+SRH,18,18.2,4,1,0,0,0,Abdul Samad,Markram,22,14,1,1,Abdul Samad,9,3,2,0,Topley,2.0,0,28,1,Yash Dayal,4.0,0,51,0
+SRH,18,18.1,1,0,0,0,0,Markram,Markram,22,14,1,1,Abdul Samad,5,2,1,0,Topley,2.0,0,24,1,Yash Dayal,4.0,0,51,0
+SRH,17,17.6,4,1,0,0,0,Abdul Samad,Markram,21,13,1,1,Abdul Samad,5,2,1,0,Yash Dayal,4.0,0,51,0,Ferguson,4.0,0,52,2
+SRH,17,17.5,1,0,0,0,0,Markram,Markram,21,13,1,1,Abdul Samad,1,1,0,0,Yash Dayal,4.0,0,47,0,Ferguson,4.0,0,52,2
+SRH,17,17.4,1,0,0,0,0,Abdul Samad,Markram,20,12,1,1,Abdul Samad,1,1,0,0,Yash Dayal,3.0,0,46,0,Ferguson,4.0,0,52,2
+SRH,17,17.3,1,0,0,0,0,Markram,Markram,20,12,1,1,,0,0,0,0,Yash Dayal,3.0,0,45,0,Ferguson,4.0,0,52,2
+SRH,17,17.2,0,0,1,0,0,Markram,Markram,19,11,1,1,,0,0,0,0,Yash Dayal,3.0,0,44,0,Ferguson,4.0,0,52,2
+SRH,17,17.2,1,0,0,0,1,Markram,Markram,19,10,1,1,,0,0,0,0,Yash Dayal,3.0,0,44,0,Ferguson,4.0,0,52,2
+SRH,17,17.1,2,0,0,0,0,Markram,Markram,18,9,1,1,,0,0,0,0,Yash Dayal,3.0,0,43,0,Ferguson,4.0,0,52,2
+SRH,16,16.6,0,0,0,1,0,Klaasen,Markram,16,8,1,1,,0,0,0,0,Ferguson,4.0,0,52,2,Topley,2.0,0,23,1
+SRH,16,16.5,1,0,0,0,0,Markram,Klaasen,73,30,2,7,Markram,16,8,1,1,Ferguson,3.0,0,52,1,Topley,2.0,0,23,1
+SRH,16,16.4,6,1,0,0,0,Markram,Klaasen,73,30,2,7,Markram,15,7,1,1,Ferguson,3.0,0,51,1,Topley,2.0,0,23,1
+SRH,16,16.3,1,0,0,0,0,Klaasen,Klaasen,73,30,2,7,Markram,9,6,1,0,Ferguson,3.0,0,45,1,Topley,2.0,0,23,1
+SRH,16,16.2,6,1,0,0,0,Klaasen,Klaasen,72,29,2,7,Markram,9,6,1,0,Ferguson,3.0,0,44,1,Topley,2.0,0,23,1
+SRH,16,16.1,0,0,1,0,0,Klaasen,Klaasen,66,28,2,6,Markram,9,6,1,0,Ferguson,3.0,0,38,1,Topley,2.0,0,23,1
+SRH,15,15.6,1,0,0,0,0,Klaasen,Klaasen,66,27,2,6,Markram,9,6,1,0,Topley,2.0,0,23,1,Vyshak,3.0,0,43,0
+SRH,15,15.5,1,0,0,0,0,Markram,Klaasen,65,26,2,6,Markram,9,6,1,0,Topley,1.0,0,22,1,Vyshak,3.0,0,43,0
+SRH,15,15.4,1,0,0,0,0,Klaasen,Klaasen,65,26,2,6,Markram,8,5,1,0,Topley,1.0,0,21,1,Vyshak,3.0,0,43,0
+SRH,15,15.3,2,0,0,0,0,Klaasen,Klaasen,64,25,2,6,Markram,8,5,1,0,Topley,1.0,0,20,1,Vyshak,3.0,0,43,0
+SRH,15,15.2,6,1,0,0,0,Klaasen,Klaasen,62,24,2,6,Markram,8,5,1,0,Topley,1.0,0,18,1,Vyshak,3.0,0,43,0
+SRH,15,15.1,1,0,0,0,0,Markram,Klaasen,56,23,2,5,Markram,8,5,1,0,Topley,1.0,0,12,1,Vyshak,3.0,0,43,0
+SRH,14,14.6,6,1,0,0,0,Klaasen,Klaasen,56,23,2,5,Markram,7,4,1,0,Vyshak,3.0,0,43,0,Lomror,1.0,0,18,0
+SRH,14,14.5,1,0,0,0,0,Markram,Klaasen,50,22,2,4,Markram,7,4,1,0,Vyshak,2.0,0,37,0,Lomror,1.0,0,18,0
+SRH,14,14.4,4,1,0,0,0,Markram,Klaasen,50,22,2,4,Markram,6,3,1,0,Vyshak,2.0,0,36,0,Lomror,1.0,0,18,0
+SRH,14,14.3,1,0,0,0,0,Klaasen,Klaasen,50,22,2,4,Markram,2,2,0,0,Vyshak,2.0,0,32,0,Lomror,1.0,0,18,0
+SRH,14,14.2,4,1,0,0,0,Klaasen,Klaasen,49,21,2,4,Markram,2,2,0,0,Vyshak,2.0,0,31,0,Lomror,1.0,0,18,0
+SRH,14,14.1,0,0,1,0,0,Klaasen,Klaasen,45,20,1,4,Markram,2,2,0,0,Vyshak,2.0,0,27,0,Lomror,1.0,0,18,0
+SRH,13,13.6,1,0,0,0,0,Klaasen,Klaasen,45,19,1,4,Markram,2,2,0,0,Lomror,1.0,0,18,0,Ferguson,3.0,0,38,1
+SRH,13,13.5,0,0,1,0,0,Klaasen,Klaasen,44,18,1,4,Markram,2,2,0,0,Lomror,0,0,17,0,Ferguson,3.0,0,38,1
+SRH,13,13.4,6,1,0,0,0,Klaasen,Klaasen,44,17,1,4,Markram,2,2,0,0,Lomror,0,0,17,0,Ferguson,3.0,0,38,1
+SRH,13,13.4,1,0,0,0,1,Klaasen,Klaasen,38,16,1,3,Markram,2,2,0,0,Lomror,0,0,11,0,Ferguson,3.0,0,38,1
+SRH,13,13.4,1,0,0,0,1,Klaasen,Klaasen,37,16,1,3,Markram,2,2,0,0,Lomror,0,0,10,0,Ferguson,3.0,0,38,1
+SRH,13,13.3,6,1,0,0,0,Klaasen,Klaasen,36,16,1,3,Markram,2,2,0,0,Lomror,0,0,9,0,Ferguson,3.0,0,38,1
+SRH,13,13.3,1,0,0,0,1,Klaasen,Klaasen,30,15,1,2,Markram,2,2,0,0,Lomror,0,0,3,0,Ferguson,3.0,0,38,1
+SRH,13,13.2,1,0,0,0,0,Markram,Klaasen,29,15,1,2,Markram,2,2,0,0,Lomror,0,0,2,0,Ferguson,3.0,0,38,1
+SRH,13,13.1,1,0,0,0,0,Klaasen,Klaasen,29,15,1,2,Markram,1,1,0,0,Lomror,0,0,1,0,Ferguson,3.0,0,38,1
+SRH,12,12.6,1,0,0,0,1,Klaasen,Klaasen,28,14,1,2,Markram,1,1,0,0,Ferguson,3.0,0,38,1,Vyshak,2.0,0,27,0
+SRH,12,12.5,4,1,0,0,0,Klaasen,Klaasen,27,13,1,2,Markram,1,1,0,0,Ferguson,2.0,0,38,1,Vyshak,2.0,0,27,0
+SRH,12,12.4,1,0,0,0,0,Markram,Klaasen,23,12,0,2,Markram,1,1,0,0,Ferguson,2.0,0,34,1,Vyshak,2.0,0,27,0
+SRH,12,12.3,0,0,0,1,0,Head,Klaasen,23,12,0,2,,0,0,0,0,Ferguson,2.0,0,33,1,Vyshak,2.0,0,27,0
+SRH,12,12.2,1,0,0,0,1,Klaasen,Head,94,35,8,7,Klaasen,23,12,0,2,Ferguson,2.0,0,33,0,Vyshak,2.0,0,27,0
+SRH,12,12.1,6,1,0,0,0,Klaasen,Head,94,35,8,7,Klaasen,22,11,0,2,Ferguson,2.0,0,33,0,Vyshak,2.0,0,27,0
+SRH,11,11.6,1,0,0,0,0,Klaasen,Head,94,35,8,7,Klaasen,16,10,0,1,Vyshak,2.0,0,27,0,Yash Dayal,3.0,0,41,0
+SRH,11,11.5,1,0,0,0,0,Head,Head,94,35,8,7,Klaasen,15,9,0,1,Vyshak,1.0,0,26,0,Yash Dayal,3.0,0,41,0
+SRH,11,11.4,4,1,0,0,0,Head,Head,93,34,8,7,Klaasen,15,9,0,1,Vyshak,1.0,0,25,0,Yash Dayal,3.0,0,41,0
+SRH,11,11.3,2,0,0,0,0,Head,Head,89,33,7,7,Klaasen,15,9,0,1,Vyshak,1.0,0,21,0,Yash Dayal,3.0,0,41,0
+SRH,11,11.2,4,1,0,0,0,Head,Head,87,32,7,7,Klaasen,15,9,0,1,Vyshak,1.0,0,19,0,Yash Dayal,3.0,0,41,0
+SRH,11,11.1,4,1,0,0,0,Head,Head,83,31,6,7,Klaasen,15,9,0,1,Vyshak,1.0,0,15,0,Yash Dayal,3.0,0,41,0
+SRH,10,10.6,1,0,0,0,0,Head,Head,79,30,5,7,Klaasen,15,9,0,1,Yash Dayal,3.0,0,41,0,Ferguson,2.0,0,27,0
+SRH,10,10.6,1,0,0,0,1,Head,Head,78,29,5,7,Klaasen,15,9,0,1,Yash Dayal,2.0,0,40,0,Ferguson,2.0,0,27,0
+SRH,10,10.5,0,0,1,0,0,Head,Head,77,29,5,7,Klaasen,15,9,0,1,Yash Dayal,2.0,0,39,0,Ferguson,2.0,0,27,0
+SRH,10,10.5,1,0,0,0,1,Head,Head,77,28,5,7,Klaasen,15,9,0,1,Yash Dayal,2.0,0,39,0,Ferguson,2.0,0,27,0
+SRH,10,10.4,1,0,0,0,0,Klaasen,Head,76,28,5,7,Klaasen,15,9,0,1,Yash Dayal,2.0,0,38,0,Ferguson,2.0,0,27,0
+SRH,10,10.3,2,0,0,0,0,Klaasen,Head,76,28,5,7,Klaasen,14,8,0,1,Yash Dayal,2.0,0,37,0,Ferguson,2.0,0,27,0
+SRH,10,10.2,6,1,0,0,0,Klaasen,Head,76,28,5,7,Klaasen,12,7,0,1,Yash Dayal,2.0,0,35,0,Ferguson,2.0,0,27,0
+SRH,10,10.1,2,0,0,0,0,Klaasen,Head,76,28,5,7,Klaasen,6,6,0,0,Yash Dayal,2.0,0,29,0,Ferguson,2.0,0,27,0
+SRH,9,9.6,1,0,0,0,0,Klaasen,Head,76,28,5,7,Klaasen,4,5,0,0,Ferguson,2.0,0,27,0,Topley,1.0,0,11,1
+SRH,9,9.5,0,0,1,0,0,Klaasen,Head,76,28,5,7,Klaasen,3,4,0,0,Ferguson,1.0,0,26,0,Topley,1.0,0,11,1
+SRH,9,9.4,1,0,0,0,0,Head,Head,76,28,5,7,Klaasen,3,3,0,0,Ferguson,1.0,0,26,0,Topley,1.0,0,11,1
+SRH,9,9.3,0,0,1,0,0,Head,Head,75,27,5,7,Klaasen,3,3,0,0,Ferguson,1.0,0,25,0,Topley,1.0,0,11,1
+SRH,9,9.2,6,1,0,0,0,Head,Head,75,26,5,7,Klaasen,3,3,0,0,Ferguson,1.0,0,25,0,Topley,1.0,0,11,1
+SRH,9,9.1,1,0,0,0,0,Klaasen,Head,69,25,5,6,Klaasen,3,3,0,0,Ferguson,1.0,0,19,0,Topley,1.0,0,11,1
+SRH,8,8.6,4,1,0,0,0,Head,Head,69,25,5,6,Klaasen,2,2,0,0,Topley,1.0,0,11,1,Vyshak,1.0,0,11,0
+SRH,8,8.5,0,0,1,0,0,Head,Head,65,24,4,6,Klaasen,2,2,0,0,Topley,0,0,7,1,Vyshak,1.0,0,11,0
+SRH,8,8.4,4,1,0,0,0,Head,Head,65,23,4,6,Klaasen,2,2,0,0,Topley,0,0,7,1,Vyshak,1.0,0,11,0
+SRH,8,8.4,1,0,0,0,1,Head,Head,61,22,3,6,Klaasen,2,2,0,0,Topley,0,0,3,1,Vyshak,1.0,0,11,0
+SRH,8,8.3,1,0,0,0,0,Klaasen,Head,60,22,3,6,Klaasen,2,2,0,0,Topley,0,0,2,1,Vyshak,1.0,0,11,0
+SRH,8,8.3,1,0,0,0,1,Klaasen,Head,60,22,3,6,Klaasen,1,1,0,0,Topley,0,0,1,1,Vyshak,1.0,0,11,0
+SRH,8,8.2,0,0,1,0,0,Klaasen,Head,60,22,3,6,Klaasen,0,1,0,0,Topley,0,0,0,1,Vyshak,1.0,0,11,0
+SRH,8,8.1,0,0,0,1,0,Abhishek,Head,60,22,3,6,,0,0,0,0,Topley,0,0,0,1,Vyshak,1.0,0,11,0
+SRH,7,7.6,1,0,0,0,0,Abhishek,Head,60,22,3,6,Abhishek,21,14,1,1,Vyshak,1.0,0,11,0,Jacks,2.0,0,25,0
+SRH,7,7.5,1,0,0,0,0,Head,Head,60,22,3,6,Abhishek,20,13,1,1,Vyshak,0,0,10,0,Jacks,2.0,0,25,0
+SRH,7,7.4,1,0,0,0,0,Abhishek,Head,59,21,3,6,Abhishek,20,13,1,1,Vyshak,0,0,9,0,Jacks,2.0,0,25,0
+SRH,7,7.3,1,0,0,0,0,Head,Head,59,21,3,6,Abhishek,19,12,1,1,Vyshak,0,0,8,0,Jacks,2.0,0,25,0
+SRH,7,7.2,1,0,0,0,0,Abhishek,Head,58,20,3,6,Abhishek,19,12,1,1,Vyshak,0,0,7,0,Jacks,2.0,0,25,0
+SRH,7,7.1,6,1,0,0,0,Abhishek,Head,58,20,3,6,Abhishek,18,11,1,1,Vyshak,0,0,6,0,Jacks,2.0,0,25,0
+SRH,6,6.6,1,0,0,0,0,Abhishek,Head,58,20,3,6,Abhishek,12,10,1,0,Jacks,2.0,0,25,0,Yash Dayal,2.0,0,27,0
+SRH,6,6.5,1,0,0,0,0,Head,Head,58,20,3,6,Abhishek,11,9,1,0,Jacks,1.0,0,24,0,Yash Dayal,2.0,0,27,0
+SRH,6,6.4,6,1,0,0,0,Head,Head,57,19,3,6,Abhishek,11,9,1,0,Jacks,1.0,0,23,0,Yash Dayal,2.0,0,27,0
+SRH,6,6.3,6,1,0,0,0,Head,Head,51,18,3,5,Abhishek,11,9,1,0,Jacks,1.0,0,17,0,Yash Dayal,2.0,0,27,0
+SRH,6,6.2,4,1,0,0,0,Head,Head,45,17,3,4,Abhishek,11,9,1,0,Jacks,1.0,0,11,0,Yash Dayal,2.0,0,27,0
+SRH,6,6.1,1,0,0,0,0,Abhishek,Head,41,16,2,4,Abhishek,11,9,1,0,Jacks,1.0,0,7,0,Yash Dayal,2.0,0,27,0
+SRH,6,6.1,2,0,0,0,1,Head,Head,41,16,2,4,Abhishek,10,8,1,0,Jacks,1.0,0,6,0,Yash Dayal,2.0,0,27,0
+SRH,5,5.6,1,0,0,0,0,Head,Head,39,16,2,4,Abhishek,10,8,1,0,Yash Dayal,2.0,0,27,0,Ferguson,1.0,0,18,0
+SRH,5,5.5,4,1,0,0,0,Head,Head,38,15,2,4,Abhishek,10,8,1,0,Yash Dayal,1.0,0,26,0,Ferguson,1.0,0,18,0
+SRH,5,5.4,6,1,0,0,0,Head,Head,34,14,1,4,Abhishek,10,8,1,0,Yash Dayal,1.0,0,22,0,Ferguson,1.0,0,18,0
+SRH,5,5.3,2,0,0,0,0,Head,Head,28,13,1,3,Abhishek,10,8,1,0,Yash Dayal,1.0,0,16,0,Ferguson,1.0,0,18,0
+SRH,5,5.2,6,1,0,0,0,Head,Head,26,12,1,3,Abhishek,10,8,1,0,Yash Dayal,1.0,0,14,0,Ferguson,1.0,0,18,0
+SRH,5,5.1,1,0,0,0,0,Abhishek,Head,20,11,1,2,Abhishek,10,8,1,0,Yash Dayal,1.0,0,8,0,Ferguson,1.0,0,18,0
+SRH,4,4.6,4,1,0,0,0,Head,Head,20,11,1,2,Abhishek,9,7,1,0,Ferguson,1.0,0,18,0,Yash Dayal,1.0,0,7,0
+SRH,4,4.5,1,0,0,0,0,Abhishek,Head,16,10,0,2,Abhishek,9,7,1,0,Ferguson,0,0,14,0,Yash Dayal,1.0,0,7,0
+SRH,4,4.4,1,0,0,0,0,Head,Head,16,10,0,2,Abhishek,8,6,1,0,Ferguson,0,0,13,0,Yash Dayal,1.0,0,7,0
+SRH,4,4.3,6,1,0,0,0,Head,Head,15,9,0,2,Abhishek,8,6,1,0,Ferguson,0,0,12,0,Yash Dayal,1.0,0,7,0
+SRH,4,4.2,6,1,0,0,0,Head,Head,9,8,0,1,Abhishek,8,6,1,0,Ferguson,0,0,6,0,Yash Dayal,1.0,0,7,0
+SRH,4,4.1,0,0,1,0,0,Head,Head,3,7,0,0,Abhishek,8,6,1,0,Ferguson,0,0,0,0,Yash Dayal,1.0,0,7,0
+SRH,3,3.6,1,0,0,0,0,Head,Head,3,6,0,0,Abhishek,8,6,1,0,Yash Dayal,1.0,0,7,0,Jacks,1.0,0,4,0
+SRH,3,3.5,0,0,1,0,0,Head,Head,2,5,0,0,Abhishek,8,6,1,0,Yash Dayal,0,0,6,0,Jacks,1.0,0,4,0
+SRH,3,3.4,0,0,1,0,0,Head,Head,2,4,0,0,Abhishek,8,6,1,0,Yash Dayal,0,0,6,0,Jacks,1.0,0,4,0
+SRH,3,3.3,1,0,0,0,0,Abhishek,Head,2,3,0,0,Abhishek,8,6,1,0,Yash Dayal,0,0,6,0,Jacks,1.0,0,4,0
+SRH,3,3.2,0,0,1,0,0,Abhishek,Head,2,3,0,0,Abhishek,7,5,1,0,Yash Dayal,0,0,5,0,Jacks,1.0,0,4,0
+SRH,3,3.1,4,1,0,0,0,Abhishek,Head,2,3,0,0,Abhishek,7,4,1,0,Yash Dayal,0,0,5,0,Jacks,1.0,0,4,0
+SRH,3,3.1,1,0,0,0,1,Abhishek,Head,2,3,0,0,Abhishek,3,3,0,0,Yash Dayal,0,0,1,0,Jacks,1.0,0,4,0
+SRH,2,2.6,1,0,0,0,0,Abhishek,Head,2,3,0,0,Abhishek,2,3,0,0,Jacks,1.0,0,4,0,,0,0,0,0
+SRH,2,2.5,1,0,0,0,0,Head,Head,2,3,0,0,Abhishek,1,2,0,0,Jacks,0,0,3,0,,0,0,0,0
+SRH,2,2.4,0,0,1,0,0,Head,Head,1,2,0,0,Abhishek,1,2,0,0,Jacks,0,0,2,0,,0,0,0,0
+SRH,2,2.3,1,0,0,0,0,Abhishek,Head,1,1,0,0,Abhishek,1,2,0,0,Jacks,0,0,2,0,,0,0,0,0
+SRH,2,2.2,0,0,1,0,0,Abhishek,Head,1,1,0,0,Abhishek,0,1,0,0,Jacks,0,0,1,0,,0,0,0,0
+SRH,2,2.1,1,0,0,0,0,Head,Head,1,1,0,0,,0,0,0,0,Jacks,0,0,1,0,,0,0,0,0

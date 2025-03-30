@@ -1,0 +1,102 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+LSG,16,16.1,0,0,0,1,0,Ravi Bishnoi,,0,0,0,0,,0,0,0,0,Harshit Rana,3.0,0,24,3,Varun,2.0,0,30,3
+LSG,15,15.6,0,0,0,1,0,Yudhvir Singh,Ravi Bishnoi,2,2,0,0,,0,0,0,0,Varun,2.0,0,30,3,Harshit Rana,3.0,0,24,2
+LSG,15,15.5,0,0,1,0,0,Yudhvir Singh,Yudhvir Singh,7,5,0,1,Ravi Bishnoi,2,2,0,0,Varun,2.0,0,30,2,Harshit Rana,3.0,0,24,2
+LSG,15,15.4,6,1,0,0,0,Yudhvir Singh,Yudhvir Singh,7,4,0,1,Ravi Bishnoi,2,2,0,0,Varun,2.0,0,30,2,Harshit Rana,3.0,0,24,2
+LSG,15,15.2,0,0,1,0,0,Yudhvir Singh,Yudhvir Singh,1,3,0,0,Ravi Bishnoi,2,2,0,0,Varun,2.0,0,24,2,Harshit Rana,3.0,0,24,2
+LSG,15,15.1,1,0,0,0,0,Ravi Bishnoi,Yudhvir Singh,1,2,0,0,Ravi Bishnoi,2,2,0,0,Varun,2.0,0,24,2,Harshit Rana,3.0,0,24,2
+LSG,14,14.6,0,0,1,0,0,Yudhvir Singh,Yudhvir Singh,1,2,0,0,Ravi Bishnoi,1,1,0,0,Harshit Rana,3.0,0,24,2,Varun,2.0,0,23,2
+LSG,14,14.5,1,0,0,0,0,Ravi Bishnoi,Yudhvir Singh,1,1,0,0,Ravi Bishnoi,1,1,0,0,Harshit Rana,2.0,0,24,2,Varun,2.0,0,23,2
+LSG,14,14.4,0,0,0,1,0,Krunal,Yudhvir Singh,1,1,0,0,,0,0,0,0,Harshit Rana,2.0,0,23,2,Varun,2.0,0,23,2
+LSG,14,14.3,2,0,0,0,0,Krunal,Krunal,5,5,0,0,Yudhvir Singh,1,1,0,0,Harshit Rana,2.0,0,23,1,Varun,2.0,0,23,2
+LSG,14,14.2,1,0,0,0,0,Yudhvir Singh,Krunal,3,4,0,0,Yudhvir Singh,1,1,0,0,Harshit Rana,2.0,0,21,1,Varun,2.0,0,23,2
+LSG,14,14.1,1,0,0,0,0,Krunal,Krunal,3,4,0,0,,0,0,0,0,Harshit Rana,2.0,0,20,1,Varun,2.0,0,23,2
+LSG,13,13.6,0,0,0,1,0,Turner,Krunal,2,3,0,0,,0,0,0,0,Varun,2.0,0,23,2,Narine,4.0,0,22,1
+LSG,13,13.5,6,1,0,0,0,Turner,Turner,19,8,0,2,Krunal,2,3,0,0,Varun,1.0,0,23,1,Narine,4.0,0,22,1
+LSG,13,13.4,1,0,0,0,0,Krunal,Turner,13,7,0,1,Krunal,2,3,0,0,Varun,1.0,0,17,1,Narine,4.0,0,22,1
+LSG,13,13.3,0,0,1,0,0,Krunal,Turner,13,7,0,1,Krunal,1,2,0,0,Varun,1.0,0,16,1,Narine,4.0,0,22,1
+LSG,13,13.2,1,0,0,0,0,Turner,Turner,13,7,0,1,Krunal,1,1,0,0,Varun,1.0,0,16,1,Narine,4.0,0,22,1
+LSG,13,13.1,6,1,0,0,0,Turner,Turner,12,6,0,1,Krunal,1,1,0,0,Varun,1.0,0,15,1,Narine,4.0,0,22,1
+LSG,12,12.6,1,0,0,0,0,Turner,Turner,6,5,0,0,Krunal,1,1,0,0,Narine,4.0,0,22,1,Russell,2.0,0,17,2
+LSG,12,12.5,0,0,1,0,0,Turner,Turner,5,4,0,0,Krunal,1,1,0,0,Narine,3.0,0,21,1,Russell,2.0,0,17,2
+LSG,12,12.4,1,0,0,0,0,Krunal,Turner,5,3,0,0,Krunal,1,1,0,0,Narine,3.0,0,21,1,Russell,2.0,0,17,2
+LSG,12,12.3,0,0,0,1,0,Badoni,Turner,5,3,0,0,,0,0,0,0,Narine,3.0,0,20,1,Russell,2.0,0,17,2
+LSG,12,12.2,1,0,0,0,0,Turner,Badoni,16,11,0,1,Turner,5,3,0,0,Narine,3.0,0,20,0,Russell,2.0,0,17,2
+LSG,12,12.1,1,0,0,0,0,Badoni,Badoni,16,11,0,1,Turner,4,2,0,0,Narine,3.0,0,19,0,Russell,2.0,0,17,2
+LSG,11,11.6,1,0,0,0,0,Badoni,Badoni,15,10,0,1,Turner,4,2,0,0,Russell,2.0,0,17,2,Narine,3.0,0,18,0
+LSG,11,11.5,1,0,0,0,1,Turner,Badoni,14,9,0,1,Turner,4,2,0,0,Russell,1.0,0,16,2,Narine,3.0,0,18,0
+LSG,11,11.5,1,0,0,0,1,Turner,Badoni,14,9,0,1,Turner,3,1,0,0,Russell,1.0,0,16,2,Narine,3.0,0,18,0
+LSG,11,11.5,1,0,0,0,1,Turner,Badoni,14,9,0,1,Turner,2,1,0,0,Russell,1.0,0,15,2,Narine,3.0,0,18,0
+LSG,11,11.4,1,0,0,0,0,Badoni,Badoni,14,9,0,1,Turner,1,1,0,0,Russell,1.0,0,14,2,Narine,3.0,0,18,0
+LSG,11,11.3,1,0,0,0,0,Turner,Badoni,13,8,0,1,Turner,1,1,0,0,Russell,1.0,0,13,2,Narine,3.0,0,18,0
+LSG,11,11.2,0,0,0,1,0,Pooran,Badoni,13,8,0,1,,0,0,0,0,Russell,1.0,0,12,2,Narine,3.0,0,18,0
+LSG,11,11.1,1,0,0,0,0,Badoni,Pooran,10,7,0,1,Badoni,13,8,0,1,Russell,1.0,0,12,1,Narine,3.0,0,18,0
+LSG,10,10.6,1,0,0,0,0,Badoni,Pooran,10,7,0,1,Badoni,12,7,0,1,Narine,3.0,0,18,0,Russell,1.0,0,11,1
+LSG,10,10.5,0,0,1,0,0,Badoni,Pooran,10,7,0,1,Badoni,11,6,0,1,Narine,2.0,0,17,0,Russell,1.0,0,11,1
+LSG,10,10.4,0,0,1,0,0,Badoni,Pooran,10,7,0,1,Badoni,11,5,0,1,Narine,2.0,0,17,0,Russell,1.0,0,11,1
+LSG,10,10.3,1,0,0,0,0,Pooran,Pooran,10,7,0,1,Badoni,11,4,0,1,Narine,2.0,0,17,0,Russell,1.0,0,11,1
+LSG,10,10.2,1,0,0,0,0,Badoni,Pooran,9,6,0,1,Badoni,11,4,0,1,Narine,2.0,0,16,0,Russell,1.0,0,11,1
+LSG,10,10.1,1,0,0,0,0,Pooran,Pooran,9,6,0,1,Badoni,10,3,0,1,Narine,2.0,0,15,0,Russell,1.0,0,11,1
+LSG,9,9.6,2,0,0,0,0,Badoni,Pooran,8,5,0,1,Badoni,10,3,0,1,Russell,1.0,0,11,1,Varun,1.0,0,9,1
+LSG,9,9.5,1,0,0,0,0,Pooran,Pooran,8,5,0,1,Badoni,8,2,0,1,Russell,0,0,9,1,Varun,1.0,0,9,1
+LSG,9,9.4,0,0,1,0,0,Pooran,Pooran,7,4,0,1,Badoni,8,2,0,1,Russell,0,0,8,1,Varun,1.0,0,9,1
+LSG,9,9.3,1,0,0,0,0,Badoni,Pooran,7,3,0,1,Badoni,8,2,0,1,Russell,0,0,8,1,Varun,1.0,0,9,1
+LSG,9,9.2,6,1,0,0,0,Badoni,Pooran,7,3,0,1,Badoni,7,1,0,1,Russell,0,0,7,1,Varun,1.0,0,9,1
+LSG,9,9.2,1,0,0,0,1,Badoni,Pooran,7,3,0,1,Badoni,1,0,0,0,Russell,0,0,1,1,Varun,1.0,0,9,1
+LSG,9,9.1,0,0,0,1,0,Stoinis,Pooran,7,3,0,1,,0,0,0,0,Russell,0,0,0,1,Varun,1.0,0,9,1
+LSG,8,8.6,0,0,1,0,0,Pooran,Stoinis,37,20,4,2,Pooran,7,3,0,1,Varun,1.0,0,9,1,Harshit Rana,2.0,0,19,1
+LSG,8,8.5,1,0,0,0,0,Stoinis,Stoinis,37,20,4,2,Pooran,7,2,0,1,Varun,0,0,9,1,Harshit Rana,2.0,0,19,1
+LSG,8,8.4,1,0,0,0,0,Pooran,Stoinis,36,19,4,2,Pooran,7,2,0,1,Varun,0,0,8,1,Harshit Rana,2.0,0,19,1
+LSG,8,8.3,6,1,0,0,0,Pooran,Stoinis,36,19,4,2,Pooran,6,1,0,1,Varun,0,0,7,1,Harshit Rana,2.0,0,19,1
+LSG,8,8.2,0,0,0,1,0,Hooda,Stoinis,36,19,4,2,,0,0,0,0,Varun,0,0,1,1,Harshit Rana,2.0,0,19,1
+LSG,8,8.1,1,0,0,0,0,Stoinis,Stoinis,36,19,4,2,Hooda,5,2,1,0,Varun,0,0,1,0,Harshit Rana,2.0,0,19,1
+LSG,7,7.6,1,0,0,0,0,Stoinis,Stoinis,35,18,4,2,Hooda,5,2,1,0,Harshit Rana,2.0,0,19,1,Narine,2.0,0,14,0
+LSG,7,7.5,1,0,0,0,0,Hooda,Stoinis,34,17,4,2,Hooda,5,2,1,0,Harshit Rana,1.0,0,18,1,Narine,2.0,0,14,0
+LSG,7,7.4,4,1,0,0,0,Hooda,Stoinis,34,17,4,2,Hooda,4,1,1,0,Harshit Rana,1.0,0,17,1,Narine,2.0,0,14,0
+LSG,7,7.3,0,0,0,1,0,Rahul,Stoinis,34,17,4,2,,0,0,0,0,Harshit Rana,1.0,0,13,1,Narine,2.0,0,14,0
+LSG,7,7.2,4,1,0,0,0,Rahul,Rahul,26,20,3,0,Stoinis,34,17,4,2,Harshit Rana,1.0,0,13,0,Narine,2.0,0,14,0
+LSG,7,7.1,1,0,0,0,0,Stoinis,Rahul,22,19,2,0,Stoinis,34,17,4,2,Harshit Rana,1.0,0,9,0,Narine,2.0,0,14,0
+LSG,6,6.6,1,0,0,0,0,Stoinis,Rahul,22,19,2,0,Stoinis,33,16,4,2,Narine,2.0,0,14,0,Harshit Rana,1.0,0,8,0
+LSG,6,6.5,4,1,0,0,0,Stoinis,Rahul,22,19,2,0,Stoinis,32,15,4,2,Narine,1.0,0,13,0,Harshit Rana,1.0,0,8,0
+LSG,6,6.4,1,0,0,0,0,Rahul,Rahul,22,19,2,0,Stoinis,28,14,3,2,Narine,1.0,0,9,0,Harshit Rana,1.0,0,8,0
+LSG,6,6.3,1,0,0,0,0,Stoinis,Rahul,21,18,2,0,Stoinis,28,14,3,2,Narine,1.0,0,8,0,Harshit Rana,1.0,0,8,0
+LSG,6,6.2,2,0,0,0,0,Stoinis,Rahul,21,18,2,0,Stoinis,27,13,3,2,Narine,1.0,0,7,0,Harshit Rana,1.0,0,8,0
+LSG,6,6.1,1,0,0,0,0,Rahul,Rahul,21,18,2,0,Stoinis,25,12,3,2,Narine,1.0,0,5,0,Harshit Rana,1.0,0,8,0
+LSG,5,5.6,0,0,1,0,0,Stoinis,Rahul,20,17,2,0,Stoinis,25,12,3,2,Harshit Rana,1.0,0,8,0,Narine,1.0,0,4,0
+LSG,5,5.5,0,0,1,0,0,Stoinis,Rahul,20,17,2,0,Stoinis,25,11,3,2,Harshit Rana,0,0,8,0,Narine,1.0,0,4,0
+LSG,5,5.5,1,0,0,0,1,Stoinis,Rahul,20,17,2,0,Stoinis,25,10,3,2,Harshit Rana,0,0,8,0,Narine,1.0,0,4,0
+LSG,5,5.4,0,0,1,0,0,Stoinis,Rahul,20,17,2,0,Stoinis,24,10,3,2,Harshit Rana,0,0,7,0,Narine,1.0,0,4,0
+LSG,5,5.3,6,1,0,0,0,Stoinis,Rahul,20,17,2,0,Stoinis,24,9,3,2,Harshit Rana,0,0,7,0,Narine,1.0,0,4,0
+LSG,5,5.2,0,0,1,0,0,Stoinis,Rahul,20,17,2,0,Stoinis,18,8,3,1,Harshit Rana,0,0,1,0,Narine,1.0,0,4,0
+LSG,5,5.1,1,0,0,0,0,Rahul,Rahul,20,17,2,0,Stoinis,18,7,3,1,Harshit Rana,0,0,1,0,Narine,1.0,0,4,0
+LSG,4,4.6,1,0,0,0,0,Rahul,Rahul,19,16,2,0,Stoinis,18,7,3,1,Narine,1.0,0,4,0,Starc,2.0,0,22,1
+LSG,4,4.5,0,0,1,0,0,Rahul,Rahul,18,15,2,0,Stoinis,18,7,3,1,Narine,0,0,3,0,Starc,2.0,0,22,1
+LSG,4,4.4,0,0,1,0,0,Rahul,Rahul,18,14,2,0,Stoinis,18,7,3,1,Narine,0,0,3,0,Starc,2.0,0,22,1
+LSG,4,4.3,2,0,0,0,0,Rahul,Rahul,18,13,2,0,Stoinis,18,7,3,1,Narine,0,0,3,0,Starc,2.0,0,22,1
+LSG,4,4.3,1,0,0,0,1,Rahul,Rahul,16,12,2,0,Stoinis,18,7,3,1,Narine,0,0,1,0,Starc,2.0,0,22,1
+LSG,4,4.2,0,0,1,0,0,Rahul,Rahul,15,12,2,0,Stoinis,18,7,3,1,Narine,0,0,0,0,Starc,2.0,0,22,1
+LSG,4,4.1,0,0,1,0,0,Rahul,Rahul,15,11,2,0,Stoinis,18,7,3,1,Narine,0,0,0,0,Starc,2.0,0,22,1
+LSG,3,3.6,0,0,1,0,0,Stoinis,Rahul,15,10,2,0,Stoinis,18,7,3,1,Starc,2.0,0,22,1,Arora,2.0,0,20,0
+LSG,3,3.5,4,1,0,0,0,Stoinis,Rahul,15,10,2,0,Stoinis,18,6,3,1,Starc,1.0,0,22,1,Arora,2.0,0,20,0
+LSG,3,3.4,4,1,0,0,0,Stoinis,Rahul,15,10,2,0,Stoinis,14,5,2,1,Starc,1.0,0,18,1,Arora,2.0,0,20,0
+LSG,3,3.3,0,0,1,0,0,Stoinis,Rahul,15,10,2,0,Stoinis,10,4,1,1,Starc,1.0,0,14,1,Arora,2.0,0,20,0
+LSG,3,3.2,4,1,0,0,0,Stoinis,Rahul,15,10,2,0,Stoinis,10,3,1,1,Starc,1.0,0,14,1,Arora,2.0,0,20,0
+LSG,3,3.1,1,0,0,0,0,Rahul,Rahul,15,10,2,0,Stoinis,6,2,0,1,Starc,1.0,0,10,1,Arora,2.0,0,20,0
+LSG,2,2.6,0,0,1,0,0,Stoinis,Rahul,14,9,2,0,Stoinis,6,2,0,1,Arora,2.0,0,20,0,Starc,1.0,0,9,1
+LSG,2,2.5,6,1,0,0,0,Stoinis,Rahul,14,9,2,0,Stoinis,6,1,0,1,Arora,1.0,0,20,0,Starc,1.0,0,9,1
+LSG,2,2.4,1,0,0,0,0,Rahul,Rahul,14,9,2,0,,0,0,0,0,Arora,1.0,0,14,0,Starc,1.0,0,9,1
+LSG,2,2.3,0,0,1,0,0,Rahul,Rahul,13,8,2,0,,0,0,0,0,Arora,1.0,0,13,0,Starc,1.0,0,9,1
+LSG,2,2.2,2,0,0,0,0,Rahul,Rahul,13,7,2,0,,0,0,0,0,Arora,1.0,0,13,0,Starc,1.0,0,9,1
+LSG,2,2.1,0,0,1,0,0,Rahul,Rahul,11,6,2,0,,0,0,0,0,Arora,1.0,0,11,0,Starc,1.0,0,9,1
+LSG,1,1.6,0,0,0,1,0,Kulkarni,Rahul,11,5,2,0,,0,0,0,0,Starc,1.0,0,9,1,Arora,1.0,0,11,0
+LSG,1,1.5,0,0,1,0,0,Kulkarni,Rahul,11,5,2,0,Kulkarni,9,6,2,0,Starc,0,0,9,0,Arora,1.0,0,11,0
+LSG,1,1.4,0,0,1,0,0,Kulkarni,Rahul,11,5,2,0,Kulkarni,9,5,2,0,Starc,0,0,9,0,Arora,1.0,0,11,0
+LSG,1,1.3,4,1,0,0,0,Kulkarni,Rahul,11,5,2,0,Kulkarni,9,4,2,0,Starc,0,0,9,0,Arora,1.0,0,11,0
+LSG,1,1.2,1,0,0,0,0,Rahul,Rahul,11,5,2,0,Kulkarni,5,3,1,0,Starc,0,0,5,0,Arora,1.0,0,11,0
+LSG,1,1.1,4,1,0,0,0,Rahul,Rahul,10,4,2,0,Kulkarni,5,3,1,0,Starc,0,0,4,0,Arora,1.0,0,11,0
+LSG,0,0.6,4,1,0,0,0,Kulkarni,Rahul,6,3,1,0,Kulkarni,5,3,1,0,Arora,1.0,0,11,0,,0,0,0,0
+LSG,0,0.5,1,0,0,0,0,Rahul,Rahul,6,3,1,0,Kulkarni,1,2,0,0,Arora,0,0,7,0,,0,0,0,0
+LSG,0,0.4,1,0,0,0,0,Kulkarni,Rahul,5,2,1,0,Kulkarni,1,2,0,0,Arora,0,0,6,0,,0,0,0,0
+LSG,0,0.3,0,0,1,0,0,Kulkarni,Rahul,5,2,1,0,Kulkarni,0,1,0,0,Arora,0,0,5,0,,0,0,0,0
+LSG,0,0.2,1,0,0,0,0,Rahul,Rahul,5,2,1,0,,0,0,0,0,Arora,0,0,5,0,,0,0,0,0
+LSG,0,0.1,4,1,0,0,0,Rahul,Rahul,4,1,1,0,,0,0,0,0,Arora,0,0,4,0,,0,0,0,0

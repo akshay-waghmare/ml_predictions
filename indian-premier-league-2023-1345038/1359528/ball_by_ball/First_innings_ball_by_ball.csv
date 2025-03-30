@@ -1,0 +1,107 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+MI,16,16.3,6,1,0,0,0,Wadhera,Wadhera,61,34,4,3,Green,2,2,0,0,Harshal,3.0,0,40,0,Vyshak,3.0,0,37,2
+MI,16,16.2,0,0,1,0,0,Wadhera,Wadhera,55,33,4,2,Green,2,2,0,0,Harshal,3.0,0,34,0,Vyshak,3.0,0,37,2
+MI,16,16.1,1,0,0,0,0,Green,Wadhera,55,32,4,2,Green,2,2,0,0,Harshal,3.0,0,34,0,Vyshak,3.0,0,37,2
+MI,15,15.6,1,0,0,0,0,Green,Wadhera,55,32,4,2,Green,1,1,0,0,Vyshak,3.0,0,37,2,Hasaranga,4.0,0,53,2
+MI,15,15.5,0,0,0,1,0,David,Wadhera,55,32,4,2,,0,0,0,0,Vyshak,3.0,0,36,2,Hasaranga,4.0,0,53,2
+MI,15,15.4,0,0,0,1,0,Suryakumar,Wadhera,55,32,4,2,,0,0,0,0,Vyshak,2.0,0,36,1,Hasaranga,4.0,0,53,2
+MI,15,15.3,6,1,0,0,0,Suryakumar,Suryakumar,86,34,7,5,Wadhera,55,32,4,2,Vyshak,2.0,0,36,0,Hasaranga,4.0,0,53,2
+MI,15,15.2,4,1,0,0,0,Suryakumar,Suryakumar,80,33,7,4,Wadhera,55,32,4,2,Vyshak,2.0,0,30,0,Hasaranga,4.0,0,53,2
+MI,15,15.2,7,0,0,0,1,Suryakumar,Suryakumar,76,32,6,4,Wadhera,55,32,4,2,Vyshak,2.0,0,26,0,Hasaranga,4.0,0,53,2
+MI,15,15.1,1,0,0,0,0,Wadhera,Suryakumar,69,31,6,4,Wadhera,55,32,4,2,Vyshak,2.0,0,19,0,Hasaranga,4.0,0,53,2
+MI,14,14.6,1,0,0,0,0,Wadhera,Suryakumar,69,31,6,4,Wadhera,54,31,4,2,Hasaranga,4.0,0,53,2,Siraj,3.0,0,31,0
+MI,14,14.5,4,1,0,0,0,Wadhera,Suryakumar,69,31,6,4,Wadhera,53,30,4,2,Hasaranga,3.0,0,52,2,Siraj,3.0,0,31,0
+MI,14,14.4,1,0,0,0,0,Suryakumar,Suryakumar,69,31,6,4,Wadhera,49,29,3,2,Hasaranga,3.0,0,48,2,Siraj,3.0,0,31,0
+MI,14,14.3,6,1,0,0,0,Suryakumar,Suryakumar,68,30,6,4,Wadhera,49,29,3,2,Hasaranga,3.0,0,47,2,Siraj,3.0,0,31,0
+MI,14,14.2,2,0,0,0,0,Suryakumar,Suryakumar,62,29,6,3,Wadhera,49,29,3,2,Hasaranga,3.0,0,41,2,Siraj,3.0,0,31,0
+MI,14,14.1,6,1,0,0,0,Suryakumar,Suryakumar,60,28,6,3,Wadhera,49,29,3,2,Hasaranga,3.0,0,39,2,Siraj,3.0,0,31,0
+MI,13,13.6,0,0,1,0,0,Wadhera,Suryakumar,54,27,6,2,Wadhera,49,29,3,2,Siraj,3.0,0,31,0,Harshal,3.0,0,33,0
+MI,13,13.5,1,0,0,0,0,Suryakumar,Suryakumar,54,27,6,2,Wadhera,49,28,3,2,Siraj,2.0,0,31,0,Harshal,3.0,0,33,0
+MI,13,13.4,2,0,0,0,0,Suryakumar,Suryakumar,53,26,6,2,Wadhera,49,28,3,2,Siraj,2.0,0,30,0,Harshal,3.0,0,33,0
+MI,13,13.3,6,1,0,0,0,Suryakumar,Suryakumar,51,25,6,2,Wadhera,49,28,3,2,Siraj,2.0,0,28,0,Harshal,3.0,0,33,0
+MI,13,13.2,4,1,0,0,0,Suryakumar,Suryakumar,45,24,6,1,Wadhera,49,28,3,2,Siraj,2.0,0,22,0,Harshal,3.0,0,33,0
+MI,13,13.1,0,0,1,0,0,Suryakumar,Suryakumar,41,23,5,1,Wadhera,49,28,3,2,Siraj,2.0,0,18,0,Harshal,3.0,0,33,0
+MI,12,12.6,1,0,0,0,0,Suryakumar,Suryakumar,41,22,5,1,Wadhera,49,28,3,2,Harshal,3.0,0,33,0,Hazlewood,3.0,0,32,0
+MI,12,12.5,4,1,0,0,0,Suryakumar,Suryakumar,40,21,5,1,Wadhera,49,28,3,2,Harshal,3.0,0,32,0,Hazlewood,3.0,0,32,0
+MI,12,12.4,1,0,0,0,0,Wadhera,Suryakumar,36,20,4,1,Wadhera,49,28,3,2,Harshal,2.0,0,28,0,Hazlewood,3.0,0,32,0
+MI,12,12.3,4,1,0,0,0,Wadhera,Suryakumar,36,20,4,1,Wadhera,48,27,3,2,Harshal,2.0,0,27,0,Hazlewood,3.0,0,32,0
+MI,12,12.3,5,0,0,0,1,Wadhera,Suryakumar,36,20,4,1,Wadhera,44,26,2,2,Harshal,2.0,0,23,0,Hazlewood,3.0,0,32,0
+MI,12,12.2,1,0,0,0,0,Suryakumar,Suryakumar,36,20,4,1,Wadhera,39,25,2,2,Harshal,2.0,0,23,0,Hazlewood,3.0,0,32,0
+MI,12,12.1,1,0,0,0,0,Wadhera,Suryakumar,35,19,4,1,Wadhera,39,25,2,2,Harshal,2.0,0,22,0,Hazlewood,3.0,0,32,0
+MI,11,11.6,4,1,0,0,0,Suryakumar,Suryakumar,35,19,4,1,Wadhera,38,24,2,2,Hazlewood,3.0,0,32,0,Hasaranga,3.0,0,33,2
+MI,11,11.5,4,1,0,0,0,Suryakumar,Suryakumar,31,18,3,1,Wadhera,38,24,2,2,Hazlewood,2.0,0,28,0,Hasaranga,3.0,0,33,2
+MI,11,11.4,0,0,1,0,0,Suryakumar,Suryakumar,27,17,2,1,Wadhera,38,24,2,2,Hazlewood,2.0,0,24,0,Hasaranga,3.0,0,33,2
+MI,11,11.3,1,0,0,0,0,Wadhera,Suryakumar,27,16,2,1,Wadhera,38,24,2,2,Hazlewood,2.0,0,24,0,Hasaranga,3.0,0,33,2
+MI,11,11.2,0,0,1,0,0,Wadhera,Suryakumar,27,16,2,1,Wadhera,37,23,2,2,Hazlewood,2.0,0,23,0,Hasaranga,3.0,0,33,2
+MI,11,11.1,0,0,1,0,0,Wadhera,Suryakumar,27,16,2,1,Wadhera,37,22,2,2,Hazlewood,2.0,0,23,0,Hasaranga,3.0,0,33,2
+MI,11,11.1,1,0,0,0,1,Wadhera,Suryakumar,27,16,2,1,Wadhera,37,21,2,2,Hazlewood,2.0,0,23,0,Hasaranga,3.0,0,33,2
+MI,10,10.6,1,0,0,0,0,Wadhera,Suryakumar,27,16,2,1,Wadhera,36,21,2,2,Hasaranga,3.0,0,33,2,Harshal,2.0,0,21,0
+MI,10,10.5,0,0,1,0,0,Wadhera,Suryakumar,27,16,2,1,Wadhera,35,20,2,2,Hasaranga,2.0,0,32,2,Harshal,2.0,0,21,0
+MI,10,10.4,6,1,0,0,0,Wadhera,Suryakumar,27,16,2,1,Wadhera,35,19,2,2,Hasaranga,2.0,0,32,2,Harshal,2.0,0,21,0
+MI,10,10.3,1,0,0,0,0,Suryakumar,Suryakumar,27,16,2,1,Wadhera,29,18,2,1,Hasaranga,2.0,0,26,2,Harshal,2.0,0,21,0
+MI,10,10.2,6,1,0,0,0,Suryakumar,Suryakumar,26,15,2,1,Wadhera,29,18,2,1,Hasaranga,2.0,0,25,2,Harshal,2.0,0,21,0
+MI,10,10.1,1,0,0,0,0,Wadhera,Suryakumar,20,14,2,0,Wadhera,29,18,2,1,Hasaranga,2.0,0,19,2,Harshal,2.0,0,21,0
+MI,9,9.6,1,0,0,0,0,Wadhera,Suryakumar,20,14,2,0,Wadhera,28,17,2,1,Harshal,2.0,0,21,0,Hasaranga,2.0,0,18,2
+MI,9,9.5,0,0,1,0,0,Wadhera,Suryakumar,20,14,2,0,Wadhera,27,16,2,1,Harshal,1.0,0,20,0,Hasaranga,2.0,0,18,2
+MI,9,9.4,1,0,0,0,0,Suryakumar,Suryakumar,20,14,2,0,Wadhera,27,15,2,1,Harshal,1.0,0,20,0,Hasaranga,2.0,0,18,2
+MI,9,9.3,1,0,0,0,0,Wadhera,Suryakumar,19,13,2,0,Wadhera,27,15,2,1,Harshal,1.0,0,19,0,Hasaranga,2.0,0,18,2
+MI,9,9.3,1,0,0,0,1,Wadhera,Suryakumar,19,13,2,0,Wadhera,26,14,2,1,Harshal,1.0,0,18,0,Hasaranga,2.0,0,18,2
+MI,9,9.2,4,1,0,0,0,Wadhera,Suryakumar,19,13,2,0,Wadhera,25,14,2,1,Harshal,1.0,0,17,0,Hasaranga,2.0,0,18,2
+MI,9,9.1,2,0,0,0,0,Wadhera,Suryakumar,19,13,2,0,Wadhera,21,13,1,1,Harshal,1.0,0,13,0,Hasaranga,2.0,0,18,2
+MI,8,8.6,1,0,0,0,0,Wadhera,Suryakumar,19,13,2,0,Wadhera,19,12,1,1,Hasaranga,2.0,0,18,2,Vyshak,2.0,0,18,0
+MI,8,8.5,1,0,0,0,0,Suryakumar,Suryakumar,19,13,2,0,Wadhera,18,11,1,1,Hasaranga,1.0,0,17,2,Vyshak,2.0,0,18,0
+MI,8,8.4,1,0,0,0,0,Wadhera,Suryakumar,18,12,2,0,Wadhera,18,11,1,1,Hasaranga,1.0,0,16,2,Vyshak,2.0,0,18,0
+MI,8,8.4,2,0,0,0,1,Suryakumar,Suryakumar,18,12,2,0,Wadhera,17,10,1,1,Hasaranga,1.0,0,15,2,Vyshak,2.0,0,18,0
+MI,8,8.3,1,0,0,0,0,Wadhera,Suryakumar,16,12,2,0,Wadhera,17,10,1,1,Hasaranga,1.0,0,13,2,Vyshak,2.0,0,18,0
+MI,8,8.2,0,0,1,0,0,Wadhera,Suryakumar,16,12,2,0,Wadhera,16,9,1,1,Hasaranga,1.0,0,12,2,Vyshak,2.0,0,18,0
+MI,8,8.1,1,0,0,0,0,Suryakumar,Suryakumar,16,12,2,0,Wadhera,16,8,1,1,Hasaranga,1.0,0,12,2,Vyshak,2.0,0,18,0
+MI,7,7.6,1,0,0,0,0,Suryakumar,Suryakumar,15,11,2,0,Wadhera,16,8,1,1,Vyshak,2.0,0,18,0,Harshal,1.0,0,11,0
+MI,7,7.5,0,0,1,0,0,Suryakumar,Suryakumar,14,10,2,0,Wadhera,16,8,1,1,Vyshak,1.0,0,17,0,Harshal,1.0,0,11,0
+MI,7,7.4,2,0,0,0,0,Suryakumar,Suryakumar,14,9,2,0,Wadhera,16,8,1,1,Vyshak,1.0,0,17,0,Harshal,1.0,0,11,0
+MI,7,7.3,0,0,1,0,0,Suryakumar,Suryakumar,12,8,2,0,Wadhera,16,8,1,1,Vyshak,1.0,0,15,0,Harshal,1.0,0,11,0
+MI,7,7.2,4,1,0,0,0,Suryakumar,Suryakumar,12,7,2,0,Wadhera,16,8,1,1,Vyshak,1.0,0,15,0,Harshal,1.0,0,11,0
+MI,7,7.1,1,0,0,0,0,Wadhera,Suryakumar,8,6,1,0,Wadhera,16,8,1,1,Vyshak,1.0,0,11,0,Harshal,1.0,0,11,0
+MI,6,6.6,1,0,0,0,1,Wadhera,Suryakumar,8,6,1,0,Wadhera,15,7,1,1,Harshal,1.0,0,11,0,Vyshak,1.0,0,10,0
+MI,6,6.5,1,0,0,0,0,Suryakumar,Suryakumar,8,6,1,0,Wadhera,14,6,1,1,Harshal,0,0,11,0,Vyshak,1.0,0,10,0
+MI,6,6.4,1,0,0,0,0,Wadhera,Suryakumar,7,5,1,0,Wadhera,14,6,1,1,Harshal,0,0,10,0,Vyshak,1.0,0,10,0
+MI,6,6.3,4,1,0,0,0,Wadhera,Suryakumar,7,5,1,0,Wadhera,13,5,1,1,Harshal,0,0,9,0,Vyshak,1.0,0,10,0
+MI,6,6.2,1,0,0,0,0,Suryakumar,Suryakumar,7,5,1,0,Wadhera,9,4,0,1,Harshal,0,0,5,0,Vyshak,1.0,0,10,0
+MI,6,6.1,4,1,0,0,0,Suryakumar,Suryakumar,6,4,1,0,Wadhera,9,4,0,1,Harshal,0,0,4,0,Vyshak,1.0,0,10,0
+MI,5,5.6,2,0,0,0,0,Wadhera,Suryakumar,2,3,0,0,Wadhera,9,4,0,1,Vyshak,1.0,0,10,0,Hasaranga,1.0,0,11,2
+MI,5,5.6,1,0,0,0,1,Wadhera,Suryakumar,2,3,0,0,Wadhera,7,3,0,1,Vyshak,0,0,8,0,Hasaranga,1.0,0,11,2
+MI,5,5.5,0,0,1,0,0,Wadhera,Suryakumar,2,3,0,0,Wadhera,6,3,0,1,Vyshak,0,0,7,0,Hasaranga,1.0,0,11,2
+MI,5,5.4,6,1,0,0,0,Wadhera,Suryakumar,2,3,0,0,Wadhera,6,2,0,1,Vyshak,0,0,7,0,Hasaranga,1.0,0,11,2
+MI,5,5.3,0,0,1,0,0,Wadhera,Suryakumar,2,3,0,0,Wadhera,0,1,0,0,Vyshak,0,0,1,0,Hasaranga,1.0,0,11,2
+MI,5,5.2,1,0,0,0,0,Suryakumar,Suryakumar,2,3,0,0,,0,0,0,0,Vyshak,0,0,1,0,Hasaranga,1.0,0,11,2
+MI,5,5.1,0,0,1,0,0,Suryakumar,Suryakumar,1,2,0,0,,0,0,0,0,Vyshak,0,0,0,0,Hasaranga,1.0,0,11,2
+MI,4,4.6,0,0,0,1,0,Rohit Sharma,Suryakumar,1,1,0,0,,0,0,0,0,Hasaranga,1.0,0,11,2,Hazlewood,2.0,0,22,0
+MI,4,4.5,1,0,0,0,0,Suryakumar,Rohit Sharma,7,7,1,0,Suryakumar,1,1,0,0,Hasaranga,0,0,11,1,Hazlewood,2.0,0,22,0
+MI,4,4.4,0,0,0,1,0,Ishan,Rohit Sharma,7,7,1,0,,0,0,0,0,Hasaranga,0,0,10,1,Hazlewood,2.0,0,22,0
+MI,4,4.3,6,1,0,0,0,Ishan,Ishan,44,20,4,4,Rohit Sharma,7,7,1,0,Hasaranga,0,0,10,0,Hazlewood,2.0,0,22,0
+MI,4,4.2,0,0,1,0,0,Ishan,Ishan,38,19,4,3,Rohit Sharma,7,7,1,0,Hasaranga,0,0,4,0,Hazlewood,2.0,0,22,0
+MI,4,4.1,4,1,0,0,0,Ishan,Ishan,38,18,4,3,Rohit Sharma,7,7,1,0,Hasaranga,0,0,4,0,Hazlewood,2.0,0,22,0
+MI,3,3.6,0,0,1,0,0,Rohit Sharma,Ishan,34,17,3,3,Rohit Sharma,7,7,1,0,Hazlewood,2.0,0,22,0,Siraj,2.0,0,18,0
+MI,3,3.5,0,0,1,0,0,Rohit Sharma,Ishan,34,17,3,3,Rohit Sharma,7,6,1,0,Hazlewood,1.0,0,22,0,Siraj,2.0,0,18,0
+MI,3,3.4,0,0,1,0,0,Rohit Sharma,Ishan,34,17,3,3,Rohit Sharma,7,5,1,0,Hazlewood,1.0,0,22,0,Siraj,2.0,0,18,0
+MI,3,3.3,1,0,0,0,0,Ishan,Ishan,34,17,3,3,Rohit Sharma,7,4,1,0,Hazlewood,1.0,0,22,0,Siraj,2.0,0,18,0
+MI,3,3.2,0,0,1,0,0,Ishan,Ishan,33,16,3,3,Rohit Sharma,7,4,1,0,Hazlewood,1.0,0,21,0,Siraj,2.0,0,18,0
+MI,3,3.1,6,1,0,0,0,Ishan,Ishan,33,15,3,3,Rohit Sharma,7,4,1,0,Hazlewood,1.0,0,21,0,Siraj,2.0,0,18,0
+MI,2,2.6,1,0,0,0,1,Ishan,Ishan,27,14,3,2,Rohit Sharma,7,4,1,0,Siraj,2.0,0,18,0,Hazlewood,1.0,0,15,0
+MI,2,2.6,1,0,0,0,1,Ishan,Ishan,26,13,3,2,Rohit Sharma,7,4,1,0,Siraj,1.0,0,18,0,Hazlewood,1.0,0,15,0
+MI,2,2.5,6,1,0,0,0,Ishan,Ishan,25,13,3,2,Rohit Sharma,7,4,1,0,Siraj,1.0,0,17,0,Hazlewood,1.0,0,15,0
+MI,2,2.4,6,1,0,0,0,Ishan,Ishan,19,12,3,1,Rohit Sharma,7,4,1,0,Siraj,1.0,0,11,0,Hazlewood,1.0,0,15,0
+MI,2,2.3,0,0,1,0,0,Ishan,Ishan,13,11,3,0,Rohit Sharma,7,4,1,0,Siraj,1.0,0,5,0,Hazlewood,1.0,0,15,0
+MI,2,2.2,0,0,1,0,0,Ishan,Ishan,13,10,3,0,Rohit Sharma,7,4,1,0,Siraj,1.0,0,5,0,Hazlewood,1.0,0,15,0
+MI,2,2.1,1,0,0,0,0,Rohit Sharma,Ishan,13,9,3,0,Rohit Sharma,7,4,1,0,Siraj,1.0,0,5,0,Hazlewood,1.0,0,15,0
+MI,1,1.6,4,1,0,0,0,Ishan,Ishan,13,9,3,0,Rohit Sharma,6,3,1,0,Hazlewood,1.0,0,15,0,Siraj,1.0,0,4,0
+MI,1,1.5,4,1,0,0,0,Ishan,Ishan,9,8,2,0,Rohit Sharma,6,3,1,0,Hazlewood,0,0,11,0,Siraj,1.0,0,4,0
+MI,1,1.4,1,0,0,0,0,Rohit Sharma,Ishan,5,7,1,0,Rohit Sharma,6,3,1,0,Hazlewood,0,0,7,0,Siraj,1.0,0,4,0
+MI,1,1.3,1,0,0,0,0,Ishan,Ishan,5,7,1,0,Rohit Sharma,5,2,1,0,Hazlewood,0,0,6,0,Siraj,1.0,0,4,0
+MI,1,1.2,1,0,0,0,0,Rohit Sharma,Ishan,4,6,1,0,Rohit Sharma,5,2,1,0,Hazlewood,0,0,5,0,Siraj,1.0,0,4,0
+MI,1,1.1,4,1,0,0,0,Rohit Sharma,Ishan,4,6,1,0,Rohit Sharma,4,1,1,0,Hazlewood,0,0,4,0,Siraj,1.0,0,4,0
+MI,0,0.6,0,0,1,0,0,Ishan,Ishan,4,6,1,0,,0,0,0,0,Siraj,1.0,0,4,0,,0,0,0,0
+MI,0,0.5,0,0,1,0,0,Ishan,Ishan,4,5,1,0,,0,0,0,0,Siraj,0,0,4,0,,0,0,0,0
+MI,0,0.4,0,0,1,0,0,Ishan,Ishan,4,4,1,0,,0,0,0,0,Siraj,0,0,4,0,,0,0,0,0
+MI,0,0.3,0,0,1,0,0,Ishan,Ishan,4,3,1,0,,0,0,0,0,Siraj,0,0,4,0,,0,0,0,0
+MI,0,0.2,0,0,1,0,0,Ishan,Ishan,4,2,1,0,,0,0,0,0,Siraj,0,0,4,0,,0,0,0,0
+MI,0,0.1,4,1,0,0,0,Ishan,Ishan,4,1,1,0,,0,0,0,0,Siraj,0,0,4,0,,0,0,0,0

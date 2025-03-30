@@ -1,0 +1,127 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+MI,19,19.6,3,0,0,0,0,David,David,36,18,3,1,Coetzee,2,2,0,0,Mohsin Khan,4.0,0,36,2,Yadav,3.0,0,31,1
+MI,19,19.5,4,1,0,0,0,David,David,33,17,3,1,Coetzee,2,2,0,0,Mohsin Khan,3.0,0,33,2,Yadav,3.0,0,31,1
+MI,19,19.4,2,0,0,0,0,David,David,29,16,2,1,Coetzee,2,2,0,0,Mohsin Khan,3.0,0,29,2,Yadav,3.0,0,31,1
+MI,19,19.3,4,1,0,0,0,David,David,27,15,2,1,Coetzee,2,2,0,0,Mohsin Khan,3.0,0,27,2,Yadav,3.0,0,31,1
+MI,19,19.2,2,0,0,0,0,David,David,23,14,1,1,Coetzee,2,2,0,0,Mohsin Khan,3.0,0,23,2,Yadav,3.0,0,31,1
+MI,19,19.1,2,0,0,0,0,David,David,21,13,1,1,Coetzee,2,2,0,0,Mohsin Khan,3.0,0,21,2,Yadav,3.0,0,31,1
+MI,18,18.6,1,0,0,0,0,David,David,19,12,1,1,Coetzee,2,2,0,0,Yadav,3.0,0,31,1,Mohsin Khan,3.0,0,19,2
+MI,18,18.5,1,0,0,0,1,Coetzee,David,18,11,1,1,Coetzee,2,2,0,0,Yadav,3.0,0,31,1,Mohsin Khan,3.0,0,19,2
+MI,18,18.4,1,0,0,0,0,David,David,18,11,1,1,Coetzee,1,1,0,0,Yadav,3.0,0,31,1,Mohsin Khan,3.0,0,19,2
+MI,18,18.3,0,0,1,0,0,David,David,17,10,1,1,Coetzee,1,1,0,0,Yadav,3.0,0,31,1,Mohsin Khan,3.0,0,19,2
+MI,18,18.2,1,0,0,0,0,Coetzee,David,17,9,1,1,Coetzee,1,1,0,0,Yadav,3.0,0,31,1,Mohsin Khan,3.0,0,19,2
+MI,18,18.1,0,0,0,1,0,M Nabi,David,17,9,1,1,,0,0,0,0,Yadav,3.0,0,31,1,Mohsin Khan,3.0,0,19,2
+MI,17,17.6,0,0,1,0,0,David,David,17,9,1,1,M Nabi,1,1,0,0,Mohsin Khan,3.0,0,19,2,Haq,3.0,0,12,2
+MI,17,17.5,6,1,0,0,0,David,David,17,8,1,1,M Nabi,1,1,0,0,Mohsin Khan,2.0,0,19,2,Haq,3.0,0,12,2
+MI,17,17.4,4,1,0,0,0,David,David,11,7,1,0,M Nabi,1,1,0,0,Mohsin Khan,2.0,0,13,2,Haq,3.0,0,12,2
+MI,17,17.3,0,0,1,0,0,David,David,7,6,0,0,M Nabi,1,1,0,0,Mohsin Khan,2.0,0,9,2,Haq,3.0,0,12,2
+MI,17,17.2,1,0,0,0,0,M Nabi,David,7,5,0,0,M Nabi,1,1,0,0,Mohsin Khan,2.0,0,9,2,Haq,3.0,0,12,2
+MI,17,17.1,0,0,0,1,0,Wadhera,David,7,5,0,0,,0,0,0,0,Mohsin Khan,2.0,0,8,2,Haq,3.0,0,12,2
+MI,16,16.6,1,0,0,0,0,Wadhera,Wadhera,49,40,4,2,David,7,5,0,0,Haq,3.0,0,12,2,Ravi Bishnoi,4.0,0,28,1
+MI,16,16.6,2,0,0,0,1,David,Wadhera,48,39,4,2,David,7,5,0,0,Haq,3.0,0,11,2,Ravi Bishnoi,4.0,0,28,1
+MI,16,16.5,1,0,0,0,0,Wadhera,Wadhera,48,39,4,2,David,5,4,0,0,Haq,2.0,0,9,2,Ravi Bishnoi,4.0,0,28,1
+MI,16,16.4,0,0,1,0,0,Wadhera,Wadhera,47,38,4,2,David,5,4,0,0,Haq,2.0,0,8,2,Ravi Bishnoi,4.0,0,28,1
+MI,16,16.3,1,0,0,0,0,David,Wadhera,47,37,4,2,David,5,4,0,0,Haq,2.0,0,8,2,Ravi Bishnoi,4.0,0,28,1
+MI,16,16.2,1,0,0,0,0,Wadhera,Wadhera,47,37,4,2,David,4,3,0,0,Haq,2.0,0,7,2,Ravi Bishnoi,4.0,0,28,1
+MI,16,16.1,0,0,1,0,0,Wadhera,Wadhera,46,36,4,2,David,4,3,0,0,Haq,2.0,0,6,2,Ravi Bishnoi,4.0,0,28,1
+MI,15,15.6,2,0,0,0,0,David,Wadhera,46,35,4,2,David,4,3,0,0,Ravi Bishnoi,4.0,0,28,1,Yadav,3.0,0,31,0
+MI,15,15.5,1,0,0,0,0,Wadhera,Wadhera,46,35,4,2,David,2,2,0,0,Ravi Bishnoi,3.0,0,26,1,Yadav,3.0,0,31,0
+MI,15,15.4,1,0,0,0,0,David,Wadhera,45,34,4,2,David,2,2,0,0,Ravi Bishnoi,3.0,0,25,1,Yadav,3.0,0,31,0
+MI,15,15.3,1,0,0,0,0,Wadhera,Wadhera,45,34,4,2,David,1,1,0,0,Ravi Bishnoi,3.0,0,24,1,Yadav,3.0,0,31,0
+MI,15,15.2,4,1,0,0,0,Wadhera,Wadhera,44,33,4,2,David,1,1,0,0,Ravi Bishnoi,3.0,0,23,1,Yadav,3.0,0,31,0
+MI,15,15.1,1,0,0,0,0,David,Wadhera,40,32,3,2,David,1,1,0,0,Ravi Bishnoi,3.0,0,19,1,Yadav,3.0,0,31,0
+MI,14,14.6,4,1,0,0,0,Wadhera,Wadhera,40,32,3,2,,0,0,0,0,Yadav,3.0,0,31,0,Ravi Bishnoi,3.0,0,18,1
+MI,14,14.5,6,1,0,0,0,Wadhera,Wadhera,36,31,2,2,,0,0,0,0,Yadav,3.0,0,27,0,Ravi Bishnoi,3.0,0,18,1
+MI,14,14.4,0,0,1,0,0,Wadhera,Wadhera,30,30,2,1,,0,0,0,0,Yadav,2.0,0,21,0,Ravi Bishnoi,3.0,0,18,1
+MI,14,14.3,0,0,1,0,0,Wadhera,Wadhera,30,29,2,1,,0,0,0,0,Yadav,2.0,0,21,0,Ravi Bishnoi,3.0,0,18,1
+MI,14,14.2,0,0,1,0,0,Wadhera,Wadhera,30,28,2,1,,0,0,0,0,Yadav,2.0,0,21,0,Ravi Bishnoi,3.0,0,18,1
+MI,14,14.1,6,1,0,0,0,Wadhera,Wadhera,30,27,2,1,,0,0,0,0,Yadav,2.0,0,21,0,Ravi Bishnoi,3.0,0,18,1
+MI,13,13.6,0,0,0,1,0,Ishan,Wadhera,24,26,2,0,,0,0,0,0,Ravi Bishnoi,3.0,0,18,1,Hooda,2.0,0,13,0
+MI,13,13.5,1,0,0,0,0,Wadhera,Ishan,35,35,3,0,Wadhera,24,26,2,0,Ravi Bishnoi,2.0,0,18,0,Hooda,2.0,0,13,0
+MI,13,13.4,4,1,0,0,0,Wadhera,Ishan,35,35,3,0,Wadhera,23,25,2,0,Ravi Bishnoi,2.0,0,17,0,Hooda,2.0,0,13,0
+MI,13,13.3,1,0,0,0,0,Ishan,Ishan,35,35,3,0,Wadhera,19,24,1,0,Ravi Bishnoi,2.0,0,13,0,Hooda,2.0,0,13,0
+MI,13,13.2,0,0,1,0,0,Ishan,Ishan,34,34,3,0,Wadhera,19,24,1,0,Ravi Bishnoi,2.0,0,12,0,Hooda,2.0,0,13,0
+MI,13,13.1,1,0,0,0,0,Wadhera,Ishan,34,33,3,0,Wadhera,19,24,1,0,Ravi Bishnoi,2.0,0,12,0,Hooda,2.0,0,13,0
+MI,12,12.6,1,0,0,0,0,Wadhera,Ishan,34,33,3,0,Wadhera,18,23,1,0,Hooda,2.0,0,13,0,Ravi Bishnoi,2.0,0,11,0
+MI,12,12.5,1,0,0,0,0,Ishan,Ishan,34,33,3,0,Wadhera,17,22,1,0,Hooda,1.0,0,12,0,Ravi Bishnoi,2.0,0,11,0
+MI,12,12.4,0,0,1,0,0,Ishan,Ishan,33,32,3,0,Wadhera,17,22,1,0,Hooda,1.0,0,11,0,Ravi Bishnoi,2.0,0,11,0
+MI,12,12.3,2,0,0,0,0,Ishan,Ishan,33,31,3,0,Wadhera,17,22,1,0,Hooda,1.0,0,11,0,Ravi Bishnoi,2.0,0,11,0
+MI,12,12.2,1,0,0,0,0,Wadhera,Ishan,31,30,3,0,Wadhera,17,22,1,0,Hooda,1.0,0,9,0,Ravi Bishnoi,2.0,0,11,0
+MI,12,12.1,0,0,1,0,0,Wadhera,Ishan,31,30,3,0,Wadhera,16,21,1,0,Hooda,1.0,0,8,0,Ravi Bishnoi,2.0,0,11,0
+MI,11,11.6,1,0,0,0,0,Wadhera,Ishan,31,30,3,0,Wadhera,16,20,1,0,Ravi Bishnoi,2.0,0,11,0,Hooda,1.0,0,8,0
+MI,11,11.5,1,0,0,0,0,Ishan,Ishan,31,30,3,0,Wadhera,15,19,1,0,Ravi Bishnoi,1.0,0,10,0,Hooda,1.0,0,8,0
+MI,11,11.4,0,0,1,0,0,Ishan,Ishan,30,29,3,0,Wadhera,15,19,1,0,Ravi Bishnoi,1.0,0,9,0,Hooda,1.0,0,8,0
+MI,11,11.3,0,0,1,0,0,Ishan,Ishan,30,28,3,0,Wadhera,15,19,1,0,Ravi Bishnoi,1.0,0,9,0,Hooda,1.0,0,8,0
+MI,11,11.2,0,0,1,0,0,Ishan,Ishan,30,27,3,0,Wadhera,15,19,1,0,Ravi Bishnoi,1.0,0,9,0,Hooda,1.0,0,8,0
+MI,11,11.1,1,0,0,0,0,Wadhera,Ishan,30,26,3,0,Wadhera,15,19,1,0,Ravi Bishnoi,1.0,0,9,0,Hooda,1.0,0,8,0
+MI,10,10.6,4,1,0,0,0,Ishan,Ishan,30,26,3,0,Wadhera,14,18,1,0,Hooda,1.0,0,8,0,Ravi Bishnoi,1.0,0,8,0
+MI,10,10.5,1,0,0,0,0,Wadhera,Ishan,26,25,2,0,Wadhera,14,18,1,0,Hooda,0,0,4,0,Ravi Bishnoi,1.0,0,8,0
+MI,10,10.4,0,0,1,0,0,Wadhera,Ishan,26,25,2,0,Wadhera,13,17,1,0,Hooda,0,0,3,0,Ravi Bishnoi,1.0,0,8,0
+MI,10,10.3,1,0,0,0,0,Ishan,Ishan,26,25,2,0,Wadhera,13,16,1,0,Hooda,0,0,3,0,Ravi Bishnoi,1.0,0,8,0
+MI,10,10.2,1,0,0,0,0,Wadhera,Ishan,25,24,2,0,Wadhera,13,16,1,0,Hooda,0,0,2,0,Ravi Bishnoi,1.0,0,8,0
+MI,10,10.1,1,0,0,0,0,Ishan,Ishan,25,24,2,0,Wadhera,12,15,1,0,Hooda,0,0,1,0,Ravi Bishnoi,1.0,0,8,0
+MI,9,9.6,0,0,1,0,0,Wadhera,Ishan,24,23,2,0,Wadhera,12,15,1,0,Ravi Bishnoi,1.0,0,8,0,Yadav,2.0,0,15,0
+MI,9,9.5,0,0,1,0,0,Wadhera,Ishan,24,23,2,0,Wadhera,12,14,1,0,Ravi Bishnoi,0,0,8,0,Yadav,2.0,0,15,0
+MI,9,9.4,1,0,0,0,0,Ishan,Ishan,24,23,2,0,Wadhera,12,13,1,0,Ravi Bishnoi,0,0,8,0,Yadav,2.0,0,15,0
+MI,9,9.3,4,1,0,0,0,Ishan,Ishan,23,22,2,0,Wadhera,12,13,1,0,Ravi Bishnoi,0,0,7,0,Yadav,2.0,0,15,0
+MI,9,9.3,1,0,0,0,1,Ishan,Ishan,19,21,1,0,Wadhera,12,13,1,0,Ravi Bishnoi,0,0,3,0,Yadav,2.0,0,15,0
+MI,9,9.2,2,0,0,0,0,Ishan,Ishan,18,21,1,0,Wadhera,12,13,1,0,Ravi Bishnoi,0,0,2,0,Yadav,2.0,0,15,0
+MI,9,9.1,0,0,1,0,0,Ishan,Ishan,16,20,1,0,Wadhera,12,13,1,0,Ravi Bishnoi,0,0,0,0,Yadav,2.0,0,15,0
+MI,8,8.6,1,0,0,0,0,Ishan,Ishan,16,19,1,0,Wadhera,12,13,1,0,Yadav,2.0,0,15,0,Haq,2.0,0,6,2
+MI,8,8.5,4,1,0,0,0,Ishan,Ishan,15,18,1,0,Wadhera,12,13,1,0,Yadav,2.0,0,14,0,Haq,2.0,0,6,2
+MI,8,8.4,0,0,1,0,0,Ishan,Ishan,11,17,0,0,Wadhera,12,13,1,0,Yadav,1.0,0,10,0,Haq,2.0,0,6,2
+MI,8,8.3,0,0,1,0,0,Ishan,Ishan,11,16,0,0,Wadhera,12,13,1,0,Yadav,1.0,0,10,0,Haq,2.0,0,6,2
+MI,8,8.2,1,0,0,0,0,Wadhera,Ishan,11,15,0,0,Wadhera,12,13,1,0,Yadav,1.0,0,10,0,Haq,2.0,0,6,2
+MI,8,8.2,1,0,0,0,1,Wadhera,Ishan,11,15,0,0,Wadhera,11,12,1,0,Yadav,1.0,0,9,0,Haq,2.0,0,6,2
+MI,8,8.1,1,0,0,0,0,Ishan,Ishan,11,15,0,0,Wadhera,10,12,1,0,Yadav,1.0,0,8,0,Haq,2.0,0,6,2
+MI,7,7.6,0,0,1,0,0,Wadhera,Ishan,10,14,0,0,Wadhera,10,12,1,0,Haq,2.0,0,6,2,Yadav,1.0,0,7,0
+MI,7,7.5,0,0,1,0,0,Wadhera,Ishan,10,14,0,0,Wadhera,10,11,1,0,Haq,1.0,0,6,2,Yadav,1.0,0,7,0
+MI,7,7.4,2,0,0,0,0,Wadhera,Ishan,10,14,0,0,Wadhera,10,10,1,0,Haq,1.0,0,6,2,Yadav,1.0,0,7,0
+MI,7,7.3,1,0,0,0,0,Ishan,Ishan,10,14,0,0,Wadhera,8,9,1,0,Haq,1.0,0,4,2,Yadav,1.0,0,7,0
+MI,7,7.2,1,0,0,0,0,Wadhera,Ishan,9,13,0,0,Wadhera,8,9,1,0,Haq,1.0,0,3,2,Yadav,1.0,0,7,0
+MI,7,7.1,1,0,0,0,0,Ishan,Ishan,9,13,0,0,Wadhera,7,8,1,0,Haq,1.0,0,2,2,Yadav,1.0,0,7,0
+MI,6,6.6,0,0,1,0,0,Wadhera,Ishan,8,12,0,0,Wadhera,7,8,1,0,Yadav,1.0,0,7,0,Haq,1.0,0,1,2
+MI,6,6.5,0,0,1,0,0,Wadhera,Ishan,8,12,0,0,Wadhera,7,7,1,0,Yadav,1.0,0,7,0,Haq,1.0,0,1,2
+MI,6,6.4,4,1,0,0,0,Wadhera,Ishan,8,12,0,0,Wadhera,7,6,1,0,Yadav,0,0,7,0,Haq,1.0,0,1,2
+MI,6,6.3,0,0,1,0,0,Wadhera,Ishan,8,12,0,0,Wadhera,3,5,0,0,Yadav,0,0,3,0,Haq,1.0,0,1,2
+MI,6,6.3,1,0,0,0,1,Wadhera,Ishan,8,12,0,0,Wadhera,3,4,0,0,Yadav,0,0,3,0,Haq,1.0,0,1,2
+MI,6,6.3,2,0,0,0,1,Ishan,Ishan,8,12,0,0,Wadhera,2,4,0,0,Yadav,0,0,2,0,Haq,1.0,0,1,2
+MI,6,6.2,0,0,1,0,0,Ishan,Ishan,6,11,0,0,Wadhera,2,4,0,0,Yadav,0,0,0,0,Haq,1.0,0,1,2
+MI,6,6.1,1,0,0,0,1,Wadhera,Ishan,6,10,0,0,Wadhera,2,4,0,0,Yadav,0,0,0,0,Haq,1.0,0,1,2
+MI,5,5.6,0,0,1,0,0,Ishan,Ishan,6,10,0,0,Wadhera,1,3,0,0,Haq,1.0,0,1,2,Stoinis,3.0,0,19,1
+MI,5,5.5,1,0,0,0,0,Wadhera,Ishan,6,9,0,0,Wadhera,1,3,0,0,Haq,0,0,1,2,Stoinis,3.0,0,19,1
+MI,5,5.4,0,0,1,0,0,Wadhera,Ishan,6,9,0,0,Wadhera,0,2,0,0,Haq,0,0,0,2,Stoinis,3.0,0,19,1
+MI,5,5.3,0,0,1,0,0,Wadhera,Ishan,6,9,0,0,Wadhera,0,1,0,0,Haq,0,0,0,2,Stoinis,3.0,0,19,1
+MI,5,5.2,0,0,0,1,0,Hardik,Ishan,6,9,0,0,,0,0,0,0,Haq,0,0,0,2,Stoinis,3.0,0,19,1
+MI,5,5.1,0,0,0,1,0,Tilak Varma,Ishan,6,9,0,0,,0,0,0,0,Haq,0,0,0,1,Stoinis,3.0,0,19,1
+MI,4,4.6,0,0,1,0,0,Ishan,Ishan,6,9,0,0,Tilak Varma,7,10,1,0,Stoinis,3.0,0,19,1,Mohsin Khan,2.0,0,8,1
+MI,4,4.5,1,0,0,0,0,Tilak Varma,Ishan,6,8,0,0,Tilak Varma,7,10,1,0,Stoinis,2.0,0,19,1,Mohsin Khan,2.0,0,8,1
+MI,4,4.4,0,0,1,0,0,Tilak Varma,Ishan,6,8,0,0,Tilak Varma,6,9,1,0,Stoinis,2.0,0,18,1,Mohsin Khan,2.0,0,8,1
+MI,4,4.3,0,0,1,0,0,Tilak Varma,Ishan,6,8,0,0,Tilak Varma,6,8,1,0,Stoinis,2.0,0,18,1,Mohsin Khan,2.0,0,8,1
+MI,4,4.2,4,1,0,0,0,Tilak Varma,Ishan,6,8,0,0,Tilak Varma,6,7,1,0,Stoinis,2.0,0,18,1,Mohsin Khan,2.0,0,8,1
+MI,4,4.1,0,0,1,0,0,Tilak Varma,Ishan,6,8,0,0,Tilak Varma,2,6,0,0,Stoinis,2.0,0,14,1,Mohsin Khan,2.0,0,8,1
+MI,3,3.6,0,0,1,0,0,Ishan,Ishan,6,8,0,0,Tilak Varma,2,5,0,0,Mohsin Khan,2.0,0,8,1,Stoinis,2.0,0,14,1
+MI,3,3.5,1,0,0,0,0,Tilak Varma,Ishan,6,7,0,0,Tilak Varma,2,5,0,0,Mohsin Khan,1.0,0,8,1,Stoinis,2.0,0,14,1
+MI,3,3.4,0,0,1,0,0,Tilak Varma,Ishan,6,7,0,0,Tilak Varma,1,4,0,0,Mohsin Khan,1.0,0,7,1,Stoinis,2.0,0,14,1
+MI,3,3.3,0,0,1,0,0,Tilak Varma,Ishan,6,7,0,0,Tilak Varma,1,3,0,0,Mohsin Khan,1.0,0,7,1,Stoinis,2.0,0,14,1
+MI,3,3.2,0,0,1,0,0,Tilak Varma,Ishan,6,7,0,0,Tilak Varma,1,2,0,0,Mohsin Khan,1.0,0,7,1,Stoinis,2.0,0,14,1
+MI,3,3.1,1,0,0,0,0,Ishan,Ishan,6,7,0,0,Tilak Varma,1,1,0,0,Mohsin Khan,1.0,0,7,1,Stoinis,2.0,0,14,1
+MI,2,2.6,1,0,0,0,0,Ishan,Ishan,5,6,0,0,Tilak Varma,1,1,0,0,Stoinis,2.0,0,14,1,Mohsin Khan,1.0,0,6,1
+MI,2,2.5,1,0,0,0,0,Tilak Varma,Ishan,4,5,0,0,Tilak Varma,1,1,0,0,Stoinis,1.0,0,13,1,Mohsin Khan,1.0,0,6,1
+MI,2,2.4,0,0,0,1,0,Suryakumar,Ishan,4,5,0,0,,0,0,0,0,Stoinis,1.0,0,12,1,Mohsin Khan,1.0,0,6,1
+MI,2,2.3,1,0,0,0,0,Ishan,Ishan,4,5,0,0,Suryakumar,10,5,0,1,Stoinis,1.0,0,12,0,Mohsin Khan,1.0,0,6,1
+MI,2,2.2,3,0,0,0,0,Suryakumar,Ishan,3,4,0,0,Suryakumar,10,5,0,1,Stoinis,1.0,0,11,0,Mohsin Khan,1.0,0,6,1
+MI,2,2.1,6,1,0,0,0,Suryakumar,Ishan,3,4,0,0,Suryakumar,7,4,0,1,Stoinis,1.0,0,8,0,Mohsin Khan,1.0,0,6,1
+MI,1,1.6,1,0,0,0,0,Suryakumar,Ishan,3,4,0,0,Suryakumar,1,3,0,0,Mohsin Khan,1.0,0,6,1,Stoinis,1.0,0,2,0
+MI,1,1.5,0,0,1,0,0,Suryakumar,Ishan,3,4,0,0,Suryakumar,0,2,0,0,Mohsin Khan,0,0,5,1,Stoinis,1.0,0,2,0
+MI,1,1.4,0,0,1,0,0,Suryakumar,Ishan,3,4,0,0,Suryakumar,0,1,0,0,Mohsin Khan,0,0,5,1,Stoinis,1.0,0,2,0
+MI,1,1.3,0,0,0,1,0,Rohit Sharma,Ishan,3,4,0,0,,0,0,0,0,Mohsin Khan,0,0,5,1,Stoinis,1.0,0,2,0
+MI,1,1.2,4,1,0,0,0,Rohit Sharma,Ishan,3,4,0,0,Rohit Sharma,4,4,1,0,Mohsin Khan,0,0,5,0,Stoinis,1.0,0,2,0
+MI,1,1.1,1,0,0,0,0,Ishan,Ishan,3,4,0,0,Rohit Sharma,0,3,0,0,Mohsin Khan,0,0,1,0,Stoinis,1.0,0,2,0
+MI,0,0.6,0,0,1,0,0,Rohit Sharma,Ishan,2,3,0,0,Rohit Sharma,0,3,0,0,Stoinis,1.0,0,2,0,,0,0,0,0
+MI,0,0.5,0,0,1,0,0,Rohit Sharma,Ishan,2,3,0,0,Rohit Sharma,0,2,0,0,Stoinis,0,0,2,0,,0,0,0,0
+MI,0,0.4,0,0,1,0,0,Rohit Sharma,Ishan,2,3,0,0,Rohit Sharma,0,1,0,0,Stoinis,0,0,2,0,,0,0,0,0
+MI,0,0.3,1,0,0,0,0,Ishan,Ishan,2,3,0,0,,0,0,0,0,Stoinis,0,0,2,0,,0,0,0,0
+MI,0,0.2,0,0,1,0,0,Ishan,Ishan,1,2,0,0,,0,0,0,0,Stoinis,0,0,1,0,,0,0,0,0
+MI,0,0.2,1,0,0,0,1,Ishan,Ishan,1,1,0,0,,0,0,0,0,Stoinis,0,0,1,0,,0,0,0,0
+MI,0,0.1,0,0,1,0,0,Ishan,Ishan,0,1,0,0,,0,0,0,0,Stoinis,0,0,0,0,,0,0,0,0

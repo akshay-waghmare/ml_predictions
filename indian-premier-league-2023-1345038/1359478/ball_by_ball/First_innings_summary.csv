@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+SRH,19,19.1,23,3,1,0,1,Abdul Samad,Abdul Samad,26,28,0,1,Umran Malik,12,6,1,1,Saini,1.0,0,17,0,Boult,4.0,1,21,2
+SRH,18,18.1,13,2,2,0,0,Umran Malik,Abdul Samad,20,27,0,0,Umran Malik,0,1,0,0,Boult,3.0,1,9,2,Chahal,4.0,0,17,4
+SRH,17,17.1,3,0,3,1,0,Umran Malik,Abdul Samad,18,25,0,0,Bhuvneshwar,4,7,0,0,Chahal,3.0,0,14,3,Holder,3.0,0,16,1
+SRH,16,16.1,3,0,3,0,0,Abdul Samad,Abdul Samad,16,21,0,0,Bhuvneshwar,3,5,0,0,Holder,2.0,0,13,1,Ashwin,4.0,0,27,1
+SRH,15,15.1,4,0,2,0,0,Abdul Samad,Abdul Samad,14,18,0,0,Bhuvneshwar,2,2,0,0,Ashwin,3.0,0,24,1,Asif,3.0,0,15,0
+SRH,14,14.1,4,0,3,0,0,Bhuvneshwar,Abdul Samad,13,14,0,0,,0,0,0,0,Asif,2.0,0,13,0,Chahal,3.0,0,14,3
+SRH,13,13.1,6,0,1,1,0,Rashid,Abdul Samad,10,12,0,0,Rashid,16,9,1,1,Chahal,2.0,0,9,2,Saini,1.0,0,11,0
+SRH,12,12.1,12,1,1,0,3,Rashid,Abdul Samad,7,10,0,0,Rashid,7,3,0,1,Saini,0,0,0,0,Ashwin,3.0,0,23,1
+SRH,11,11.1,11,1,3,0,2,Rashid,Abdul Samad,4,7,0,0,,0,0,0,0,Ashwin,2.0,0,14,1,Chahal,2.0,0,8,2
+SRH,10,10.1,4,0,1,1,0,Agarwal,Agarwal,27,21,3,0,Abdul Samad,0,3,0,0,Chahal,1.0,0,5,1,Ashwin,2.0,0,12,1
+SRH,9,9.1,2,0,3,1,0,Abdul Samad,Agarwal,25,19,3,0,Phillips,8,5,0,1,Ashwin,1.0,0,11,0,Holder,2.0,0,13,1
+SRH,8,8.1,8,1,2,1,0,Phillips,Agarwal,25,19,3,0,Sundar,1,4,0,0,Holder,1.0,0,6,0,Asif,2.0,0,11,0
+SRH,7,7.1,4,0,3,0,1,Sundar,Agarwal,22,17,3,0,,0,0,0,0,Asif,1.0,0,8,0,Chahal,1.0,0,4,1
+SRH,6,6.1,4,0,2,1,0,Brook,Brook,10,17,1,0,Agarwal,20,15,3,0,Chahal,0,0,0,0,Ashwin,1.0,0,10,0
+SRH,5,5.1,10,1,1,0,0,Agarwal,Brook,5,13,1,0,Agarwal,16,13,2,0,Ashwin,0,0,1,0,Boult,3.0,1,8,2
+SRH,4,4.1,3,0,3,0,0,Agarwal,Brook,4,9,1,0,Agarwal,14,11,2,0,Boult,2.0,1,6,2,Holder,1.0,0,5,0
+SRH,3,3.1,5,1,4,0,0,Brook,Brook,4,7,1,0,Agarwal,8,7,1,0,Holder,0,0,0,0,Boult,2.0,1,5,2
+SRH,2,2.1,5,1,4,0,0,Brook,Brook,4,5,1,0,Agarwal,3,3,0,0,Boult,1.0,1,0,2,Asif,1.0,0,7,0
+SRH,1,1.1,7,1,3,0,0,Brook,Brook,0,1,0,0,Agarwal,2,1,0,0,Asif,0,0,2,0,Boult,1.0,1,0,2
+SRH,0,0.1,0,0,4,2,0,Brook,Abhishek,0,1,0,0,,0,0,0,0,Boult,0,0,0,0,,0,0,0,0

@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+LSG,19,19.1,4,0,1,2,0,Ravi Bishnoi,Rahul,69,60,8,0,Badoni,8,6,0,0,Mohit,2.0,0,15,0,Shami,3.0,1,18,0
+LSG,18,18.1,5,0,1,0,1,Rahul,Rahul,65,56,8,0,Badoni,6,4,0,0,Shami,2.0,1,15,0,Mohit,2.0,0,13,0
+LSG,17,17.1,6,0,0,0,0,Rahul,Rahul,61,52,8,0,Badoni,4,2,0,0,Mohit,1.0,0,8,0,Noor Ahmad,4.0,0,18,2
+LSG,16,16.1,4,0,3,1,0,Badoni,Rahul,60,50,8,0,Pooran,1,5,0,0,Noor Ahmad,3.0,0,14,1,Jayant Yadav,4.0,0,26,0
+LSG,15,15.1,3,0,3,0,0,Rahul,Rahul,58,46,8,0,Pooran,0,3,0,0,Jayant Yadav,3.0,0,23,0,Noor Ahmad,3.0,0,14,1
+LSG,14,14.1,1,0,4,1,0,Pooran,Rahul,58,45,8,0,Krunal,24,21,2,1,Noor Ahmad,2.0,0,14,0,Jayant Yadav,3.0,0,23,0
+LSG,13,13.1,7,0,2,0,0,Rahul,Rahul,52,39,8,0,Krunal,24,21,2,1,Jayant Yadav,2.0,0,18,0,Tewatia,1.0,0,8,0
+LSG,12,12.1,8,1,4,0,1,Krunal,Rahul,49,37,8,0,Krunal,17,17,2,0,Tewatia,0,0,0,0,Noor Ahmad,2.0,0,13,0
+LSG,11,11.1,3,0,4,0,0,Krunal,Rahul,48,34,8,0,Krunal,15,14,2,0,Noor Ahmad,1.0,0,10,0,Rashid Khan,4.0,0,33,1
+LSG,10,10.1,7,1,2,0,0,Rahul,Rahul,42,29,7,0,Krunal,14,13,2,0,Rashid Khan,3.0,0,26,1,Hardik,1.0,0,7,0
+LSG,9,9.1,7,1,2,0,0,Krunal,Rahul,41,27,7,0,Krunal,9,9,1,0,Hardik,0,0,1,0,Rashid Khan,3.0,0,26,1
+LSG,8,8.1,8,1,2,0,0,Rahul,Rahul,39,24,7,0,Krunal,6,6,1,0,Rashid Khan,2.0,0,22,1,Noor Ahmad,1.0,0,10,0
+LSG,7,7.1,10,1,0,0,0,Krunal,Rahul,35,21,7,0,Krunal,0,3,0,0,Noor Ahmad,0,0,4,0,Rashid Khan,2.0,0,18,1
+LSG,6,6.1,2,0,3,1,0,Krunal,Rahul,30,19,6,0,Mayers,24,18,2,1,Rashid Khan,1.0,0,17,0,Mohit,1.0,0,7,0
+LSG,5,5.1,7,1,2,0,0,Rahul,Rahul,25,16,5,0,Mayers,21,15,2,1,Mohit,0,0,0,0,Rashid Khan,1.0,0,16,0
+LSG,4,4.1,16,3,1,0,0,Mayers,Rahul,20,14,4,0,Mayers,14,11,2,0,Rashid Khan,0,0,4,0,Jayant Yadav,2.0,0,16,0
+LSG,3,3.1,10,1,0,0,0,Mayers,Rahul,14,11,3,0,Mayers,7,8,1,0,Jayant Yadav,1.0,0,7,0,Shami,2.0,1,14,0
+LSG,2,2.1,14,3,1,0,0,Rahul,Rahul,2,8,0,0,Mayers,5,5,1,0,Shami,1.0,1,1,0,Jayant Yadav,1.0,0,6,0
+LSG,1,1.1,6,1,3,0,0,Mayers,Rahul,0,6,0,0,Mayers,1,1,0,0,Jayant Yadav,0,0,1,0,Shami,1.0,1,0,0
+LSG,0,0.1,0,0,6,0,0,Rahul,Rahul,0,1,0,0,,0,0,0,0,Shami,0,0,0,0,,0,0,0,0

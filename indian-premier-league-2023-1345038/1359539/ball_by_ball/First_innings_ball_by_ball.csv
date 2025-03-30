@@ -1,0 +1,122 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+RCB,19,19.2,2,0,0,0,0,Michael Bracewell,Maxwell,5,3,1,0,Michael Bracewell,5,4,0,0,Kartik Tyagi,1.0,0,21,0,Natarajan,4.0,0,34,1
+RCB,19,19.2,1,0,0,0,1,Michael Bracewell,Maxwell,5,3,1,0,Michael Bracewell,3,3,0,0,Kartik Tyagi,1.0,0,19,0,Natarajan,4.0,0,34,1
+RCB,19,19.1,0,0,1,0,0,Michael Bracewell,Maxwell,5,3,1,0,Michael Bracewell,2,3,0,0,Kartik Tyagi,1.0,0,18,0,Natarajan,4.0,0,34,1
+RCB,18,18.6,4,1,0,0,0,Maxwell,Maxwell,5,3,1,0,Michael Bracewell,2,2,0,0,Natarajan,4.0,0,34,1,Bhuvneshwar,4.0,0,48,1
+RCB,18,18.5,1,0,0,0,0,Michael Bracewell,Maxwell,1,2,0,0,Michael Bracewell,2,2,0,0,Natarajan,3.0,0,30,1,Bhuvneshwar,4.0,0,48,1
+RCB,18,18.4,1,0,0,0,0,Maxwell,Maxwell,1,2,0,0,Michael Bracewell,1,1,0,0,Natarajan,3.0,0,29,1,Bhuvneshwar,4.0,0,48,1
+RCB,18,18.3,1,0,0,0,0,Michael Bracewell,Maxwell,0,1,0,0,Michael Bracewell,1,1,0,0,Natarajan,3.0,0,28,1,Bhuvneshwar,4.0,0,48,1
+RCB,18,18.2,0,0,0,1,0,du Plessis,Maxwell,0,1,0,0,,0,0,0,0,Natarajan,3.0,0,27,1,Bhuvneshwar,4.0,0,48,1
+RCB,18,18.1,4,1,0,0,0,du Plessis,du Plessis,73,46,7,2,Maxwell,0,1,0,0,Natarajan,3.0,0,27,0,Bhuvneshwar,4.0,0,48,1
+RCB,18,18.1,1,0,0,0,1,du Plessis,du Plessis,69,45,6,2,Maxwell,0,1,0,0,Natarajan,3.0,0,23,0,Bhuvneshwar,4.0,0,48,1
+RCB,17,17.6,0,0,1,0,0,Maxwell,du Plessis,68,45,6,2,Maxwell,0,1,0,0,Bhuvneshwar,4.0,0,48,1,Natarajan,3.0,0,22,0
+RCB,17,17.5,0,0,0,1,0,Kohli,du Plessis,68,45,6,2,,0,0,0,0,Bhuvneshwar,3.0,0,48,1,Natarajan,3.0,0,22,0
+RCB,17,17.4,6,1,0,0,0,Kohli,Kohli,104,62,12,4,du Plessis,68,45,6,2,Bhuvneshwar,3.0,0,48,0,Natarajan,3.0,0,22,0
+RCB,17,17.3,0,0,1,0,0,Kohli,Kohli,98,61,12,3,du Plessis,68,45,6,2,Bhuvneshwar,3.0,0,42,0,Natarajan,3.0,0,22,0
+RCB,17,17.2,2,0,0,0,0,Kohli,Kohli,98,60,12,3,du Plessis,68,45,6,2,Bhuvneshwar,3.0,0,42,0,Natarajan,3.0,0,22,0
+RCB,17,17.1,0,0,1,0,0,Kohli,Kohli,96,59,12,3,du Plessis,68,45,6,2,Bhuvneshwar,3.0,0,40,0,Natarajan,3.0,0,22,0
+RCB,16,16.6,1,0,0,0,0,Kohli,Kohli,96,58,12,3,du Plessis,68,45,6,2,Natarajan,3.0,0,22,0,Dagar,4.0,0,25,0
+RCB,16,16.5,1,0,0,0,0,du Plessis,Kohli,95,57,12,3,du Plessis,68,45,6,2,Natarajan,2.0,0,21,0,Dagar,4.0,0,25,0
+RCB,16,16.4,0,0,1,0,0,du Plessis,Kohli,95,57,12,3,du Plessis,67,44,6,2,Natarajan,2.0,0,20,0,Dagar,4.0,0,25,0
+RCB,16,16.3,1,0,0,0,0,Kohli,Kohli,95,57,12,3,du Plessis,67,43,6,2,Natarajan,2.0,0,20,0,Dagar,4.0,0,25,0
+RCB,16,16.2,6,1,0,0,0,Kohli,Kohli,94,56,12,3,du Plessis,67,43,6,2,Natarajan,2.0,0,19,0,Dagar,4.0,0,25,0
+RCB,16,16.1,1,0,0,0,0,du Plessis,Kohli,88,55,12,2,du Plessis,67,43,6,2,Natarajan,2.0,0,13,0,Dagar,4.0,0,25,0
+RCB,15,15.6,0,0,1,0,0,Kohli,Kohli,88,55,12,2,du Plessis,66,42,6,2,Dagar,4.0,0,25,0,Bhuvneshwar,3.0,0,40,0
+RCB,15,15.5,1,0,0,0,0,du Plessis,Kohli,88,54,12,2,du Plessis,66,42,6,2,Dagar,3.0,0,25,0,Bhuvneshwar,3.0,0,40,0
+RCB,15,15.4,0,0,1,0,0,du Plessis,Kohli,88,54,12,2,du Plessis,65,41,6,2,Dagar,3.0,0,24,0,Bhuvneshwar,3.0,0,40,0
+RCB,15,15.3,1,0,0,0,0,Kohli,Kohli,88,54,12,2,du Plessis,65,40,6,2,Dagar,3.0,0,24,0,Bhuvneshwar,3.0,0,40,0
+RCB,15,15.2,1,0,0,0,0,du Plessis,Kohli,87,53,12,2,du Plessis,65,40,6,2,Dagar,3.0,0,23,0,Bhuvneshwar,3.0,0,40,0
+RCB,15,15.1,1,0,0,0,0,Kohli,Kohli,87,53,12,2,du Plessis,64,39,6,2,Dagar,3.0,0,22,0,Bhuvneshwar,3.0,0,40,0
+RCB,14,14.6,1,0,0,0,0,Kohli,Kohli,86,52,12,2,du Plessis,64,39,6,2,Bhuvneshwar,3.0,0,40,0,Abhishek,3.0,0,28,0
+RCB,14,14.5,4,1,0,0,0,Kohli,Kohli,85,51,12,2,du Plessis,64,39,6,2,Bhuvneshwar,2.0,0,39,0,Abhishek,3.0,0,28,0
+RCB,14,14.4,4,1,0,0,0,Kohli,Kohli,81,50,11,2,du Plessis,64,39,6,2,Bhuvneshwar,2.0,0,35,0,Abhishek,3.0,0,28,0
+RCB,14,14.3,0,0,1,0,0,Kohli,Kohli,77,49,10,2,du Plessis,64,39,6,2,Bhuvneshwar,2.0,0,31,0,Abhishek,3.0,0,28,0
+RCB,14,14.2,4,1,0,0,0,Kohli,Kohli,77,48,10,2,du Plessis,64,39,6,2,Bhuvneshwar,2.0,0,31,0,Abhishek,3.0,0,28,0
+RCB,14,14.1,4,1,0,0,0,Kohli,Kohli,73,47,9,2,du Plessis,64,39,6,2,Bhuvneshwar,2.0,0,27,0,Abhishek,3.0,0,28,0
+RCB,14,14.1,1,0,0,0,1,Kohli,Kohli,69,46,8,2,du Plessis,64,39,6,2,Bhuvneshwar,2.0,0,23,0,Abhishek,3.0,0,28,0
+RCB,13,13.6,6,1,0,0,0,du Plessis,Kohli,68,46,8,2,du Plessis,64,39,6,2,Abhishek,3.0,0,28,0,Dagar,3.0,0,21,0
+RCB,13,13.5,1,0,0,0,0,Kohli,Kohli,68,46,8,2,du Plessis,58,38,6,1,Abhishek,2.0,0,22,0,Dagar,3.0,0,21,0
+RCB,13,13.4,2,0,0,0,1,Kohli,Kohli,67,45,8,2,du Plessis,58,38,6,1,Abhishek,2.0,0,21,0,Dagar,3.0,0,21,0
+RCB,13,13.3,1,0,0,0,0,du Plessis,Kohli,65,44,8,2,du Plessis,58,38,6,1,Abhishek,2.0,0,21,0,Dagar,3.0,0,21,0
+RCB,13,13.2,4,1,0,0,0,du Plessis,Kohli,65,44,8,2,du Plessis,57,37,6,1,Abhishek,2.0,0,20,0,Dagar,3.0,0,21,0
+RCB,13,13.1,1,0,0,0,0,Kohli,Kohli,65,44,8,2,du Plessis,53,36,5,1,Abhishek,2.0,0,16,0,Dagar,3.0,0,21,0
+RCB,12,12.6,1,0,0,0,0,Kohli,Kohli,64,43,8,2,du Plessis,53,36,5,1,Dagar,3.0,0,21,0,Phillips,1.0,0,10,0
+RCB,12,12.5,1,0,0,0,0,du Plessis,Kohli,63,42,8,2,du Plessis,53,36,5,1,Dagar,2.0,0,20,0,Phillips,1.0,0,10,0
+RCB,12,12.4,1,0,0,0,0,Kohli,Kohli,63,42,8,2,du Plessis,52,35,5,1,Dagar,2.0,0,19,0,Phillips,1.0,0,10,0
+RCB,12,12.3,6,1,0,0,0,Kohli,Kohli,62,41,8,2,du Plessis,52,35,5,1,Dagar,2.0,0,18,0,Phillips,1.0,0,10,0
+RCB,12,12.2,0,0,1,0,0,Kohli,Kohli,56,40,8,1,du Plessis,52,35,5,1,Dagar,2.0,0,12,0,Phillips,1.0,0,10,0
+RCB,12,12.1,0,0,1,0,0,Kohli,Kohli,56,39,8,1,du Plessis,52,35,5,1,Dagar,2.0,0,12,0,Phillips,1.0,0,10,0
+RCB,11,11.6,1,0,0,0,0,Kohli,Kohli,56,38,8,1,du Plessis,52,35,5,1,Phillips,1.0,0,10,0,Abhishek,2.0,0,15,0
+RCB,11,11.5,2,0,0,0,0,Kohli,Kohli,55,37,8,1,du Plessis,52,35,5,1,Phillips,0,0,9,0,Abhishek,2.0,0,15,0
+RCB,11,11.4,0,0,1,0,0,Kohli,Kohli,53,36,8,1,du Plessis,52,35,5,1,Phillips,0,0,7,0,Abhishek,2.0,0,15,0
+RCB,11,11.3,4,1,0,0,0,Kohli,Kohli,53,35,8,1,du Plessis,52,35,5,1,Phillips,0,0,7,0,Abhishek,2.0,0,15,0
+RCB,11,11.2,1,0,0,0,0,du Plessis,Kohli,49,34,7,1,du Plessis,52,35,5,1,Phillips,0,0,3,0,Abhishek,2.0,0,15,0
+RCB,11,11.1,2,0,0,0,0,du Plessis,Kohli,49,34,7,1,du Plessis,51,34,5,1,Phillips,0,0,2,0,Abhishek,2.0,0,15,0
+RCB,10,10.6,1,0,0,0,0,du Plessis,Kohli,49,34,7,1,du Plessis,49,33,5,1,Abhishek,2.0,0,15,0,Dagar,2.0,0,12,0
+RCB,10,10.5,0,0,1,0,0,du Plessis,Kohli,49,34,7,1,du Plessis,48,32,5,1,Abhishek,1.0,0,14,0,Dagar,2.0,0,12,0
+RCB,10,10.4,1,0,0,0,0,Kohli,Kohli,49,34,7,1,du Plessis,48,31,5,1,Abhishek,1.0,0,14,0,Dagar,2.0,0,12,0
+RCB,10,10.3,0,0,1,0,0,Kohli,Kohli,48,33,7,1,du Plessis,48,31,5,1,Abhishek,1.0,0,13,0,Dagar,2.0,0,12,0
+RCB,10,10.2,0,0,1,0,0,Kohli,Kohli,48,32,7,1,du Plessis,48,31,5,1,Abhishek,1.0,0,13,0,Dagar,2.0,0,12,0
+RCB,10,10.1,1,0,0,0,0,du Plessis,Kohli,48,31,7,1,du Plessis,48,31,5,1,Abhishek,1.0,0,13,0,Dagar,2.0,0,12,0
+RCB,9,9.6,1,0,0,0,0,du Plessis,Kohli,48,31,7,1,du Plessis,47,30,5,1,Dagar,2.0,0,12,0,Nitish Kumar,2.0,0,19,0
+RCB,9,9.5,0,0,1,0,0,du Plessis,Kohli,48,31,7,1,du Plessis,46,29,5,1,Dagar,1.0,0,11,0,Nitish Kumar,2.0,0,19,0
+RCB,9,9.4,2,0,0,0,0,du Plessis,Kohli,48,31,7,1,du Plessis,46,28,5,1,Dagar,1.0,0,11,0,Nitish Kumar,2.0,0,19,0
+RCB,9,9.3,1,0,0,0,0,Kohli,Kohli,48,31,7,1,du Plessis,44,27,5,1,Dagar,1.0,0,9,0,Nitish Kumar,2.0,0,19,0
+RCB,9,9.2,0,0,1,0,0,Kohli,Kohli,47,30,7,1,du Plessis,44,27,5,1,Dagar,1.0,0,8,0,Nitish Kumar,2.0,0,19,0
+RCB,9,9.1,1,0,0,0,0,du Plessis,Kohli,47,29,7,1,du Plessis,44,27,5,1,Dagar,1.0,0,8,0,Nitish Kumar,2.0,0,19,0
+RCB,8,8.6,0,0,1,0,0,Kohli,Kohli,47,29,7,1,du Plessis,43,26,5,1,Nitish Kumar,2.0,0,19,0,Dagar,1.0,0,7,0
+RCB,8,8.5,1,0,0,0,0,du Plessis,Kohli,47,28,7,1,du Plessis,43,26,5,1,Nitish Kumar,2.0,0,19,0,Dagar,1.0,0,7,0
+RCB,8,8.5,1,0,0,0,1,du Plessis,Kohli,47,28,7,1,du Plessis,42,25,5,1,Nitish Kumar,1.0,0,18,0,Dagar,1.0,0,7,0
+RCB,8,8.4,0,0,1,0,0,du Plessis,Kohli,47,28,7,1,du Plessis,41,24,5,1,Nitish Kumar,1.0,0,17,0,Dagar,1.0,0,7,0
+RCB,8,8.3,1,0,0,0,0,Kohli,Kohli,47,28,7,1,du Plessis,41,23,5,1,Nitish Kumar,1.0,0,17,0,Dagar,1.0,0,7,0
+RCB,8,8.2,2,0,0,0,0,Kohli,Kohli,46,27,7,1,du Plessis,41,23,5,1,Nitish Kumar,1.0,0,16,0,Dagar,1.0,0,7,0
+RCB,8,8.1,6,1,0,0,0,Kohli,Kohli,44,26,7,1,du Plessis,41,23,5,1,Nitish Kumar,1.0,0,14,0,Dagar,1.0,0,7,0
+RCB,7,7.6,0,0,1,0,0,du Plessis,Kohli,38,25,7,0,du Plessis,41,23,5,1,Dagar,1.0,0,7,0,Nitish Kumar,1.0,0,8,0
+RCB,7,7.5,4,1,0,0,0,du Plessis,Kohli,38,25,7,0,du Plessis,41,22,5,1,Dagar,0,0,7,0,Nitish Kumar,1.0,0,8,0
+RCB,7,7.4,0,0,1,0,0,du Plessis,Kohli,38,25,7,0,du Plessis,37,21,4,1,Dagar,0,0,3,0,Nitish Kumar,1.0,0,8,0
+RCB,7,7.3,1,0,0,0,0,Kohli,Kohli,38,25,7,0,du Plessis,37,20,4,1,Dagar,0,0,3,0,Nitish Kumar,1.0,0,8,0
+RCB,7,7.2,1,0,0,0,0,du Plessis,Kohli,37,24,7,0,du Plessis,37,20,4,1,Dagar,0,0,2,0,Nitish Kumar,1.0,0,8,0
+RCB,7,7.1,1,0,0,0,0,Kohli,Kohli,37,24,7,0,du Plessis,36,19,4,1,Dagar,0,0,1,0,Nitish Kumar,1.0,0,8,0
+RCB,6,6.6,1,0,0,0,0,Kohli,Kohli,36,23,7,0,du Plessis,36,19,4,1,Nitish Kumar,1.0,0,8,0,Natarajan,2.0,0,12,0
+RCB,6,6.5,1,0,0,0,0,du Plessis,Kohli,35,22,7,0,du Plessis,36,19,4,1,Nitish Kumar,0,0,7,0,Natarajan,2.0,0,12,0
+RCB,6,6.4,1,0,0,0,0,Kohli,Kohli,35,22,7,0,du Plessis,35,18,4,1,Nitish Kumar,0,0,6,0,Natarajan,2.0,0,12,0
+RCB,6,6.3,4,1,0,0,0,Kohli,Kohli,34,21,7,0,du Plessis,35,18,4,1,Nitish Kumar,0,0,5,0,Natarajan,2.0,0,12,0
+RCB,6,6.2,0,0,1,0,0,Kohli,Kohli,30,20,6,0,du Plessis,35,18,4,1,Nitish Kumar,0,0,1,0,Natarajan,2.0,0,12,0
+RCB,6,6.1,1,0,0,0,0,du Plessis,Kohli,30,19,6,0,du Plessis,35,18,4,1,Nitish Kumar,0,0,1,0,Natarajan,2.0,0,12,0
+RCB,5,5.6,1,0,0,0,0,du Plessis,Kohli,30,19,6,0,du Plessis,34,17,4,1,Natarajan,2.0,0,12,0,Bhuvneshwar,2.0,0,22,0
+RCB,5,5.5,0,0,1,0,0,du Plessis,Kohli,30,19,6,0,du Plessis,33,16,4,1,Natarajan,1.0,0,11,0,Bhuvneshwar,2.0,0,22,0
+RCB,5,5.4,1,0,0,0,0,Kohli,Kohli,30,19,6,0,du Plessis,33,15,4,1,Natarajan,1.0,0,11,0,Bhuvneshwar,2.0,0,22,0
+RCB,5,5.3,0,0,1,0,0,Kohli,Kohli,29,18,6,0,du Plessis,33,15,4,1,Natarajan,1.0,0,10,0,Bhuvneshwar,2.0,0,22,0
+RCB,5,5.2,1,0,0,0,0,du Plessis,Kohli,29,17,6,0,du Plessis,33,15,4,1,Natarajan,1.0,0,10,0,Bhuvneshwar,2.0,0,22,0
+RCB,5,5.1,2,0,0,0,0,du Plessis,Kohli,29,17,6,0,du Plessis,32,14,4,1,Natarajan,1.0,0,9,0,Bhuvneshwar,2.0,0,22,0
+RCB,4,4.6,0,0,1,0,0,Kohli,Kohli,29,17,6,0,du Plessis,30,13,4,1,Bhuvneshwar,2.0,0,22,0,Kartik Tyagi,1.0,0,18,0
+RCB,4,4.5,1,0,0,0,0,du Plessis,Kohli,29,16,6,0,du Plessis,30,13,4,1,Bhuvneshwar,1.0,0,22,0,Kartik Tyagi,1.0,0,18,0
+RCB,4,4.4,2,0,0,0,0,du Plessis,Kohli,29,16,6,0,du Plessis,29,12,4,1,Bhuvneshwar,1.0,0,21,0,Kartik Tyagi,1.0,0,18,0
+RCB,4,4.3,4,1,0,0,0,du Plessis,Kohli,29,16,6,0,du Plessis,27,11,4,1,Bhuvneshwar,1.0,0,19,0,Kartik Tyagi,1.0,0,18,0
+RCB,4,4.2,6,1,0,0,0,du Plessis,Kohli,29,16,6,0,du Plessis,23,10,3,1,Bhuvneshwar,1.0,0,15,0,Kartik Tyagi,1.0,0,18,0
+RCB,4,4.1,1,0,0,0,0,Kohli,Kohli,29,16,6,0,du Plessis,17,9,3,0,Bhuvneshwar,1.0,0,9,0,Kartik Tyagi,1.0,0,18,0
+RCB,3,3.6,1,0,0,0,0,Kohli,Kohli,28,15,6,0,du Plessis,17,9,3,0,Kartik Tyagi,1.0,0,18,0,Natarajan,1.0,0,7,0
+RCB,3,3.5,4,1,0,0,0,Kohli,Kohli,27,14,6,0,du Plessis,17,9,3,0,Kartik Tyagi,0,0,17,0,Natarajan,1.0,0,7,0
+RCB,3,3.4,1,0,0,0,0,du Plessis,Kohli,23,13,5,0,du Plessis,17,9,3,0,Kartik Tyagi,0,0,13,0,Natarajan,1.0,0,7,0
+RCB,3,3.3,4,1,0,0,0,du Plessis,Kohli,23,13,5,0,du Plessis,16,8,3,0,Kartik Tyagi,0,0,12,0,Natarajan,1.0,0,7,0
+RCB,3,3.2,4,1,0,0,0,du Plessis,Kohli,23,13,5,0,du Plessis,12,7,2,0,Kartik Tyagi,0,0,8,0,Natarajan,1.0,0,7,0
+RCB,3,3.1,4,1,0,0,0,du Plessis,Kohli,23,13,5,0,du Plessis,8,6,1,0,Kartik Tyagi,0,0,4,0,Natarajan,1.0,0,7,0
+RCB,2,2.6,0,0,1,0,0,Kohli,Kohli,23,13,5,0,du Plessis,4,5,0,0,Natarajan,1.0,0,7,0,Abhishek,1.0,0,12,0
+RCB,2,2.5,1,0,0,0,0,du Plessis,Kohli,23,12,5,0,du Plessis,4,5,0,0,Natarajan,0,0,7,0,Abhishek,1.0,0,12,0
+RCB,2,2.4,0,0,1,0,0,du Plessis,Kohli,23,12,5,0,du Plessis,3,4,0,0,Natarajan,0,0,6,0,Abhishek,1.0,0,12,0
+RCB,2,2.3,1,0,0,0,0,Kohli,Kohli,23,12,5,0,du Plessis,3,3,0,0,Natarajan,0,0,6,0,Abhishek,1.0,0,12,0
+RCB,2,2.2,4,1,0,0,0,Kohli,Kohli,22,11,5,0,du Plessis,3,3,0,0,Natarajan,0,0,5,0,Abhishek,1.0,0,12,0
+RCB,2,2.1,1,0,0,0,0,du Plessis,Kohli,18,10,4,0,du Plessis,3,3,0,0,Natarajan,0,0,1,0,Abhishek,1.0,0,12,0
+RCB,1,1.6,1,0,0,0,0,du Plessis,Kohli,18,10,4,0,du Plessis,2,2,0,0,Abhishek,1.0,0,12,0,Bhuvneshwar,1.0,0,8,0
+RCB,1,1.5,1,0,0,0,0,Kohli,Kohli,18,10,4,0,du Plessis,1,1,0,0,Abhishek,0,0,11,0,Bhuvneshwar,1.0,0,8,0
+RCB,1,1.4,4,1,0,0,0,Kohli,Kohli,17,9,4,0,du Plessis,1,1,0,0,Abhishek,0,0,10,0,Bhuvneshwar,1.0,0,8,0
+RCB,1,1.3,0,0,1,0,0,Kohli,Kohli,13,8,3,0,du Plessis,1,1,0,0,Abhishek,0,0,6,0,Bhuvneshwar,1.0,0,8,0
+RCB,1,1.3,1,0,0,0,1,Kohli,Kohli,13,7,3,0,du Plessis,1,1,0,0,Abhishek,0,0,6,0,Bhuvneshwar,1.0,0,8,0
+RCB,1,1.2,4,1,0,0,0,Kohli,Kohli,12,7,3,0,du Plessis,1,1,0,0,Abhishek,0,0,5,0,Bhuvneshwar,1.0,0,8,0
+RCB,1,1.1,1,0,0,0,0,du Plessis,Kohli,8,6,2,0,du Plessis,1,1,0,0,Abhishek,0,0,1,0,Bhuvneshwar,1.0,0,8,0
+RCB,0,0.6,0,0,1,0,0,Kohli,Kohli,8,6,2,0,,0,0,0,0,Bhuvneshwar,1.0,0,8,0,,0,0,0,0
+RCB,0,0.5,0,0,1,0,0,Kohli,Kohli,8,5,2,0,,0,0,0,0,Bhuvneshwar,0,0,8,0,,0,0,0,0
+RCB,0,0.4,0,0,1,0,0,Kohli,Kohli,8,4,2,0,,0,0,0,0,Bhuvneshwar,0,0,8,0,,0,0,0,0
+RCB,0,0.3,0,0,1,0,0,Kohli,Kohli,8,3,2,0,,0,0,0,0,Bhuvneshwar,0,0,8,0,,0,0,0,0
+RCB,0,0.2,4,1,0,0,0,Kohli,Kohli,8,2,2,0,,0,0,0,0,Bhuvneshwar,0,0,8,0,,0,0,0,0
+RCB,0,0.1,4,1,0,0,0,Kohli,Kohli,4,1,1,0,,0,0,0,0,Bhuvneshwar,0,0,4,0,,0,0,0,0

@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+CSK,19,19.1,15,2,0,1,0,Dhoni,Gaikwad,108,59,12,3,Dube,63,24,3,7,Stoinis,3.0,0,40,0,Mohsin Khan,4.0,0,50,1
+CSK,18,18.1,17,3,2,0,0,Gaikwad,Gaikwad,108,58,12,3,Dube,46,19,2,5,Mohsin Khan,3.0,0,39,1,Thakur,4.0,0,47,1
+CSK,17,17.1,16,3,2,0,1,Gaikwad,Gaikwad,94,54,10,2,Dube,39,16,2,4,Thakur,3.0,0,32,1,Mohsin Khan,3.0,0,33,1
+CSK,16,16.1,8,1,3,0,0,Gaikwad,Gaikwad,93,50,10,2,Dube,37,15,2,4,Mohsin Khan,2.0,0,31,1,Thakur,3.0,0,31,1
+CSK,15,15.1,19,3,2,0,0,Dube,Gaikwad,87,49,10,1,Dube,19,10,2,1,Thakur,2.0,0,13,1,Stoinis,3.0,0,34,0
+CSK,14,14.1,16,2,0,0,1,Gaikwad,Gaikwad,81,45,10,1,Dube,14,8,1,1,Stoinis,2.0,0,24,0,Henry,4.0,0,28,1
+CSK,13,13.1,8,1,2,0,0,Gaikwad,Gaikwad,72,41,10,0,Dube,13,6,1,1,Henry,3.0,0,24,1,Stoinis,2.0,0,18,0
+CSK,12,12.1,9,1,2,0,0,Dube,Gaikwad,71,39,10,0,Dube,1,2,0,0,Stoinis,1.0,0,9,0,Mohsin Khan,2.0,0,25,1
+CSK,11,11.1,9,1,0,1,0,Dube,Gaikwad,64,36,9,0,Jadeja,18,18,2,0,Mohsin Khan,1.0,0,17,0,Krunal,2.0,0,15,0
+CSK,10,10.1,8,1,1,0,1,Jadeja,Gaikwad,58,33,8,0,Jadeja,15,15,2,0,Krunal,1.0,0,8,0,Thakur,2.0,0,12,1
+CSK,9,9.1,11,1,0,0,0,Jadeja,Gaikwad,51,29,7,0,Jadeja,12,13,2,0,Thakur,1.0,0,2,1,Krunal,1.0,0,8,0
+CSK,8,8.1,8,1,1,0,0,Gaikwad,Gaikwad,44,25,6,0,Jadeja,10,11,2,0,Krunal,0,0,0,0,Stoinis,1.0,0,9,0
+CSK,7,7.1,10,1,1,0,1,Gaikwad,Gaikwad,41,23,6,0,Jadeja,5,7,1,0,Stoinis,0,0,2,0,Ravi Bishnoi,2.0,0,19,0
+CSK,6,6.1,7,1,2,0,0,Jadeja,Gaikwad,38,20,6,0,Jadeja,0,4,0,0,Ravi Bishnoi,1.0,0,13,0,Thakur,1.0,0,1,1
+CSK,5,5.1,1,0,4,1,0,Jadeja,Gaikwad,37,19,6,0,Mitchell,11,9,1,0,Thakur,0,0,1,0,Henry,3.0,0,20,1
+CSK,4,4.1,11,2,1,0,0,Gaikwad,Gaikwad,30,14,5,0,Mitchell,10,8,1,0,Henry,2.0,0,13,1,Ravi Bishnoi,1.0,0,12,0
+CSK,3,3.1,12,2,0,0,0,Gaikwad,Gaikwad,16,9,2,0,Mitchell,9,7,1,0,Ravi Bishnoi,0,0,1,0,Henry,2.0,0,9,1
+CSK,2,2.1,5,0,3,0,0,Gaikwad,Gaikwad,14,7,2,0,Mitchell,5,3,1,0,Henry,1.0,0,4,1,Mohsin Khan,1.0,0,16,0
+CSK,1,1.1,16,3,0,0,0,Gaikwad,Gaikwad,4,4,0,0,,0,0,0,0,Mohsin Khan,0,0,1,0,Henry,1.0,0,4,1
+CSK,0,0.1,4,0,2,1,0,Rahane,Rahane,1,1,0,0,,0,0,0,0,Henry,0,0,1,0,,0,0,0,0

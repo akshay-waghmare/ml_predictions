@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+MI,19,19.1,15,3,2,0,0,Shepherd,David,44,22,2,3,Shepherd,1,1,0,0,Markande,3.0,0,38,0,Cummins,4.0,0,35,2
+MI,18,18.1,7,0,1,0,0,David,David,38,17,2,3,,0,0,0,0,Cummins,3.0,0,29,2,Unadkat,4.0,0,47,2
+MI,17,17.1,14,2,0,1,1,Hardik,Hardik,23,18,1,1,David,28,13,2,2,Unadkat,3.0,0,37,1,Bhuvneshwar,4.0,0,53,0
+MI,16,16.1,20,3,0,0,0,David,Hardik,23,18,1,1,David,5,7,0,0,Bhuvneshwar,3.0,0,34,0,Unadkat,3.0,0,33,1
+MI,15,15.1,5,0,2,0,1,Hardik,Hardik,20,15,1,1,David,2,4,0,0,Unadkat,2.0,0,28,1,Cummins,3.0,0,28,2
+MI,14,14.1,3,0,2,1,0,David,Hardik,19,13,1,1,,0,0,0,0,Cummins,2.0,0,25,2,Markande,3.0,0,37,0
+MI,13,13.1,12,1,0,0,0,Tilak Varma,Tilak Varma,58,29,2,5,Hardik,18,12,1,1,Markande,2.0,0,26,0,Bhuvneshwar,3.0,0,33,0
+MI,12,12.1,5,0,2,0,0,Hardik,Tilak Varma,57,28,2,5,Hardik,13,7,1,1,Bhuvneshwar,2.0,0,28,0,Markande,2.0,0,25,0
+MI,11,11.1,14,2,2,0,1,Hardik,Tilak Varma,55,25,2,5,Hardik,7,3,0,1,Markande,1.0,0,17,0,Unadkat,2.0,0,28,1
+MI,10,10.1,10,2,1,1,0,Hardik,Naman Dhir,27,12,1,2,Tilak Varma,54,24,2,5,Unadkat,1.0,0,22,0,Shahbaz Ahmed,3.0,0,39,1
+MI,9,9.1,22,3,0,0,0,Tilak Varma,Naman Dhir,27,12,1,2,Tilak Varma,29,18,1,2,Shahbaz Ahmed,2.0,0,18,1,Cummins,2.0,0,25,1
+MI,8,8.1,17,2,0,0,1,Naman Dhir,Naman Dhir,17,8,1,1,Tilak Varma,25,16,1,2,Cummins,1.0,0,12,1,Markande,1.0,0,11,0
+MI,7,7.1,11,1,1,0,1,Tilak Varma,Naman Dhir,16,7,1,1,Tilak Varma,12,11,0,1,Markande,0,0,1,0,Umran Malik,1.0,0,15,0
+MI,6,6.1,15,2,2,0,1,Tilak Varma,Naman Dhir,7,4,1,0,Tilak Varma,5,8,0,0,Umran Malik,0,0,0,0,Shahbaz Ahmed,2.0,0,17,1
+MI,5,5.1,9,1,1,0,1,Tilak Varma,Naman Dhir,2,2,0,0,Tilak Varma,2,4,0,0,Shahbaz Ahmed,1.0,0,9,1,Cummins,1.0,0,8,1
+MI,4,4.1,8,1,2,1,0,Tilak Varma,Rohit Sharma,20,10,1,2,Naman Dhir,2,2,0,0,Cummins,0,0,1,0,Shahbaz Ahmed,1.0,0,9,1
+MI,3,3.1,9,1,2,1,0,Rohit Sharma,Rohit Sharma,18,7,1,2,Ishan,38,12,3,4,Shahbaz Ahmed,0,0,6,0,Bhuvneshwar,2.0,0,28,0
+MI,2,2.1,23,4,1,0,0,Ishan,Rohit Sharma,18,7,1,2,Ishan,13,6,3,0,Bhuvneshwar,1.0,0,9,0,Unadkat,1.0,0,18,0
+MI,1,1.1,18,3,1,0,0,Rohit Sharma,Rohit Sharma,6,4,1,0,Ishan,4,3,1,0,Unadkat,0,0,1,0,Bhuvneshwar,1.0,0,5,0
+MI,0,0.1,9,2,3,0,1,Ishan,Rohit Sharma,0,1,0,0,,0,0,0,0,Bhuvneshwar,0,0,0,0,,0,0,0,0

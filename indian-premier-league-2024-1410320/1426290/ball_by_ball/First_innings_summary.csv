@@ -1,0 +1,15 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+RCB,13,13.1,9,1,1,0,0,Swapnil,Karthik,20,11,3,0,Swapnil,10,7,2,0,Rashid Khan,1.0,0,18,0,Noor Ahmad,4.0,0,23,2
+RCB,12,12.1,10,2,2,0,1,Swapnil,Karthik,17,8,3,0,Swapnil,1,4,0,0,Noor Ahmad,3.0,0,14,2,Rashid Khan,1.0,0,16,0
+RCB,11,11.1,16,3,0,0,0,Swapnil,Karthik,6,4,1,0,Swapnil,0,2,0,0,Rashid Khan,0,0,4,0,Noor Ahmad,3.0,0,14,2
+RCB,10,10.1,5,1,3,1,0,Swapnil,Kohli,38,25,1,4,Karthik,1,2,0,0,Noor Ahmad,2.0,0,9,1,Little,4.0,0,45,4
+RCB,9,9.1,4,0,1,1,0,Karthik,Kohli,37,23,1,4,,0,0,0,0,Little,3.0,0,42,3,Noor Ahmad,2.0,0,9,1
+RCB,8,8.1,1,0,5,0,0,Kohli,Kohli,35,17,1,4,,0,0,0,0,Noor Ahmad,1.0,0,8,1,Little,3.0,0,41,3
+RCB,7,7.1,7,1,1,2,1,Maxwell,Kohli,34,15,1,4,Patidar,2,2,0,0,Little,2.0,0,35,1,Noor Ahmad,1.0,0,8,1
+RCB,6,6.1,8,1,0,1,0,Patidar,Kohli,32,13,1,4,Jacks,0,1,0,0,Noor Ahmad,0,0,4,0,Little,2.0,0,34,1
+RCB,5,5.1,14,3,2,1,0,Jacks,Kohli,28,12,0,4,du Plessis,54,19,9,2,Little,1.0,0,24,0,Suthar,2.0,0,26,0
+RCB,4,4.1,14,2,2,0,0,du Plessis,Kohli,15,8,0,2,du Plessis,49,17,8,2,Suthar,1.0,0,12,0,Mohit,2.0,0,32,0
+RCB,3,3.1,18,4,0,0,0,du Plessis,Kohli,14,6,0,2,du Plessis,36,13,5,2,Mohit,1.0,0,18,0,Suthar,1.0,0,12,0
+RCB,2,2.1,12,2,2,0,0,Kohli,Kohli,14,5,0,2,du Plessis,21,8,3,1,Suthar,0,0,1,0,Little,1.0,0,20,0
+RCB,1,1.1,20,4,1,0,0,du Plessis,Kohli,13,4,0,2,du Plessis,5,3,1,0,Little,0,0,4,0,Mohit,1.0,0,14,0
+RCB,0,0.1,14,2,2,0,0,Kohli,Kohli,0,1,0,0,,0,0,0,0,Mohit,0,0,0,0,,0,0,0,0

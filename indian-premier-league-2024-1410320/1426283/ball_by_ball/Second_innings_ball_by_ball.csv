@@ -1,0 +1,131 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+GT,19,19.6,6,1,0,0,0,Miller,B Sai Sudharsan,90,49,8,4,Miller,29,19,2,1,Yash Dayal,4.0,0,34,0,Siraj,4.0,0,34,1
+GT,19,19.5,2,0,0,0,0,Miller,B Sai Sudharsan,90,49,8,4,Miller,23,18,2,0,Yash Dayal,4.0,0,28,0,Siraj,4.0,0,34,1
+GT,19,19.4,1,0,0,0,0,B Sai Sudharsan,B Sai Sudharsan,90,49,8,4,Miller,21,17,2,0,Yash Dayal,3.0,0,26,0,Siraj,4.0,0,34,1
+GT,19,19.3,2,0,0,0,0,B Sai Sudharsan,B Sai Sudharsan,89,48,8,4,Miller,21,17,2,0,Yash Dayal,3.0,0,25,0,Siraj,4.0,0,34,1
+GT,19,19.2,1,0,0,0,0,Miller,B Sai Sudharsan,87,47,8,4,Miller,21,17,2,0,Yash Dayal,3.0,0,23,0,Siraj,4.0,0,34,1
+GT,19,19.2,1,0,0,0,1,Miller,B Sai Sudharsan,87,47,8,4,Miller,20,16,2,0,Yash Dayal,3.0,0,22,0,Siraj,4.0,0,34,1
+GT,19,19.1,2,0,0,0,0,Miller,B Sai Sudharsan,87,47,8,4,Miller,19,16,2,0,Yash Dayal,3.0,0,21,0,Siraj,4.0,0,34,1
+GT,19,19.1,1,0,0,0,1,Miller,B Sai Sudharsan,87,47,8,4,Miller,17,15,2,0,Yash Dayal,3.0,0,19,0,Siraj,4.0,0,34,1
+GT,18,18.6,1,0,0,0,0,Miller,B Sai Sudharsan,87,47,8,4,Miller,16,15,2,0,Siraj,4.0,0,34,1,Green,3.0,0,42,0
+GT,18,18.6,1,0,0,0,1,Miller,B Sai Sudharsan,87,47,8,4,Miller,15,14,2,0,Siraj,3.0,0,33,1,Green,3.0,0,42,0
+GT,18,18.5,0,0,1,0,0,Miller,B Sai Sudharsan,87,47,8,4,Miller,14,14,2,0,Siraj,3.0,0,32,1,Green,3.0,0,42,0
+GT,18,18.4,0,0,1,0,0,Miller,B Sai Sudharsan,87,47,8,4,Miller,14,13,2,0,Siraj,3.0,0,32,1,Green,3.0,0,42,0
+GT,18,18.3,4,1,0,0,0,Miller,B Sai Sudharsan,87,47,8,4,Miller,14,12,2,0,Siraj,3.0,0,32,1,Green,3.0,0,42,0
+GT,18,18.2,1,0,0,0,0,B Sai Sudharsan,B Sai Sudharsan,87,47,8,4,Miller,10,11,1,0,Siraj,3.0,0,28,1,Green,3.0,0,42,0
+GT,18,18.1,6,1,0,0,0,B Sai Sudharsan,B Sai Sudharsan,86,46,8,4,Miller,10,11,1,0,Siraj,3.0,0,27,1,Green,3.0,0,42,0
+GT,17,17.6,1,0,0,0,0,B Sai Sudharsan,B Sai Sudharsan,80,45,8,3,Miller,10,11,1,0,Green,3.0,0,42,0,Yash Dayal,3.0,0,18,0
+GT,17,17.5,1,0,0,0,0,Miller,B Sai Sudharsan,79,44,8,3,Miller,10,11,1,0,Green,2.0,0,41,0,Yash Dayal,3.0,0,18,0
+GT,17,17.4,1,0,0,0,0,B Sai Sudharsan,B Sai Sudharsan,79,44,8,3,Miller,9,10,1,0,Green,2.0,0,40,0,Yash Dayal,3.0,0,18,0
+GT,17,17.3,4,1,0,0,0,B Sai Sudharsan,B Sai Sudharsan,78,43,8,3,Miller,9,10,1,0,Green,2.0,0,39,0,Yash Dayal,3.0,0,18,0
+GT,17,17.2,4,1,0,0,0,B Sai Sudharsan,B Sai Sudharsan,74,42,7,3,Miller,9,10,1,0,Green,2.0,0,35,0,Yash Dayal,3.0,0,18,0
+GT,17,17.1,4,1,0,0,0,B Sai Sudharsan,B Sai Sudharsan,70,41,6,3,Miller,9,10,1,0,Green,2.0,0,31,0,Yash Dayal,3.0,0,18,0
+GT,16,16.6,4,1,0,0,0,Miller,B Sai Sudharsan,66,40,5,3,Miller,9,10,1,0,Yash Dayal,3.0,0,18,0,Maxwell,3.0,0,28,1
+GT,16,16.5,0,0,1,0,0,Miller,B Sai Sudharsan,66,40,5,3,Miller,5,9,0,0,Yash Dayal,3.0,0,14,0,Maxwell,3.0,0,28,1
+GT,16,16.4,1,0,0,0,0,B Sai Sudharsan,B Sai Sudharsan,66,40,5,3,Miller,5,8,0,0,Yash Dayal,2.0,0,14,0,Maxwell,3.0,0,28,1
+GT,16,16.3,1,0,0,0,0,Miller,B Sai Sudharsan,65,39,5,3,Miller,5,8,0,0,Yash Dayal,2.0,0,13,0,Maxwell,3.0,0,28,1
+GT,16,16.2,0,0,1,0,0,Miller,B Sai Sudharsan,65,39,5,3,Miller,4,7,0,0,Yash Dayal,2.0,0,12,0,Maxwell,3.0,0,28,1
+GT,16,16.1,0,0,1,0,0,Miller,B Sai Sudharsan,65,39,5,3,Miller,4,6,0,0,Yash Dayal,2.0,0,12,0,Maxwell,3.0,0,28,1
+GT,16,16.1,2,0,0,0,1,B Sai Sudharsan,B Sai Sudharsan,65,39,5,3,Miller,4,5,0,0,Yash Dayal,2.0,0,12,0,Maxwell,3.0,0,28,1
+GT,15,15.6,1,0,0,0,0,B Sai Sudharsan,B Sai Sudharsan,63,38,5,3,Miller,4,5,0,0,Maxwell,3.0,0,28,1,Siraj,3.0,0,21,1
+GT,15,15.5,6,1,0,0,0,B Sai Sudharsan,B Sai Sudharsan,62,37,5,3,Miller,4,5,0,0,Maxwell,2.0,0,27,1,Siraj,3.0,0,21,1
+GT,15,15.4,1,0,0,0,0,Miller,B Sai Sudharsan,56,36,5,2,Miller,4,5,0,0,Maxwell,2.0,0,21,1,Siraj,3.0,0,21,1
+GT,15,15.3,1,0,0,0,0,B Sai Sudharsan,B Sai Sudharsan,56,36,5,2,Miller,3,4,0,0,Maxwell,2.0,0,20,1,Siraj,3.0,0,21,1
+GT,15,15.2,0,0,1,0,0,B Sai Sudharsan,B Sai Sudharsan,55,35,5,2,Miller,3,4,0,0,Maxwell,2.0,0,19,1,Siraj,3.0,0,21,1
+GT,15,15.1,1,0,0,0,0,Miller,B Sai Sudharsan,55,34,5,2,Miller,3,4,0,0,Maxwell,2.0,0,19,1,Siraj,3.0,0,21,1
+GT,14,14.6,1,0,0,0,0,Miller,B Sai Sudharsan,55,34,5,2,Miller,2,3,0,0,Siraj,3.0,0,21,1,Swapnil,3.0,0,23,1
+GT,14,14.5,1,0,0,0,0,B Sai Sudharsan,B Sai Sudharsan,55,34,5,2,Miller,1,2,0,0,Siraj,2.0,0,20,1,Swapnil,3.0,0,23,1
+GT,14,14.4,4,1,0,0,0,B Sai Sudharsan,B Sai Sudharsan,54,33,5,2,Miller,1,2,0,0,Siraj,2.0,0,19,1,Swapnil,3.0,0,23,1
+GT,14,14.3,1,0,0,0,0,Miller,B Sai Sudharsan,50,32,4,2,Miller,1,2,0,0,Siraj,2.0,0,15,1,Swapnil,3.0,0,23,1
+GT,14,14.2,0,0,1,0,0,Miller,B Sai Sudharsan,50,32,4,2,Miller,0,1,0,0,Siraj,2.0,0,14,1,Swapnil,3.0,0,23,1
+GT,14,14.1,0,0,0,1,0,Shahrukh Khan,B Sai Sudharsan,50,32,4,2,,0,0,0,0,Siraj,2.0,0,14,1,Swapnil,3.0,0,23,1
+GT,13,13.6,1,0,0,0,0,Shahrukh Khan,B Sai Sudharsan,50,32,4,2,Shahrukh Khan,59,29,3,5,Swapnil,3.0,0,23,1,Green,2.0,0,27,0
+GT,13,13.5,1,0,0,0,0,B Sai Sudharsan,B Sai Sudharsan,50,32,4,2,Shahrukh Khan,58,28,3,5,Swapnil,2.0,0,22,1,Green,2.0,0,27,0
+GT,13,13.4,0,0,1,0,0,B Sai Sudharsan,B Sai Sudharsan,49,31,4,2,Shahrukh Khan,58,28,3,5,Swapnil,2.0,0,21,1,Green,2.0,0,27,0
+GT,13,13.3,1,0,0,0,0,Shahrukh Khan,B Sai Sudharsan,49,30,4,2,Shahrukh Khan,58,28,3,5,Swapnil,2.0,0,21,1,Green,2.0,0,27,0
+GT,13,13.2,2,0,0,0,0,Shahrukh Khan,B Sai Sudharsan,49,30,4,2,Shahrukh Khan,57,27,3,5,Swapnil,2.0,0,20,1,Green,2.0,0,27,0
+GT,13,13.1,1,0,0,0,0,B Sai Sudharsan,B Sai Sudharsan,49,30,4,2,Shahrukh Khan,55,26,3,5,Swapnil,2.0,0,18,1,Green,2.0,0,27,0
+GT,12,12.6,0,0,1,0,0,Shahrukh Khan,B Sai Sudharsan,48,29,4,2,Shahrukh Khan,55,26,3,5,Green,2.0,0,27,0,Karn,3.0,0,38,0
+GT,12,12.5,1,0,0,0,0,B Sai Sudharsan,B Sai Sudharsan,48,29,4,2,Shahrukh Khan,55,25,3,5,Green,1.0,0,27,0,Karn,3.0,0,38,0
+GT,12,12.4,1,0,0,0,0,Shahrukh Khan,B Sai Sudharsan,47,28,4,2,Shahrukh Khan,55,25,3,5,Green,1.0,0,26,0,Karn,3.0,0,38,0
+GT,12,12.3,6,1,0,0,0,Shahrukh Khan,B Sai Sudharsan,47,28,4,2,Shahrukh Khan,54,24,3,5,Green,1.0,0,25,0,Karn,3.0,0,38,0
+GT,12,12.2,4,1,0,0,0,Shahrukh Khan,B Sai Sudharsan,47,28,4,2,Shahrukh Khan,48,23,3,4,Green,1.0,0,19,0,Karn,3.0,0,38,0
+GT,12,12.2,1,0,0,0,1,Shahrukh Khan,B Sai Sudharsan,47,28,4,2,Shahrukh Khan,44,22,2,4,Green,1.0,0,15,0,Karn,3.0,0,38,0
+GT,12,12.1,4,1,0,0,0,Shahrukh Khan,B Sai Sudharsan,47,28,4,2,Shahrukh Khan,43,22,2,4,Green,1.0,0,14,0,Karn,3.0,0,38,0
+GT,11,11.6,1,0,0,0,0,Shahrukh Khan,B Sai Sudharsan,47,28,4,2,Shahrukh Khan,39,21,1,4,Karn,3.0,0,38,0,Green,1.0,0,10,0
+GT,11,11.5,1,0,0,0,0,B Sai Sudharsan,B Sai Sudharsan,47,28,4,2,Shahrukh Khan,38,20,1,4,Karn,2.0,0,37,0,Green,1.0,0,10,0
+GT,11,11.4,1,0,0,0,0,Shahrukh Khan,B Sai Sudharsan,46,27,4,2,Shahrukh Khan,38,20,1,4,Karn,2.0,0,36,0,Green,1.0,0,10,0
+GT,11,11.3,6,1,0,0,0,Shahrukh Khan,B Sai Sudharsan,46,27,4,2,Shahrukh Khan,37,19,1,4,Karn,2.0,0,35,0,Green,1.0,0,10,0
+GT,11,11.2,1,0,0,0,0,B Sai Sudharsan,B Sai Sudharsan,46,27,4,2,Shahrukh Khan,31,18,1,3,Karn,2.0,0,29,0,Green,1.0,0,10,0
+GT,11,11.1,6,1,0,0,0,B Sai Sudharsan,B Sai Sudharsan,45,26,4,2,Shahrukh Khan,31,18,1,3,Karn,2.0,0,28,0,Green,1.0,0,10,0
+GT,10,10.6,1,0,0,0,0,B Sai Sudharsan,B Sai Sudharsan,39,25,4,1,Shahrukh Khan,31,18,1,3,Green,1.0,0,10,0,Karn,2.0,0,22,0
+GT,10,10.5,1,0,0,0,0,Shahrukh Khan,B Sai Sudharsan,38,24,4,1,Shahrukh Khan,31,18,1,3,Green,0,0,9,0,Karn,2.0,0,22,0
+GT,10,10.4,6,1,0,0,0,Shahrukh Khan,B Sai Sudharsan,38,24,4,1,Shahrukh Khan,30,17,1,3,Green,0,0,8,0,Karn,2.0,0,22,0
+GT,10,10.3,1,0,0,0,0,B Sai Sudharsan,B Sai Sudharsan,38,24,4,1,Shahrukh Khan,24,16,1,2,Green,0,0,2,0,Karn,2.0,0,22,0
+GT,10,10.2,1,0,0,0,0,Shahrukh Khan,B Sai Sudharsan,37,23,4,1,Shahrukh Khan,24,16,1,2,Green,0,0,1,0,Karn,2.0,0,22,0
+GT,10,10.1,0,0,1,0,0,Shahrukh Khan,B Sai Sudharsan,37,23,4,1,Shahrukh Khan,23,15,1,2,Green,0,0,0,0,Karn,2.0,0,22,0
+GT,9,9.6,0,0,1,0,0,B Sai Sudharsan,B Sai Sudharsan,37,23,4,1,Shahrukh Khan,23,14,1,2,Karn,2.0,0,22,0,Maxwell,2.0,0,18,1
+GT,9,9.6,1,0,0,0,1,B Sai Sudharsan,B Sai Sudharsan,37,22,4,1,Shahrukh Khan,23,14,1,2,Karn,1.0,0,22,0,Maxwell,2.0,0,18,1
+GT,9,9.5,1,0,0,0,0,Shahrukh Khan,B Sai Sudharsan,36,22,4,1,Shahrukh Khan,23,14,1,2,Karn,1.0,0,21,0,Maxwell,2.0,0,18,1
+GT,9,9.4,1,0,0,0,0,B Sai Sudharsan,B Sai Sudharsan,36,22,4,1,Shahrukh Khan,22,13,1,2,Karn,1.0,0,20,0,Maxwell,2.0,0,18,1
+GT,9,9.3,1,0,0,0,0,Shahrukh Khan,B Sai Sudharsan,35,21,4,1,Shahrukh Khan,22,13,1,2,Karn,1.0,0,19,0,Maxwell,2.0,0,18,1
+GT,9,9.2,0,0,1,0,0,Shahrukh Khan,B Sai Sudharsan,35,21,4,1,Shahrukh Khan,21,12,1,2,Karn,1.0,0,18,0,Maxwell,2.0,0,18,1
+GT,9,9.1,6,1,0,0,0,Shahrukh Khan,B Sai Sudharsan,35,21,4,1,Shahrukh Khan,21,11,1,2,Karn,1.0,0,18,0,Maxwell,2.0,0,18,1
+GT,8,8.6,1,0,0,0,0,Shahrukh Khan,B Sai Sudharsan,35,21,4,1,Shahrukh Khan,15,10,1,1,Maxwell,2.0,0,18,1,Karn,1.0,0,12,0
+GT,8,8.5,4,1,0,0,0,Shahrukh Khan,B Sai Sudharsan,35,21,4,1,Shahrukh Khan,14,9,1,1,Maxwell,1.0,0,17,1,Karn,1.0,0,12,0
+GT,8,8.4,0,0,1,0,0,Shahrukh Khan,B Sai Sudharsan,35,21,4,1,Shahrukh Khan,10,8,0,1,Maxwell,1.0,0,13,1,Karn,1.0,0,12,0
+GT,8,8.3,6,1,0,0,0,Shahrukh Khan,B Sai Sudharsan,35,21,4,1,Shahrukh Khan,10,7,0,1,Maxwell,1.0,0,13,1,Karn,1.0,0,12,0
+GT,8,8.2,1,0,0,0,0,B Sai Sudharsan,B Sai Sudharsan,35,21,4,1,Shahrukh Khan,4,6,0,0,Maxwell,1.0,0,7,1,Karn,1.0,0,12,0
+GT,8,8.1,1,0,0,0,0,Shahrukh Khan,B Sai Sudharsan,34,20,4,1,Shahrukh Khan,4,6,0,0,Maxwell,1.0,0,6,1,Karn,1.0,0,12,0
+GT,7,7.6,4,1,0,0,0,B Sai Sudharsan,B Sai Sudharsan,34,20,4,1,Shahrukh Khan,3,5,0,0,Karn,1.0,0,12,0,Maxwell,1.0,0,5,1
+GT,7,7.5,6,1,0,0,0,B Sai Sudharsan,B Sai Sudharsan,30,19,3,1,Shahrukh Khan,3,5,0,0,Karn,0,0,8,0,Maxwell,1.0,0,5,1
+GT,7,7.4,1,0,0,0,0,Shahrukh Khan,B Sai Sudharsan,24,18,3,0,Shahrukh Khan,3,5,0,0,Karn,0,0,2,0,Maxwell,1.0,0,5,1
+GT,7,7.3,0,0,1,0,0,Shahrukh Khan,B Sai Sudharsan,24,18,3,0,Shahrukh Khan,2,4,0,0,Karn,0,0,1,0,Maxwell,1.0,0,5,1
+GT,7,7.2,0,0,1,0,0,Shahrukh Khan,B Sai Sudharsan,24,18,3,0,Shahrukh Khan,2,3,0,0,Karn,0,0,1,0,Maxwell,1.0,0,5,1
+GT,7,7.1,1,0,0,0,0,B Sai Sudharsan,B Sai Sudharsan,24,18,3,0,Shahrukh Khan,2,2,0,0,Karn,0,0,1,0,Maxwell,1.0,0,5,1
+GT,6,6.6,2,0,0,0,0,Shahrukh Khan,B Sai Sudharsan,23,17,3,0,Shahrukh Khan,2,2,0,0,Maxwell,1.0,0,5,1,Yash Dayal,2.0,0,10,0
+GT,6,6.5,0,0,1,0,0,Shahrukh Khan,B Sai Sudharsan,23,17,3,0,Shahrukh Khan,0,1,0,0,Maxwell,0,0,3,1,Yash Dayal,2.0,0,10,0
+GT,6,6.4,0,0,0,1,0,Gill,B Sai Sudharsan,23,17,3,0,,0,0,0,0,Maxwell,0,0,3,1,Yash Dayal,2.0,0,10,0
+GT,6,6.3,2,0,0,0,0,Gill,Gill,17,18,1,0,B Sai Sudharsan,23,17,3,0,Maxwell,0,0,3,0,Yash Dayal,2.0,0,10,0
+GT,6,6.2,0,0,1,0,0,Gill,Gill,15,17,1,0,B Sai Sudharsan,23,17,3,0,Maxwell,0,0,1,0,Yash Dayal,2.0,0,10,0
+GT,6,6.1,1,0,0,0,0,B Sai Sudharsan,Gill,15,16,1,0,B Sai Sudharsan,23,17,3,0,Maxwell,0,0,1,0,Yash Dayal,2.0,0,10,0
+GT,5,5.6,1,0,0,0,0,B Sai Sudharsan,Gill,15,16,1,0,B Sai Sudharsan,22,16,3,0,Yash Dayal,2.0,0,10,0,Siraj,2.0,0,14,0
+GT,5,5.5,0,0,1,0,0,B Sai Sudharsan,Gill,15,16,1,0,B Sai Sudharsan,21,15,3,0,Yash Dayal,1.0,0,9,0,Siraj,2.0,0,14,0
+GT,5,5.4,0,0,1,0,0,B Sai Sudharsan,Gill,15,16,1,0,B Sai Sudharsan,21,14,3,0,Yash Dayal,1.0,0,9,0,Siraj,2.0,0,14,0
+GT,5,5.3,4,1,0,0,0,B Sai Sudharsan,Gill,15,16,1,0,B Sai Sudharsan,21,13,3,0,Yash Dayal,1.0,0,9,0,Siraj,2.0,0,14,0
+GT,5,5.2,0,0,1,0,0,B Sai Sudharsan,Gill,15,16,1,0,B Sai Sudharsan,17,12,2,0,Yash Dayal,1.0,0,5,0,Siraj,2.0,0,14,0
+GT,5,5.2,1,0,0,0,1,B Sai Sudharsan,Gill,15,16,1,0,B Sai Sudharsan,17,11,2,0,Yash Dayal,1.0,0,5,0,Siraj,2.0,0,14,0
+GT,5,5.1,1,0,0,0,0,Gill,Gill,15,16,1,0,B Sai Sudharsan,16,11,2,0,Yash Dayal,1.0,0,4,0,Siraj,2.0,0,14,0
+GT,4,4.6,1,0,0,0,0,Gill,Gill,14,15,1,0,B Sai Sudharsan,16,11,2,0,Siraj,2.0,0,14,0,Yash Dayal,1.0,0,3,0
+GT,4,4.5,1,0,0,0,0,B Sai Sudharsan,Gill,13,14,1,0,B Sai Sudharsan,16,11,2,0,Siraj,1.0,0,13,0,Yash Dayal,1.0,0,3,0
+GT,4,4.4,0,0,1,0,0,B Sai Sudharsan,Gill,13,14,1,0,B Sai Sudharsan,15,10,2,0,Siraj,1.0,0,12,0,Yash Dayal,1.0,0,3,0
+GT,4,4.4,1,0,0,0,1,B Sai Sudharsan,Gill,13,14,1,0,B Sai Sudharsan,15,9,2,0,Siraj,1.0,0,12,0,Yash Dayal,1.0,0,3,0
+GT,4,4.4,1,0,0,0,1,B Sai Sudharsan,Gill,13,14,1,0,B Sai Sudharsan,14,9,2,0,Siraj,1.0,0,11,0,Yash Dayal,1.0,0,3,0
+GT,4,4.3,1,0,0,0,0,Gill,Gill,13,14,1,0,B Sai Sudharsan,13,9,2,0,Siraj,1.0,0,10,0,Yash Dayal,1.0,0,3,0
+GT,4,4.2,0,0,1,0,0,Gill,Gill,12,13,1,0,B Sai Sudharsan,13,9,2,0,Siraj,1.0,0,9,0,Yash Dayal,1.0,0,3,0
+GT,4,4.1,1,0,0,0,0,B Sai Sudharsan,Gill,12,12,1,0,B Sai Sudharsan,13,9,2,0,Siraj,1.0,0,9,0,Yash Dayal,1.0,0,3,0
+GT,4,4.1,1,0,0,0,1,B Sai Sudharsan,Gill,12,12,1,0,B Sai Sudharsan,12,8,2,0,Siraj,1.0,0,8,0,Yash Dayal,1.0,0,3,0
+GT,3,3.6,1,0,0,0,0,B Sai Sudharsan,Gill,12,12,1,0,B Sai Sudharsan,11,8,2,0,Yash Dayal,1.0,0,3,0,Swapnil,2.0,0,17,1
+GT,3,3.5,0,0,1,0,0,B Sai Sudharsan,Gill,12,12,1,0,B Sai Sudharsan,10,7,2,0,Yash Dayal,0,0,2,0,Swapnil,2.0,0,17,1
+GT,3,3.4,1,0,0,0,0,Gill,Gill,12,12,1,0,B Sai Sudharsan,10,6,2,0,Yash Dayal,0,0,2,0,Swapnil,2.0,0,17,1
+GT,3,3.3,1,0,0,0,0,B Sai Sudharsan,Gill,11,11,1,0,B Sai Sudharsan,10,6,2,0,Yash Dayal,0,0,1,0,Swapnil,2.0,0,17,1
+GT,3,3.2,0,0,1,0,0,B Sai Sudharsan,Gill,11,11,1,0,B Sai Sudharsan,9,5,2,0,Yash Dayal,0,0,0,0,Swapnil,2.0,0,17,1
+GT,3,3.1,1,0,0,0,1,Gill,Gill,11,11,1,0,B Sai Sudharsan,9,4,2,0,Yash Dayal,0,0,0,0,Swapnil,2.0,0,17,1
+GT,2,2.6,4,1,0,0,0,B Sai Sudharsan,Gill,10,10,1,0,B Sai Sudharsan,9,4,2,0,Swapnil,2.0,0,17,1,Siraj,1.0,0,7,0
+GT,2,2.5,4,1,0,0,0,B Sai Sudharsan,Gill,10,10,1,0,B Sai Sudharsan,5,3,1,0,Swapnil,1.0,0,13,1,Siraj,1.0,0,7,0
+GT,2,2.4,1,0,0,0,0,Gill,Gill,10,10,1,0,B Sai Sudharsan,1,2,0,0,Swapnil,1.0,0,9,1,Siraj,1.0,0,7,0
+GT,2,2.3,0,0,1,0,0,Gill,Gill,9,9,1,0,B Sai Sudharsan,1,2,0,0,Swapnil,1.0,0,8,1,Siraj,1.0,0,7,0
+GT,2,2.2,1,0,0,0,0,B Sai Sudharsan,Gill,9,8,1,0,B Sai Sudharsan,1,2,0,0,Swapnil,1.0,0,8,1,Siraj,1.0,0,7,0
+GT,2,2.1,1,0,0,0,0,Gill,Gill,9,8,1,0,B Sai Sudharsan,0,1,0,0,Swapnil,1.0,0,7,1,Siraj,1.0,0,7,0
+GT,1,1.6,0,0,1,0,0,B Sai Sudharsan,Gill,8,7,1,0,B Sai Sudharsan,0,1,0,0,Siraj,1.0,0,7,0,Swapnil,1.0,0,6,1
+GT,1,1.5,1,0,0,0,0,Gill,Gill,8,7,1,0,,0,0,0,0,Siraj,0,0,7,0,Swapnil,1.0,0,6,1
+GT,1,1.4,0,0,1,0,0,Gill,Gill,7,6,1,0,,0,0,0,0,Siraj,0,0,6,0,Swapnil,1.0,0,6,1
+GT,1,1.3,2,0,0,0,0,Gill,Gill,7,5,1,0,,0,0,0,0,Siraj,0,0,6,0,Swapnil,1.0,0,6,1
+GT,1,1.2,4,1,0,0,0,Gill,Gill,5,4,1,0,,0,0,0,0,Siraj,0,0,4,0,Swapnil,1.0,0,6,1
+GT,1,1.1,0,0,1,0,0,Gill,Gill,1,3,0,0,,0,0,0,0,Siraj,0,0,0,0,Swapnil,1.0,0,6,1
+GT,0,0.6,0,0,0,1,0,Saha,Gill,1,2,0,0,,0,0,0,0,Swapnil,1.0,0,6,1,,0,0,0,0
+GT,0,0.5,1,0,0,0,0,Gill,Saha,5,3,1,0,Gill,1,2,0,0,Swapnil,0,0,6,0,,0,0,0,0
+GT,0,0.4,0,0,1,0,0,Gill,Saha,5,3,1,0,Gill,0,1,0,0,Swapnil,0,0,5,0,,0,0,0,0
+GT,0,0.3,1,0,0,0,0,Saha,Saha,5,3,1,0,,0,0,0,0,Swapnil,0,0,5,0,,0,0,0,0
+GT,0,0.2,4,1,0,0,0,Saha,Saha,4,2,1,0,,0,0,0,0,Swapnil,0,0,4,0,,0,0,0,0
+GT,0,0.1,0,0,1,0,0,Saha,Saha,0,1,0,0,,0,0,0,0,Swapnil,0,0,0,0,,0,0,0,0

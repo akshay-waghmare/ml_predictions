@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+SRH,19,19.1,4,1,0,0,0,Sanvir Singh,Abdul Samad,11,8,0,1,Sanvir Singh,6,4,1,0,Atharva,0,0,4,0,Harpreet Brar,3.0,0,36,1
+SRH,18,18.1,4,0,1,1,0,Sanvir Singh,Klaasen,44,25,3,2,Abdul Samad,10,7,0,1,Harpreet Brar,2.0,0,33,0,Chahar,4.0,0,43,0
+SRH,17,17.1,9,1,2,0,0,Abdul Samad,Klaasen,43,24,3,2,Abdul Samad,1,2,0,0,Chahar,3.0,0,34,0,Arshdeep,4.0,0,37,2
+SRH,16,16.1,9,1,1,1,1,Abdul Samad,Klaasen,37,21,2,2,Shahbaz Ahmed,3,5,0,0,Arshdeep,3.0,0,30,1,Harshal,4.0,0,49,2
+SRH,15,15.1,7,1,3,0,1,Shahbaz Ahmed,Klaasen,29,16,1,2,Shahbaz Ahmed,3,4,0,0,Harshal,3.0,0,43,2,Arshdeep,3.0,0,28,1
+SRH,14,14.1,6,0,1,0,0,Shahbaz Ahmed,Klaasen,26,14,1,2,,0,0,0,0,Arshdeep,2.0,0,23,1,Harshal,3.0,0,42,2
+SRH,13,13.1,9,1,0,1,0,Nitish Kumar,Nitish Kumar,38,22,1,3,Klaasen,19,10,0,2,Harshal,2.0,0,35,1,Harpreet Brar,2.0,0,32,0
+SRH,12,12.1,14,2,2,0,1,Nitish Kumar,Nitish Kumar,32,21,1,2,Klaasen,10,5,0,1,Harpreet Brar,1.0,0,19,0,Chahar,3.0,0,34,0
+SRH,11,11.1,19,3,1,0,1,Klaasen,Nitish Kumar,19,16,0,1,Klaasen,4,4,0,0,Chahar,2.0,0,16,0,Shashank Singh,1.0,0,5,1
+SRH,10,10.1,5,0,0,1,0,Klaasen,Nitish Kumar,17,14,0,1,,0,0,0,0,Shashank Singh,0,0,0,1,Harpreet Brar,1.0,0,19,0
+SRH,9,9.1,19,2,2,0,1,Abhishek,Abhishek,54,23,5,4,Nitish Kumar,16,13,0,1,Harpreet Brar,0,0,0,0,Chahar,2.0,0,15,0
+SRH,8,8.1,11,1,1,0,0,Abhishek,Abhishek,53,21,5,4,Nitish Kumar,8,9,0,0,Chahar,1.0,0,6,0,Harshal,2.0,0,33,1
+SRH,7,7.1,11,2,0,0,0,Abhishek,Abhishek,44,18,3,4,Nitish Kumar,5,7,0,0,Harshal,1.0,0,23,1,Chahar,1.0,0,4,0
+SRH,6,6.1,4,0,2,0,0,Nitish Kumar,Abhishek,43,17,3,4,Nitish Kumar,2,2,0,0,Chahar,0,0,1,0,R Dhawan,3.0,0,35,0
+SRH,5,5.1,12,1,0,0,1,Abhishek,Abhishek,33,12,3,3,,0,0,0,0,R Dhawan,2.0,0,24,0,Harshal,1.0,0,22,1
+SRH,4,4.1,22,2,0,1,2,Tripathi,Tripathi,30,15,5,1,Abhishek,21,9,2,2,Harshal,0,0,1,0,R Dhawan,2.0,0,23,0
+SRH,3,3.1,11,2,3,0,1,Abhishek,Tripathi,24,11,4,1,Abhishek,15,7,2,1,R Dhawan,1.0,0,16,0,Arshdeep,2.0,0,22,1
+SRH,2,2.1,14,3,3,0,0,Abhishek,Tripathi,24,10,4,1,Abhishek,5,2,1,0,Arshdeep,1.0,0,12,1,R Dhawan,1.0,0,16,0
+SRH,1,1.1,16,3,1,0,0,Tripathi,Tripathi,10,6,2,0,,0,0,0,0,R Dhawan,0,0,1,0,Arshdeep,1.0,0,8,1
+SRH,0,0.1,9,2,2,1,1,Tripathi,,0,0,0,0,,0,0,0,0,Arshdeep,0,0,0,1,,0,0,0,0

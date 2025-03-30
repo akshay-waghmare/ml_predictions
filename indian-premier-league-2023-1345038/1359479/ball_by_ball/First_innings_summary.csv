@@ -1,0 +1,18 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+RCB,16,16.1,11,2,0,0,1,Kohli,Kohli,79,48,6,4,Maxwell,12,3,0,2,Arshad Khan,2.0,0,21,1,Green,2.0,0,30,1
+RCB,15,15.1,13,2,2,1,0,Maxwell,Kohli,75,47,5,4,Karthik,0,1,0,0,Green,1.0,0,18,0,Arshad Khan,2.0,0,17,1
+RCB,14,14.1,9,1,2,1,0,Karthik,Kohli,71,43,5,4,du Plessis,74,42,5,6,Arshad Khan,1.0,0,14,0,Archer,4.0,0,33,0
+RCB,13,13.1,10,1,2,0,0,du Plessis,Kohli,58,40,5,2,du Plessis,73,39,5,6,Archer,3.0,0,25,0,Behrendorff,3.0,0,37,0
+RCB,12,12.1,16,3,1,0,0,du Plessis,Kohli,57,39,5,2,du Plessis,60,34,4,5,Behrendorff,2.0,0,25,0,Archer,3.0,0,23,0
+RCB,11,11.1,5,0,3,0,0,du Plessis,Kohli,50,34,4,2,du Plessis,60,33,4,5,Archer,2.0,0,20,0,Chawla,4.0,0,26,0
+RCB,10,10.1,11,1,2,0,0,du Plessis,Kohli,39,30,4,1,du Plessis,58,31,4,5,Chawla,3.0,0,15,0,Shokeen,1.0,0,17,0
+RCB,9,9.1,17,2,0,0,0,Kohli,Kohli,37,27,4,1,du Plessis,45,28,4,3,Shokeen,0,0,2,0,Chawla,3.0,0,15,0
+RCB,8,8.1,5,1,4,0,0,du Plessis,Kohli,34,23,4,1,du Plessis,45,26,4,3,Chawla,2.0,0,14,0,Green,1.0,0,17,0
+RCB,7,7.1,17,3,1,0,0,du Plessis,Kohli,30,22,3,1,du Plessis,29,21,2,2,Green,0,0,1,0,Chawla,2.0,0,10,0
+RCB,6,6.1,5,0,1,0,0,Kohli,Kohli,26,18,3,1,du Plessis,27,19,2,2,Chawla,1.0,0,5,0,Archer,2.0,0,18,0
+RCB,5,5.1,8,1,1,0,0,Kohli,Kohli,20,13,2,1,du Plessis,26,18,2,2,Archer,1.0,0,11,0,Chawla,1.0,0,5,0
+RCB,4,4.1,5,1,4,0,0,du Plessis,Kohli,20,13,2,1,du Plessis,20,12,1,2,Chawla,0,0,0,0,Archer,1.0,0,10,0
+RCB,3,3.1,10,2,4,0,0,Kohli,Kohli,10,8,1,0,du Plessis,20,11,1,2,Archer,0,0,0,0,Behrendorff,2.0,0,21,0
+RCB,2,2.1,16,3,3,0,0,du Plessis,Kohli,10,7,1,0,du Plessis,8,6,1,0,Behrendorff,1.0,0,9,0,Arshad Khan,1.0,0,8,0
+RCB,1,1.1,9,1,3,0,4,Kohli,Kohli,3,2,0,0,du Plessis,3,4,0,0,Arshad Khan,0,0,1,0,Behrendorff,1.0,0,5,0
+RCB,0,0.1,5,0,2,0,0,du Plessis,Kohli,1,1,0,0,,0,0,0,0,Behrendorff,0,0,1,0,,0,0,0,0

@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+PBKS,19,19.1,7,1,1,1,0,Sam Curran,Rajapaksa,1,1,0,0,Shahrukh Khan,9,8,0,0,Holder,3.0,0,23,1,Asif,4.0,0,53,0
+PBKS,18,18.1,16,2,1,0,2,S Dhawan,Rajapaksa,1,1,0,0,Shahrukh Khan,5,5,0,0,Asif,3.0,0,40,0,Holder,3.0,0,22,1
+PBKS,17,17.1,9,1,2,0,0,S Dhawan,Rajapaksa,1,1,0,0,Shahrukh Khan,4,3,0,0,Holder,2.0,0,14,1,Ashwin,4.0,0,25,1
+PBKS,16,16.1,6,0,0,1,0,Shahrukh Khan,Rajapaksa,1,1,0,0,,0,0,0,0,Ashwin,3.0,0,19,1,Chahal,4.0,0,50,1
+PBKS,15,15.1,7,1,2,1,1,S Dhawan,Rajapaksa,1,1,0,0,Sharma,27,15,2,1,Chahal,3.0,0,43,0,Boult,4.0,0,38,0
+PBKS,14,14.1,12,1,0,0,0,S Dhawan,Rajapaksa,1,1,0,0,Sharma,18,12,2,0,Boult,3.0,0,27,0,Chahal,3.0,0,43,0
+PBKS,13,13.1,16,3,0,0,0,S Dhawan,Rajapaksa,1,1,0,0,Sharma,16,10,2,0,Chahal,2.0,0,28,0,Asif,3.0,0,39,0
+PBKS,12,12.1,11,1,1,0,1,Sharma,Rajapaksa,1,1,0,0,Sharma,12,7,2,0,Asif,2.0,0,28,0,Chahal,2.0,0,27,0
+PBKS,11,11.1,18,3,0,0,0,S Dhawan,Rajapaksa,1,1,0,0,Sharma,1,2,0,0,Chahal,1.0,0,10,0,Ashwin,3.0,0,19,0
+PBKS,10,10.1,3,0,3,0,0,Sharma,S Dhawan,29,26,3,0,Rajapaksa,1,1,0,0,Ashwin,2.0,0,16,0,Holder,2.0,0,13,1
+PBKS,9,9.1,6,0,0,1,0,S Dhawan,Prabhsimran,62,33,7,3,S Dhawan,25,22,3,0,Holder,1.0,0,8,0,Boult,3.0,0,26,0
+PBKS,8,8.1,9,1,2,0,0,S Dhawan,Prabhsimran,59,30,7,3,S Dhawan,24,19,3,0,Boult,2.0,0,23,0,Chahal,1.0,0,9,0
+PBKS,7,7.1,9,1,2,0,0,S Dhawan,Prabhsimran,50,27,7,2,S Dhawan,18,16,2,0,Chahal,0,0,0,0,Ashwin,2.0,0,16,0
+PBKS,6,6.1,5,0,1,0,0,Prabhsimran,Prabhsimran,48,24,7,2,S Dhawan,16,13,2,0,Ashwin,1.0,0,12,0,Holder,1.0,0,7,0
+PBKS,5,5.1,7,1,2,0,0,Prabhsimran,Prabhsimran,41,19,6,2,S Dhawan,15,12,2,0,Holder,0,0,0,0,Ashwin,1.0,0,11,0
+PBKS,4,4.1,11,2,2,0,1,S Dhawan,Prabhsimran,31,15,4,2,S Dhawan,15,10,2,0,Ashwin,0,0,1,0,Asif,2.0,0,28,0
+PBKS,3,3.1,19,4,2,0,1,Prabhsimran,Prabhsimran,16,10,2,1,S Dhawan,14,9,2,0,Asif,1.0,0,13,0,Boult,2.0,0,17,0
+PBKS,2,2.1,10,2,2,0,0,Prabhsimran,Prabhsimran,11,8,1,1,S Dhawan,5,5,0,0,Boult,1.0,0,7,0,Asif,1.0,0,9,0
+PBKS,1,1.1,9,1,3,0,0,Prabhsimran,Prabhsimran,5,6,1,0,S Dhawan,2,1,0,0,Asif,0,0,0,0,Boult,1.0,0,7,0
+PBKS,0,0.1,7,1,4,0,1,Prabhsimran,Prabhsimran,1,1,0,0,,0,0,0,0,Boult,0,0,1,0,,0,0,0,0

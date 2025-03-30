@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+MI,19,19.1,17,2,1,0,0,Suryakumar,Suryakumar,88,44,11,4,Green,3,3,0,0,Alzarri Joseph,3.0,0,36,0,Shami,4.0,0,53,0
+MI,18,18.1,17,3,0,0,1,Suryakumar,Suryakumar,73,40,9,3,Green,1,1,0,0,Shami,3.0,0,38,0,Mohit,4.0,0,43,1
+MI,17,17.1,20,4,1,0,0,Suryakumar,Suryakumar,57,35,7,2,,0,0,0,0,Mohit,3.0,0,27,1,Rashid Khan,4.0,0,30,4
+MI,16,16.1,11,2,0,1,0,David,Suryakumar,51,32,6,2,,0,0,0,0,Rashid Khan,3.0,0,23,3,Mohit,3.0,0,23,1
+MI,15,15.1,2,0,3,1,0,Vishnu,Suryakumar,46,27,5,2,Vishnu,30,19,2,2,Mohit,2.0,0,22,0,Alzarri Joseph,3.0,0,35,0
+MI,14,14.1,12,2,2,0,0,Suryakumar,Suryakumar,35,23,4,1,Vishnu,28,17,2,2,Alzarri Joseph,2.0,0,23,0,Noor Ahmad,4.0,0,38,0
+MI,13,13.1,8,1,1,0,0,Vishnu,Suryakumar,33,20,4,1,Vishnu,26,14,2,2,Noor Ahmad,3.0,0,34,0,Shami,3.0,0,37,0
+MI,12,12.1,15,3,2,0,0,Suryakumar,Suryakumar,29,19,3,1,Vishnu,11,9,0,1,Shami,2.0,0,22,0,Alzarri Joseph,2.0,0,23,0
+MI,11,11.1,15,2,1,0,0,Suryakumar,Suryakumar,22,17,3,0,Vishnu,4,5,0,0,Alzarri Joseph,1.0,0,9,0,Noor Ahmad,3.0,0,30,0
+MI,10,10.1,5,0,3,0,0,Suryakumar,Suryakumar,18,13,3,0,Vishnu,2,3,0,0,Noor Ahmad,2.0,0,25,0,Alzarri Joseph,1.0,0,8,0
+MI,9,9.1,8,1,1,0,0,Vishnu,Suryakumar,12,10,2,0,,0,0,0,0,Alzarri Joseph,0,0,0,0,Rashid Khan,3.0,0,19,3
+MI,8,8.1,7,1,1,1,0,Wadhera,Suryakumar,6,6,1,0,Wadhera,14,5,1,1,Rashid Khan,2.0,0,12,2,Noor Ahmad,2.0,0,25,0
+MI,7,7.1,15,2,1,0,0,Wadhera,Suryakumar,5,4,1,0,Wadhera,0,1,0,0,Noor Ahmad,1.0,0,10,0,Rashid Khan,2.0,0,12,2
+MI,6,6.1,5,1,2,2,0,Wadhera,Ishan,32,19,4,1,,0,0,0,0,Rashid Khan,1.0,0,7,1,Noor Ahmad,1.0,0,10,0
+MI,5,5.1,10,2,2,0,0,Ishan,Ishan,24,16,2,1,Rohit Sharma,28,15,3,2,Noor Ahmad,0,0,1,0,Rashid Khan,1.0,0,7,0
+MI,4,4.1,7,1,3,0,0,Rohit Sharma,Ishan,22,14,2,1,Rohit Sharma,22,11,2,2,Rashid Khan,0,0,0,0,Mohit,2.0,0,21,0
+MI,3,3.1,7,1,2,0,0,Ishan,Ishan,17,10,1,1,Rohit Sharma,21,9,2,2,Mohit,1.0,0,15,0,Shami,2.0,0,22,0
+MI,2,2.1,17,2,2,0,0,Rohit Sharma,Ishan,5,5,1,0,Rohit Sharma,15,8,2,1,Shami,1.0,0,5,0,Mohit,1.0,0,14,0
+MI,1,1.1,14,3,3,0,0,Rohit Sharma,Ishan,5,4,1,0,Rohit Sharma,1,3,0,0,Mohit,0,0,0,0,Shami,1.0,0,5,0
+MI,0,0.1,6,1,3,0,1,Ishan,Ishan,0,1,0,0,,0,0,0,0,Shami,0,0,0,0,,0,0,0,0

@@ -1,0 +1,20 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+PBKS,18,18.1,9,1,0,0,0,Shashank Singh,Prabhsimran,56,20,4,5,Shashank Singh,67,26,2,8,Ramandeep,0,0,6,0,Harshit Rana,4.0,0,61,0
+PBKS,17,17.1,25,4,0,0,1,Bairstow,Prabhsimran,56,20,4,5,Shashank Singh,43,21,1,5,Harshit Rana,3.0,0,37,0,Chameera,3.0,0,48,0
+PBKS,16,16.1,18,3,3,0,0,Shashank Singh,Prabhsimran,56,20,4,5,Shashank Singh,25,16,1,2,Chameera,2.0,0,30,0,Harshit Rana,3.0,0,36,0
+PBKS,15,15.1,9,1,1,0,0,Bairstow,Prabhsimran,56,20,4,5,Shashank Singh,23,13,1,2,Harshit Rana,2.0,0,31,0,Narine,4.0,0,24,1
+PBKS,14,14.1,5,0,2,0,0,Bairstow,Prabhsimran,56,20,4,5,Shashank Singh,18,9,0,2,Narine,3.0,0,20,1,Varun,3.0,0,46,0
+PBKS,13,13.1,17,2,0,0,0,Shashank Singh,Prabhsimran,56,20,4,5,Shashank Singh,7,4,0,1,Varun,2.0,0,35,0,Narine,3.0,0,19,1
+PBKS,12,12.1,6,1,2,1,0,Shashank Singh,Prabhsimran,56,20,4,5,Rossouw,28,15,1,2,Narine,2.0,0,17,0,Russell,2.0,0,36,0
+PBKS,11,11.1,24,3,0,0,2,Bairstow,Prabhsimran,56,20,4,5,Rossouw,20,13,1,1,Russell,1.0,0,13,0,Varun,2.0,0,29,0
+PBKS,10,10.1,17,3,2,0,0,Bairstow,Prabhsimran,56,20,4,5,Rossouw,19,13,1,1,Varun,1.0,0,13,0,Russell,1.0,0,12,0
+PBKS,9,9.1,12,2,2,0,0,Bairstow,Prabhsimran,56,20,4,5,Rossouw,11,10,1,0,Russell,0,0,0,0,Varun,1.0,0,12,0
+PBKS,8,8.1,12,1,0,0,0,Bairstow,Prabhsimran,56,20,4,5,Rossouw,9,8,1,0,Varun,0,0,2,0,Harshit Rana,2.0,0,27,0
+PBKS,7,7.1,14,2,1,0,0,Rossouw,Prabhsimran,56,20,4,5,Rossouw,0,4,0,0,Harshit Rana,1.0,0,13,0,Narine,2.0,0,13,0
+PBKS,6,6.1,1,0,5,0,0,Rossouw,Prabhsimran,56,20,4,5,,0,0,0,0,Narine,1.0,0,12,0,Roy,2.0,0,36,1
+PBKS,5,5.1,24,5,0,1,0,Bairstow,Prabhsimran,56,20,4,5,Bairstow,17,11,3,0,Roy,1.0,0,16,0,Narine,1.0,0,12,0
+PBKS,4,4.1,12,2,2,0,0,Bairstow,Prabhsimran,49,17,4,4,Bairstow,12,8,2,0,Narine,0,0,4,0,Roy,1.0,0,12,0
+PBKS,3,3.1,12,2,1,0,0,Prabhsimran,Prabhsimran,38,13,2,4,Bairstow,7,6,1,0,Roy,0,0,0,0,Chameera,2.0,0,30,0
+PBKS,2,2.1,23,4,1,0,1,Prabhsimran,Prabhsimran,21,8,0,3,Bairstow,7,5,1,0,Chameera,1.0,0,13,0,Harshit Rana,1.0,0,13,0
+PBKS,1,1.1,14,2,2,0,1,Prabhsimran,Prabhsimran,2,3,0,0,Bairstow,6,4,1,0,Harshit Rana,0,0,0,0,Chameera,1.0,0,7,0
+PBKS,0,0.1,8,1,1,0,1,Prabhsimran,Prabhsimran,1,1,0,0,,0,0,0,0,Chameera,0,0,0,0,,0,0,0,0

@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+MI,19,19.1,7,1,0,3,2,M Nabi,Tilak Varma,34,17,2,2,David,18,5,2,1,Harshal,3.0,0,29,1,Sam Curran,4.0,0,41,2
+MI,18,18.1,18,3,1,0,3,David,Tilak Varma,34,17,2,2,,0,0,0,0,Sam Curran,3.0,0,25,2,Harshal,3.0,0,28,1
+MI,17,17.1,11,1,0,1,0,Hardik,Tilak Varma,26,14,2,1,Hardik,7,3,0,1,Harshal,2.0,0,18,0,Sam Curran,3.0,0,24,2
+MI,16,16.1,8,1,2,1,0,Hardik,Suryakumar,79,52,7,3,Tilak Varma,24,12,2,1,Sam Curran,2.0,0,16,1,Rabada,4.0,0,42,1
+MI,15,15.1,18,3,1,0,1,Tilak Varma,Suryakumar,68,47,6,2,Tilak Varma,18,11,2,0,Rabada,3.0,0,25,1,Arshdeep,3.0,0,35,0
+MI,14,14.1,15,3,1,0,1,Suryakumar,Suryakumar,62,45,5,2,Tilak Varma,8,7,0,0,Arshdeep,2.0,0,20,0,Rabada,3.0,0,25,1
+MI,13,13.1,6,0,0,0,0,Suryakumar,Suryakumar,59,41,5,2,Tilak Varma,6,5,0,0,Rabada,2.0,0,20,1,Harpreet Brar,3.0,0,21,0
+MI,12,12.1,8,0,0,0,0,Tilak Varma,Suryakumar,56,39,5,2,Tilak Varma,1,1,0,0,Harpreet Brar,2.0,0,14,0,Sam Curran,2.0,0,16,1
+MI,11,11.1,5,0,1,1,0,Suryakumar,Rohit Sharma,37,23,2,3,Suryakumar,53,36,5,2,Sam Curran,1.0,0,13,0,Harshal,2.0,0,17,0
+MI,10,10.1,10,1,2,0,1,Suryakumar,Rohit Sharma,29,20,2,2,Suryakumar,49,33,5,2,Harshal,1.0,0,7,0,Livingstone,2.0,0,16,0
+MI,9,9.1,9,1,2,0,0,Suryakumar,Rohit Sharma,28,18,2,2,Suryakumar,42,29,5,1,Livingstone,1.0,0,8,0,Harpreet Brar,2.0,0,13,0
+MI,8,8.1,9,1,1,0,0,Suryakumar,Rohit Sharma,27,17,2,2,Suryakumar,35,24,4,1,Harpreet Brar,1.0,0,6,0,Rabada,2.0,0,19,1
+MI,7,7.1,10,1,2,0,0,Suryakumar,Rohit Sharma,26,16,2,2,Suryakumar,24,19,4,0,Rabada,1.0,0,9,1,Harpreet Brar,1.0,0,4,0
+MI,6,6.1,4,0,2,0,0,Suryakumar,Rohit Sharma,24,13,2,2,Suryakumar,22,16,4,0,Harpreet Brar,0,0,0,0,Sam Curran,1.0,0,11,0
+MI,5,5.1,11,2,3,0,0,Rohit Sharma,Rohit Sharma,18,12,2,1,Suryakumar,17,11,3,0,Sam Curran,0,0,0,0,Harshal,1.0,0,7,0
+MI,4,4.1,7,1,2,0,0,Suryakumar,Rohit Sharma,17,9,2,1,Suryakumar,15,8,3,0,Harshal,0,0,4,0,Arshdeep,2.0,0,20,0
+MI,3,3.1,9,1,2,0,0,Rohit Sharma,Rohit Sharma,10,5,2,0,Suryakumar,10,6,2,0,Arshdeep,1.0,0,12,0,Rabada,1.0,0,9,1
+MI,2,2.1,9,2,2,1,0,Suryakumar,Rohit Sharma,10,5,2,0,,0,0,0,0,Rabada,0,0,0,1,Arshdeep,1.0,0,11,0
+MI,1,1.1,11,2,1,0,0,Rohit Sharma,Ishan,3,5,0,0,Rohit Sharma,5,2,1,0,Arshdeep,0,0,1,0,Livingstone,1.0,0,7,0
+MI,0,0.1,7,1,2,0,0,Rohit Sharma,Ishan,0,1,0,0,,0,0,0,0,Livingstone,0,0,0,0,,0,0,0,0

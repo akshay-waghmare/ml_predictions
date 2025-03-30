@@ -1,0 +1,41 @@
+over,innings,score,projected_score,required,CRR,RRR,fav_team,win_probability,venue,matches_played,total_runs,total_wickets,balls_bowled,average_runs_per_wicket,average_runs_per_over
+20,DC,140/8,N/A,N/A,7.00,N/A,CSK,100.0,"MA Chidambaram Stadium, Chepauk, Chennai",113,34470,1382,26410,24.94,7.83
+1,CSK,4/0,159,N/A,4.00,N/A,DC,62.57,"MA Chidambaram Stadium, Chepauk, Chennai",113,34470,1382,26410,24.94,7.83
+2,CSK,20/0,169,N/A,10.00,N/A,DC,51.56,"MA Chidambaram Stadium, Chepauk, Chennai",113,34470,1382,26410,24.94,7.83
+3,CSK,25/0,166,N/A,8.33,N/A,DC,54.94,"MA Chidambaram Stadium, Chepauk, Chennai",113,34470,1382,26410,24.94,7.83
+4,CSK,32/0,171,N/A,8.00,N/A,CSK,50.7,"MA Chidambaram Stadium, Chepauk, Chennai",113,34470,1382,26410,24.94,7.83
+5,CSK,41/1,173,N/A,8.20,N/A,CSK,52.97,"MA Chidambaram Stadium, Chepauk, Chennai",113,34470,1382,26410,24.94,7.83
+6,CSK,49/1,168,N/A,8.17,N/A,DC,52.69,"MA Chidambaram Stadium, Chepauk, Chennai",113,34470,1382,26410,24.94,7.83
+7,CSK,52/2,167,N/A,7.43,N/A,DC,53.82,"MA Chidambaram Stadium, Chepauk, Chennai",113,34470,1382,26410,24.94,7.83
+8,CSK,57/2,161,N/A,7.12,N/A,DC,60.44,"MA Chidambaram Stadium, Chepauk, Chennai",113,34470,1382,26410,24.94,7.83
+9,CSK,61/2,157,N/A,6.78,N/A,DC,64.65,"MA Chidambaram Stadium, Chepauk, Chennai",113,34470,1382,26410,24.94,7.83
+10,CSK,66/3,156,N/A,6.60,N/A,DC,65.67,"MA Chidambaram Stadium, Chepauk, Chennai",113,34470,1382,26410,24.94,7.83
+11,CSK,77/3,166,N/A,7.00,N/A,DC,54.94,"MA Chidambaram Stadium, Chepauk, Chennai",113,34470,1382,26410,24.94,7.83
+12,CSK,82/4,161,N/A,6.83,N/A,DC,60.44,"MA Chidambaram Stadium, Chepauk, Chennai",113,34470,1382,26410,24.94,7.83
+13,CSK,88/4,157,N/A,6.77,N/A,DC,64.65,"MA Chidambaram Stadium, Chepauk, Chennai",113,34470,1382,26410,24.94,7.83
+14,CSK,111/4,178,N/A,7.93,N/A,CSK,58.56,"MA Chidambaram Stadium, Chepauk, Chennai",113,34470,1382,26410,24.94,7.83
+15,CSK,117/5,171,N/A,7.80,N/A,CSK,50.7,"MA Chidambaram Stadium, Chepauk, Chennai",113,34470,1382,26410,24.94,7.83
+16,CSK,125/5,167,N/A,7.81,N/A,DC,53.82,"MA Chidambaram Stadium, Chepauk, Chennai",113,34470,1382,26410,24.94,7.83
+17,CSK,128/6,159,N/A,7.53,N/A,DC,62.57,"MA Chidambaram Stadium, Chepauk, Chennai",113,34470,1382,26410,24.94,7.83
+18,CSK,139/6,161,N/A,7.72,N/A,DC,60.44,"MA Chidambaram Stadium, Chepauk, Chennai",113,34470,1382,26410,24.94,7.83
+19,CSK,160/6,173,N/A,8.42,N/A,CSK,52.97,"MA Chidambaram Stadium, Chepauk, Chennai",113,34470,1382,26410,24.94,7.83
+20,CSK,167/8,167,N/A,8.35,N/A,DC,53.82,"MA Chidambaram Stadium, Chepauk, Chennai",113,34470,1382,26410,24.94,7.83
+1,DC,1/1,N/A,167 from 114,1.00,8.79,CSK,58.19,"MA Chidambaram Stadium, Chepauk, Chennai",113,34470,1382,26410,24.94,7.83
+2,DC,13/1,N/A,155 from 108,6.50,8.61,CSK,51.38,"MA Chidambaram Stadium, Chepauk, Chennai",113,34470,1382,26410,24.94,7.83
+3,DC,25/2,N/A,143 from 102,8.33,8.41,CSK,53.87,"MA Chidambaram Stadium, Chepauk, Chennai",113,34470,1382,26410,24.94,7.83
+4,DC,27/3,N/A,141 from 96,6.75,8.81,CSK,65.76,"MA Chidambaram Stadium, Chepauk, Chennai",113,34470,1382,26410,24.94,7.83
+5,DC,42/3,N/A,126 from 90,8.40,8.40,CSK,52.66,"MA Chidambaram Stadium, Chepauk, Chennai",113,34470,1382,26410,24.94,7.83
+6,DC,47/3,N/A,121 from 84,7.83,8.64,CSK,58.88,"MA Chidambaram Stadium, Chepauk, Chennai",113,34470,1382,26410,24.94,7.83
+7,DC,48/3,N/A,120 from 78,6.86,9.23,CSK,68.5,"MA Chidambaram Stadium, Chepauk, Chennai",113,34470,1382,26410,24.94,7.83
+8,DC,55/3,N/A,113 from 72,6.88,9.42,CSK,71.56,"MA Chidambaram Stadium, Chepauk, Chennai",113,34470,1382,26410,24.94,7.83
+9,DC,63/3,N/A,105 from 66,7.00,9.55,CSK,69.39,"MA Chidambaram Stadium, Chepauk, Chennai",113,34470,1382,26410,24.94,7.83
+10,DC,65/3,N/A,103 from 60,6.50,10.30,CSK,77.84,"MA Chidambaram Stadium, Chepauk, Chennai",113,34470,1382,26410,24.94,7.83
+11,DC,72/3,N/A,96 from 54,6.55,10.67,CSK,76.15,"MA Chidambaram Stadium, Chepauk, Chennai",113,34470,1382,26410,24.94,7.83
+12,DC,76/3,N/A,92 from 48,6.33,11.50,CSK,86.07,"MA Chidambaram Stadium, Chepauk, Chennai",113,34470,1382,26410,24.94,7.83
+13,DC,84/4,N/A,84 from 42,6.46,12.00,CSK,89.38,"MA Chidambaram Stadium, Chepauk, Chennai",113,34470,1382,26410,24.94,7.83
+14,DC,88/4,N/A,80 from 36,6.29,13.33,CSK,94.08,"MA Chidambaram Stadium, Chepauk, Chennai",113,34470,1382,26410,24.94,7.83
+15,DC,91/5,N/A,77 from 30,6.07,15.40,CSK,97.99,"MA Chidambaram Stadium, Chepauk, Chennai",113,34470,1382,26410,24.94,7.83
+16,DC,97/5,N/A,71 from 24,6.06,17.75,CSK,98.87,"MA Chidambaram Stadium, Chepauk, Chennai",113,34470,1382,26410,24.94,7.83
+17,DC,108/5,N/A,60 from 18,6.35,20.00,CSK,99.21,"MA Chidambaram Stadium, Chepauk, Chennai",113,34470,1382,26410,24.94,7.83
+18,DC,120/6,N/A,48 from 12,6.67,24.00,CSK,99.62,"MA Chidambaram Stadium, Chepauk, Chennai",113,34470,1382,26410,24.94,7.83
+19,DC,125/7,N/A,43 from 6,6.58,43.00,CSK,99.96,"MA Chidambaram Stadium, Chepauk, Chennai",113,34470,1382,26410,24.94,7.83

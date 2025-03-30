@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+CSK,19,19.1,14,2,0,2,0,Rayudu,Rayudu,26,13,2,2,,0,0,0,0,Wood,3.0,0,35,2,Thakur,4.0,0,36,0
+CSK,18,18.1,9,1,0,0,0,Jadeja,Rayudu,20,10,1,2,Jadeja,3,3,0,0,Thakur,3.0,0,28,0,Wood,3.0,0,35,1
+CSK,17,17.1,16,2,0,0,2,Jadeja,Rayudu,12,7,1,1,,0,0,0,0,Wood,2.0,0,27,1,Avesh Khan,3.0,0,39,1
+CSK,16,16.1,8,1,0,1,0,Stokes,Stokes,4,5,0,0,Rayudu,4,4,1,0,Avesh Khan,2.0,0,32,0,Ravi Bishnoi,4.0,0,28,3
+CSK,15,15.1,6,1,3,1,1,Rayudu,Moeen Ali,19,12,3,0,Stokes,2,3,0,0,Ravi Bishnoi,3.0,0,23,2,Avesh Khan,2.0,0,31,0
+CSK,14,14.1,14,3,1,0,0,Moeen Ali,Moeen Ali,7,9,0,0,Stokes,0,1,0,0,Avesh Khan,1.0,0,18,0,Ravi Bishnoi,3.0,0,22,2
+CSK,13,13.1,13,2,2,1,0,Stokes,Dube,15,12,1,1,Moeen Ali,6,8,0,0,Ravi Bishnoi,2.0,0,10,1,Thakur,3.0,0,27,0
+CSK,12,12.1,12,2,2,0,0,Dube,Dube,5,8,0,0,Moeen Ali,4,6,0,0,Thakur,2.0,0,16,0,Ravi Bishnoi,2.0,0,9,1
+CSK,11,11.1,5,0,2,0,0,Moeen Ali,Dube,3,6,0,0,Moeen Ali,1,2,0,0,Ravi Bishnoi,1.0,0,5,1,Wood,2.0,0,21,1
+CSK,10,10.1,6,1,2,1,0,Moeen Ali,Conway,54,28,6,2,Dube,1,3,0,0,Wood,1.0,0,19,0,Ravi Bishnoi,1.0,0,4,1
+CSK,9,9.1,4,0,3,1,0,Conway,Conway,47,25,5,2,,0,0,0,0,Ravi Bishnoi,0,0,0,1,Thakur,2.0,0,15,0
+CSK,8,8.1,9,1,0,0,1,Gaikwad,Gaikwad,60,27,3,4,Conway,45,23,5,2,Thakur,1.0,0,11,0,Krunal,2.0,0,21,0
+CSK,7,7.1,15,2,1,0,1,Conway,Gaikwad,55,25,2,4,Conway,32,19,5,0,Krunal,1.0,0,8,0,Thakur,1.0,0,7,0
+CSK,6,6.1,7,0,1,0,1,Gaikwad,Gaikwad,51,20,2,4,Conway,29,17,5,0,Thakur,0,0,1,0,Wood,1.0,0,15,0
+CSK,5,5.1,19,4,1,0,1,Gaikwad,Gaikwad,45,18,2,3,Conway,19,13,3,0,Wood,0,0,4,0,Gowtham,1.0,0,20,0
+CSK,4,4.1,20,3,2,0,0,Gaikwad,Gaikwad,25,13,2,0,Conway,15,12,2,0,Gowtham,0,0,0,0,Krunal,1.0,0,7,0
+CSK,3,3.1,7,1,2,0,0,Gaikwad,Gaikwad,20,9,1,0,Conway,14,10,2,0,Krunal,0,0,1,0,Mayers,2.0,0,16,0
+CSK,2,2.1,10,1,0,0,0,Gaikwad,Gaikwad,11,4,0,0,Conway,13,9,2,0,Mayers,1.0,0,7,0,Avesh Khan,1.0,0,17,0
+CSK,1,1.1,17,2,2,0,1,Conway,Gaikwad,8,3,0,0,Conway,3,3,0,0,Avesh Khan,0,0,5,0,Mayers,1.0,0,6,0
+CSK,0,0.1,6,0,1,0,1,Gaikwad,Gaikwad,1,1,0,0,,0,0,0,0,Mayers,0,0,1,0,,0,0,0,0

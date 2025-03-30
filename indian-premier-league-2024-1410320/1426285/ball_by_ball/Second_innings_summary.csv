@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+DC,19,19.1,10,2,3,0,0,Kuldeep,Kuldeep,36,21,4,1,Williams,1,2,0,0,Russell,0,0,4,0,Harshit Rana,4.0,0,28,2
+DC,18,18.1,4,0,2,1,1,Kuldeep,Kuldeep,30,18,3,1,Rasikh Salam,9,9,1,0,Harshit Rana,3.0,0,25,1,Arora,4.0,0,29,2
+DC,17,17.1,3,0,3,0,1,Kuldeep,Kuldeep,27,13,3,1,Rasikh Salam,8,8,1,0,Arora,3.0,0,27,2,Harshit Rana,3.0,0,24,1
+DC,16,16.1,8,1,1,0,1,Rasikh Salam,Kuldeep,25,9,3,1,Rasikh Salam,3,6,0,0,Harshit Rana,2.0,0,17,1,Starc,3.0,0,43,1
+DC,15,15.1,16,2,3,0,1,Kuldeep,Kuldeep,10,6,2,0,Rasikh Salam,1,3,0,0,Starc,2.0,0,27,1,Varun,4.0,0,16,3
+DC,14,14.1,6,1,2,1,0,Kuldeep,Kushagra,1,2,0,0,Kuldeep,9,4,2,0,Varun,3.0,0,14,2,Narine,4.0,0,24,1
+DC,13,13.1,5,1,3,1,0,Kuldeep,Axar Patel,15,19,2,0,Kushagra,1,2,0,0,Narine,3.0,0,19,0,Varun,3.0,0,10,2
+DC,12,12.1,2,0,3,1,0,Kushagra,Axar Patel,14,15,2,0,,0,0,0,0,Varun,2.0,0,8,2,Narine,3.0,0,19,0
+DC,11,11.1,5,0,1,0,0,Stubbs,Axar Patel,12,13,2,0,Stubbs,2,3,0,0,Narine,2.0,0,15,0,Varun,2.0,0,8,1
+DC,10,10.1,1,0,4,1,0,Axar Patel,Axar Patel,12,10,2,0,,0,0,0,0,Varun,1.0,0,7,1,Arora,3.0,0,27,2
+DC,9,9.1,13,3,2,0,0,Axar Patel,Pant,27,17,2,1,Axar Patel,4,7,0,0,Arora,2.0,0,18,2,Varun,1.0,0,7,0
+DC,8,8.1,7,0,1,0,0,Axar Patel,Pant,20,14,1,1,Axar Patel,1,4,0,0,Varun,0,0,1,0,Narine,2.0,0,14,0
+DC,7,7.1,5,0,2,0,0,Pant,Pant,15,10,1,1,Axar Patel,0,2,0,0,Narine,1.0,0,9,0,Harshit Rana,2.0,0,17,1
+DC,6,6.1,1,0,4,1,0,Axar Patel,Abishek Porel,19,12,2,1,Pant,15,9,1,1,Harshit Rana,1.0,0,17,0,Narine,1.0,0,9,0
+DC,5,5.1,9,1,2,0,0,Pant,Abishek Porel,18,10,2,1,Pant,6,5,1,0,Narine,0,0,0,0,Harshit Rana,1.0,0,16,0
+DC,4,4.1,16,3,1,0,0,Pant,Abishek Porel,3,6,0,0,Pant,5,3,1,0,Harshit Rana,0,0,0,0,Arora,2.0,0,14,2
+DC,3,3.1,12,2,2,1,1,Pant,Abishek Porel,3,5,0,0,Hope,0,1,0,0,Arora,1.0,0,3,1,Starc,2.0,0,27,1
+DC,2,2.1,12,2,1,1,0,Hope,J Fraser,4,4,0,0,Abishek Porel,1,3,0,0,Starc,1.0,0,16,0,Arora,1.0,0,2,1
+DC,1,1.1,3,0,4,1,3,Abishek Porel,Shaw,14,5,3,0,J Fraser,2,2,0,0,Arora,0,0,1,0,Starc,1.0,0,15,0
+DC,0,0.1,15,3,1,0,1,J Fraser,Shaw,4,1,1,0,,0,0,0,0,Starc,0,0,4,0,,0,0,0,0

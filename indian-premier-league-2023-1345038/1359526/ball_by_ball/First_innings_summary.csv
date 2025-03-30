@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+SRH,19,19.1,19,2,0,0,1,Abdul Samad,Abdul Samad,2,2,0,0,Jansen,2,1,0,0,Sandeep,3.0,0,31,0,Kuldip Yadav,4.0,0,50,1
+SRH,18,18.1,24,4,0,1,0,Jansen,Phillips,9,3,0,1,Abdul Samad,0,1,0,0,Kuldip Yadav,3.0,0,32,0,Chahal,4.0,0,29,4
+SRH,17,17.1,3,0,2,2,0,Abdul Samad,Tripathi,49,28,2,3,Markram,6,4,1,0,Chahal,3.0,0,26,2,McCoy,1.0,0,13,0
+SRH,16,16.1,13,2,2,0,1,Markram,Tripathi,41,24,2,2,Markram,2,2,0,0,McCoy,0,0,1,0,Chahal,3.0,0,26,2
+SRH,15,15.1,12,2,1,1,0,Markram,Tripathi,41,24,2,2,Klaasen,16,8,1,1,Chahal,2.0,0,15,1,Kuldip Yadav,3.0,0,26,0
+SRH,14,14.1,10,1,0,0,0,Klaasen,Tripathi,38,21,2,2,Klaasen,10,5,0,1,Kuldip Yadav,2.0,0,18,0,M Ashwin,3.0,0,42,0
+SRH,13,13.1,19,3,1,0,0,Tripathi,Tripathi,26,17,1,1,Klaasen,7,3,0,1,M Ashwin,2.0,0,29,0,Ashwin,4.0,0,35,1
+SRH,12,12.1,10,1,1,1,1,Klaasen,Abhishek,50,31,5,1,Tripathi,25,16,1,1,Ashwin,3.0,0,26,0,M Ashwin,2.0,0,23,0
+SRH,11,11.1,9,1,2,0,0,Abhishek,Abhishek,41,27,5,0,Tripathi,24,15,1,1,M Ashwin,1.0,0,14,0,Ashwin,3.0,0,25,0
+SRH,10,10.1,11,1,1,0,1,Tripathi,Abhishek,38,24,5,0,Tripathi,19,12,0,1,Ashwin,2.0,0,17,0,M Ashwin,1.0,0,14,0
+SRH,9,9.1,14,2,0,0,0,Tripathi,Abhishek,33,22,4,0,Tripathi,8,8,0,0,M Ashwin,0,0,1,0,Kuldip Yadav,2.0,0,16,0
+SRH,8,8.1,8,0,1,0,0,Abhishek,Abhishek,25,16,4,0,Tripathi,8,8,0,0,Kuldip Yadav,1.0,0,9,0,Chahal,2.0,0,14,1
+SRH,7,7.1,7,1,2,0,0,Abhishek,Abhishek,20,13,3,0,Tripathi,6,5,0,0,Chahal,1.0,0,8,1,Ashwin,2.0,0,14,0
+SRH,6,6.1,6,0,1,0,1,Tripathi,Abhishek,18,10,3,0,Tripathi,2,2,0,0,Ashwin,1.0,0,9,0,Chahal,1.0,0,7,1
+SRH,5,5.1,7,1,2,1,0,Tripathi,Anmolpreet Singh,27,21,3,1,Abhishek,18,10,3,0,Chahal,0,0,0,0,Sandeep,3.0,0,29,0
+SRH,4,4.1,15,3,0,0,0,Abhishek,Anmolpreet Singh,25,18,3,1,Abhishek,9,7,1,0,Sandeep,2.0,0,18,0,Ashwin,1.0,0,8,0
+SRH,3,3.1,8,1,1,0,0,Anmolpreet Singh,Anmolpreet Singh,15,13,1,1,Abhishek,8,6,1,0,Ashwin,0,0,1,0,Sandeep,2.0,0,14,0
+SRH,2,2.1,10,2,2,0,0,Anmolpreet Singh,Anmolpreet Singh,10,10,0,1,Abhishek,2,3,0,0,Sandeep,1.0,0,4,0,Kuldip Yadav,1.0,0,8,0
+SRH,1,1.1,8,1,3,0,0,Abhishek,Anmolpreet Singh,3,5,0,0,Abhishek,2,2,0,0,Kuldip Yadav,0,0,1,0,Sandeep,1.0,0,4,0
+SRH,0,0.1,4,0,3,0,0,Anmolpreet Singh,Anmolpreet Singh,0,1,0,0,,0,0,0,0,Sandeep,0,0,0,0,,0,0,0,0

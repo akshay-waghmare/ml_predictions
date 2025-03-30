@@ -1,0 +1,123 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+PBKS,19,19.3,4,1,0,0,0,Shahrukh Khan,Shahrukh Khan,25,10,1,2,Rabada,0,1,0,0,Ravi Bishnoi,2.0,0,18,2,Wood,4.0,0,35,2
+PBKS,19,19.2,2,0,0,0,0,Shahrukh Khan,Shahrukh Khan,21,9,0,2,Rabada,0,1,0,0,Ravi Bishnoi,2.0,0,14,2,Wood,4.0,0,35,2
+PBKS,19,19.1,2,0,0,0,0,Shahrukh Khan,Shahrukh Khan,19,8,0,2,Rabada,0,1,0,0,Ravi Bishnoi,2.0,0,12,2,Wood,4.0,0,35,2
+PBKS,18,18.6,0,0,1,0,0,Rabada,Shahrukh Khan,17,7,0,2,Rabada,0,1,0,0,Wood,4.0,0,35,2,Ravi Bishnoi,2.0,0,10,2
+PBKS,18,18.5,0,0,0,1,0,Harpreet Brar,Shahrukh Khan,17,7,0,2,,0,0,0,0,Wood,3.0,0,35,2,Ravi Bishnoi,2.0,0,10,2
+PBKS,18,18.4,4,1,0,0,0,Harpreet Brar,Shahrukh Khan,17,7,0,2,Harpreet Brar,6,3,1,0,Wood,3.0,0,35,1,Ravi Bishnoi,2.0,0,10,2
+PBKS,18,18.3,1,0,0,0,0,Shahrukh Khan,Shahrukh Khan,17,7,0,2,Harpreet Brar,2,2,0,0,Wood,3.0,0,31,1,Ravi Bishnoi,2.0,0,10,2
+PBKS,18,18.2,6,1,0,0,0,Shahrukh Khan,Shahrukh Khan,16,6,0,2,Harpreet Brar,2,2,0,0,Wood,3.0,0,30,1,Ravi Bishnoi,2.0,0,10,2
+PBKS,18,18.2,1,0,0,0,1,Shahrukh Khan,Shahrukh Khan,10,5,0,1,Harpreet Brar,2,2,0,0,Wood,3.0,0,24,1,Ravi Bishnoi,2.0,0,10,2
+PBKS,18,18.1,1,0,0,0,0,Harpreet Brar,Shahrukh Khan,9,5,0,1,Harpreet Brar,2,2,0,0,Wood,3.0,0,23,1,Ravi Bishnoi,2.0,0,10,2
+PBKS,17,17.6,1,0,0,0,0,Harpreet Brar,Shahrukh Khan,9,5,0,1,Harpreet Brar,1,1,0,0,Ravi Bishnoi,2.0,0,10,2,Avesh Khan,3.0,0,24,0
+PBKS,17,17.5,0,0,0,1,0,Raza,Shahrukh Khan,9,5,0,1,,0,0,0,0,Ravi Bishnoi,1.0,0,9,2,Avesh Khan,3.0,0,24,0
+PBKS,17,17.4,0,0,1,0,0,Raza,Raza,60,40,4,3,Shahrukh Khan,9,5,0,1,Ravi Bishnoi,1.0,0,9,1,Avesh Khan,3.0,0,24,0
+PBKS,17,17.3,1,0,0,0,0,Shahrukh Khan,Raza,60,39,4,3,Shahrukh Khan,9,5,0,1,Ravi Bishnoi,1.0,0,9,1,Avesh Khan,3.0,0,24,0
+PBKS,17,17.2,0,0,1,0,0,Shahrukh Khan,Raza,60,39,4,3,Shahrukh Khan,8,4,0,1,Ravi Bishnoi,1.0,0,8,1,Avesh Khan,3.0,0,24,0
+PBKS,17,17.2,1,0,0,0,1,Shahrukh Khan,Raza,60,39,4,3,Shahrukh Khan,8,3,0,1,Ravi Bishnoi,1.0,0,8,1,Avesh Khan,3.0,0,24,0
+PBKS,17,17.1,0,0,1,0,0,Shahrukh Khan,Raza,60,39,4,3,Shahrukh Khan,7,3,0,1,Ravi Bishnoi,1.0,0,7,1,Avesh Khan,3.0,0,24,0
+PBKS,16,16.6,4,1,0,0,0,Raza,Raza,60,39,4,3,Shahrukh Khan,7,2,0,1,Avesh Khan,3.0,0,24,0,Wood,3.0,0,22,1
+PBKS,16,16.6,1,0,0,0,1,Raza,Raza,56,38,3,3,Shahrukh Khan,7,2,0,1,Avesh Khan,2.0,0,20,0,Wood,3.0,0,22,1
+PBKS,16,16.5,0,0,1,0,0,Raza,Raza,55,38,3,3,Shahrukh Khan,7,2,0,1,Avesh Khan,2.0,0,19,0,Wood,3.0,0,22,1
+PBKS,16,16.4,1,0,0,0,0,Shahrukh Khan,Raza,55,37,3,3,Shahrukh Khan,7,2,0,1,Avesh Khan,2.0,0,19,0,Wood,3.0,0,22,1
+PBKS,16,16.3,1,0,0,0,0,Raza,Raza,55,37,3,3,Shahrukh Khan,6,1,0,1,Avesh Khan,2.0,0,18,0,Wood,3.0,0,22,1
+PBKS,16,16.2,0,0,1,0,0,Raza,Raza,54,36,3,3,Shahrukh Khan,6,1,0,1,Avesh Khan,2.0,0,17,0,Wood,3.0,0,22,1
+PBKS,16,16.1,2,0,0,0,0,Raza,Raza,54,35,3,3,Shahrukh Khan,6,1,0,1,Avesh Khan,2.0,0,17,0,Wood,3.0,0,22,1
+PBKS,15,15.6,6,1,0,0,0,Shahrukh Khan,Raza,52,34,3,3,Shahrukh Khan,6,1,0,1,Wood,3.0,0,22,1,Ravi Bishnoi,1.0,0,7,1
+PBKS,15,15.5,0,0,0,1,0,Sharma,Raza,52,34,3,3,,0,0,0,0,Wood,2.0,0,16,1,Ravi Bishnoi,1.0,0,7,1
+PBKS,15,15.4,1,0,0,0,0,Raza,Raza,52,34,3,3,Sharma,2,3,0,0,Wood,2.0,0,16,0,Ravi Bishnoi,1.0,0,7,1
+PBKS,15,15.4,1,0,0,0,1,Raza,Raza,51,33,3,3,Sharma,2,3,0,0,Wood,2.0,0,15,0,Ravi Bishnoi,1.0,0,7,1
+PBKS,15,15.3,4,1,0,0,0,Raza,Raza,50,33,3,3,Sharma,2,3,0,0,Wood,2.0,0,14,0,Ravi Bishnoi,1.0,0,7,1
+PBKS,15,15.2,1,0,0,0,0,Sharma,Raza,46,32,2,3,Sharma,2,3,0,0,Wood,2.0,0,10,0,Ravi Bishnoi,1.0,0,7,1
+PBKS,15,15.1,0,0,1,0,0,Sharma,Raza,46,32,2,3,Sharma,1,2,0,0,Wood,2.0,0,9,0,Ravi Bishnoi,1.0,0,7,1
+PBKS,14,14.6,2,0,0,0,0,Raza,Raza,46,32,2,3,Sharma,1,1,0,0,Ravi Bishnoi,1.0,0,7,1,Gowtham,4.0,0,31,1
+PBKS,14,14.5,0,0,1,0,0,Raza,Raza,44,31,2,3,Sharma,1,1,0,0,Ravi Bishnoi,0,0,5,1,Gowtham,4.0,0,31,1
+PBKS,14,14.4,1,0,0,0,0,Sharma,Raza,44,30,2,3,Sharma,1,1,0,0,Ravi Bishnoi,0,0,5,1,Gowtham,4.0,0,31,1
+PBKS,14,14.3,0,0,0,1,0,Sam Curran,Raza,44,30,2,3,,0,0,0,0,Ravi Bishnoi,0,0,4,1,Gowtham,4.0,0,31,1
+PBKS,14,14.2,4,1,0,0,0,Sam Curran,Raza,44,30,2,3,Sam Curran,6,5,1,0,Ravi Bishnoi,0,0,4,0,Gowtham,4.0,0,31,1
+PBKS,14,14.1,0,0,1,0,0,Sam Curran,Raza,44,30,2,3,Sam Curran,2,4,0,0,Ravi Bishnoi,0,0,0,0,Gowtham,4.0,0,31,1
+PBKS,13,13.6,1,0,0,0,0,Sam Curran,Raza,44,30,2,3,Sam Curran,2,3,0,0,Gowtham,4.0,0,31,1,Krunal,3.0,0,32,1
+PBKS,13,13.5,1,0,0,0,0,Raza,Raza,44,30,2,3,Sam Curran,1,2,0,0,Gowtham,3.0,0,30,1,Krunal,3.0,0,32,1
+PBKS,13,13.4,1,0,0,0,0,Sam Curran,Raza,43,29,2,3,Sam Curran,1,2,0,0,Gowtham,3.0,0,29,1,Krunal,3.0,0,32,1
+PBKS,13,13.3,1,0,0,0,0,Raza,Raza,43,29,2,3,Sam Curran,0,1,0,0,Gowtham,3.0,0,28,1,Krunal,3.0,0,32,1
+PBKS,13,13.3,1,0,0,0,1,Raza,Raza,42,28,2,3,Sam Curran,0,1,0,0,Gowtham,3.0,0,27,1,Krunal,3.0,0,32,1
+PBKS,13,13.2,0,0,1,0,0,Raza,Raza,41,28,2,3,Sam Curran,0,1,0,0,Gowtham,3.0,0,26,1,Krunal,3.0,0,32,1
+PBKS,13,13.1,4,1,0,0,0,Raza,Raza,41,27,2,3,Sam Curran,0,1,0,0,Gowtham,3.0,0,26,1,Krunal,3.0,0,32,1
+PBKS,12,12.6,0,0,1,0,0,Sam Curran,Raza,37,26,1,3,Sam Curran,0,1,0,0,Krunal,3.0,0,32,1,Gowtham,3.0,0,22,1
+PBKS,12,12.5,1,0,0,0,0,Raza,Raza,37,26,1,3,,0,0,0,0,Krunal,2.0,0,32,1,Gowtham,3.0,0,22,1
+PBKS,12,12.4,4,1,0,0,0,Raza,Raza,36,25,1,3,,0,0,0,0,Krunal,2.0,0,31,1,Gowtham,3.0,0,22,1
+PBKS,12,12.3,6,1,0,0,0,Raza,Raza,32,24,0,3,,0,0,0,0,Krunal,2.0,0,27,1,Gowtham,3.0,0,22,1
+PBKS,12,12.2,6,1,0,0,0,Raza,Raza,26,23,0,2,,0,0,0,0,Krunal,2.0,0,21,1,Gowtham,3.0,0,22,1
+PBKS,12,12.1,0,0,1,0,0,Raza,Raza,20,22,0,1,,0,0,0,0,Krunal,2.0,0,15,1,Gowtham,3.0,0,22,1
+PBKS,11,11.6,1,0,0,0,0,Raza,Raza,20,21,0,1,,0,0,0,0,Gowtham,3.0,0,22,1,Krunal,2.0,0,15,1
+PBKS,11,11.5,0,0,1,0,0,Raza,Raza,19,20,0,1,,0,0,0,0,Gowtham,2.0,0,21,1,Krunal,2.0,0,15,1
+PBKS,11,11.4,0,0,1,0,0,Raza,Raza,19,19,0,1,,0,0,0,0,Gowtham,2.0,0,21,1,Krunal,2.0,0,15,1
+PBKS,11,11.3,6,1,0,0,0,Raza,Raza,19,18,0,1,,0,0,0,0,Gowtham,2.0,0,21,1,Krunal,2.0,0,15,1
+PBKS,11,11.2,0,0,1,0,0,Raza,Raza,13,17,0,0,,0,0,0,0,Gowtham,2.0,0,15,1,Krunal,2.0,0,15,1
+PBKS,11,11.1,0,0,1,0,0,Raza,Raza,13,16,0,0,,0,0,0,0,Gowtham,2.0,0,15,1,Krunal,2.0,0,15,1
+PBKS,10,10.6,0,0,0,1,0,Harpreet Singh,Raza,13,15,0,0,,0,0,0,0,Krunal,2.0,0,15,1,Gowtham,2.0,0,15,1
+PBKS,10,10.5,1,0,0,0,0,Raza,Harpreet Singh,23,21,3,0,Raza,13,15,0,0,Krunal,1.0,0,15,0,Gowtham,2.0,0,15,1
+PBKS,10,10.4,1,0,0,0,0,Harpreet Singh,Harpreet Singh,23,21,3,0,Raza,12,14,0,0,Krunal,1.0,0,14,0,Gowtham,2.0,0,15,1
+PBKS,10,10.3,0,0,1,0,0,Harpreet Singh,Harpreet Singh,22,20,3,0,Raza,12,14,0,0,Krunal,1.0,0,13,0,Gowtham,2.0,0,15,1
+PBKS,10,10.2,4,1,0,0,0,Harpreet Singh,Harpreet Singh,22,19,3,0,Raza,12,14,0,0,Krunal,1.0,0,13,0,Gowtham,2.0,0,15,1
+PBKS,10,10.1,1,0,0,0,0,Raza,Harpreet Singh,18,18,2,0,Raza,12,14,0,0,Krunal,1.0,0,9,0,Gowtham,2.0,0,15,1
+PBKS,9,9.6,0,0,1,0,0,Harpreet Singh,Harpreet Singh,18,18,2,0,Raza,11,13,0,0,Gowtham,2.0,0,15,1,Krunal,1.0,0,8,0
+PBKS,9,9.5,1,0,0,0,0,Raza,Harpreet Singh,18,17,2,0,Raza,11,13,0,0,Gowtham,1.0,0,15,1,Krunal,1.0,0,8,0
+PBKS,9,9.4,2,0,0,0,0,Raza,Harpreet Singh,18,17,2,0,Raza,10,12,0,0,Gowtham,1.0,0,14,1,Krunal,1.0,0,8,0
+PBKS,9,9.3,1,0,0,0,0,Harpreet Singh,Harpreet Singh,18,17,2,0,Raza,8,11,0,0,Gowtham,1.0,0,12,1,Krunal,1.0,0,8,0
+PBKS,9,9.2,3,0,0,0,0,Raza,Harpreet Singh,17,16,2,0,Raza,8,11,0,0,Gowtham,1.0,0,11,1,Krunal,1.0,0,8,0
+PBKS,9,9.1,0,0,1,0,0,Raza,Harpreet Singh,17,16,2,0,Raza,5,10,0,0,Gowtham,1.0,0,8,1,Krunal,1.0,0,8,0
+PBKS,8,8.6,2,0,0,0,0,Harpreet Singh,Harpreet Singh,17,16,2,0,Raza,5,9,0,0,Krunal,1.0,0,8,0,Wood,2.0,0,9,0
+PBKS,8,8.5,0,0,1,0,0,Harpreet Singh,Harpreet Singh,15,15,2,0,Raza,5,9,0,0,Krunal,0,0,6,0,Wood,2.0,0,9,0
+PBKS,8,8.4,4,1,0,0,0,Harpreet Singh,Harpreet Singh,15,14,2,0,Raza,5,9,0,0,Krunal,0,0,6,0,Wood,2.0,0,9,0
+PBKS,8,8.3,1,0,0,0,0,Raza,Harpreet Singh,11,13,1,0,Raza,5,9,0,0,Krunal,0,0,2,0,Wood,2.0,0,9,0
+PBKS,8,8.2,0,0,1,0,0,Raza,Harpreet Singh,11,13,1,0,Raza,4,8,0,0,Krunal,0,0,1,0,Wood,2.0,0,9,0
+PBKS,8,8.1,1,0,0,0,0,Harpreet Singh,Harpreet Singh,11,13,1,0,Raza,4,7,0,0,Krunal,0,0,1,0,Wood,2.0,0,9,0
+PBKS,7,7.6,0,0,1,0,0,Raza,Harpreet Singh,10,12,1,0,Raza,4,7,0,0,Wood,2.0,0,9,0,Avesh Khan,2.0,0,15,0
+PBKS,7,7.5,0,0,1,0,0,Raza,Harpreet Singh,10,12,1,0,Raza,4,6,0,0,Wood,1.0,0,9,0,Avesh Khan,2.0,0,15,0
+PBKS,7,7.4,2,0,0,0,0,Raza,Harpreet Singh,10,12,1,0,Raza,4,5,0,0,Wood,1.0,0,9,0,Avesh Khan,2.0,0,15,0
+PBKS,7,7.3,1,0,0,0,0,Harpreet Singh,Harpreet Singh,10,12,1,0,Raza,2,4,0,0,Wood,1.0,0,7,0,Avesh Khan,2.0,0,15,0
+PBKS,7,7.2,1,0,0,0,0,Raza,Harpreet Singh,9,11,1,0,Raza,2,4,0,0,Wood,1.0,0,6,0,Avesh Khan,2.0,0,15,0
+PBKS,7,7.1,1,0,0,0,0,Harpreet Singh,Harpreet Singh,9,11,1,0,Raza,1,3,0,0,Wood,1.0,0,5,0,Avesh Khan,2.0,0,15,0
+PBKS,6,6.6,1,0,0,0,0,Harpreet Singh,Harpreet Singh,8,10,1,0,Raza,1,3,0,0,Avesh Khan,2.0,0,15,0,Gowtham,1.0,0,8,1
+PBKS,6,6.5,1,0,0,0,0,Raza,Harpreet Singh,7,9,1,0,Raza,1,3,0,0,Avesh Khan,1.0,0,14,0,Gowtham,1.0,0,8,1
+PBKS,6,6.4,0,0,1,0,0,Raza,Harpreet Singh,7,9,1,0,Raza,0,2,0,0,Avesh Khan,1.0,0,13,0,Gowtham,1.0,0,8,1
+PBKS,6,6.3,0,0,1,0,0,Raza,Harpreet Singh,7,9,1,0,Raza,0,1,0,0,Avesh Khan,1.0,0,13,0,Gowtham,1.0,0,8,1
+PBKS,6,6.2,1,0,0,0,0,Harpreet Singh,Harpreet Singh,7,9,1,0,,0,0,0,0,Avesh Khan,1.0,0,13,0,Gowtham,1.0,0,8,1
+PBKS,6,6.1,0,0,1,0,0,Harpreet Singh,Harpreet Singh,6,8,1,0,,0,0,0,0,Avesh Khan,1.0,0,12,0,Gowtham,1.0,0,8,1
+PBKS,5,5.6,0,0,0,1,0,MW Short,Harpreet Singh,6,7,1,0,,0,0,0,0,Gowtham,1.0,0,8,1,Yudhvir Singh,3.0,0,19,2
+PBKS,5,5.5,0,0,1,0,0,MW Short,MW Short,35,21,5,1,Harpreet Singh,6,7,1,0,Gowtham,0,0,8,0,Yudhvir Singh,3.0,0,19,2
+PBKS,5,5.4,6,1,0,0,0,MW Short,MW Short,35,20,5,1,Harpreet Singh,6,7,1,0,Gowtham,0,0,8,0,Yudhvir Singh,3.0,0,19,2
+PBKS,5,5.3,1,0,0,0,0,Harpreet Singh,MW Short,29,19,5,0,Harpreet Singh,6,7,1,0,Gowtham,0,0,2,0,Yudhvir Singh,3.0,0,19,2
+PBKS,5,5.2,1,0,0,0,0,MW Short,MW Short,29,19,5,0,Harpreet Singh,5,6,1,0,Gowtham,0,0,1,0,Yudhvir Singh,3.0,0,19,2
+PBKS,5,5.1,0,0,1,0,0,MW Short,MW Short,28,18,5,0,Harpreet Singh,5,6,1,0,Gowtham,0,0,0,0,Yudhvir Singh,3.0,0,19,2
+PBKS,4,4.6,0,0,1,0,0,Harpreet Singh,MW Short,28,17,5,0,Harpreet Singh,5,6,1,0,Yudhvir Singh,3.0,0,19,2,Wood,1.0,0,4,0
+PBKS,4,4.5,0,0,1,0,0,Harpreet Singh,MW Short,28,17,5,0,Harpreet Singh,5,5,1,0,Yudhvir Singh,2.0,0,19,2,Wood,1.0,0,4,0
+PBKS,4,4.4,0,0,1,0,0,Harpreet Singh,MW Short,28,17,5,0,Harpreet Singh,5,4,1,0,Yudhvir Singh,2.0,0,19,2,Wood,1.0,0,4,0
+PBKS,4,4.3,1,0,0,0,0,MW Short,MW Short,28,17,5,0,Harpreet Singh,5,3,1,0,Yudhvir Singh,2.0,0,19,2,Wood,1.0,0,4,0
+PBKS,4,4.2,4,1,0,0,0,MW Short,MW Short,27,16,5,0,Harpreet Singh,5,3,1,0,Yudhvir Singh,2.0,0,18,2,Wood,1.0,0,4,0
+PBKS,4,4.1,4,1,0,0,0,MW Short,MW Short,23,15,4,0,Harpreet Singh,5,3,1,0,Yudhvir Singh,2.0,0,14,2,Wood,1.0,0,4,0
+PBKS,3,3.6,0,0,1,0,0,Harpreet Singh,MW Short,19,14,3,0,Harpreet Singh,5,3,1,0,Wood,1.0,0,4,0,Yudhvir Singh,2.0,0,10,2
+PBKS,3,3.5,1,0,0,0,1,MW Short,MW Short,19,14,3,0,Harpreet Singh,5,2,1,0,Wood,0,0,4,0,Yudhvir Singh,2.0,0,10,2
+PBKS,3,3.4,0,0,1,0,0,MW Short,MW Short,18,13,3,0,Harpreet Singh,5,2,1,0,Wood,0,0,4,0,Yudhvir Singh,2.0,0,10,2
+PBKS,3,3.3,0,0,1,0,0,MW Short,MW Short,18,12,3,0,Harpreet Singh,5,2,1,0,Wood,0,0,4,0,Yudhvir Singh,2.0,0,10,2
+PBKS,3,3.2,2,0,0,0,0,MW Short,MW Short,18,11,3,0,Harpreet Singh,5,2,1,0,Wood,0,0,4,0,Yudhvir Singh,2.0,0,10,2
+PBKS,3,3.1,2,0,0,0,0,MW Short,MW Short,16,10,3,0,Harpreet Singh,5,2,1,0,Wood,0,0,2,0,Yudhvir Singh,2.0,0,10,2
+PBKS,2,2.6,4,1,0,0,0,Harpreet Singh,MW Short,14,9,3,0,Harpreet Singh,5,2,1,0,Yudhvir Singh,2.0,0,10,2,Avesh Khan,1.0,0,12,0
+PBKS,2,2.5,1,0,0,0,0,MW Short,MW Short,14,9,3,0,Harpreet Singh,1,1,0,0,Yudhvir Singh,1.0,0,6,2,Avesh Khan,1.0,0,12,0
+PBKS,2,2.4,0,0,1,0,0,MW Short,MW Short,13,8,3,0,Harpreet Singh,1,1,0,0,Yudhvir Singh,1.0,0,5,2,Avesh Khan,1.0,0,12,0
+PBKS,2,2.3,1,0,0,0,1,Harpreet Singh,MW Short,13,7,3,0,Harpreet Singh,1,1,0,0,Yudhvir Singh,1.0,0,5,2,Avesh Khan,1.0,0,12,0
+PBKS,2,2.2,0,0,0,1,0,Prabhsimran,MW Short,13,7,3,0,,0,0,0,0,Yudhvir Singh,1.0,0,5,2,Avesh Khan,1.0,0,12,0
+PBKS,2,2.1,4,1,0,0,0,Prabhsimran,MW Short,13,7,3,0,Prabhsimran,4,3,1,0,Yudhvir Singh,1.0,0,5,1,Avesh Khan,1.0,0,12,0
+PBKS,1,1.6,0,0,1,0,0,MW Short,MW Short,13,7,3,0,Prabhsimran,0,2,0,0,Avesh Khan,1.0,0,12,0,Yudhvir Singh,1.0,0,1,1
+PBKS,1,1.5,0,0,1,0,0,MW Short,MW Short,13,6,3,0,Prabhsimran,0,2,0,0,Avesh Khan,0,0,12,0,Yudhvir Singh,1.0,0,1,1
+PBKS,1,1.4,4,1,0,0,0,MW Short,MW Short,13,5,3,0,Prabhsimran,0,2,0,0,Avesh Khan,0,0,12,0,Yudhvir Singh,1.0,0,1,1
+PBKS,1,1.3,4,1,0,0,0,MW Short,MW Short,9,4,2,0,Prabhsimran,0,2,0,0,Avesh Khan,0,0,8,0,Yudhvir Singh,1.0,0,1,1
+PBKS,1,1.2,0,0,1,0,0,MW Short,MW Short,5,3,1,0,Prabhsimran,0,2,0,0,Avesh Khan,0,0,4,0,Yudhvir Singh,1.0,0,1,1
+PBKS,1,1.1,4,1,0,0,0,MW Short,MW Short,5,2,1,0,Prabhsimran,0,2,0,0,Avesh Khan,0,0,4,0,Yudhvir Singh,1.0,0,1,1
+PBKS,0,0.6,0,0,1,0,0,Prabhsimran,MW Short,1,1,0,0,Prabhsimran,0,2,0,0,Yudhvir Singh,1.0,0,1,1,,0,0,0,0
+PBKS,0,0.5,0,0,1,0,0,Prabhsimran,MW Short,1,1,0,0,Prabhsimran,0,1,0,0,Yudhvir Singh,0,0,1,1,,0,0,0,0
+PBKS,0,0.4,1,0,0,0,0,MW Short,MW Short,1,1,0,0,,0,0,0,0,Yudhvir Singh,0,0,1,1,,0,0,0,0
+PBKS,0,0.3,0,0,0,1,0,Atharva,,0,0,0,0,,0,0,0,0,Yudhvir Singh,0,0,0,1,,0,0,0,0
+PBKS,0,0.2,0,0,1,0,0,Atharva,Atharva,0,2,0,0,,0,0,0,0,Yudhvir Singh,0,0,0,0,,0,0,0,0
+PBKS,0,0.1,0,0,1,0,0,Atharva,Atharva,0,1,0,0,,0,0,0,0,Yudhvir Singh,0,0,0,0,,0,0,0,0

@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+RR,19,19.1,14,2,2,0,0,Hetmyer,Hetmyer,13,6,1,1,,0,0,0,0,Arshdeep,3.0,0,31,1,Sam Curran,4.0,0,25,2
+RR,18,18.1,10,2,0,2,0,Maharaj,Hetmyer,12,4,1,1,Powell,7,3,1,0,Sam Curran,3.0,0,19,0,Harshal,2.0,0,21,1
+RR,17,17.1,14,2,0,1,0,Hetmyer,Jurel,6,10,0,0,Hetmyer,2,2,0,0,Harshal,1.0,0,8,0,Arshdeep,3.0,0,31,1
+RR,16,16.1,9,1,2,1,0,Jurel,Parag,15,15,1,0,Jurel,6,9,0,0,Arshdeep,2.0,0,22,0,Sam Curran,3.0,0,15,0
+RR,15,15.1,6,0,0,0,0,Parag,Parag,12,11,1,0,Jurel,4,7,0,0,Sam Curran,2.0,0,10,0,Harpreet Brar,3.0,0,22,0
+RR,14,14.1,9,1,1,0,0,Parag,Parag,5,8,0,0,Jurel,1,4,0,0,Harpreet Brar,2.0,0,13,0,Rabada,4.0,0,18,2
+RR,13,13.1,2,0,3,1,0,Parag,Samson,18,13,1,1,Parag,5,7,0,0,Rabada,3.0,0,17,1,Harpreet Brar,2.0,0,13,0
+RR,12,12.1,5,0,1,0,0,Parag,Samson,16,11,1,1,Parag,1,3,0,0,Harpreet Brar,1.0,0,8,0,Rabada,3.0,0,16,1
+RR,11,11.1,4,0,2,1,0,Parag,Jaiswal,39,25,4,0,Samson,16,11,1,1,Rabada,2.0,0,13,0,Livingstone,3.0,0,21,1
+RR,10,10.1,13,2,1,0,0,Samson,Jaiswal,38,24,4,0,Samson,9,6,0,1,Livingstone,2.0,0,14,1,Harpreet Brar,1.0,0,8,0
+RR,9,9.1,8,0,0,0,0,Samson,Jaiswal,33,21,4,0,Samson,1,3,0,0,Harpreet Brar,0,0,1,0,Livingstone,2.0,0,8,1
+RR,8,8.1,2,0,3,1,0,Jaiswal,Jaiswal,31,19,4,0,Kotian,25,30,3,0,Livingstone,1.0,0,6,0,Harshal,1.0,0,7,0
+RR,7,7.1,7,0,0,0,0,Kotian,Jaiswal,29,17,4,0,Kotian,21,26,3,0,Harshal,0,0,1,0,Livingstone,1.0,0,6,0
+RR,6,6.1,6,1,4,0,1,Jaiswal,Jaiswal,24,16,3,0,Kotian,19,21,3,0,Livingstone,0,0,0,0,Rabada,2.0,0,12,0
+RR,5,5.1,7,1,3,0,0,Jaiswal,Jaiswal,22,13,3,0,Kotian,18,18,3,0,Rabada,1.0,0,9,0,Sam Curran,2.0,0,9,0
+RR,4,4.1,7,1,3,0,1,Jaiswal,Jaiswal,20,11,3,0,Kotian,13,14,2,0,Sam Curran,1.0,0,6,0,Arshdeep,2.0,0,22,0
+RR,3,3.1,13,2,0,0,0,Kotian,Jaiswal,12,7,2,0,Kotian,8,12,1,0,Arshdeep,1.0,0,13,0,Sam Curran,1.0,0,2,0
+RR,2,2.1,2,0,4,0,0,Jaiswal,Jaiswal,7,3,1,0,Kotian,7,10,1,0,Sam Curran,0,0,0,0,Rabada,1.0,0,5,0
+RR,1,1.1,5,1,4,0,0,Jaiswal,Jaiswal,3,1,0,0,Kotian,6,6,1,0,Rabada,0,0,0,0,Arshdeep,1.0,0,9,0
+RR,0,0.1,9,1,3,0,1,Kotian,Jaiswal,3,1,0,0,,0,0,0,0,Arshdeep,0,0,3,0,,0,0,0,0

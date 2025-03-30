@@ -1,0 +1,102 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+KKR,16,16.3,6,1,0,0,0,Venkatesh Iyer,Shreyas Iyer,33,23,3,1,Venkatesh Iyer,26,23,2,1,Rasikh Salam,2.0,0,30,0,Kuldeep,4.0,0,34,0
+KKR,16,16.2,0,0,1,0,0,Venkatesh Iyer,Shreyas Iyer,33,23,3,1,Venkatesh Iyer,20,22,2,0,Rasikh Salam,2.0,0,24,0,Kuldeep,4.0,0,34,0
+KKR,16,16.1,0,0,1,0,0,Venkatesh Iyer,Shreyas Iyer,33,23,3,1,Venkatesh Iyer,20,21,2,0,Rasikh Salam,2.0,0,24,0,Kuldeep,4.0,0,34,0
+KKR,15,15.6,6,1,0,0,0,Shreyas Iyer,Shreyas Iyer,33,23,3,1,Venkatesh Iyer,20,20,2,0,Kuldeep,4.0,0,34,0,Axar Patel,4.0,0,25,2
+KKR,15,15.5,1,0,0,0,0,Venkatesh Iyer,Shreyas Iyer,27,22,3,0,Venkatesh Iyer,20,20,2,0,Kuldeep,3.0,0,28,0,Axar Patel,4.0,0,25,2
+KKR,15,15.4,0,0,1,0,0,Venkatesh Iyer,Shreyas Iyer,27,22,3,0,Venkatesh Iyer,19,19,2,0,Kuldeep,3.0,0,27,0,Axar Patel,4.0,0,25,2
+KKR,15,15.3,1,0,0,0,0,Shreyas Iyer,Shreyas Iyer,27,22,3,0,Venkatesh Iyer,19,18,2,0,Kuldeep,3.0,0,27,0,Axar Patel,4.0,0,25,2
+KKR,15,15.2,1,0,0,0,0,Venkatesh Iyer,Shreyas Iyer,26,21,3,0,Venkatesh Iyer,19,18,2,0,Kuldeep,3.0,0,26,0,Axar Patel,4.0,0,25,2
+KKR,15,15.1,1,0,0,0,0,Shreyas Iyer,Shreyas Iyer,26,21,3,0,Venkatesh Iyer,18,17,2,0,Kuldeep,3.0,0,25,0,Axar Patel,4.0,0,25,2
+KKR,14,14.6,0,0,1,0,0,Venkatesh Iyer,Shreyas Iyer,25,20,3,0,Venkatesh Iyer,18,17,2,0,Axar Patel,4.0,0,25,2,Kuldeep,3.0,0,24,0
+KKR,14,14.5,0,0,1,0,0,Venkatesh Iyer,Shreyas Iyer,25,20,3,0,Venkatesh Iyer,18,16,2,0,Axar Patel,3.0,0,25,2,Kuldeep,3.0,0,24,0
+KKR,14,14.4,1,0,0,0,0,Shreyas Iyer,Shreyas Iyer,25,20,3,0,Venkatesh Iyer,18,15,2,0,Axar Patel,3.0,0,25,2,Kuldeep,3.0,0,24,0
+KKR,14,14.3,1,0,0,0,0,Venkatesh Iyer,Shreyas Iyer,24,19,3,0,Venkatesh Iyer,18,15,2,0,Axar Patel,3.0,0,24,2,Kuldeep,3.0,0,24,0
+KKR,14,14.2,1,0,0,0,0,Shreyas Iyer,Shreyas Iyer,24,19,3,0,Venkatesh Iyer,17,14,2,0,Axar Patel,3.0,0,23,2,Kuldeep,3.0,0,24,0
+KKR,14,14.1,4,1,0,0,0,Shreyas Iyer,Shreyas Iyer,23,18,3,0,Venkatesh Iyer,17,14,2,0,Axar Patel,3.0,0,22,2,Kuldeep,3.0,0,24,0
+KKR,13,13.6,1,0,0,0,0,Shreyas Iyer,Shreyas Iyer,19,17,2,0,Venkatesh Iyer,17,14,2,0,Kuldeep,3.0,0,24,0,Rasikh Salam,2.0,0,24,0
+KKR,13,13.5,0,0,1,0,0,Shreyas Iyer,Shreyas Iyer,18,16,2,0,Venkatesh Iyer,17,14,2,0,Kuldeep,2.0,0,23,0,Rasikh Salam,2.0,0,24,0
+KKR,13,13.4,1,0,0,0,0,Venkatesh Iyer,Shreyas Iyer,18,15,2,0,Venkatesh Iyer,17,14,2,0,Kuldeep,2.0,0,23,0,Rasikh Salam,2.0,0,24,0
+KKR,13,13.3,0,0,1,0,0,Venkatesh Iyer,Shreyas Iyer,18,15,2,0,Venkatesh Iyer,16,13,2,0,Kuldeep,2.0,0,22,0,Rasikh Salam,2.0,0,24,0
+KKR,13,13.2,2,0,0,0,0,Venkatesh Iyer,Shreyas Iyer,18,15,2,0,Venkatesh Iyer,16,12,2,0,Kuldeep,2.0,0,22,0,Rasikh Salam,2.0,0,24,0
+KKR,13,13.1,0,0,1,0,0,Venkatesh Iyer,Shreyas Iyer,18,15,2,0,Venkatesh Iyer,14,11,2,0,Kuldeep,2.0,0,20,0,Rasikh Salam,2.0,0,24,0
+KKR,12,12.6,1,0,0,0,0,Venkatesh Iyer,Shreyas Iyer,18,15,2,0,Venkatesh Iyer,14,10,2,0,Rasikh Salam,2.0,0,24,0,Kuldeep,2.0,0,20,0
+KKR,12,12.5,1,0,0,0,0,Shreyas Iyer,Shreyas Iyer,18,15,2,0,Venkatesh Iyer,13,9,2,0,Rasikh Salam,1.0,0,23,0,Kuldeep,2.0,0,20,0
+KKR,12,12.4,0,0,1,0,0,Shreyas Iyer,Shreyas Iyer,17,14,2,0,Venkatesh Iyer,13,9,2,0,Rasikh Salam,1.0,0,22,0,Kuldeep,2.0,0,20,0
+KKR,12,12.3,2,0,0,0,0,Shreyas Iyer,Shreyas Iyer,17,13,2,0,Venkatesh Iyer,13,9,2,0,Rasikh Salam,1.0,0,22,0,Kuldeep,2.0,0,20,0
+KKR,12,12.2,1,0,0,0,0,Venkatesh Iyer,Shreyas Iyer,15,12,2,0,Venkatesh Iyer,13,9,2,0,Rasikh Salam,1.0,0,20,0,Kuldeep,2.0,0,20,0
+KKR,12,12.1,4,1,0,0,0,Venkatesh Iyer,Shreyas Iyer,15,12,2,0,Venkatesh Iyer,12,8,2,0,Rasikh Salam,1.0,0,19,0,Kuldeep,2.0,0,20,0
+KKR,11,11.6,2,0,0,0,0,Shreyas Iyer,Shreyas Iyer,15,12,2,0,Venkatesh Iyer,8,7,1,0,Kuldeep,2.0,0,20,0,Axar Patel,3.0,0,18,2
+KKR,11,11.5,1,0,0,0,0,Venkatesh Iyer,Shreyas Iyer,13,11,2,0,Venkatesh Iyer,8,7,1,0,Kuldeep,1.0,0,18,0,Axar Patel,3.0,0,18,2
+KKR,11,11.4,0,0,1,0,0,Venkatesh Iyer,Shreyas Iyer,13,11,2,0,Venkatesh Iyer,7,6,1,0,Kuldeep,1.0,0,17,0,Axar Patel,3.0,0,18,2
+KKR,11,11.3,0,0,1,0,0,Venkatesh Iyer,Shreyas Iyer,13,11,2,0,Venkatesh Iyer,7,5,1,0,Kuldeep,1.0,0,17,0,Axar Patel,3.0,0,18,2
+KKR,11,11.2,4,1,0,0,0,Venkatesh Iyer,Shreyas Iyer,13,11,2,0,Venkatesh Iyer,7,4,1,0,Kuldeep,1.0,0,17,0,Axar Patel,3.0,0,18,2
+KKR,11,11.1,1,0,0,0,0,Shreyas Iyer,Shreyas Iyer,13,11,2,0,Venkatesh Iyer,3,3,0,0,Kuldeep,1.0,0,13,0,Axar Patel,3.0,0,18,2
+KKR,10,10.6,1,0,0,0,0,Shreyas Iyer,Shreyas Iyer,12,10,2,0,Venkatesh Iyer,3,3,0,0,Axar Patel,3.0,0,18,2,Williams,3.0,0,37,1
+KKR,10,10.5,0,0,1,0,0,Shreyas Iyer,Shreyas Iyer,11,9,2,0,Venkatesh Iyer,3,3,0,0,Axar Patel,2.0,0,17,2,Williams,3.0,0,37,1
+KKR,10,10.4,0,0,1,0,0,Shreyas Iyer,Shreyas Iyer,11,8,2,0,Venkatesh Iyer,3,3,0,0,Axar Patel,2.0,0,17,2,Williams,3.0,0,37,1
+KKR,10,10.3,4,1,0,0,0,Shreyas Iyer,Shreyas Iyer,11,7,2,0,Venkatesh Iyer,3,3,0,0,Axar Patel,2.0,0,17,2,Williams,3.0,0,37,1
+KKR,10,10.2,4,1,0,0,0,Shreyas Iyer,Shreyas Iyer,7,6,1,0,Venkatesh Iyer,3,3,0,0,Axar Patel,2.0,0,13,2,Williams,3.0,0,37,1
+KKR,10,10.1,0,0,1,0,0,Shreyas Iyer,Shreyas Iyer,3,5,0,0,Venkatesh Iyer,3,3,0,0,Axar Patel,2.0,0,9,2,Williams,3.0,0,37,1
+KKR,9,9.6,2,0,0,0,0,Venkatesh Iyer,Shreyas Iyer,3,4,0,0,Venkatesh Iyer,3,3,0,0,Williams,3.0,0,37,1,Axar Patel,2.0,0,9,2
+KKR,9,9.5,1,0,0,0,0,Shreyas Iyer,Shreyas Iyer,3,4,0,0,Venkatesh Iyer,1,2,0,0,Williams,3.0,0,35,1,Axar Patel,2.0,0,9,2
+KKR,9,9.4,1,0,0,0,0,Venkatesh Iyer,Shreyas Iyer,2,3,0,0,Venkatesh Iyer,1,2,0,0,Williams,2.0,0,34,1,Axar Patel,2.0,0,9,2
+KKR,9,9.3,0,0,1,0,0,Venkatesh Iyer,Shreyas Iyer,2,3,0,0,Venkatesh Iyer,0,1,0,0,Williams,2.0,0,33,1,Axar Patel,2.0,0,9,2
+KKR,9,9.2,0,0,0,1,0,Rinku Singh,Shreyas Iyer,2,3,0,0,,0,0,0,0,Williams,2.0,0,33,1,Axar Patel,2.0,0,9,2
+KKR,9,9.1,0,0,1,0,0,Rinku Singh,Rinku Singh,11,10,1,0,Shreyas Iyer,2,3,0,0,Williams,2.0,0,33,0,Axar Patel,2.0,0,9,2
+KKR,8,8.6,1,0,0,0,0,Rinku Singh,Rinku Singh,11,9,1,0,Shreyas Iyer,2,3,0,0,Axar Patel,2.0,0,9,2,Kuldeep,1.0,0,12,0
+KKR,8,8.5,1,0,0,0,0,Shreyas Iyer,Rinku Singh,10,8,1,0,Shreyas Iyer,2,3,0,0,Axar Patel,1.0,0,8,2,Kuldeep,1.0,0,12,0
+KKR,8,8.4,0,0,1,0,0,Shreyas Iyer,Rinku Singh,10,8,1,0,Shreyas Iyer,1,2,0,0,Axar Patel,1.0,0,7,2,Kuldeep,1.0,0,12,0
+KKR,8,8.3,1,0,0,0,0,Rinku Singh,Rinku Singh,10,8,1,0,Shreyas Iyer,1,1,0,0,Axar Patel,1.0,0,7,2,Kuldeep,1.0,0,12,0
+KKR,8,8.2,1,0,0,0,0,Shreyas Iyer,Rinku Singh,9,7,1,0,Shreyas Iyer,1,1,0,0,Axar Patel,1.0,0,6,2,Kuldeep,1.0,0,12,0
+KKR,8,8.1,0,0,0,1,0,Salt,Rinku Singh,9,7,1,0,,0,0,0,0,Axar Patel,1.0,0,5,2,Kuldeep,1.0,0,12,0
+KKR,7,7.6,1,0,0,0,0,Salt,Salt,70,32,7,5,Rinku Singh,9,7,1,0,Kuldeep,1.0,0,12,0,Axar Patel,1.0,0,5,1
+KKR,7,7.5,6,1,0,0,0,Salt,Salt,69,31,7,5,Rinku Singh,9,7,1,0,Kuldeep,0,0,11,0,Axar Patel,1.0,0,5,1
+KKR,7,7.4,1,0,0,0,0,Rinku Singh,Salt,63,30,7,4,Rinku Singh,9,7,1,0,Kuldeep,0,0,5,0,Axar Patel,1.0,0,5,1
+KKR,7,7.3,0,0,1,0,0,Rinku Singh,Salt,63,30,7,4,Rinku Singh,8,6,1,0,Kuldeep,0,0,4,0,Axar Patel,1.0,0,5,1
+KKR,7,7.2,4,1,0,0,0,Rinku Singh,Salt,63,30,7,4,Rinku Singh,8,5,1,0,Kuldeep,0,0,4,0,Axar Patel,1.0,0,5,1
+KKR,7,7.1,0,0,1,0,0,Rinku Singh,Salt,63,30,7,4,Rinku Singh,4,4,0,0,Kuldeep,0,0,0,0,Axar Patel,1.0,0,5,1
+KKR,6,6.6,1,0,0,0,0,Rinku Singh,Salt,63,30,7,4,Rinku Singh,4,3,0,0,Axar Patel,1.0,0,5,1,Khaleel Ahmed,3.0,0,28,0
+KKR,6,6.5,0,0,1,0,0,Rinku Singh,Salt,63,30,7,4,Rinku Singh,3,2,0,0,Axar Patel,0,0,4,1,Khaleel Ahmed,3.0,0,28,0
+KKR,6,6.4,1,0,0,0,0,Salt,Salt,63,30,7,4,Rinku Singh,3,1,0,0,Axar Patel,0,0,4,1,Khaleel Ahmed,3.0,0,28,0
+KKR,6,6.3,0,0,1,0,0,Salt,Salt,62,29,7,4,Rinku Singh,3,1,0,0,Axar Patel,0,0,3,1,Khaleel Ahmed,3.0,0,28,0
+KKR,6,6.2,3,0,0,0,0,Rinku Singh,Salt,62,28,7,4,Rinku Singh,3,1,0,0,Axar Patel,0,0,3,1,Khaleel Ahmed,3.0,0,28,0
+KKR,6,6.1,0,0,0,1,0,Narine,Salt,62,28,7,4,,0,0,0,0,Axar Patel,0,0,0,1,Khaleel Ahmed,3.0,0,28,0
+KKR,5,5.6,4,1,0,0,0,Salt,Salt,62,28,7,4,Narine,17,9,3,0,Khaleel Ahmed,3.0,0,28,0,Rasikh Salam,1.0,0,15,0
+KKR,5,5.5,4,1,0,0,0,Salt,Salt,58,27,6,4,Narine,17,9,3,0,Khaleel Ahmed,2.0,0,24,0,Rasikh Salam,1.0,0,15,0
+KKR,5,5.4,6,1,0,0,0,Salt,Salt,54,26,5,4,Narine,17,9,3,0,Khaleel Ahmed,2.0,0,20,0,Rasikh Salam,1.0,0,15,0
+KKR,5,5.3,0,0,1,0,0,Salt,Salt,48,25,5,3,Narine,17,9,3,0,Khaleel Ahmed,2.0,0,14,0,Rasikh Salam,1.0,0,15,0
+KKR,5,5.2,4,1,0,0,0,Salt,Salt,48,24,5,3,Narine,17,9,3,0,Khaleel Ahmed,2.0,0,14,0,Rasikh Salam,1.0,0,15,0
+KKR,5,5.1,0,0,1,0,0,Salt,Salt,44,23,4,3,Narine,17,9,3,0,Khaleel Ahmed,2.0,0,10,0,Rasikh Salam,1.0,0,15,0
+KKR,4,4.6,1,0,0,0,0,Salt,Salt,44,22,4,3,Narine,17,9,3,0,Rasikh Salam,1.0,0,15,0,Khaleel Ahmed,2.0,0,10,0
+KKR,4,4.5,4,1,0,0,0,Salt,Salt,43,21,4,3,Narine,17,9,3,0,Rasikh Salam,0,0,14,0,Khaleel Ahmed,2.0,0,10,0
+KKR,4,4.4,1,0,0,0,0,Narine,Salt,39,20,3,3,Narine,17,9,3,0,Rasikh Salam,0,0,10,0,Khaleel Ahmed,2.0,0,10,0
+KKR,4,4.3,4,1,0,0,0,Narine,Salt,39,20,3,3,Narine,16,8,3,0,Rasikh Salam,0,0,9,0,Khaleel Ahmed,2.0,0,10,0
+KKR,4,4.2,4,1,0,0,0,Narine,Salt,39,20,3,3,Narine,12,7,2,0,Rasikh Salam,0,0,5,0,Khaleel Ahmed,2.0,0,10,0
+KKR,4,4.1,1,0,0,0,0,Salt,Salt,39,20,3,3,Narine,8,6,1,0,Rasikh Salam,0,0,1,0,Khaleel Ahmed,2.0,0,10,0
+KKR,3,3.6,1,0,0,0,0,Salt,Salt,38,19,3,3,Narine,8,6,1,0,Khaleel Ahmed,2.0,0,10,0,Williams,2.0,0,33,0
+KKR,3,3.5,4,1,0,0,0,Salt,Salt,37,18,3,3,Narine,8,6,1,0,Khaleel Ahmed,1.0,0,9,0,Williams,2.0,0,33,0
+KKR,3,3.4,0,0,1,0,0,Salt,Salt,33,17,2,3,Narine,8,6,1,0,Khaleel Ahmed,1.0,0,5,0,Williams,2.0,0,33,0
+KKR,3,3.3,0,0,1,0,0,Salt,Salt,33,16,2,3,Narine,8,6,1,0,Khaleel Ahmed,1.0,0,5,0,Williams,2.0,0,33,0
+KKR,3,3.2,1,0,0,0,0,Narine,Salt,33,15,2,3,Narine,8,6,1,0,Khaleel Ahmed,1.0,0,5,0,Williams,2.0,0,33,0
+KKR,3,3.1,0,0,1,0,0,Narine,Salt,33,15,2,3,Narine,7,5,1,0,Khaleel Ahmed,1.0,0,4,0,Williams,2.0,0,33,0
+KKR,2,2.6,0,0,1,0,0,Salt,Salt,33,15,2,3,Narine,7,4,1,0,Williams,2.0,0,33,0,Khaleel Ahmed,1.0,0,4,0
+KKR,2,2.5,6,1,0,0,0,Salt,Salt,33,14,2,3,Narine,7,4,1,0,Williams,2.0,0,33,0,Khaleel Ahmed,1.0,0,4,0
+KKR,2,2.4,6,1,0,0,0,Salt,Salt,27,13,2,2,Narine,7,4,1,0,Williams,1.0,0,27,0,Khaleel Ahmed,1.0,0,4,0
+KKR,2,2.3,0,0,1,0,0,Salt,Salt,21,12,2,1,Narine,7,4,1,0,Williams,1.0,0,21,0,Khaleel Ahmed,1.0,0,4,0
+KKR,2,2.2,1,0,0,0,0,Narine,Salt,21,11,2,1,Narine,7,4,1,0,Williams,1.0,0,21,0,Khaleel Ahmed,1.0,0,4,0
+KKR,2,2.1,0,0,1,0,0,Narine,Salt,21,11,2,1,Narine,6,3,1,0,Williams,1.0,0,20,0,Khaleel Ahmed,1.0,0,4,0
+KKR,1,1.6,0,0,1,0,0,Salt,Salt,21,11,2,1,Narine,6,2,1,0,Khaleel Ahmed,1.0,0,4,0,Williams,1.0,0,20,0
+KKR,1,1.5,2,0,0,0,0,Salt,Salt,21,10,2,1,Narine,6,2,1,0,Khaleel Ahmed,0,0,4,0,Williams,1.0,0,20,0
+KKR,1,1.4,0,0,1,0,0,Salt,Salt,19,9,2,1,Narine,6,2,1,0,Khaleel Ahmed,0,0,2,0,Williams,1.0,0,20,0
+KKR,1,1.3,0,0,1,0,0,Salt,Salt,19,8,2,1,Narine,6,2,1,0,Khaleel Ahmed,0,0,2,0,Williams,1.0,0,20,0
+KKR,1,1.2,0,0,1,0,0,Salt,Salt,19,7,2,1,Narine,6,2,1,0,Khaleel Ahmed,0,0,2,0,Williams,1.0,0,20,0
+KKR,1,1.1,2,0,0,0,0,Salt,Salt,19,6,2,1,Narine,6,2,1,0,Khaleel Ahmed,0,0,2,0,Williams,1.0,0,20,0
+KKR,0,0.6,4,1,0,0,0,Narine,Salt,17,5,2,1,Narine,6,2,1,0,Williams,1.0,0,20,0,,0,0,0,0
+KKR,0,0.5,1,0,0,0,1,Salt,Salt,17,5,2,1,Narine,2,1,0,0,Williams,1.0,0,16,0,,0,0,0,0
+KKR,0,0.4,4,1,0,0,0,Salt,Salt,16,4,2,1,Narine,2,1,0,0,Williams,0,0,16,0,,0,0,0,0
+KKR,0,0.3,6,1,0,0,0,Salt,Salt,12,3,1,1,Narine,2,1,0,0,Williams,0,0,12,0,,0,0,0,0
+KKR,0,0.3,1,0,0,0,1,Salt,Salt,6,2,1,0,Narine,2,1,0,0,Williams,0,0,6,0,,0,0,0,0
+KKR,0,0.3,2,0,0,0,1,Narine,Salt,5,2,1,0,Narine,2,1,0,0,Williams,0,0,5,0,,0,0,0,0
+KKR,0,0.2,1,0,0,0,0,Salt,Salt,5,2,1,0,,0,0,0,0,Williams,0,0,5,0,,0,0,0,0
+KKR,0,0.1,4,1,0,0,0,Salt,Salt,4,1,1,0,,0,0,0,0,Williams,0,0,4,0,,0,0,0,0

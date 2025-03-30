@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+RCB,19,19.1,19,3,1,0,1,Karthik,Karthik,37,18,4,2,Akash Deep,2,2,0,0,Madhwal,3.0,0,39,1,Bumrah,4.0,0,21,5
+RCB,18,18.1,9,1,1,2,0,Karthik,Karthik,31,17,4,1,Chauhan,8,6,1,0,Bumrah,3.0,0,12,3,Coetzee,4.0,0,42,1
+RCB,17,17.1,14,2,1,0,1,Karthik,Karthik,24,15,4,0,Chauhan,1,2,0,0,Coetzee,3.0,0,28,1,Bumrah,3.0,0,12,3
+RCB,16,16.1,5,0,0,2,1,Chauhan,du Plessis,62,38,4,3,Karthik,23,14,4,0,Bumrah,2.0,0,10,1,Madhwal,3.0,0,38,1
+RCB,15,15.1,19,4,1,0,2,Karthik,du Plessis,59,36,4,3,Karthik,6,9,0,0,Madhwal,2.0,0,20,1,Gopal,4.0,0,32,1
+RCB,14,14.1,9,1,2,0,0,Karthik,du Plessis,51,34,4,2,Karthik,5,6,0,0,Gopal,3.0,0,24,1,Shepherd,2.0,0,22,0
+RCB,13,13.1,10,1,0,0,0,Karthik,du Plessis,44,30,3,2,Karthik,2,4,0,0,Shepherd,1.0,0,13,0,Gopal,3.0,0,23,1
+RCB,12,12.1,4,0,2,1,0,du Plessis,du Plessis,42,29,3,2,Maxwell,2,3,0,0,Gopal,2.0,0,20,0,Coetzee,3.0,0,28,1
+RCB,11,11.1,14,2,3,1,2,Maxwell,du Plessis,41,28,3,2,Patidar,47,24,3,3,Coetzee,2.0,0,20,0,Bumrah,2.0,0,8,1
+RCB,10,10.1,4,0,2,0,0,Patidar,du Plessis,40,27,3,2,Patidar,39,19,3,2,Bumrah,1.0,0,5,1,Hardik,1.0,0,13,0
+RCB,9,9.1,13,1,2,0,2,Patidar,du Plessis,38,24,3,2,Patidar,27,16,3,1,Hardik,0,0,0,0,Gopal,2.0,0,19,0
+RCB,8,8.1,9,1,2,0,0,du Plessis,du Plessis,37,22,3,2,Patidar,20,12,3,0,Gopal,1.0,0,11,0,Shepherd,1.0,0,12,0
+RCB,7,7.1,13,2,0,0,1,Patidar,du Plessis,31,19,2,2,Patidar,13,9,2,0,Shepherd,0,0,1,0,Gopal,1.0,0,10,0
+RCB,6,6.1,10,0,0,0,0,du Plessis,du Plessis,22,14,2,2,Patidar,12,8,2,0,Gopal,0,0,1,0,Madhwal,2.0,0,19,1
+RCB,5,5.1,9,2,3,0,0,du Plessis,du Plessis,18,11,1,2,Patidar,6,5,1,0,Madhwal,1.0,0,10,1,Coetzee,2.0,0,14,0
+RCB,4,4.1,7,1,4,0,0,du Plessis,du Plessis,12,7,1,1,Patidar,5,3,1,0,Coetzee,1.0,0,7,0,Madhwal,1.0,0,10,1
+RCB,3,3.1,10,2,1,1,0,Patidar,du Plessis,12,7,1,1,Jacks,4,3,1,0,Madhwal,0,0,1,0,Bumrah,1.0,0,4,1
+RCB,2,2.1,4,1,4,1,0,Jacks,Kohli,3,7,0,0,du Plessis,11,6,1,1,Bumrah,0,0,0,0,Coetzee,1.0,0,7,0
+RCB,1,1.1,7,1,4,0,0,du Plessis,Kohli,2,4,0,0,du Plessis,5,3,1,0,Coetzee,0,0,0,0,M Nabi,1.0,0,7,0
+RCB,0,0.1,7,1,2,0,0,du Plessis,Kohli,0,1,0,0,,0,0,0,0,M Nabi,0,0,0,0,,0,0,0,0

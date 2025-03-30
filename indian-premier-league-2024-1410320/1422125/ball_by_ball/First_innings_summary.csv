@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+GT,19,19.1,8,1,3,0,0,Umesh Yadav,Umesh Yadav,3,8,0,0,Johnson,5,3,1,0,Pathirana,3.0,0,21,1,Mustafizur,4.0,0,30,2
+GT,18,18.1,7,1,1,1,1,Johnson,Tewatia,8,10,1,0,Umesh Yadav,2,6,0,0,Mustafizur,3.0,0,25,1,Pathirana,3.0,0,21,1
+GT,17,17.1,7,1,3,0,1,Tewatia,Tewatia,2,6,0,0,Umesh Yadav,0,4,0,0,Pathirana,2.0,0,14,1,Mustafizur,3.0,0,24,1
+GT,16,16.1,1,0,4,1,0,Umesh Yadav,Tewatia,2,5,0,0,Rashid Khan,1,1,0,0,Mustafizur,2.0,0,24,0,Deshpande,4.0,0,21,2
+GT,15,15.1,6,1,2,1,1,Tewatia,Azmatullah,12,9,1,0,Tewatia,0,1,0,0,Deshpande,3.0,0,20,1,Pathirana,2.0,0,14,1
+GT,14,14.1,4,0,3,1,1,Tewatia,B Sai Sudharsan,39,27,3,0,Azmatullah,8,8,0,0,Pathirana,1.0,0,11,0,Chahar,4.0,0,28,2
+GT,13,13.1,7,0,1,0,1,Azmatullah,B Sai Sudharsan,35,24,3,0,Azmatullah,4,5,0,0,Chahar,3.0,0,21,2,Jadeja,2.0,0,15,0
+GT,12,12.1,6,0,2,0,0,Azmatullah,B Sai Sudharsan,32,21,3,0,Azmatullah,1,2,0,0,Jadeja,1.0,0,9,0,Deshpande,3.0,0,16,1
+GT,11,11.1,4,0,2,1,0,Azmatullah,B Sai Sudharsan,32,21,3,0,Miller,20,12,3,0,Deshpande,2.0,0,13,0,Mustafizur,2.0,0,23,0
+GT,10,10.1,13,2,0,0,0,B Sai Sudharsan,B Sai Sudharsan,29,18,3,0,Miller,13,9,2,0,Mustafizur,1.0,0,14,0,Mitchell,2.0,0,18,1
+GT,9,9.1,13,2,0,0,1,B Sai Sudharsan,B Sai Sudharsan,18,14,1,0,Miller,11,7,2,0,Mitchell,1.0,0,9,1,Pathirana,1.0,0,10,0
+GT,8,8.1,10,1,3,0,2,Miller,B Sai Sudharsan,16,13,1,0,Miller,1,2,0,0,Pathirana,0,0,2,0,Mitchell,1.0,0,5,1
+GT,7,7.1,5,0,1,1,0,B Sai Sudharsan,B Sai Sudharsan,13,11,1,0,Shankar,10,10,0,1,Mitchell,0,0,1,0,Jadeja,1.0,0,9,0
+GT,6,6.1,9,1,0,0,0,B Sai Sudharsan,B Sai Sudharsan,9,7,1,0,Shankar,8,8,0,1,Jadeja,0,0,4,0,Deshpande,2.0,0,12,0
+GT,5,5.1,8,1,3,0,0,Shankar,B Sai Sudharsan,4,5,0,0,Shankar,1,4,0,0,Deshpande,1.0,0,4,0,Chahar,3.0,0,21,2
+GT,4,4.1,3,0,3,1,1,Shankar,Saha,22,15,4,0,B Sai Sudharsan,3,4,0,0,Chahar,2.0,0,19,1,Deshpande,1.0,0,4,0
+GT,3,3.1,4,0,2,0,0,B Sai Sudharsan,Saha,21,13,4,0,B Sai Sudharsan,0,1,0,0,Deshpande,0,0,1,0,Chahar,2.0,0,18,1
+GT,2,2.1,11,2,1,1,1,B Sai Sudharsan,Saha,10,9,2,0,Gill,8,4,0,1,Chahar,1.0,0,8,0,Mustafizur,1.0,0,10,0
+GT,1,1.1,10,2,2,0,0,Saha,Saha,5,6,1,0,Gill,6,1,0,1,Mustafizur,0,0,4,0,Chahar,1.0,0,7,0
+GT,0,0.1,7,1,4,0,0,Gill,Saha,0,1,0,0,,0,0,0,0,Chahar,0,0,0,0,,0,0,0,0

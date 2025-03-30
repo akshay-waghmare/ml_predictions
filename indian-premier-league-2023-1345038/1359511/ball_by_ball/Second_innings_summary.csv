@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+RR,19,19.1,20,3,0,0,1,Padikkal,Jurel,29,13,2,2,Padikkal,21,11,4,0,Pathirana,3.0,0,34,0,Deshpande,4.0,0,42,2
+RR,18,18.1,16,3,1,0,0,Jurel,Jurel,12,9,1,0,Padikkal,20,9,4,0,Deshpande,3.0,0,30,2,Pathirana,3.0,0,28,0
+RR,17,17.1,13,2,0,0,0,Padikkal,Jurel,9,7,1,0,Padikkal,7,5,1,0,Pathirana,2.0,0,16,0,Theekshana,4.0,0,24,1
+RR,16,16.1,7,1,1,1,1,Padikkal,Jurel,8,6,1,0,,0,0,0,0,Theekshana,3.0,0,18,1,Pathirana,2.0,0,15,0
+RR,15,15.1,7,1,3,0,1,Jurel,Hetmyer,8,7,0,0,Jurel,2,3,0,0,Pathirana,1.0,0,9,0,Moeen Ali,2.0,0,17,0
+RR,14,14.1,7,0,0,0,0,Hetmyer,Hetmyer,4,3,0,0,Jurel,0,1,0,0,Moeen Ali,1.0,0,11,0,Deshpande,3.0,0,26,2
+RR,13,13.1,7,1,1,2,0,Jurel,Jaiswal,75,41,7,4,,0,0,0,0,Deshpande,2.0,0,19,1,Jadeja,4.0,0,32,1
+RR,12,12.1,12,2,1,0,0,Samson,Jaiswal,72,38,7,4,Samson,13,14,0,0,Jadeja,3.0,0,24,1,Pathirana,1.0,0,9,0
+RR,11,11.1,9,0,1,0,1,Samson,Jaiswal,64,35,6,4,Samson,9,11,0,0,Pathirana,0,0,1,0,Jadeja,3.0,0,20,1
+RR,10,10.1,4,0,2,0,0,Samson,Jaiswal,63,34,6,4,Samson,6,6,0,0,Jadeja,2.0,0,17,1,Moeen Ali,1.0,0,10,0
+RR,9,9.1,10,1,2,0,0,Samson,Jaiswal,55,30,6,3,Samson,4,4,0,0,Moeen Ali,0,0,1,0,Jadeja,2.0,0,16,1
+RR,8,8.1,5,0,1,1,1,Samson,Jaiswal,54,29,6,3,Buttler,32,20,5,0,Jadeja,1.0,0,12,0,Theekshana,3.0,0,18,0
+RR,7,7.1,10,1,1,0,2,Buttler,Jaiswal,52,27,6,3,Buttler,24,16,4,0,Theekshana,2.0,0,13,0,Jadeja,1.0,0,11,0
+RR,6,6.1,11,1,1,0,0,Jaiswal,Jaiswal,41,22,6,2,Buttler,23,15,4,0,Jadeja,0,0,0,0,Theekshana,2.0,0,12,0
+RR,5,5.1,10,2,2,0,0,Buttler,Jaiswal,40,19,6,2,Buttler,18,12,3,0,Theekshana,1.0,0,6,0,Deshpande,2.0,0,19,0
+RR,4,4.1,9,1,3,0,0,Jaiswal,Jaiswal,32,14,6,1,Buttler,14,11,2,0,Deshpande,1.0,0,11,0,Theekshana,1.0,0,2,0
+RR,3,3.1,3,0,3,0,1,Jaiswal,Jaiswal,31,11,6,1,Buttler,12,8,2,0,Theekshana,0,0,1,0,Akash Singh,2.0,0,32,0
+RR,2,2.1,18,4,2,0,0,Jaiswal,Jaiswal,17,6,4,0,Buttler,11,7,2,0,Akash Singh,1.0,0,18,0,Deshpande,1.0,0,10,0
+RR,1,1.1,10,2,3,0,0,Buttler,Jaiswal,13,5,3,0,Buttler,5,2,1,0,Deshpande,0,0,4,0,Akash Singh,1.0,0,14,0
+RR,0,0.1,14,3,1,0,0,Buttler,Jaiswal,4,1,1,0,,0,0,0,0,Akash Singh,0,0,4,0,,0,0,0,0

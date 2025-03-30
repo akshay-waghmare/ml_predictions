@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+KKR,19,19.1,9,1,1,1,0,Rinku Singh,Rinku Singh,13,6,1,1,Venkatesh Iyer,8,5,1,0,Sen,3.0,0,38,1,Avesh Khan,4.0,0,35,2
+KKR,18,18.1,16,3,1,0,0,Venkatesh Iyer,Rinku Singh,1,2,0,0,Venkatesh Iyer,4,3,0,0,Avesh Khan,3.0,0,20,2,Boult,4.0,0,31,1
+KKR,17,17.1,7,1,2,1,0,Rinku Singh,Narine,125,54,14,6,Rinku Singh,1,1,0,0,Boult,3.0,0,24,0,Avesh Khan,3.0,0,19,2
+KKR,16,16.1,7,1,2,1,1,Narine,Narine,119,49,13,6,,0,0,0,0,Avesh Khan,2.0,0,12,2,Chahal,4.0,0,54,1
+KKR,15,15.1,23,4,0,0,1,Narine,Narine,98,45,11,4,Russell,13,8,2,0,Chahal,3.0,0,32,1,Sen,3.0,0,37,1
+KKR,14,14.1,15,3,1,0,1,Russell,Narine,92,42,10,4,Russell,3,5,0,0,Sen,2.0,0,22,1,Ashwin,4.0,0,49,0
+KKR,13,13.1,13,0,2,0,3,Russell,Narine,83,40,10,4,,0,0,0,0,Ashwin,3.0,0,37,0,Chahal,3.0,0,31,1
+KKR,12,12.1,8,1,2,1,0,Shreyas Iyer,Narine,81,39,10,4,Shreyas Iyer,5,3,1,0,Chahal,2.0,0,24,0,Ashwin,3.0,0,36,0
+KKR,11,11.1,15,3,3,0,1,Narine,Narine,67,33,8,3,Shreyas Iyer,4,2,1,0,Ashwin,2.0,0,22,0,Sen,2.0,0,22,1
+KKR,10,10.1,10,2,2,1,1,Shreyas Iyer,Narine,61,30,7,3,A Raghuvanshi,30,17,5,0,Sen,1.0,0,13,0,Ashwin,2.0,0,21,0
+KKR,9,9.1,11,1,1,0,1,Narine,Narine,51,26,7,2,A Raghuvanshi,29,16,5,0,Ashwin,1.0,0,11,0,Chahal,2.0,0,23,0
+KKR,8,8.1,15,2,0,0,0,Narine,Narine,42,23,7,1,A Raghuvanshi,26,13,5,0,Chahal,1.0,0,12,0,Ashwin,1.0,0,10,0
+KKR,7,7.1,10,2,2,0,0,Narine,Narine,34,19,5,1,A Raghuvanshi,21,11,4,0,Ashwin,0,0,1,0,Chahal,1.0,0,8,0
+KKR,6,6.1,8,1,1,0,0,Narine,Narine,31,16,5,1,A Raghuvanshi,15,8,3,0,Chahal,0,0,0,0,Sen,1.0,0,12,0
+KKR,5,5.1,16,3,1,0,1,Narine,Narine,20,13,4,0,A Raghuvanshi,14,5,3,0,Sen,0,0,0,0,Boult,3.0,0,24,0
+KKR,4,4.1,14,3,1,0,0,A Raghuvanshi,Narine,15,10,3,0,A Raghuvanshi,5,2,1,0,Boult,2.0,0,14,0,Avesh Khan,2.0,0,12,1
+KKR,3,3.1,6,1,2,1,0,Narine,Salt,10,11,1,0,Narine,11,8,2,0,Avesh Khan,1.0,0,7,0,Boult,2.0,0,10,0
+KKR,2,2.1,8,1,2,0,0,Salt,Salt,5,8,0,0,Narine,9,5,2,0,Boult,1.0,0,4,0,Avesh Khan,1.0,0,6,0
+KKR,1,1.1,10,2,2,0,1,Narine,Salt,2,6,0,0,Narine,1,1,0,0,Avesh Khan,0,0,1,0,Boult,1.0,0,2,0
+KKR,0,0.1,2,0,5,0,0,Salt,Salt,0,1,0,0,,0,0,0,0,Boult,0,0,0,0,,0,0,0,0

@@ -1,0 +1,20 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+RR,18,18.1,8,1,0,0,0,Jaiswal,Jaiswal,105,59,8,7,Samson,36,26,2,2,Tilak Varma,0,0,1,0,Thushara,3.0,0,28,0
+RR,17,17.1,5,0,1,0,0,Jaiswal,Jaiswal,102,56,8,7,Samson,34,23,2,2,Thushara,2.0,0,24,0,Bumrah,4.0,0,37,0
+RR,16,16.1,10,2,2,0,0,Samson,Jaiswal,100,54,8,7,Samson,25,19,0,2,Bumrah,3.0,0,27,0,Coetzee,2.0,0,25,0
+RR,15,15.1,9,1,4,0,1,Jaiswal,Jaiswal,91,49,8,6,Samson,25,18,0,2,Coetzee,1.0,0,16,0,Bumrah,3.0,0,27,0
+RR,14,14.1,16,2,1,0,2,Jaiswal,Jaiswal,78,43,7,5,Samson,24,17,0,2,Bumrah,2.0,0,13,0,Chawla,4.0,0,33,1
+RR,13,13.1,12,1,0,0,0,Samson,Jaiswal,69,40,7,4,Samson,20,14,0,2,Chawla,3.0,0,22,1,Hardik,2.0,0,21,0
+RR,12,12.1,10,1,1,0,0,Jaiswal,Jaiswal,66,37,7,4,Samson,13,11,0,1,Hardik,1.0,0,12,0,Chawla,3.0,0,21,1
+RR,11,11.1,3,0,3,0,0,Jaiswal,Jaiswal,65,35,7,4,Samson,11,7,0,1,Chawla,2.0,0,19,1,M Nabi,3.0,0,30,0
+RR,10,10.1,15,2,1,0,1,Samson,Jaiswal,58,33,7,3,Samson,2,3,0,0,M Nabi,2.0,0,16,0,Chawla,2.0,0,18,1
+RR,9,9.1,12,2,2,0,0,Jaiswal,Jaiswal,47,29,6,2,Samson,1,1,0,0,Chawla,1.0,0,6,1,M Nabi,2.0,0,16,0
+RR,8,8.1,9,1,2,0,0,Jaiswal,Jaiswal,39,24,6,1,,0,0,0,0,M Nabi,1.0,0,7,0,Chawla,1.0,0,6,1
+RR,7,7.1,6,1,2,1,0,Buttler,Jaiswal,38,22,6,1,Buttler,31,21,5,0,Chawla,0,0,1,0,M Nabi,1.0,0,7,0
+RR,6,6.1,7,1,2,0,0,Jaiswal,Jaiswal,33,18,5,1,Buttler,29,19,5,0,M Nabi,0,0,1,0,Thushara,2.0,0,23,0
+RR,5,5.1,17,4,1,0,0,Jaiswal,Jaiswal,25,16,3,1,Buttler,19,15,3,0,Thushara,1.0,0,6,0,Bumrah,2.0,0,11,0
+RR,4,4.1,9,2,3,0,0,Jaiswal,Jaiswal,21,13,2,1,Buttler,14,12,2,0,Bumrah,1.0,0,2,0,Coetzee,1.0,0,16,0
+RR,3,3.1,16,3,3,0,2,Jaiswal,Jaiswal,11,8,0,1,Buttler,14,11,2,0,Coetzee,0,0,6,0,Thushara,1.0,0,6,0
+RR,2,2.1,6,0,0,0,0,Jaiswal,Jaiswal,2,4,0,0,Buttler,12,9,2,0,Thushara,0,0,1,0,Bumrah,1.0,0,2,0
+RR,1,1.1,2,0,4,0,0,Jaiswal,Jaiswal,2,3,0,0,Buttler,10,4,2,0,Bumrah,0,0,1,0,Hardik,1.0,0,11,0
+RR,0,0.1,11,2,2,0,0,Buttler,Jaiswal,0,1,0,0,,0,0,0,0,Hardik,0,0,0,0,,0,0,0,0

@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+CSK,19,19.1,16,2,1,0,3,Dhoni,Jadeja,11,3,1,1,Dhoni,2,2,0,0,Sakariya,3.0,0,21,1,Nortje,4.0,0,43,1
+CSK,18,18.1,12,2,1,1,0,Jadeja,Conway,90,51,11,3,,0,0,0,0,Nortje,3.0,0,31,0,Khaleel Ahmed,4.0,0,45,1
+CSK,17,17.1,16,2,1,1,2,Dube,Conway,88,48,11,3,Dube,17,5,0,2,Khaleel Ahmed,3.0,0,35,0,Nortje,3.0,0,31,0
+CSK,16,16.1,12,2,2,0,0,Conway,Conway,81,44,11,2,Dube,10,3,0,1,Nortje,2.0,0,23,0,Lalit Yadav,2.0,0,32,0
+CSK,15,15.1,19,3,0,0,2,Conway,Conway,71,40,9,2,Dube,1,1,0,0,Lalit Yadav,1.0,0,17,0,Sakariya,3.0,0,20,1
+CSK,14,14.1,8,1,1,1,1,Conway,Gaikwad,80,48,3,7,Conway,61,37,7,2,Sakariya,2.0,0,13,0,Khaleel Ahmed,3.0,0,29,0
+CSK,13,13.1,13,2,1,0,0,Gaikwad,Gaikwad,79,46,3,7,Conway,54,33,6,2,Khaleel Ahmed,2.0,0,22,0,Nortje,2.0,0,19,0
+CSK,12,12.1,10,1,1,0,0,Gaikwad,Gaikwad,71,43,3,6,Conway,46,30,6,1,Nortje,1.0,0,9,0,Kuldeep,3.0,0,34,0
+CSK,11,11.1,20,3,1,0,0,Conway,Gaikwad,52,38,3,3,Conway,46,29,6,1,Kuldeep,2.0,0,15,0,Sakariya,2.0,0,12,0
+CSK,10,10.1,10,2,2,0,0,Conway,Gaikwad,52,38,3,3,Conway,36,23,4,1,Sakariya,1.0,0,3,0,Axar Patel,3.0,0,32,0
+CSK,9,9.1,15,2,1,0,0,Conway,Gaikwad,38,34,3,1,Conway,35,21,4,1,Axar Patel,2.0,0,18,0,Kuldeep,2.0,0,14,0
+CSK,8,8.1,6,0,0,0,0,Gaikwad,Gaikwad,34,30,3,1,Conway,33,19,4,1,Kuldeep,1.0,0,9,0,Axar Patel,2.0,0,17,0
+CSK,7,7.1,6,0,2,0,0,Gaikwad,Gaikwad,30,26,3,1,Conway,31,17,4,1,Axar Patel,1.0,0,12,0,Kuldeep,1.0,0,8,0
+CSK,6,6.1,8,1,1,0,0,Gaikwad,Gaikwad,23,21,2,1,Conway,30,16,4,1,Kuldeep,0,0,1,0,Sakariya,1.0,0,2,0
+CSK,5,5.1,2,0,4,0,0,Gaikwad,Gaikwad,22,17,2,1,Conway,28,14,4,1,Sakariya,0,0,0,0,Nortje,1.0,0,9,0
+CSK,4,4.1,9,2,3,0,0,Conway,Gaikwad,21,15,2,1,Conway,20,10,2,1,Nortje,0,0,0,0,Axar Patel,1.0,0,11,0
+CSK,3,3.1,11,1,0,0,0,Gaikwad,Gaikwad,13,11,2,0,Conway,18,8,2,1,Axar Patel,0,0,1,0,Khaleel Ahmed,2.0,0,16,0
+CSK,2,2.1,11,2,2,0,1,Conway,Gaikwad,10,8,2,0,Conway,10,5,0,1,Khaleel Ahmed,1.0,0,6,0,Lalit Yadav,1.0,0,13,0
+CSK,1,1.1,13,2,1,0,0,Gaikwad,Gaikwad,5,5,1,0,Conway,2,2,0,0,Lalit Yadav,0,0,1,0,Khaleel Ahmed,1.0,0,5,0
+CSK,0,0.1,6,1,3,0,1,Gaikwad,Gaikwad,1,1,0,0,,0,0,0,0,Khaleel Ahmed,0,0,1,0,,0,0,0,0

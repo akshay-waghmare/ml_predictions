@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+KKR,19,19.1,16,3,0,0,1,Ramandeep,Russell,31,17,3,0,Ramandeep,20,7,1,2,Yash Dayal,3.0,0,43,2,Siraj,4.0,0,40,1
+KKR,18,18.1,20,3,1,0,2,Russell,Russell,25,15,2,0,Ramandeep,8,3,0,1,Siraj,3.0,0,26,1,Green,4.0,0,35,2
+KKR,17,17.1,9,1,0,1,2,Russell,Shreyas Iyer,52,35,7,1,Russell,19,12,1,0,Green,3.0,0,28,1,Yash Dayal,3.0,0,39,2
+KKR,16,16.1,22,3,2,0,3,Shreyas Iyer,Shreyas Iyer,41,32,6,0,Russell,11,9,1,0,Yash Dayal,2.0,0,26,2,Ferguson,4.0,0,47,1
+KKR,15,15.1,6,0,0,0,0,Russell,Shreyas Iyer,39,30,6,0,Russell,4,5,0,0,Ferguson,3.0,0,42,1,Karn,4.0,0,33,0
+KKR,14,14.1,7,1,2,0,0,Shreyas Iyer,Shreyas Iyer,33,26,5,0,Russell,3,3,0,0,Karn,3.0,0,27,0,Ferguson,3.0,0,41,1
+KKR,13,13.1,5,0,1,1,1,Shreyas Iyer,Shreyas Iyer,30,22,5,0,,0,0,0,0,Ferguson,2.0,0,36,1,Green,3.0,0,27,1
+KKR,12,12.1,11,2,1,0,0,Shreyas Iyer,Shreyas Iyer,25,20,4,0,Rinku Singh,19,12,1,1,Green,2.0,0,16,1,Karn,3.0,0,26,0
+KKR,11,11.1,12,1,0,0,1,Rinku Singh,Shreyas Iyer,24,19,4,0,Rinku Singh,9,7,1,0,Karn,2.0,0,16,0,Green,2.0,0,16,1
+KKR,10,10.1,7,1,3,0,1,Shreyas Iyer,Shreyas Iyer,18,13,3,0,Rinku Singh,8,6,1,0,Green,1.0,0,10,1,Karn,2.0,0,15,0
+KKR,9,9.1,5,0,2,0,0,Shreyas Iyer,Shreyas Iyer,15,9,3,0,Rinku Singh,6,5,1,0,Karn,1.0,0,11,0,Green,1.0,0,9,1
+KKR,8,8.1,9,2,2,1,0,Rinku Singh,Venkatesh Iyer,16,7,3,0,Shreyas Iyer,15,9,3,0,Green,0,0,4,0,Karn,1.0,0,10,0
+KKR,7,7.1,10,2,2,0,0,Shreyas Iyer,Venkatesh Iyer,11,5,2,0,Shreyas Iyer,7,5,1,0,Karn,0,0,1,0,Ferguson,2.0,0,36,0
+KKR,6,6.1,8,1,1,0,0,Shreyas Iyer,Venkatesh Iyer,10,4,2,0,,0,0,0,0,Ferguson,1.0,0,29,0,Yash Dayal,2.0,0,22,2
+KKR,5,5.1,12,2,0,2,0,A Raghuvanshi,Narine,12,14,2,0,A Raghuvanshi,5,3,0,0,Yash Dayal,1.0,0,13,0,Siraj,3.0,0,20,1
+KKR,4,4.1,8,1,0,1,2,A Raghuvanshi,Salt,49,13,7,3,Narine,7,12,1,0,Siraj,2.0,0,15,0,Ferguson,1.0,0,28,0
+KKR,3,3.1,28,6,0,0,0,Salt,Salt,27,8,3,2,Narine,6,11,1,0,Ferguson,0,0,6,0,Siraj,2.0,0,14,0
+KKR,2,2.1,4,1,5,0,0,Narine,Salt,21,7,3,1,Narine,2,6,0,0,Siraj,1.0,0,10,0,Yash Dayal,1.0,0,10,0
+KKR,1,1.1,11,2,2,0,1,Salt,Salt,11,4,1,1,Narine,1,3,0,0,Yash Dayal,0,0,0,0,Siraj,1.0,0,10,0
+KKR,0,0.1,12,2,2,0,2,Narine,Salt,0,1,0,0,,0,0,0,0,Siraj,0,0,0,0,,0,0,0,0

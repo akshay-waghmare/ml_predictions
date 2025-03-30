@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+MI,19,19.1,16,3,1,0,3,Shokeen,Shokeen,10,9,1,0,Chawla,5,5,0,0,Pretorius,3.0,0,17,0,Magala,4.0,0,37,1
+MI,18,18.1,6,0,0,0,1,Shokeen,Shokeen,3,5,0,0,Chawla,3,3,0,0,Magala,3.0,0,33,1,Pretorius,3.0,0,13,0
+MI,17,17.1,4,0,2,0,0,Chawla,Shokeen,1,2,0,0,,0,0,0,0,Pretorius,2.0,0,9,0,Deshpande,3.0,0,31,2
+MI,16,16.1,18,3,0,1,0,David,David,15,18,0,0,,0,0,0,0,Deshpande,2.0,0,14,1,Magala,3.0,0,32,1
+MI,15,15.1,4,0,1,1,0,Stubbs,David,12,15,0,0,Stubbs,3,7,0,0,Magala,2.0,0,28,0,Santner,4.0,0,28,2
+MI,14,14.1,4,0,2,0,0,Stubbs,David,11,13,0,0,Stubbs,1,3,0,0,Santner,3.0,0,25,2,Pretorius,2.0,0,9,0
+MI,13,13.1,3,0,3,0,0,Stubbs,David,9,10,0,0,,0,0,0,0,Pretorius,1.0,0,7,0,Jadeja,3.0,0,20,3
+MI,12,12.1,9,1,1,1,0,Tilak Varma,Tilak Varma,17,13,2,0,David,7,8,0,0,Jadeja,3.0,0,12,2,Pretorius,1.0,0,6,0
+MI,11,11.1,6,0,2,0,2,David,Tilak Varma,14,11,2,0,David,4,4,0,0,Pretorius,0,0,1,0,Jadeja,2.0,0,11,2
+MI,10,10.1,3,0,2,0,0,Tilak Varma,Tilak Varma,11,7,2,0,David,3,3,0,0,Jadeja,2.0,0,8,2,Santner,3.0,0,24,2
+MI,9,9.1,8,1,1,1,0,David,Tilak Varma,6,4,1,0,,0,0,0,0,Santner,2.0,0,16,2,Jadeja,2.0,0,8,2
+MI,8,8.1,3,0,2,1,0,Arshad Khan,Green,12,10,1,0,Tilak Varma,5,3,1,0,Jadeja,1.0,0,5,1,Santner,2.0,0,16,1
+MI,7,7.1,7,1,1,1,0,Tilak Varma,Green,11,8,1,0,Suryakumar,1,1,0,0,Santner,1.0,0,10,0,Jadeja,1.0,0,5,1
+MI,6,6.1,5,0,0,1,0,Green,Ishan,33,19,5,0,Green,8,5,1,0,Jadeja,0,0,1,0,Magala,2.0,0,28,0
+MI,5,5.1,14,2,0,0,0,Green,Ishan,22,15,3,0,Green,6,3,1,0,Magala,1.0,0,16,0,Santner,1.0,0,9,0
+MI,4,4.1,9,1,0,0,0,Ishan,Ishan,18,12,3,0,,0,0,0,0,Santner,0,0,1,0,Deshpande,2.0,0,13,1
+MI,3,3.1,8,1,2,1,0,Rohit Sharma,Rohit Sharma,20,11,3,1,Ishan,16,8,3,0,Deshpande,1.0,0,11,0,Magala,1.0,0,14,0
+MI,2,2.1,14,3,1,0,0,Rohit Sharma,Rohit Sharma,13,9,3,0,Ishan,7,4,1,0,Magala,0,0,4,0,Deshpande,1.0,0,5,0
+MI,1,1.1,6,1,4,0,2,Rohit Sharma,Rohit Sharma,9,5,2,0,Ishan,1,2,0,0,Deshpande,0,0,0,0,Chahar,1.0,0,10,0
+MI,0,0.1,10,2,2,0,0,Rohit Sharma,Rohit Sharma,0,1,0,0,,0,0,0,0,Chahar,0,0,0,0,,0,0,0,0

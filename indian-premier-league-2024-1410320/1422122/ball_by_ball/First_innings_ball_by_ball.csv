@@ -1,0 +1,125 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+LSG,19,19.6,1,0,0,0,0,Krunal,Pooran,66,41,4,4,Krunal,6,5,0,0,Avesh Khan,3.0,0,21,0,Sandeep,3.0,0,22,1
+LSG,19,19.5,1,0,0,0,0,Pooran,Pooran,66,41,4,4,Krunal,5,4,0,0,Avesh Khan,2.0,0,20,0,Sandeep,3.0,0,22,1
+LSG,19,19.4,1,0,0,0,0,Krunal,Pooran,65,40,4,4,Krunal,5,4,0,0,Avesh Khan,2.0,0,19,0,Sandeep,3.0,0,22,1
+LSG,19,19.3,1,0,0,0,0,Pooran,Pooran,65,40,4,4,Krunal,4,3,0,0,Avesh Khan,2.0,0,18,0,Sandeep,3.0,0,22,1
+LSG,19,19.2,0,0,1,0,0,Pooran,Pooran,64,39,4,4,Krunal,4,3,0,0,Avesh Khan,2.0,0,17,0,Sandeep,3.0,0,22,1
+LSG,19,19.1,0,0,1,0,0,Pooran,Pooran,64,38,4,4,Krunal,4,3,0,0,Avesh Khan,2.0,0,17,0,Sandeep,3.0,0,22,1
+LSG,19,19.1,2,0,0,0,1,Krunal,Pooran,64,37,4,4,Krunal,4,3,0,0,Avesh Khan,2.0,0,17,0,Sandeep,3.0,0,22,1
+LSG,18,18.6,4,1,0,0,0,Pooran,Pooran,64,37,4,4,Krunal,2,3,0,0,Sandeep,3.0,0,22,1,Ashwin,4.0,0,35,1
+LSG,18,18.5,0,0,1,0,0,Pooran,Pooran,60,36,3,4,Krunal,2,3,0,0,Sandeep,2.0,0,18,1,Ashwin,4.0,0,35,1
+LSG,18,18.4,0,0,1,0,0,Pooran,Pooran,60,35,3,4,Krunal,2,3,0,0,Sandeep,2.0,0,18,1,Ashwin,4.0,0,35,1
+LSG,18,18.3,4,1,0,0,0,Pooran,Pooran,60,34,3,4,Krunal,2,3,0,0,Sandeep,2.0,0,18,1,Ashwin,4.0,0,35,1
+LSG,18,18.2,1,0,0,0,1,Krunal,Pooran,56,33,2,4,Krunal,2,3,0,0,Sandeep,2.0,0,14,1,Ashwin,4.0,0,35,1
+LSG,18,18.1,1,0,0,0,0,Pooran,Pooran,56,33,2,4,Krunal,1,2,0,0,Sandeep,2.0,0,14,1,Ashwin,4.0,0,35,1
+LSG,18,18.1,1,0,0,0,1,Pooran,Pooran,55,32,2,4,Krunal,1,2,0,0,Sandeep,2.0,0,13,1,Ashwin,4.0,0,35,1
+LSG,17,17.6,1,0,0,0,0,Pooran,Pooran,54,32,2,4,Krunal,1,2,0,0,Ashwin,4.0,0,35,1,Sandeep,2.0,0,12,1
+LSG,17,17.5,1,0,0,0,0,Krunal,Pooran,53,31,2,4,Krunal,1,2,0,0,Ashwin,3.0,0,34,1,Sandeep,2.0,0,12,1
+LSG,17,17.4,0,0,1,0,0,Krunal,Pooran,53,31,2,4,Krunal,0,1,0,0,Ashwin,3.0,0,33,1,Sandeep,2.0,0,12,1
+LSG,17,17.3,0,0,0,1,0,Stoinis,Pooran,53,31,2,4,,0,0,0,0,Ashwin,3.0,0,33,1,Sandeep,2.0,0,12,1
+LSG,17,17.2,1,0,0,0,0,Pooran,Pooran,53,31,2,4,Stoinis,3,3,0,0,Ashwin,3.0,0,33,0,Sandeep,2.0,0,12,1
+LSG,17,17.1,1,0,0,0,0,Stoinis,Pooran,52,30,2,4,Stoinis,3,3,0,0,Ashwin,3.0,0,32,0,Sandeep,2.0,0,12,1
+LSG,16,16.6,4,1,0,0,0,Pooran,Pooran,52,30,2,4,Stoinis,2,2,0,0,Sandeep,2.0,0,12,1,Chahal,3.0,0,25,1
+LSG,16,16.5,0,0,1,0,0,Pooran,Pooran,48,29,1,4,Stoinis,2,2,0,0,Sandeep,1.0,0,8,1,Chahal,3.0,0,25,1
+LSG,16,16.4,1,0,0,0,0,Stoinis,Pooran,48,28,1,4,Stoinis,2,2,0,0,Sandeep,1.0,0,8,1,Chahal,3.0,0,25,1
+LSG,16,16.3,1,0,0,0,0,Pooran,Pooran,48,28,1,4,Stoinis,1,1,0,0,Sandeep,1.0,0,7,1,Chahal,3.0,0,25,1
+LSG,16,16.2,1,0,0,0,0,Stoinis,Pooran,47,27,1,4,Stoinis,1,1,0,0,Sandeep,1.0,0,6,1,Chahal,3.0,0,25,1
+LSG,16,16.1,0,0,0,1,0,Rahul,Pooran,47,27,1,4,,0,0,0,0,Sandeep,1.0,0,5,1,Chahal,3.0,0,25,1
+LSG,15,15.6,1,0,0,0,0,Rahul,Rahul,67,43,5,2,Pooran,47,27,1,4,Chahal,3.0,0,25,1,Sandeep,1.0,0,5,0
+LSG,15,15.5,1,0,0,0,0,Pooran,Rahul,66,42,5,2,Pooran,47,27,1,4,Chahal,2.0,0,24,1,Sandeep,1.0,0,5,0
+LSG,15,15.4,0,0,1,0,0,Pooran,Rahul,66,42,5,2,Pooran,46,26,1,4,Chahal,2.0,0,23,1,Sandeep,1.0,0,5,0
+LSG,15,15.3,2,0,0,0,0,Pooran,Rahul,66,42,5,2,Pooran,46,25,1,4,Chahal,2.0,0,23,1,Sandeep,1.0,0,5,0
+LSG,15,15.2,6,1,0,0,0,Pooran,Rahul,66,42,5,2,Pooran,44,24,1,4,Chahal,2.0,0,21,1,Sandeep,1.0,0,5,0
+LSG,15,15.1,1,0,0,0,0,Rahul,Rahul,66,42,5,2,Pooran,38,23,1,3,Chahal,2.0,0,15,1,Sandeep,1.0,0,5,0
+LSG,14,14.6,1,0,0,0,0,Rahul,Rahul,65,41,5,2,Pooran,38,23,1,3,Sandeep,1.0,0,5,0,Ashwin,3.0,0,31,0
+LSG,14,14.5,0,0,1,0,0,Rahul,Rahul,64,40,5,2,Pooran,38,23,1,3,Sandeep,0,0,4,0,Ashwin,3.0,0,31,0
+LSG,14,14.4,1,0,0,0,0,Pooran,Rahul,64,39,5,2,Pooran,38,23,1,3,Sandeep,0,0,4,0,Ashwin,3.0,0,31,0
+LSG,14,14.3,1,0,0,0,0,Rahul,Rahul,64,39,5,2,Pooran,37,22,1,3,Sandeep,0,0,3,0,Ashwin,3.0,0,31,0
+LSG,14,14.2,1,0,0,0,0,Pooran,Rahul,63,38,5,2,Pooran,37,22,1,3,Sandeep,0,0,2,0,Ashwin,3.0,0,31,0
+LSG,14,14.1,1,0,0,0,0,Rahul,Rahul,63,38,5,2,Pooran,36,21,1,3,Sandeep,0,0,1,0,Ashwin,3.0,0,31,0
+LSG,13,13.6,1,0,0,0,0,Rahul,Rahul,62,37,5,2,Pooran,36,21,1,3,Ashwin,3.0,0,31,0,Boult,4.0,1,35,2
+LSG,13,13.5,2,0,0,0,0,Rahul,Rahul,61,36,5,2,Pooran,36,21,1,3,Ashwin,2.0,0,30,0,Boult,4.0,1,35,2
+LSG,13,13.4,1,0,0,0,0,Pooran,Rahul,59,35,5,2,Pooran,36,21,1,3,Ashwin,2.0,0,28,0,Boult,4.0,1,35,2
+LSG,13,13.3,0,0,1,0,0,Pooran,Rahul,59,35,5,2,Pooran,35,20,1,3,Ashwin,2.0,0,27,0,Boult,4.0,1,35,2
+LSG,13,13.2,1,0,0,0,0,Rahul,Rahul,59,35,5,2,Pooran,35,19,1,3,Ashwin,2.0,0,27,0,Boult,4.0,1,35,2
+LSG,13,13.1,2,0,0,0,0,Rahul,Rahul,58,34,5,2,Pooran,35,19,1,3,Ashwin,2.0,0,26,0,Boult,4.0,1,35,2
+LSG,12,12.6,2,0,0,0,0,Pooran,Rahul,56,33,5,2,Pooran,35,19,1,3,Boult,4.0,1,35,2,Ashwin,2.0,0,24,0
+LSG,12,12.5,6,1,0,0,0,Pooran,Rahul,56,33,5,2,Pooran,33,18,1,3,Boult,3.0,1,33,2,Ashwin,2.0,0,24,0
+LSG,12,12.4,4,1,0,0,0,Pooran,Rahul,56,33,5,2,Pooran,27,17,1,2,Boult,3.0,1,27,2,Ashwin,2.0,0,24,0
+LSG,12,12.3,6,1,0,0,0,Pooran,Rahul,56,33,5,2,Pooran,23,16,0,2,Boult,3.0,1,23,2,Ashwin,2.0,0,24,0
+LSG,12,12.2,1,0,0,0,0,Rahul,Rahul,56,33,5,2,Pooran,17,15,0,1,Boult,3.0,1,17,2,Ashwin,2.0,0,24,0
+LSG,12,12.1,1,0,0,0,0,Pooran,Rahul,55,32,5,2,Pooran,17,15,0,1,Boult,3.0,1,16,2,Ashwin,2.0,0,24,0
+LSG,11,11.6,1,0,0,0,0,Pooran,Rahul,55,32,5,2,Pooran,16,14,0,1,Ashwin,2.0,0,24,0,Burger,3.0,0,30,1
+LSG,11,11.5,1,0,0,0,0,Rahul,Rahul,55,32,5,2,Pooran,15,13,0,1,Ashwin,1.0,0,23,0,Burger,3.0,0,30,1
+LSG,11,11.4,4,1,0,0,0,Rahul,Rahul,54,31,5,2,Pooran,15,13,0,1,Ashwin,1.0,0,22,0,Burger,3.0,0,30,1
+LSG,11,11.3,1,0,0,0,0,Pooran,Rahul,50,30,4,2,Pooran,15,13,0,1,Ashwin,1.0,0,18,0,Burger,3.0,0,30,1
+LSG,11,11.2,1,0,0,0,0,Rahul,Rahul,50,30,4,2,Pooran,14,12,0,1,Ashwin,1.0,0,17,0,Burger,3.0,0,30,1
+LSG,11,11.1,1,0,0,0,0,Pooran,Rahul,49,29,4,2,Pooran,14,12,0,1,Ashwin,1.0,0,16,0,Burger,3.0,0,30,1
+LSG,10,10.6,4,1,0,0,0,Rahul,Rahul,49,29,4,2,Pooran,13,11,0,1,Burger,3.0,0,30,1,Chahal,2.0,0,14,1
+LSG,10,10.5,4,1,0,0,0,Rahul,Rahul,45,28,3,2,Pooran,13,11,0,1,Burger,2.0,0,26,1,Chahal,2.0,0,14,1
+LSG,10,10.4,6,1,0,0,0,Rahul,Rahul,41,27,2,2,Pooran,13,11,0,1,Burger,2.0,0,22,1,Chahal,2.0,0,14,1
+LSG,10,10.3,1,0,0,0,0,Pooran,Rahul,35,26,2,1,Pooran,13,11,0,1,Burger,2.0,0,16,1,Chahal,2.0,0,14,1
+LSG,10,10.2,1,0,0,0,0,Rahul,Rahul,35,26,2,1,Pooran,12,10,0,1,Burger,2.0,0,15,1,Chahal,2.0,0,14,1
+LSG,10,10.1,1,0,0,0,0,Pooran,Rahul,34,25,2,1,Pooran,12,10,0,1,Burger,2.0,0,14,1,Chahal,2.0,0,14,1
+LSG,9,9.6,1,0,0,0,0,Pooran,Rahul,34,25,2,1,Pooran,11,9,0,1,Chahal,2.0,0,14,1,Avesh Khan,2.0,0,15,0
+LSG,9,9.5,6,1,0,0,0,Pooran,Rahul,34,25,2,1,Pooran,10,8,0,1,Chahal,1.0,0,13,1,Avesh Khan,2.0,0,15,0
+LSG,9,9.4,1,0,0,0,0,Rahul,Rahul,34,25,2,1,Pooran,4,7,0,0,Chahal,1.0,0,7,1,Avesh Khan,2.0,0,15,0
+LSG,9,9.3,0,0,1,0,0,Rahul,Rahul,33,24,2,1,Pooran,4,7,0,0,Chahal,1.0,0,6,1,Avesh Khan,2.0,0,15,0
+LSG,9,9.2,1,0,0,0,0,Pooran,Rahul,33,23,2,1,Pooran,4,7,0,0,Chahal,1.0,0,6,1,Avesh Khan,2.0,0,15,0
+LSG,9,9.1,1,0,0,0,0,Rahul,Rahul,33,23,2,1,Pooran,3,6,0,0,Chahal,1.0,0,5,1,Avesh Khan,2.0,0,15,0
+LSG,8,8.6,1,0,0,0,0,Rahul,Rahul,32,22,2,1,Pooran,3,6,0,0,Avesh Khan,2.0,0,15,0,Chahal,1.0,0,4,1
+LSG,8,8.5,1,0,0,0,0,Pooran,Rahul,31,21,2,1,Pooran,3,6,0,0,Avesh Khan,1.0,0,14,0,Chahal,1.0,0,4,1
+LSG,8,8.4,0,0,1,0,0,Pooran,Rahul,31,21,2,1,Pooran,2,5,0,0,Avesh Khan,1.0,0,13,0,Chahal,1.0,0,4,1
+LSG,8,8.3,1,0,0,0,0,Rahul,Rahul,31,21,2,1,Pooran,2,4,0,0,Avesh Khan,1.0,0,13,0,Chahal,1.0,0,4,1
+LSG,8,8.2,1,0,0,0,0,Pooran,Rahul,30,20,2,1,Pooran,2,4,0,0,Avesh Khan,1.0,0,12,0,Chahal,1.0,0,4,1
+LSG,8,8.1,1,0,0,0,0,Rahul,Rahul,30,20,2,1,Pooran,1,3,0,0,Avesh Khan,1.0,0,11,0,Chahal,1.0,0,4,1
+LSG,7,7.6,0,0,1,0,0,Pooran,Rahul,29,19,2,1,Pooran,1,3,0,0,Chahal,1.0,0,4,1,Avesh Khan,1.0,0,10,0
+LSG,7,7.5,0,0,1,0,0,Pooran,Rahul,29,19,2,1,Pooran,1,2,0,0,Chahal,0,0,4,1,Avesh Khan,1.0,0,10,0
+LSG,7,7.5,1,0,0,0,1,Pooran,Rahul,29,19,2,1,Pooran,1,1,0,0,Chahal,0,0,4,1,Avesh Khan,1.0,0,10,0
+LSG,7,7.4,0,0,1,0,0,Pooran,Rahul,29,19,2,1,Pooran,0,1,0,0,Chahal,0,0,3,1,Avesh Khan,1.0,0,10,0
+LSG,7,7.3,0,0,0,1,0,Hooda,Rahul,29,19,2,1,,0,0,0,0,Chahal,0,0,3,1,Avesh Khan,1.0,0,10,0
+LSG,7,7.2,1,0,0,0,0,Rahul,Rahul,29,19,2,1,Hooda,26,12,2,2,Chahal,0,0,3,0,Avesh Khan,1.0,0,10,0
+LSG,7,7.1,2,0,0,0,0,Rahul,Rahul,28,18,2,1,Hooda,26,12,2,2,Chahal,0,0,2,0,Avesh Khan,1.0,0,10,0
+LSG,6,6.6,0,0,1,0,0,Hooda,Rahul,26,17,2,1,Hooda,26,12,2,2,Avesh Khan,1.0,0,10,0,Ashwin,1.0,0,15,0
+LSG,6,6.5,1,0,0,0,0,Rahul,Rahul,26,17,2,1,Hooda,26,11,2,2,Avesh Khan,0,0,10,0,Ashwin,1.0,0,15,0
+LSG,6,6.4,1,0,0,0,0,Hooda,Rahul,25,16,2,1,Hooda,26,11,2,2,Avesh Khan,0,0,9,0,Ashwin,1.0,0,15,0
+LSG,6,6.3,6,1,0,0,0,Hooda,Rahul,25,16,2,1,Hooda,25,10,2,2,Avesh Khan,0,0,8,0,Ashwin,1.0,0,15,0
+LSG,6,6.2,1,0,0,0,0,Rahul,Rahul,25,16,2,1,Hooda,19,9,2,1,Avesh Khan,0,0,2,0,Ashwin,1.0,0,15,0
+LSG,6,6.1,1,0,0,0,0,Hooda,Rahul,24,15,2,1,Hooda,19,9,2,1,Avesh Khan,0,0,1,0,Ashwin,1.0,0,15,0
+LSG,5,5.6,1,0,0,0,0,Hooda,Rahul,24,15,2,1,Hooda,18,8,2,1,Ashwin,1.0,0,15,0,Boult,3.0,1,15,2
+LSG,5,5.5,1,0,0,0,0,Rahul,Rahul,24,15,2,1,Hooda,17,7,2,1,Ashwin,0,0,14,0,Boult,3.0,1,15,2
+LSG,5,5.4,0,0,1,0,0,Rahul,Rahul,23,14,2,1,Hooda,17,7,2,1,Ashwin,0,0,13,0,Boult,3.0,1,15,2
+LSG,5,5.3,1,0,0,0,0,Hooda,Rahul,23,13,2,1,Hooda,17,7,2,1,Ashwin,0,0,13,0,Boult,3.0,1,15,2
+LSG,5,5.2,1,0,0,0,0,Rahul,Rahul,23,13,2,1,Hooda,16,6,2,1,Ashwin,0,0,12,0,Boult,3.0,1,15,2
+LSG,5,5.1,6,1,0,0,0,Rahul,Rahul,22,12,2,1,Hooda,16,6,2,1,Ashwin,0,0,11,0,Boult,3.0,1,15,2
+LSG,5,5.1,5,0,0,0,1,Rahul,Rahul,16,11,2,0,Hooda,16,6,2,1,Ashwin,0,0,5,0,Boult,3.0,1,15,2
+LSG,4,4.6,1,0,0,0,0,Rahul,Rahul,11,11,2,0,Hooda,16,6,2,1,Boult,3.0,1,15,2,Burger,2.0,0,13,1
+LSG,4,4.5,0,0,1,0,0,Rahul,Rahul,10,10,2,0,Hooda,16,6,2,1,Boult,2.0,1,14,2,Burger,2.0,0,13,1
+LSG,4,4.4,4,1,0,0,0,Rahul,Rahul,10,9,2,0,Hooda,16,6,2,1,Boult,2.0,1,14,2,Burger,2.0,0,13,1
+LSG,4,4.3,0,0,1,0,0,Rahul,Rahul,6,8,1,0,Hooda,16,6,2,1,Boult,2.0,1,10,2,Burger,2.0,0,13,1
+LSG,4,4.2,1,0,0,0,0,Hooda,Rahul,6,7,1,0,Hooda,16,6,2,1,Boult,2.0,1,10,2,Burger,2.0,0,13,1
+LSG,4,4.1,4,1,0,0,0,Hooda,Rahul,6,7,1,0,Hooda,15,5,2,1,Boult,2.0,1,9,2,Burger,2.0,0,13,1
+LSG,3,3.6,0,0,1,0,0,Rahul,Rahul,6,7,1,0,Hooda,11,4,1,1,Burger,2.0,0,13,1,Boult,2.0,1,5,2
+LSG,3,3.5,1,0,0,0,0,Hooda,Rahul,6,6,1,0,Hooda,11,4,1,1,Burger,1.0,0,13,1,Boult,2.0,1,5,2
+LSG,3,3.4,4,1,0,0,0,Hooda,Rahul,6,6,1,0,Hooda,10,3,1,1,Burger,1.0,0,12,1,Boult,2.0,1,5,2
+LSG,3,3.3,6,1,0,0,0,Hooda,Rahul,6,6,1,0,Hooda,6,2,0,1,Burger,1.0,0,8,1,Boult,2.0,1,5,2
+LSG,3,3.2,0,0,1,0,0,Hooda,Rahul,6,6,1,0,Hooda,0,1,0,0,Burger,1.0,0,2,1,Boult,2.0,1,5,2
+LSG,3,3.1,0,0,0,1,0,Badoni,Rahul,6,6,1,0,,0,0,0,0,Burger,1.0,0,2,1,Boult,2.0,1,5,2
+LSG,2,2.6,1,0,0,0,0,Badoni,Rahul,6,6,1,0,Badoni,1,4,0,0,Boult,2.0,1,5,2,Burger,1.0,0,2,0
+LSG,2,2.5,0,0,1,0,0,Badoni,Rahul,6,6,1,0,Badoni,0,3,0,0,Boult,1.0,0,4,2,Burger,1.0,0,2,0
+LSG,2,2.4,0,0,1,0,0,Badoni,Rahul,6,6,1,0,Badoni,0,2,0,0,Boult,1.0,0,4,2,Burger,1.0,0,2,0
+LSG,2,2.3,0,0,1,0,0,Badoni,Rahul,6,6,1,0,Badoni,0,1,0,0,Boult,1.0,0,4,2,Burger,1.0,0,2,0
+LSG,2,2.2,0,0,0,1,0,Padikkal,Rahul,6,6,1,0,,0,0,0,0,Boult,1.0,0,4,2,Burger,1.0,0,2,0
+LSG,2,2.1,0,0,1,0,0,Padikkal,Padikkal,0,2,0,0,Rahul,6,6,1,0,Boult,1.0,0,4,1,Burger,1.0,0,2,0
+LSG,1,1.6,0,0,1,0,0,Rahul,Padikkal,0,1,0,0,Rahul,6,6,1,0,Burger,1.0,0,2,0,Boult,1.0,0,4,1
+LSG,1,1.5,2,0,0,0,0,Rahul,Padikkal,0,1,0,0,Rahul,6,5,1,0,Burger,0,0,2,0,Boult,1.0,0,4,1
+LSG,1,1.4,4,1,0,0,1,Rahul,Padikkal,0,1,0,0,Rahul,4,4,1,0,Burger,0,0,0,0,Boult,1.0,0,4,1
+LSG,1,1.3,0,0,1,0,0,Rahul,Padikkal,0,1,0,0,Rahul,0,3,0,0,Burger,0,0,0,0,Boult,1.0,0,4,1
+LSG,1,1.2,0,0,1,0,0,Rahul,Padikkal,0,1,0,0,Rahul,0,2,0,0,Burger,0,0,0,0,Boult,1.0,0,4,1
+LSG,1,1.1,0,0,1,0,0,Rahul,Padikkal,0,1,0,0,Rahul,0,1,0,0,Burger,0,0,0,0,Boult,1.0,0,4,1
+LSG,0,0.6,0,0,1,0,0,Padikkal,Padikkal,0,1,0,0,,0,0,0,0,Boult,1.0,0,4,1,,0,0,0,0
+LSG,0,0.5,0,0,0,1,0,de Kock,,0,0,0,0,,0,0,0,0,Boult,0,0,4,1,,0,0,0,0
+LSG,0,0.4,0,0,1,0,0,de Kock,de Kock,4,4,1,0,,0,0,0,0,Boult,0,0,4,0,,0,0,0,0
+LSG,0,0.3,0,0,1,0,0,de Kock,de Kock,4,3,1,0,,0,0,0,0,Boult,0,0,4,0,,0,0,0,0
+LSG,0,0.2,4,1,0,0,0,de Kock,de Kock,4,2,1,0,,0,0,0,0,Boult,0,0,4,0,,0,0,0,0
+LSG,0,0.1,0,0,1,0,0,de Kock,de Kock,0,1,0,0,,0,0,0,0,Boult,0,0,0,0,,0,0,0,0

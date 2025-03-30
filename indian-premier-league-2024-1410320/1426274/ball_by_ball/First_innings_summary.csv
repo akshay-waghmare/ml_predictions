@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+RCB,19,19.1,19,3,1,1,0,Ferguson,Karn,9,3,0,1,,0,0,0,0,Starc,2.0,0,42,0,Russell,3.0,0,25,3
+RCB,18,18.1,10,2,3,1,0,Karthik,Karthik,15,13,2,0,Karn,3,2,0,0,Russell,2.0,0,15,2,Harshit Rana,4.0,0,33,2
+RCB,17,17.1,6,0,0,1,1,Karthik,SS Prabhudessai,26,17,3,0,Karthik,13,10,2,0,Harshit Rana,3.0,0,28,1,Varun,4.0,0,36,1
+RCB,16,16.1,5,1,4,0,0,SS Prabhudessai,SS Prabhudessai,22,12,2,0,Karthik,12,9,2,0,Varun,3.0,0,32,1,Harshit Rana,3.0,0,27,1
+RCB,15,15.1,7,1,2,0,0,Karthik,SS Prabhudessai,21,11,2,0,Karthik,5,4,1,0,Harshit Rana,2.0,0,20,1,Varun,3.0,0,31,1
+RCB,14,14.1,10,1,2,0,0,SS Prabhudessai,SS Prabhudessai,15,6,2,0,Karthik,5,3,1,0,Varun,2.0,0,25,1,Russell,2.0,0,15,2
+RCB,13,13.1,9,1,1,0,1,Karthik,SS Prabhudessai,8,3,1,0,,0,0,0,0,Russell,1.0,0,7,2,Narine,3.0,0,34,2
+RCB,12,12.1,10,2,2,2,0,Lomror,Nonchalantly,0,0,0,0,SS Prabhudessai,7,2,1,0,Narine,3.0,0,24,0,Russell,1.0,0,7,2
+RCB,11,11.1,8,1,1,2,2,SS Prabhudessai,Patidar,53,20,3,5,,0,0,0,0,Russell,0,0,0,1,Narine,2.0,0,24,0
+RCB,10,10.1,15,2,0,0,0,Patidar,Jacks,56,30,4,5,Patidar,40,17,3,3,Narine,2.0,0,10,0,Suyash Sharma,2.0,0,33,0
+RCB,9,9.1,22,4,1,0,0,Patidar,Jacks,55,29,4,5,Patidar,22,12,2,1,Suyash Sharma,1.0,0,15,0,Varun,2.0,0,21,1
+RCB,8,8.1,11,2,3,0,0,Jacks,Jacks,45,25,3,4,Patidar,17,10,1,1,Varun,1.0,0,10,1,Suyash Sharma,1.0,0,11,0
+RCB,7,7.1,11,1,1,0,1,Jacks,Jacks,44,23,3,4,Patidar,8,6,1,0,Suyash Sharma,0,0,1,0,Narine,2.0,0,9,0
+RCB,6,6.1,4,0,2,0,1,Patidar,Jacks,41,19,3,4,Patidar,7,4,1,0,Narine,1.0,0,7,0,Starc,2.0,0,36,0
+RCB,5,5.1,22,4,2,0,0,Jacks,Jacks,25,14,2,2,Patidar,6,3,1,0,Starc,1.0,0,20,0,Narine,1.0,0,6,0
+RCB,4,4.1,7,1,2,0,1,Jacks,Jacks,13,9,1,1,Patidar,5,2,1,0,Narine,0,0,0,0,Varun,1.0,0,10,1
+RCB,3,3.1,10,2,1,1,0,Patidar,Jacks,8,5,0,1,,0,0,0,0,Varun,0,0,0,1,Harshit Rana,2.0,0,20,1
+RCB,2,2.1,8,1,3,1,0,Jacks,du Plessis,9,6,1,0,,0,0,0,0,Harshit Rana,1.0,0,12,1,Starc,1.0,0,14,0
+RCB,1,1.1,15,2,1,0,2,du Plessis,Kohli,11,4,1,1,du Plessis,2,2,0,0,Starc,0,0,1,0,Harshit Rana,1.0,0,12,0
+RCB,0,0.1,12,2,2,0,0,Kohli,Kohli,4,1,1,0,,0,0,0,0,Harshit Rana,0,0,4,0,,0,0,0,0

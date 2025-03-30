@@ -1,0 +1,125 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+RCB,19,19.6,1,0,0,0,0,Karthik,du Plessis,86,46,6,5,Karthik,1,1,0,0,Wood,4.0,0,32,1,Avesh Khan,4.0,0,53,0
+RCB,19,19.5,0,0,0,1,0,Maxwell,du Plessis,86,46,6,5,,0,0,0,0,Wood,3.0,0,31,1,Avesh Khan,4.0,0,53,0
+RCB,19,19.4,6,1,0,0,0,Maxwell,du Plessis,86,46,6,5,Maxwell,61,28,3,6,Wood,3.0,0,31,0,Avesh Khan,4.0,0,53,0
+RCB,19,19.4,1,0,0,0,1,Maxwell,du Plessis,86,46,6,5,Maxwell,55,27,3,5,Wood,3.0,0,25,0,Avesh Khan,4.0,0,53,0
+RCB,19,19.3,0,0,1,0,0,Maxwell,du Plessis,86,46,6,5,Maxwell,54,27,3,5,Wood,3.0,0,24,0,Avesh Khan,4.0,0,53,0
+RCB,19,19.2,0,0,1,0,0,Maxwell,du Plessis,86,46,6,5,Maxwell,54,26,3,5,Wood,3.0,0,24,0,Avesh Khan,4.0,0,53,0
+RCB,19,19.1,1,0,0,0,0,du Plessis,du Plessis,86,46,6,5,Maxwell,54,25,3,5,Wood,3.0,0,24,0,Avesh Khan,4.0,0,53,0
+RCB,18,18.6,1,0,0,0,0,du Plessis,du Plessis,85,45,6,5,Maxwell,54,25,3,5,Avesh Khan,4.0,0,53,0,Unadkat,2.0,0,27,0
+RCB,18,18.5,2,0,0,0,0,du Plessis,du Plessis,84,44,6,5,Maxwell,54,25,3,5,Avesh Khan,3.0,0,52,0,Unadkat,2.0,0,27,0
+RCB,18,18.4,4,1,0,0,0,du Plessis,du Plessis,82,43,6,5,Maxwell,54,25,3,5,Avesh Khan,3.0,0,50,0,Unadkat,2.0,0,27,0
+RCB,18,18.3,1,0,0,0,0,Maxwell,du Plessis,78,42,5,5,Maxwell,54,25,3,5,Avesh Khan,3.0,0,46,0,Unadkat,2.0,0,27,0
+RCB,18,18.2,6,1,0,0,0,Maxwell,du Plessis,78,42,5,5,Maxwell,53,24,3,5,Avesh Khan,3.0,0,45,0,Unadkat,2.0,0,27,0
+RCB,18,18.1,6,1,0,0,0,Maxwell,du Plessis,78,42,5,5,Maxwell,47,23,3,4,Avesh Khan,3.0,0,39,0,Unadkat,2.0,0,27,0
+RCB,17,17.6,4,1,0,0,0,du Plessis,du Plessis,78,42,5,5,Maxwell,41,22,3,3,Unadkat,2.0,0,27,0,Avesh Khan,3.0,0,33,0
+RCB,17,17.6,1,0,0,0,1,du Plessis,du Plessis,74,41,4,5,Maxwell,41,22,3,3,Unadkat,1.0,0,23,0,Avesh Khan,3.0,0,33,0
+RCB,17,17.5,6,1,0,0,0,du Plessis,du Plessis,73,41,4,5,Maxwell,41,22,3,3,Unadkat,1.0,0,22,0,Avesh Khan,3.0,0,33,0
+RCB,17,17.4,6,1,0,0,0,du Plessis,du Plessis,67,40,4,4,Maxwell,41,22,3,3,Unadkat,1.0,0,16,0,Avesh Khan,3.0,0,33,0
+RCB,17,17.3,1,0,0,0,0,Maxwell,du Plessis,61,39,4,3,Maxwell,41,22,3,3,Unadkat,1.0,0,10,0,Avesh Khan,3.0,0,33,0
+RCB,17,17.2,4,1,0,0,0,Maxwell,du Plessis,61,39,4,3,Maxwell,40,21,3,3,Unadkat,1.0,0,9,0,Avesh Khan,3.0,0,33,0
+RCB,17,17.1,1,0,0,0,0,du Plessis,du Plessis,61,39,4,3,Maxwell,36,20,2,3,Unadkat,1.0,0,5,0,Avesh Khan,3.0,0,33,0
+RCB,16,16.6,0,0,1,0,0,Maxwell,du Plessis,60,38,4,3,Maxwell,36,20,2,3,Avesh Khan,3.0,0,33,0,Wood,3.0,0,23,0
+RCB,16,16.5,4,1,0,0,0,Maxwell,du Plessis,60,38,4,3,Maxwell,36,19,2,3,Avesh Khan,2.0,0,33,0,Wood,3.0,0,23,0
+RCB,16,16.4,1,0,0,0,0,du Plessis,du Plessis,60,38,4,3,Maxwell,32,18,1,3,Avesh Khan,2.0,0,29,0,Wood,3.0,0,23,0
+RCB,16,16.3,1,0,0,0,0,Maxwell,du Plessis,59,37,4,3,Maxwell,32,18,1,3,Avesh Khan,2.0,0,28,0,Wood,3.0,0,23,0
+RCB,16,16.2,2,0,0,0,0,Maxwell,du Plessis,59,37,4,3,Maxwell,31,17,1,3,Avesh Khan,2.0,0,27,0,Wood,3.0,0,23,0
+RCB,16,16.1,6,1,0,0,0,Maxwell,du Plessis,59,37,4,3,Maxwell,29,16,1,3,Avesh Khan,2.0,0,25,0,Wood,3.0,0,23,0
+RCB,15,15.6,0,0,1,0,0,du Plessis,du Plessis,59,37,4,3,Maxwell,23,15,1,2,Wood,3.0,0,23,0,Ravi Bishnoi,4.0,0,39,0
+RCB,15,15.5,1,0,0,0,0,Maxwell,du Plessis,59,36,4,3,Maxwell,23,15,1,2,Wood,2.0,0,23,0,Ravi Bishnoi,4.0,0,39,0
+RCB,15,15.4,0,0,1,0,0,Maxwell,du Plessis,59,36,4,3,Maxwell,22,14,1,2,Wood,2.0,0,22,0,Ravi Bishnoi,4.0,0,39,0
+RCB,15,15.3,0,0,1,0,0,Maxwell,du Plessis,59,36,4,3,Maxwell,22,13,1,2,Wood,2.0,0,22,0,Ravi Bishnoi,4.0,0,39,0
+RCB,15,15.2,1,0,0,0,0,du Plessis,du Plessis,59,36,4,3,Maxwell,22,12,1,2,Wood,2.0,0,22,0,Ravi Bishnoi,4.0,0,39,0
+RCB,15,15.1,6,1,0,0,0,du Plessis,du Plessis,58,35,4,3,Maxwell,22,12,1,2,Wood,2.0,0,21,0,Ravi Bishnoi,4.0,0,39,0
+RCB,15,15.1,1,0,0,0,1,du Plessis,du Plessis,52,34,4,2,Maxwell,22,12,1,2,Wood,2.0,0,15,0,Ravi Bishnoi,4.0,0,39,0
+RCB,14,14.6,6,1,0,0,0,Maxwell,du Plessis,51,34,4,2,Maxwell,22,12,1,2,Ravi Bishnoi,4.0,0,39,0,Mishra,2.0,0,18,1
+RCB,14,14.5,1,0,0,0,0,du Plessis,du Plessis,51,34,4,2,Maxwell,16,11,1,1,Ravi Bishnoi,3.0,0,33,0,Mishra,2.0,0,18,1
+RCB,14,14.4,6,1,0,0,0,du Plessis,du Plessis,50,33,4,2,Maxwell,16,11,1,1,Ravi Bishnoi,3.0,0,32,0,Mishra,2.0,0,18,1
+RCB,14,14.3,6,1,0,0,0,du Plessis,du Plessis,44,32,4,1,Maxwell,16,11,1,1,Ravi Bishnoi,3.0,0,26,0,Mishra,2.0,0,18,1
+RCB,14,14.2,1,0,0,0,0,Maxwell,du Plessis,38,31,4,0,Maxwell,16,11,1,1,Ravi Bishnoi,3.0,0,20,0,Mishra,2.0,0,18,1
+RCB,14,14.1,0,0,1,0,0,Maxwell,du Plessis,38,31,4,0,Maxwell,15,10,1,1,Ravi Bishnoi,3.0,0,19,0,Mishra,2.0,0,18,1
+RCB,13,13.6,0,0,1,0,0,du Plessis,du Plessis,38,31,4,0,Maxwell,15,9,1,1,Mishra,2.0,0,18,1,Wood,2.0,0,14,0
+RCB,13,13.5,1,0,0,0,0,Maxwell,du Plessis,38,30,4,0,Maxwell,15,9,1,1,Mishra,1.0,0,18,1,Wood,2.0,0,14,0
+RCB,13,13.4,6,1,0,0,0,Maxwell,du Plessis,38,30,4,0,Maxwell,14,8,1,1,Mishra,1.0,0,17,1,Wood,2.0,0,14,0
+RCB,13,13.3,4,1,0,0,0,Maxwell,du Plessis,38,30,4,0,Maxwell,8,7,1,0,Mishra,1.0,0,11,1,Wood,2.0,0,14,0
+RCB,13,13.2,1,0,0,0,0,du Plessis,du Plessis,38,30,4,0,Maxwell,4,6,0,0,Mishra,1.0,0,7,1,Wood,2.0,0,14,0
+RCB,13,13.1,1,0,0,0,0,Maxwell,du Plessis,37,29,4,0,Maxwell,4,6,0,0,Mishra,1.0,0,6,1,Wood,2.0,0,14,0
+RCB,12,12.6,0,0,1,0,0,du Plessis,du Plessis,37,29,4,0,Maxwell,3,5,0,0,Wood,2.0,0,14,0,Mishra,1.0,0,5,1
+RCB,12,12.5,0,0,1,0,0,du Plessis,du Plessis,37,28,4,0,Maxwell,3,5,0,0,Wood,1.0,0,14,0,Mishra,1.0,0,5,1
+RCB,12,12.4,4,1,0,0,1,du Plessis,du Plessis,37,27,4,0,Maxwell,3,5,0,0,Wood,1.0,0,14,0,Mishra,1.0,0,5,1
+RCB,12,12.3,1,0,0,0,1,Maxwell,du Plessis,33,26,3,0,Maxwell,3,5,0,0,Wood,1.0,0,14,0,Mishra,1.0,0,5,1
+RCB,12,12.2,0,0,1,0,0,Maxwell,du Plessis,33,26,3,0,Maxwell,2,4,0,0,Wood,1.0,0,14,0,Mishra,1.0,0,5,1
+RCB,12,12.1,0,0,1,0,0,Maxwell,du Plessis,33,26,3,0,Maxwell,2,3,0,0,Wood,1.0,0,14,0,Mishra,1.0,0,5,1
+RCB,11,11.6,1,0,0,0,0,Maxwell,du Plessis,33,26,3,0,Maxwell,2,2,0,0,Mishra,1.0,0,5,1,Ravi Bishnoi,3.0,0,19,0
+RCB,11,11.5,1,0,0,0,0,du Plessis,du Plessis,33,26,3,0,Maxwell,1,1,0,0,Mishra,0,0,4,1,Ravi Bishnoi,3.0,0,19,0
+RCB,11,11.4,1,0,0,0,0,Maxwell,du Plessis,32,25,3,0,Maxwell,1,1,0,0,Mishra,0,0,3,1,Ravi Bishnoi,3.0,0,19,0
+RCB,11,11.3,0,0,0,1,0,Kohli,du Plessis,32,25,3,0,,0,0,0,0,Mishra,0,0,2,1,Ravi Bishnoi,3.0,0,19,0
+RCB,11,11.2,1,0,0,0,0,du Plessis,Kohli,64,43,4,4,du Plessis,32,25,3,0,Mishra,0,0,2,0,Ravi Bishnoi,3.0,0,19,0
+RCB,11,11.1,1,0,0,0,0,Kohli,Kohli,64,43,4,4,du Plessis,31,24,3,0,Mishra,0,0,1,0,Ravi Bishnoi,3.0,0,19,0
+RCB,10,10.6,0,0,1,0,0,du Plessis,Kohli,63,42,4,4,du Plessis,31,24,3,0,Ravi Bishnoi,3.0,0,19,0,Krunal,4.0,0,35,0
+RCB,10,10.5,1,0,0,0,0,Kohli,Kohli,63,42,4,4,du Plessis,31,23,3,0,Ravi Bishnoi,2.0,0,19,0,Krunal,4.0,0,35,0
+RCB,10,10.4,0,0,1,0,0,Kohli,Kohli,62,41,4,4,du Plessis,31,23,3,0,Ravi Bishnoi,2.0,0,18,0,Krunal,4.0,0,35,0
+RCB,10,10.3,1,0,0,0,0,du Plessis,Kohli,62,40,4,4,du Plessis,31,23,3,0,Ravi Bishnoi,2.0,0,18,0,Krunal,4.0,0,35,0
+RCB,10,10.2,4,1,0,0,0,du Plessis,Kohli,62,40,4,4,du Plessis,30,22,3,0,Ravi Bishnoi,2.0,0,17,0,Krunal,4.0,0,35,0
+RCB,10,10.1,1,0,0,0,0,Kohli,Kohli,62,40,4,4,du Plessis,26,21,2,0,Ravi Bishnoi,2.0,0,13,0,Krunal,4.0,0,35,0
+RCB,9,9.6,1,0,0,0,0,Kohli,Kohli,61,39,4,4,du Plessis,26,21,2,0,Krunal,4.0,0,35,0,Ravi Bishnoi,2.0,0,12,0
+RCB,9,9.5,1,0,0,0,0,du Plessis,Kohli,60,38,4,4,du Plessis,26,21,2,0,Krunal,3.0,0,34,0,Ravi Bishnoi,2.0,0,12,0
+RCB,9,9.4,4,1,0,0,0,du Plessis,Kohli,60,38,4,4,du Plessis,25,20,2,0,Krunal,3.0,0,33,0,Ravi Bishnoi,2.0,0,12,0
+RCB,9,9.3,1,0,0,0,0,Kohli,Kohli,60,38,4,4,du Plessis,21,19,1,0,Krunal,3.0,0,29,0,Ravi Bishnoi,2.0,0,12,0
+RCB,9,9.2,6,1,0,0,0,Kohli,Kohli,59,37,4,4,du Plessis,21,19,1,0,Krunal,3.0,0,28,0,Ravi Bishnoi,2.0,0,12,0
+RCB,9,9.1,0,0,1,0,0,Kohli,Kohli,53,36,4,3,du Plessis,21,19,1,0,Krunal,3.0,0,22,0,Ravi Bishnoi,2.0,0,12,0
+RCB,8,8.6,2,0,0,0,0,du Plessis,Kohli,53,35,4,3,du Plessis,21,19,1,0,Ravi Bishnoi,2.0,0,12,0,Krunal,3.0,0,22,0
+RCB,8,8.5,1,0,0,0,0,Kohli,Kohli,53,35,4,3,du Plessis,19,18,1,0,Ravi Bishnoi,1.0,0,10,0,Krunal,3.0,0,22,0
+RCB,8,8.4,1,0,0,0,0,du Plessis,Kohli,52,34,4,3,du Plessis,19,18,1,0,Ravi Bishnoi,1.0,0,9,0,Krunal,3.0,0,22,0
+RCB,8,8.3,1,0,0,0,0,Kohli,Kohli,52,34,4,3,du Plessis,18,17,1,0,Ravi Bishnoi,1.0,0,8,0,Krunal,3.0,0,22,0
+RCB,8,8.2,0,0,1,0,0,Kohli,Kohli,51,33,4,3,du Plessis,18,17,1,0,Ravi Bishnoi,1.0,0,7,0,Krunal,3.0,0,22,0
+RCB,8,8.1,1,0,0,0,0,du Plessis,Kohli,51,32,4,3,du Plessis,18,17,1,0,Ravi Bishnoi,1.0,0,7,0,Krunal,3.0,0,22,0
+RCB,7,7.6,1,0,0,0,0,du Plessis,Kohli,51,32,4,3,du Plessis,17,16,1,0,Krunal,3.0,0,22,0,Ravi Bishnoi,1.0,0,6,0
+RCB,7,7.5,1,0,0,0,0,Kohli,Kohli,51,32,4,3,du Plessis,16,15,1,0,Krunal,2.0,0,21,0,Ravi Bishnoi,1.0,0,6,0
+RCB,7,7.4,1,0,0,0,1,du Plessis,Kohli,50,31,4,3,du Plessis,16,15,1,0,Krunal,2.0,0,20,0,Ravi Bishnoi,1.0,0,6,0
+RCB,7,7.3,1,0,0,0,0,Kohli,Kohli,50,31,4,3,du Plessis,15,14,1,0,Krunal,2.0,0,20,0,Ravi Bishnoi,1.0,0,6,0
+RCB,7,7.2,1,0,0,0,0,du Plessis,Kohli,49,30,4,3,du Plessis,15,14,1,0,Krunal,2.0,0,19,0,Ravi Bishnoi,1.0,0,6,0
+RCB,7,7.1,1,0,0,0,0,Kohli,Kohli,49,30,4,3,du Plessis,14,13,1,0,Krunal,2.0,0,18,0,Ravi Bishnoi,1.0,0,6,0
+RCB,6,6.6,1,0,0,0,0,Kohli,Kohli,48,29,4,3,du Plessis,14,13,1,0,Ravi Bishnoi,1.0,0,6,0,Wood,1.0,0,14,0
+RCB,6,6.5,1,0,0,0,0,du Plessis,Kohli,47,28,4,3,du Plessis,14,13,1,0,Ravi Bishnoi,0,0,5,0,Wood,1.0,0,14,0
+RCB,6,6.4,1,0,0,0,0,Kohli,Kohli,47,28,4,3,du Plessis,13,12,1,0,Ravi Bishnoi,0,0,4,0,Wood,1.0,0,14,0
+RCB,6,6.4,1,0,0,0,1,Kohli,Kohli,46,27,4,3,du Plessis,13,12,1,0,Ravi Bishnoi,0,0,3,0,Wood,1.0,0,14,0
+RCB,6,6.3,0,0,1,0,0,Kohli,Kohli,45,27,4,3,du Plessis,13,12,1,0,Ravi Bishnoi,0,0,2,0,Wood,1.0,0,14,0
+RCB,6,6.2,1,0,0,0,0,du Plessis,Kohli,45,26,4,3,du Plessis,13,12,1,0,Ravi Bishnoi,0,0,2,0,Wood,1.0,0,14,0
+RCB,6,6.1,1,0,0,0,0,Kohli,Kohli,45,26,4,3,du Plessis,12,11,1,0,Ravi Bishnoi,0,0,1,0,Wood,1.0,0,14,0
+RCB,5,5.6,1,0,0,0,0,Kohli,Kohli,44,25,4,3,du Plessis,12,11,1,0,Wood,1.0,0,14,0,Krunal,2.0,0,17,0
+RCB,5,5.5,1,0,0,0,0,du Plessis,Kohli,43,24,4,3,du Plessis,12,11,1,0,Wood,0,0,13,0,Krunal,2.0,0,17,0
+RCB,5,5.4,1,0,0,0,0,Kohli,Kohli,43,24,4,3,du Plessis,11,10,1,0,Wood,0,0,12,0,Krunal,2.0,0,17,0
+RCB,5,5.3,6,1,0,0,0,Kohli,Kohli,42,23,4,3,du Plessis,11,10,1,0,Wood,0,0,11,0,Krunal,2.0,0,17,0
+RCB,5,5.2,4,1,0,0,0,Kohli,Kohli,36,22,4,2,du Plessis,11,10,1,0,Wood,0,0,5,0,Krunal,2.0,0,17,0
+RCB,5,5.1,1,0,0,0,0,du Plessis,Kohli,32,21,3,2,du Plessis,11,10,1,0,Wood,0,0,1,0,Krunal,2.0,0,17,0
+RCB,4,4.6,1,0,0,0,0,du Plessis,Kohli,32,21,3,2,du Plessis,10,9,1,0,Krunal,2.0,0,17,0,Avesh Khan,2.0,0,19,0
+RCB,4,4.5,1,0,0,0,0,Kohli,Kohli,32,21,3,2,du Plessis,9,8,1,0,Krunal,1.0,0,16,0,Avesh Khan,2.0,0,19,0
+RCB,4,4.4,0,0,1,0,0,Kohli,Kohli,31,20,3,2,du Plessis,9,8,1,0,Krunal,1.0,0,15,0,Avesh Khan,2.0,0,19,0
+RCB,4,4.3,6,1,0,0,0,Kohli,Kohli,31,19,3,2,du Plessis,9,8,1,0,Krunal,1.0,0,15,0,Avesh Khan,2.0,0,19,0
+RCB,4,4.2,1,0,0,0,0,du Plessis,Kohli,25,18,3,1,du Plessis,9,8,1,0,Krunal,1.0,0,9,0,Avesh Khan,2.0,0,19,0
+RCB,4,4.1,0,0,1,0,0,du Plessis,Kohli,25,18,3,1,du Plessis,8,7,1,0,Krunal,1.0,0,8,0,Avesh Khan,2.0,0,19,0
+RCB,3,3.6,0,0,1,0,0,Kohli,Kohli,25,18,3,1,du Plessis,8,6,1,0,Avesh Khan,2.0,0,19,0,Krunal,1.0,0,8,0
+RCB,3,3.5,0,0,1,0,0,Kohli,Kohli,25,17,3,1,du Plessis,8,6,1,0,Avesh Khan,1.0,0,19,0,Krunal,1.0,0,8,0
+RCB,3,3.4,0,0,1,0,0,Kohli,Kohli,25,16,3,1,du Plessis,8,6,1,0,Avesh Khan,1.0,0,19,0,Krunal,1.0,0,8,0
+RCB,3,3.3,4,1,0,0,0,Kohli,Kohli,25,15,3,1,du Plessis,8,6,1,0,Avesh Khan,1.0,0,19,0,Krunal,1.0,0,8,0
+RCB,3,3.2,0,0,1,0,0,Kohli,Kohli,21,14,2,1,du Plessis,8,6,1,0,Avesh Khan,1.0,0,15,0,Krunal,1.0,0,8,0
+RCB,3,3.1,4,1,0,0,0,Kohli,Kohli,21,13,2,1,du Plessis,8,6,1,0,Avesh Khan,1.0,0,15,0,Krunal,1.0,0,8,0
+RCB,2,2.6,4,1,0,0,0,du Plessis,Kohli,17,12,1,1,du Plessis,8,6,1,0,Krunal,1.0,0,8,0,Avesh Khan,1.0,0,11,0
+RCB,2,2.5,1,0,0,0,0,Kohli,Kohli,17,12,1,1,du Plessis,4,5,0,0,Krunal,0,0,4,0,Avesh Khan,1.0,0,11,0
+RCB,2,2.4,0,0,1,0,0,Kohli,Kohli,16,11,1,1,du Plessis,4,5,0,0,Krunal,0,0,3,0,Avesh Khan,1.0,0,11,0
+RCB,2,2.3,1,0,0,0,0,du Plessis,Kohli,16,10,1,1,du Plessis,4,5,0,0,Krunal,0,0,3,0,Avesh Khan,1.0,0,11,0
+RCB,2,2.2,1,0,0,0,0,Kohli,Kohli,16,10,1,1,du Plessis,3,4,0,0,Krunal,0,0,2,0,Avesh Khan,1.0,0,11,0
+RCB,2,2.1,1,0,0,0,0,du Plessis,Kohli,15,9,1,1,du Plessis,3,4,0,0,Krunal,0,0,1,0,Avesh Khan,1.0,0,11,0
+RCB,1,1.6,2,0,0,0,1,Kohli,Kohli,15,9,1,1,du Plessis,2,3,0,0,Avesh Khan,1.0,0,11,0,Unadkat,1.0,0,4,0
+RCB,1,1.5,0,0,1,0,0,Kohli,Kohli,13,8,1,1,du Plessis,2,3,0,0,Avesh Khan,0,0,11,0,Unadkat,1.0,0,4,0
+RCB,1,1.4,4,1,0,0,0,Kohli,Kohli,13,7,1,1,du Plessis,2,3,0,0,Avesh Khan,0,0,11,0,Unadkat,1.0,0,4,0
+RCB,1,1.3,6,1,0,0,0,Kohli,Kohli,9,6,0,1,du Plessis,2,3,0,0,Avesh Khan,0,0,7,0,Unadkat,1.0,0,4,0
+RCB,1,1.2,0,0,1,0,0,Kohli,Kohli,3,5,0,0,du Plessis,2,3,0,0,Avesh Khan,0,0,1,0,Unadkat,1.0,0,4,0
+RCB,1,1.1,1,0,0,0,0,du Plessis,Kohli,3,4,0,0,du Plessis,2,3,0,0,Avesh Khan,0,0,1,0,Unadkat,1.0,0,4,0
+RCB,0,0.6,1,0,0,0,0,du Plessis,Kohli,3,4,0,0,du Plessis,1,2,0,0,Unadkat,1.0,0,4,0,,0,0,0,0
+RCB,0,0.5,0,0,1,0,0,du Plessis,Kohli,3,4,0,0,du Plessis,0,1,0,0,Unadkat,0,0,3,0,,0,0,0,0
+RCB,0,0.4,1,0,0,0,0,Kohli,Kohli,3,4,0,0,,0,0,0,0,Unadkat,0,0,3,0,,0,0,0,0
+RCB,0,0.3,0,0,1,0,0,Kohli,Kohli,2,3,0,0,,0,0,0,0,Unadkat,0,0,2,0,,0,0,0,0
+RCB,0,0.2,2,0,0,0,0,Kohli,Kohli,2,2,0,0,,0,0,0,0,Unadkat,0,0,2,0,,0,0,0,0
+RCB,0,0.1,0,0,1,0,0,Kohli,Kohli,0,1,0,0,,0,0,0,0,Unadkat,0,0,0,0,,0,0,0,0

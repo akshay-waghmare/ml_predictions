@@ -1,0 +1,3 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+LSG,19,19.1,6,1,1,2,1,Arshad Khan,,0,0,0,0,,0,0,0,0,Starc,0,0,0,1,Harshit Rana,1.0,0,11,0
+LSG,18,18.1,11,2,3,0,2,Pooran,Pooran,0,1,0,0,,0,0,0,0,Harshit Rana,0,0,0,0,,0,0,0,0

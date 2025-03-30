@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+CSK,19,19.1,7,1,1,1,0,Jadeja,Jadeja,26,21,3,0,Mitchell,13,10,1,0,Natarajan,3.0,0,33,0,Bhuvneshwar,4.0,0,28,1
+CSK,18,18.1,6,0,1,0,0,Mitchell,Jadeja,25,19,3,0,Mitchell,8,6,1,0,Bhuvneshwar,3.0,0,23,1,Cummins,4.0,0,29,1
+CSK,17,17.1,13,2,0,0,0,Mitchell,Jadeja,20,15,3,0,Mitchell,3,4,0,0,Cummins,3.0,0,20,1,Unadkat,4.0,0,29,1
+CSK,16,16.1,7,1,2,0,0,Jadeja,Jadeja,14,11,2,0,Mitchell,2,2,0,0,Unadkat,3.0,0,26,1,Natarajan,3.0,0,32,0
+CSK,15,15.1,5,0,1,0,0,Jadeja,Jadeja,7,7,1,0,,0,0,0,0,Natarajan,2.0,0,27,0,Unadkat,3.0,0,22,1
+CSK,14,14.1,7,1,1,1,0,Rahane,Rahane,36,28,2,1,Jadeja,2,3,0,0,Unadkat,2.0,0,16,0,Cummins,3.0,0,16,1
+CSK,13,13.1,5,0,1,1,0,Jadeja,Rahane,33,26,2,1,Dube,45,23,2,4,Cummins,2.0,0,12,0,Unadkat,2.0,0,15,0
+CSK,12,12.1,10,1,1,0,0,Rahane,Rahane,26,22,1,1,Dube,43,21,2,4,Unadkat,1.0,0,7,0,Natarajan,2.0,0,27,0
+CSK,11,11.1,15,2,2,0,0,Dube,Rahane,24,21,1,1,Dube,29,16,2,2,Natarajan,1.0,0,13,0,Unadkat,1.0,0,5,0
+CSK,10,10.1,6,0,2,0,2,Rahane,Rahane,18,16,1,1,Dube,28,15,2,2,Unadkat,0,0,0,0,Cummins,2.0,0,11,0
+CSK,9,9.1,4,0,3,0,0,Dube,Rahane,17,14,1,1,Dube,25,11,2,2,Cummins,1.0,0,7,0,Markande,2.0,0,21,0
+CSK,8,8.1,15,2,0,0,0,Dube,Rahane,16,13,1,1,Dube,15,6,2,1,Markande,1.0,0,10,0,Shahbaz Ahmed,1.0,0,11,1
+CSK,7,7.1,11,2,2,1,0,Dube,Rahane,16,13,1,1,,0,0,0,0,Shahbaz Ahmed,0,0,0,1,Markande,1.0,0,6,0
+CSK,6,6.1,6,0,0,0,0,Gaikwad,Gaikwad,23,17,3,1,Rahane,14,11,1,1,Markande,0,0,1,0,Bhuvneshwar,3.0,0,22,1
+CSK,5,5.1,15,3,2,0,0,Gaikwad,Gaikwad,13,13,2,0,Rahane,12,9,1,1,Bhuvneshwar,2.0,0,11,1,Cummins,1.0,0,7,0
+CSK,4,4.1,7,1,4,0,0,Gaikwad,Gaikwad,13,12,2,0,Rahane,1,4,0,0,Cummins,0,0,0,0,Bhuvneshwar,2.0,0,7,1
+CSK,3,3.1,1,0,4,1,0,Gaikwad,Gaikwad,13,10,2,0,,0,0,0,0,Bhuvneshwar,1.0,0,6,1,Natarajan,1.0,0,12,0
+CSK,2,2.1,12,2,1,0,0,Gaikwad,Ravindra,7,6,1,0,Gaikwad,8,7,1,0,Natarajan,0,0,2,0,Bhuvneshwar,1.0,0,6,0
+CSK,1,1.1,6,1,3,0,0,Gaikwad,Ravindra,6,5,1,0,Gaikwad,1,2,0,0,Bhuvneshwar,0,0,0,0,Abhishek,1.0,0,7,0
+CSK,0,0.1,7,1,2,0,0,Gaikwad,Ravindra,1,1,0,0,,0,0,0,0,Abhishek,0,0,1,0,,0,0,0,0

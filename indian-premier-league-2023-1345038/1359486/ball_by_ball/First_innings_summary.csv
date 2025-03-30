@@ -1,0 +1,20 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+CSK,18,18.1,6,1,0,0,1,Rayudu,Gaikwad,45,36,2,1,Rayudu,17,15,2,0,Arshad Khan,2.0,0,31,0,Behrendorff,3.0,0,24,1
+CSK,17,17.1,13,2,1,0,1,Gaikwad,Gaikwad,42,35,2,1,Rayudu,9,11,1,0,Behrendorff,2.0,0,15,1,Kartikeya,4.0,0,24,1
+CSK,16,16.1,5,0,1,0,0,Rayudu,Gaikwad,40,33,2,1,Rayudu,2,7,0,0,Kartikeya,3.0,0,19,1,Chawla,4.0,0,33,1
+CSK,15,15.1,1,0,5,0,0,Gaikwad,Gaikwad,40,32,2,1,Rayudu,1,2,0,0,Chawla,3.0,0,32,1,Kartikeya,3.0,0,19,1
+CSK,14,14.1,9,1,2,1,0,Gaikwad,Gaikwad,32,29,2,0,Dube,28,25,2,1,Kartikeya,2.0,0,10,0,Shokeen,2.0,0,19,0
+CSK,13,13.1,13,2,1,0,0,Gaikwad,Gaikwad,27,26,1,0,Dube,26,22,2,1,Shokeen,1.0,0,12,0,Kartikeya,2.0,0,10,0
+CSK,12,12.1,4,0,2,0,0,Dube,Gaikwad,25,24,1,0,Dube,18,18,2,0,Kartikeya,1.0,0,6,0,Shokeen,1.0,0,6,0
+CSK,11,11.1,6,1,3,0,0,Dube,Gaikwad,24,22,1,0,Dube,14,14,1,0,Shokeen,0,0,1,0,Green,3.0,0,20,0
+CSK,10,10.1,5,0,2,0,0,Dube,Gaikwad,23,21,1,0,Dube,11,9,1,0,Green,2.0,0,17,0,Chawla,3.0,0,32,1
+CSK,9,9.1,11,2,1,0,0,Dube,Gaikwad,18,19,0,0,Dube,7,5,1,0,Chawla,2.0,0,25,1,Green,2.0,0,15,0
+CSK,8,8.1,4,0,3,0,0,Dube,Gaikwad,17,18,0,0,,0,0,0,0,Green,1.0,0,11,0,Chawla,2.0,0,21,1
+CSK,7,7.1,8,1,1,1,0,Rahane,Rahane,61,24,7,3,Gaikwad,14,15,0,0,Chawla,1.0,0,14,0,Kartikeya,1.0,0,6,0
+CSK,6,6.1,6,0,0,0,0,Rahane,Rahane,57,20,7,3,Gaikwad,12,13,0,0,Kartikeya,0,0,1,0,Chawla,1.0,0,13,0
+CSK,5,5.1,13,2,0,0,0,Gaikwad,Rahane,48,17,5,3,Gaikwad,8,10,0,0,Chawla,0,0,1,0,Green,1.0,0,11,0
+CSK,4,4.1,11,1,1,0,1,Gaikwad,Rahane,41,15,5,2,Gaikwad,4,6,0,0,Green,0,0,1,0,Arshad Khan,2.0,0,29,0
+CSK,3,3.1,23,5,0,0,0,Rahane,Rahane,23,9,1,2,Gaikwad,4,6,0,0,Arshad Khan,1.0,0,12,0,Behrendorff,2.0,0,11,1
+CSK,2,2.1,9,1,3,0,0,Gaikwad,Rahane,10,5,1,0,Gaikwad,4,4,0,0,Behrendorff,1.0,0,4,1,Arshad Khan,1.0,0,6,0
+CSK,1,1.1,6,0,2,0,2,Gaikwad,Rahane,6,2,1,0,Gaikwad,1,0,0,0,Arshad Khan,0,0,1,0,Behrendorff,1.0,0,2,1
+CSK,0,0.1,6,1,3,1,1,Rahane,Conway,0,1,0,0,,0,0,0,0,Behrendorff,0,0,0,0,,0,0,0,0

@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+LSG,19,19.1,13,2,3,0,0,Pooran,Pooran,28,16,1,3,,0,0,0,0,Siraj,3.0,0,34,1,Topley,4.0,0,39,1
+LSG,18,18.1,20,3,2,0,1,Pooran,Pooran,8,10,1,0,,0,0,0,0,Topley,3.0,0,19,1,Yash Dayal,4.0,0,24,1
+LSG,17,17.1,5,1,3,1,0,Badoni,Pooran,7,5,1,0,Badoni,0,2,0,0,Yash Dayal,3.0,0,23,0,Topley,3.0,0,19,1
+LSG,16,16.1,2,0,3,1,0,Badoni,de Kock,85,54,8,5,Pooran,2,3,0,0,Topley,2.0,0,17,0,Siraj,3.0,0,34,1
+LSG,15,15.1,10,2,2,0,0,de Kock,de Kock,76,48,6,5,Pooran,2,3,0,0,Siraj,2.0,0,25,1,Yash Dayal,3.0,0,19,0
+LSG,14,14.1,2,0,4,0,0,de Kock,de Kock,75,44,6,5,Pooran,0,1,0,0,Yash Dayal,2.0,0,17,0,Maxwell,4.0,0,23,2
+LSG,13,13.1,8,1,2,1,0,Pooran,de Kock,74,41,6,5,Stoinis,23,13,1,2,Maxwell,3.0,0,21,1,Green,2.0,0,25,0
+LSG,12,12.1,19,3,0,0,0,de Kock,de Kock,63,38,5,4,Stoinis,10,10,1,0,Green,1.0,0,7,0,Dagar,2.0,0,23,0
+LSG,11,11.1,12,2,2,0,0,de Kock,de Kock,53,35,4,3,Stoinis,8,7,1,0,Dagar,1.0,0,12,0,Green,1.0,0,6,0
+LSG,10,10.1,6,1,3,0,0,de Kock,de Kock,51,31,4,3,Stoinis,7,5,1,0,Green,0,0,4,0,Dagar,1.0,0,11,0
+LSG,9,9.1,11,0,0,0,1,Stoinis,de Kock,48,28,4,3,Stoinis,0,1,0,0,Dagar,0,0,5,0,Siraj,2.0,0,24,1
+LSG,8,8.1,11,1,2,1,3,Stoinis,de Kock,36,25,4,2,Padikkal,6,10,0,0,Siraj,1.0,0,14,0,Maxwell,3.0,0,15,1
+LSG,7,7.1,3,0,3,0,0,de Kock,de Kock,35,22,4,2,Padikkal,4,7,0,0,Maxwell,2.0,0,13,1,Topley,2.0,0,17,0
+LSG,6,6.1,5,0,2,0,0,Padikkal,de Kock,32,19,4,2,Padikkal,2,4,0,0,Topley,1.0,0,13,0,Maxwell,2.0,0,12,1
+LSG,5,5.1,8,1,2,1,0,Padikkal,de Kock,32,19,4,2,Rahul,15,12,0,1,Maxwell,1.0,0,5,0,Yash Dayal,2.0,0,17,0
+LSG,4,4.1,10,1,2,0,0,Rahul,de Kock,30,15,4,2,Rahul,7,10,0,0,Yash Dayal,1.0,0,8,0,Maxwell,1.0,0,4,0
+LSG,3,3.1,4,0,3,0,1,de Kock,de Kock,29,13,4,2,Rahul,4,5,0,0,Maxwell,0,0,1,0,Siraj,1.0,0,13,0
+LSG,2,2.1,13,2,3,0,0,de Kock,de Kock,17,9,4,0,Rahul,2,4,0,0,Siraj,0,0,0,0,Yash Dayal,1.0,0,7,0
+LSG,1,1.1,7,1,2,0,0,Rahul,de Kock,12,6,3,0,Rahul,0,1,0,0,Yash Dayal,0,0,0,0,Topley,1.0,0,12,0
+LSG,0,0.1,12,3,3,0,0,de Kock,de Kock,0,1,0,0,,0,0,0,0,Topley,0,0,0,0,,0,0,0,0

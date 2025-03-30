@@ -1,0 +1,127 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+SRH,19,19.6,0,0,1,0,0,Abdul Samad,Abdul Samad,35,32,2,1,Umran Malik,20,8,1,1,Saini,2.0,0,34,0,Boult,4.0,1,21,2
+SRH,19,19.5,4,1,0,0,0,Abdul Samad,Abdul Samad,35,31,2,1,Umran Malik,20,8,1,1,Saini,2.0,0,34,0,Boult,4.0,1,21,2
+SRH,19,19.4,4,1,0,0,0,Abdul Samad,Abdul Samad,31,30,1,1,Umran Malik,20,8,1,1,Saini,2.0,0,30,0,Boult,4.0,1,21,2
+SRH,19,19.3,1,0,0,0,0,Umran Malik,Abdul Samad,27,29,0,1,Umran Malik,20,8,1,1,Saini,2.0,0,26,0,Boult,4.0,1,21,2
+SRH,19,19.3,7,0,0,0,1,Umran Malik,Abdul Samad,27,29,0,1,Umran Malik,19,7,1,1,Saini,1.0,0,25,0,Boult,4.0,1,21,2
+SRH,19,19.2,1,0,0,0,0,Abdul Samad,Abdul Samad,27,29,0,1,Umran Malik,12,6,1,1,Saini,1.0,0,18,0,Boult,4.0,1,21,2
+SRH,19,19.1,6,1,0,0,0,Abdul Samad,Abdul Samad,26,28,0,1,Umran Malik,12,6,1,1,Saini,1.0,0,17,0,Boult,4.0,1,21,2
+SRH,18,18.6,2,0,0,0,0,Umran Malik,Abdul Samad,20,27,0,0,Umran Malik,12,6,1,1,Boult,4.0,1,21,2,Chahal,4.0,0,17,4
+SRH,18,18.5,6,1,0,0,0,Umran Malik,Abdul Samad,20,27,0,0,Umran Malik,10,5,1,1,Boult,3.0,1,19,2,Chahal,4.0,0,17,4
+SRH,18,18.4,4,1,0,0,0,Umran Malik,Abdul Samad,20,27,0,0,Umran Malik,4,4,1,0,Boult,3.0,1,13,2,Chahal,4.0,0,17,4
+SRH,18,18.3,0,0,1,0,0,Umran Malik,Abdul Samad,20,27,0,0,Umran Malik,0,3,0,0,Boult,3.0,1,9,2,Chahal,4.0,0,17,4
+SRH,18,18.2,0,0,1,0,0,Umran Malik,Abdul Samad,20,27,0,0,Umran Malik,0,2,0,0,Boult,3.0,1,9,2,Chahal,4.0,0,17,4
+SRH,18,18.1,1,0,0,0,0,Abdul Samad,Abdul Samad,20,27,0,0,Umran Malik,0,1,0,0,Boult,3.0,1,9,2,Chahal,4.0,0,17,4
+SRH,17,17.6,0,0,1,0,0,Umran Malik,Abdul Samad,19,26,0,0,Umran Malik,0,1,0,0,Chahal,4.0,0,17,4,Holder,3.0,0,16,1
+SRH,17,17.5,0,0,0,1,0,Bhuvneshwar,Abdul Samad,19,26,0,0,,0,0,0,0,Chahal,3.0,0,17,4,Holder,3.0,0,16,1
+SRH,17,17.4,0,0,1,0,0,Bhuvneshwar,Abdul Samad,19,26,0,0,Bhuvneshwar,6,9,0,0,Chahal,3.0,0,17,3,Holder,3.0,0,16,1
+SRH,17,17.3,2,0,0,0,0,Bhuvneshwar,Abdul Samad,19,26,0,0,Bhuvneshwar,6,8,0,0,Chahal,3.0,0,17,3,Holder,3.0,0,16,1
+SRH,17,17.2,1,0,0,0,0,Abdul Samad,Abdul Samad,19,26,0,0,Bhuvneshwar,4,7,0,0,Chahal,3.0,0,15,3,Holder,3.0,0,16,1
+SRH,17,17.1,0,0,1,0,0,Abdul Samad,Abdul Samad,18,25,0,0,Bhuvneshwar,4,7,0,0,Chahal,3.0,0,14,3,Holder,3.0,0,16,1
+SRH,16,16.6,1,0,0,0,0,Abdul Samad,Abdul Samad,18,24,0,0,Bhuvneshwar,4,7,0,0,Holder,3.0,0,16,1,Ashwin,4.0,0,27,1
+SRH,16,16.5,0,0,1,0,0,Abdul Samad,Abdul Samad,17,23,0,0,Bhuvneshwar,4,7,0,0,Holder,2.0,0,15,1,Ashwin,4.0,0,27,1
+SRH,16,16.4,1,0,0,0,0,Bhuvneshwar,Abdul Samad,17,22,0,0,Bhuvneshwar,4,7,0,0,Holder,2.0,0,15,1,Ashwin,4.0,0,27,1
+SRH,16,16.3,0,0,1,0,0,Bhuvneshwar,Abdul Samad,17,22,0,0,Bhuvneshwar,3,6,0,0,Holder,2.0,0,14,1,Ashwin,4.0,0,27,1
+SRH,16,16.2,1,0,0,0,0,Abdul Samad,Abdul Samad,17,22,0,0,Bhuvneshwar,3,5,0,0,Holder,2.0,0,14,1,Ashwin,4.0,0,27,1
+SRH,16,16.1,0,0,1,0,0,Abdul Samad,Abdul Samad,16,21,0,0,Bhuvneshwar,3,5,0,0,Holder,2.0,0,13,1,Ashwin,4.0,0,27,1
+SRH,15,15.6,1,0,0,0,0,Abdul Samad,Abdul Samad,16,20,0,0,Bhuvneshwar,3,5,0,0,Ashwin,4.0,0,27,1,Asif,3.0,0,15,0
+SRH,15,15.5,1,0,0,0,0,Bhuvneshwar,Abdul Samad,15,19,0,0,Bhuvneshwar,3,5,0,0,Ashwin,3.0,0,26,1,Asif,3.0,0,15,0
+SRH,15,15.4,0,0,1,0,0,Bhuvneshwar,Abdul Samad,15,19,0,0,Bhuvneshwar,2,4,0,0,Ashwin,3.0,0,25,1,Asif,3.0,0,15,0
+SRH,15,15.3,0,0,1,0,0,Bhuvneshwar,Abdul Samad,15,19,0,0,Bhuvneshwar,2,3,0,0,Ashwin,3.0,0,25,1,Asif,3.0,0,15,0
+SRH,15,15.2,1,0,0,0,0,Abdul Samad,Abdul Samad,15,19,0,0,Bhuvneshwar,2,2,0,0,Ashwin,3.0,0,25,1,Asif,3.0,0,15,0
+SRH,15,15.1,1,0,0,0,0,Bhuvneshwar,Abdul Samad,14,18,0,0,Bhuvneshwar,2,2,0,0,Ashwin,3.0,0,24,1,Asif,3.0,0,15,0
+SRH,14,14.6,1,0,0,0,0,Bhuvneshwar,Abdul Samad,14,18,0,0,Bhuvneshwar,1,1,0,0,Asif,3.0,0,15,0,Chahal,3.0,0,14,3
+SRH,14,14.5,1,0,0,0,0,Abdul Samad,Abdul Samad,14,18,0,0,,0,0,0,0,Asif,2.0,0,14,0,Chahal,3.0,0,14,3
+SRH,14,14.4,0,0,1,0,0,Abdul Samad,Abdul Samad,13,17,0,0,,0,0,0,0,Asif,2.0,0,13,0,Chahal,3.0,0,14,3
+SRH,14,14.3,0,0,1,0,0,Abdul Samad,Abdul Samad,13,16,0,0,,0,0,0,0,Asif,2.0,0,13,0,Chahal,3.0,0,14,3
+SRH,14,14.2,0,0,1,0,0,Abdul Samad,Abdul Samad,13,15,0,0,,0,0,0,0,Asif,2.0,0,13,0,Chahal,3.0,0,14,3
+SRH,14,14.1,2,0,0,0,0,Abdul Samad,Abdul Samad,13,14,0,0,,0,0,0,0,Asif,2.0,0,13,0,Chahal,3.0,0,14,3
+SRH,13,13.6,0,0,0,1,0,Rashid,Abdul Samad,11,13,0,0,,0,0,0,0,Chahal,3.0,0,14,3,Saini,1.0,0,11,0
+SRH,13,13.5,0,0,1,0,0,Rashid,Abdul Samad,11,13,0,0,Rashid,20,12,1,1,Chahal,2.0,0,14,2,Saini,1.0,0,11,0
+SRH,13,13.4,2,0,0,0,0,Rashid,Abdul Samad,11,13,0,0,Rashid,20,11,1,1,Chahal,2.0,0,14,2,Saini,1.0,0,11,0
+SRH,13,13.3,2,0,0,0,0,Rashid,Abdul Samad,11,13,0,0,Rashid,18,10,1,1,Chahal,2.0,0,12,2,Saini,1.0,0,11,0
+SRH,13,13.2,1,0,0,0,0,Abdul Samad,Abdul Samad,11,13,0,0,Rashid,16,9,1,1,Chahal,2.0,0,10,2,Saini,1.0,0,11,0
+SRH,13,13.1,1,0,0,0,0,Rashid,Abdul Samad,10,12,0,0,Rashid,16,9,1,1,Chahal,2.0,0,9,2,Saini,1.0,0,11,0
+SRH,12,12.6,1,0,0,0,0,Rashid,Abdul Samad,10,12,0,0,Rashid,15,8,1,1,Saini,1.0,0,11,0,Ashwin,3.0,0,23,1
+SRH,12,12.5,1,0,0,0,0,Abdul Samad,Abdul Samad,10,12,0,0,Rashid,14,7,1,1,Saini,1.0,0,10,0,Ashwin,3.0,0,23,1
+SRH,12,12.4,1,0,0,0,0,Rashid,Abdul Samad,9,11,0,0,Rashid,14,7,1,1,Saini,1.0,0,9,0,Ashwin,3.0,0,23,1
+SRH,12,12.3,4,1,0,0,0,Rashid,Abdul Samad,9,11,0,0,Rashid,13,6,1,1,Saini,0,0,8,0,Ashwin,3.0,0,23,1
+SRH,12,12.3,2,0,0,0,1,Abdul Samad,Abdul Samad,9,11,0,0,Rashid,9,5,0,1,Saini,0,0,4,0,Ashwin,3.0,0,23,1
+SRH,12,12.3,2,0,0,0,1,Rashid,Abdul Samad,7,10,0,0,Rashid,9,5,0,1,Saini,0,0,2,0,Ashwin,3.0,0,23,1
+SRH,12,12.2,0,0,1,0,0,Rashid,Abdul Samad,7,10,0,0,Rashid,7,4,0,1,Saini,0,0,0,0,Ashwin,3.0,0,23,1
+SRH,12,12.1,1,0,0,0,1,Abdul Samad,Abdul Samad,7,10,0,0,Rashid,7,3,0,1,Saini,0,0,0,0,Ashwin,3.0,0,23,1
+SRH,11,11.6,6,1,0,0,0,Rashid,Abdul Samad,6,9,0,0,Rashid,7,3,0,1,Ashwin,3.0,0,23,1,Chahal,2.0,0,8,2
+SRH,11,11.6,1,0,0,0,1,Rashid,Abdul Samad,6,9,0,0,Rashid,1,2,0,0,Ashwin,2.0,0,17,1,Chahal,2.0,0,8,2
+SRH,11,11.5,0,0,1,0,0,Rashid,Abdul Samad,6,9,0,0,Rashid,0,2,0,0,Ashwin,2.0,0,16,1,Chahal,2.0,0,8,2
+SRH,11,11.4,0,0,1,0,0,Rashid,Abdul Samad,6,9,0,0,Rashid,0,1,0,0,Ashwin,2.0,0,16,1,Chahal,2.0,0,8,2
+SRH,11,11.3,1,0,0,0,0,Abdul Samad,Abdul Samad,6,9,0,0,,0,0,0,0,Ashwin,2.0,0,16,1,Chahal,2.0,0,8,2
+SRH,11,11.3,1,0,0,0,1,Abdul Samad,Abdul Samad,5,8,0,0,,0,0,0,0,Ashwin,2.0,0,15,1,Chahal,2.0,0,8,2
+SRH,11,11.2,0,0,1,0,0,Abdul Samad,Abdul Samad,4,8,0,0,,0,0,0,0,Ashwin,2.0,0,14,1,Chahal,2.0,0,8,2
+SRH,11,11.1,2,0,0,0,0,Abdul Samad,Abdul Samad,4,7,0,0,,0,0,0,0,Ashwin,2.0,0,14,1,Chahal,2.0,0,8,2
+SRH,10,10.6,0,0,0,1,0,Agarwal,Abdul Samad,2,6,0,0,,0,0,0,0,Chahal,2.0,0,8,2,Ashwin,2.0,0,12,1
+SRH,10,10.5,1,0,0,0,0,Abdul Samad,Agarwal,28,22,3,0,Abdul Samad,2,6,0,0,Chahal,1.0,0,8,1,Ashwin,2.0,0,12,1
+SRH,10,10.4,0,0,1,0,0,Abdul Samad,Agarwal,28,22,3,0,Abdul Samad,1,5,0,0,Chahal,1.0,0,7,1,Ashwin,2.0,0,12,1
+SRH,10,10.3,1,0,0,0,0,Agarwal,Agarwal,28,22,3,0,Abdul Samad,1,4,0,0,Chahal,1.0,0,7,1,Ashwin,2.0,0,12,1
+SRH,10,10.2,1,0,0,0,0,Abdul Samad,Agarwal,27,21,3,0,Abdul Samad,1,4,0,0,Chahal,1.0,0,6,1,Ashwin,2.0,0,12,1
+SRH,10,10.1,1,0,0,0,0,Agarwal,Agarwal,27,21,3,0,Abdul Samad,0,3,0,0,Chahal,1.0,0,5,1,Ashwin,2.0,0,12,1
+SRH,9,9.6,0,0,1,0,0,Abdul Samad,Agarwal,26,20,3,0,Abdul Samad,0,3,0,0,Ashwin,2.0,0,12,1,Holder,2.0,0,13,1
+SRH,9,9.5,0,0,1,0,0,Abdul Samad,Agarwal,26,20,3,0,Abdul Samad,0,2,0,0,Ashwin,1.0,0,12,1,Holder,2.0,0,13,1
+SRH,9,9.4,0,0,1,0,0,Abdul Samad,Agarwal,26,20,3,0,Abdul Samad,0,1,0,0,Ashwin,1.0,0,12,1,Holder,2.0,0,13,1
+SRH,9,9.3,0,0,0,1,0,Phillips,Agarwal,26,20,3,0,,0,0,0,0,Ashwin,1.0,0,12,1,Holder,2.0,0,13,1
+SRH,9,9.2,1,0,0,0,0,Agarwal,Agarwal,26,20,3,0,Phillips,8,5,0,1,Ashwin,1.0,0,12,0,Holder,2.0,0,13,1
+SRH,9,9.1,1,0,0,0,0,Phillips,Agarwal,25,19,3,0,Phillips,8,5,0,1,Ashwin,1.0,0,11,0,Holder,2.0,0,13,1
+SRH,8,8.6,1,0,0,0,0,Phillips,Agarwal,25,19,3,0,Phillips,7,4,0,1,Holder,2.0,0,13,1,Asif,2.0,0,11,0
+SRH,8,8.5,6,1,0,0,0,Phillips,Agarwal,25,19,3,0,Phillips,6,3,0,1,Holder,1.0,0,12,1,Asif,2.0,0,11,0
+SRH,8,8.4,0,0,1,0,0,Phillips,Agarwal,25,19,3,0,Phillips,0,2,0,0,Holder,1.0,0,6,1,Asif,2.0,0,11,0
+SRH,8,8.3,0,0,1,0,0,Phillips,Agarwal,25,19,3,0,Phillips,0,1,0,0,Holder,1.0,0,6,1,Asif,2.0,0,11,0
+SRH,8,8.2,0,0,0,1,0,Sundar,Agarwal,25,19,3,0,,0,0,0,0,Holder,1.0,0,6,1,Asif,2.0,0,11,0
+SRH,8,8.1,1,0,0,0,0,Agarwal,Agarwal,25,19,3,0,Sundar,1,4,0,0,Holder,1.0,0,6,0,Asif,2.0,0,11,0
+SRH,7,7.6,0,0,1,0,0,Sundar,Agarwal,24,18,3,0,Sundar,1,4,0,0,Asif,2.0,0,11,0,Chahal,1.0,0,4,1
+SRH,7,7.5,1,0,0,0,0,Agarwal,Agarwal,24,18,3,0,Sundar,1,3,0,0,Asif,1.0,0,11,0,Chahal,1.0,0,4,1
+SRH,7,7.5,1,0,0,0,1,Agarwal,Agarwal,23,17,3,0,Sundar,1,3,0,0,Asif,1.0,0,10,0,Chahal,1.0,0,4,1
+SRH,7,7.4,1,0,0,0,0,Sundar,Agarwal,22,17,3,0,Sundar,1,3,0,0,Asif,1.0,0,9,0,Chahal,1.0,0,4,1
+SRH,7,7.3,0,0,1,0,0,Sundar,Agarwal,22,17,3,0,Sundar,0,2,0,0,Asif,1.0,0,8,0,Chahal,1.0,0,4,1
+SRH,7,7.2,0,0,1,0,0,Sundar,Agarwal,22,17,3,0,Sundar,0,1,0,0,Asif,1.0,0,8,0,Chahal,1.0,0,4,1
+SRH,7,7.1,1,0,0,0,0,Agarwal,Agarwal,22,17,3,0,,0,0,0,0,Asif,1.0,0,8,0,Chahal,1.0,0,4,1
+SRH,6,6.6,0,0,0,1,0,Brook,Agarwal,21,16,3,0,,0,0,0,0,Chahal,1.0,0,4,1,Ashwin,1.0,0,10,0
+SRH,6,6.5,2,0,0,0,0,Brook,Brook,13,20,1,0,Agarwal,21,16,3,0,Chahal,0,0,4,0,Ashwin,1.0,0,10,0
+SRH,6,6.4,1,0,0,0,0,Agarwal,Brook,11,19,1,0,Agarwal,21,16,3,0,Chahal,0,0,2,0,Ashwin,1.0,0,10,0
+SRH,6,6.3,1,0,0,0,0,Brook,Brook,11,19,1,0,Agarwal,20,15,3,0,Chahal,0,0,1,0,Ashwin,1.0,0,10,0
+SRH,6,6.2,0,0,1,0,0,Brook,Brook,10,18,1,0,Agarwal,20,15,3,0,Chahal,0,0,0,0,Ashwin,1.0,0,10,0
+SRH,6,6.1,0,0,1,0,0,Brook,Brook,10,17,1,0,Agarwal,20,15,3,0,Chahal,0,0,0,0,Ashwin,1.0,0,10,0
+SRH,5,5.6,4,1,0,0,0,Agarwal,Brook,10,16,1,0,Agarwal,20,15,3,0,Ashwin,1.0,0,10,0,Boult,3.0,1,8,2
+SRH,5,5.5,0,0,1,0,0,Agarwal,Brook,10,16,1,0,Agarwal,16,14,2,0,Ashwin,0,0,6,0,Boult,3.0,1,8,2
+SRH,5,5.4,1,0,0,0,0,Brook,Brook,10,16,1,0,Agarwal,16,13,2,0,Ashwin,0,0,6,0,Boult,3.0,1,8,2
+SRH,5,5.3,2,0,0,0,0,Brook,Brook,9,15,1,0,Agarwal,16,13,2,0,Ashwin,0,0,5,0,Boult,3.0,1,8,2
+SRH,5,5.2,2,0,0,0,0,Brook,Brook,7,14,1,0,Agarwal,16,13,2,0,Ashwin,0,0,3,0,Boult,3.0,1,8,2
+SRH,5,5.1,1,0,0,0,0,Agarwal,Brook,5,13,1,0,Agarwal,16,13,2,0,Ashwin,0,0,1,0,Boult,3.0,1,8,2
+SRH,4,4.6,1,0,0,0,0,Agarwal,Brook,5,13,1,0,Agarwal,15,12,2,0,Boult,3.0,1,8,2,Holder,1.0,0,5,0
+SRH,4,4.5,1,0,0,0,0,Brook,Brook,5,13,1,0,Agarwal,14,11,2,0,Boult,2.0,1,7,2,Holder,1.0,0,5,0
+SRH,4,4.4,0,0,1,0,0,Brook,Brook,4,12,1,0,Agarwal,14,11,2,0,Boult,2.0,1,6,2,Holder,1.0,0,5,0
+SRH,4,4.3,0,0,1,0,0,Brook,Brook,4,11,1,0,Agarwal,14,11,2,0,Boult,2.0,1,6,2,Holder,1.0,0,5,0
+SRH,4,4.2,0,0,1,0,0,Brook,Brook,4,10,1,0,Agarwal,14,11,2,0,Boult,2.0,1,6,2,Holder,1.0,0,5,0
+SRH,4,4.1,1,0,0,0,0,Agarwal,Brook,4,9,1,0,Agarwal,14,11,2,0,Boult,2.0,1,6,2,Holder,1.0,0,5,0
+SRH,3,3.6,0,0,1,0,0,Brook,Brook,4,9,1,0,Agarwal,13,10,2,0,Holder,1.0,0,5,0,Boult,2.0,1,5,2
+SRH,3,3.5,0,0,1,0,0,Brook,Brook,4,8,1,0,Agarwal,13,10,2,0,Holder,0,0,5,0,Boult,2.0,1,5,2
+SRH,3,3.4,1,0,0,0,0,Agarwal,Brook,4,7,1,0,Agarwal,13,10,2,0,Holder,0,0,5,0,Boult,2.0,1,5,2
+SRH,3,3.3,0,0,1,0,0,Agarwal,Brook,4,7,1,0,Agarwal,12,9,2,0,Holder,0,0,4,0,Boult,2.0,1,5,2
+SRH,3,3.2,4,1,0,0,0,Agarwal,Brook,4,7,1,0,Agarwal,12,8,2,0,Holder,0,0,4,0,Boult,2.0,1,5,2
+SRH,3,3.1,0,0,1,0,0,Agarwal,Brook,4,7,1,0,Agarwal,8,7,1,0,Holder,0,0,0,0,Boult,2.0,1,5,2
+SRH,2,2.6,0,0,1,0,0,Brook,Brook,4,7,1,0,Agarwal,8,6,1,0,Boult,2.0,1,5,2,Asif,1.0,0,7,0
+SRH,2,2.5,0,0,1,0,0,Brook,Brook,4,6,1,0,Agarwal,8,6,1,0,Boult,1.0,1,5,2,Asif,1.0,0,7,0
+SRH,2,2.4,1,0,0,0,0,Agarwal,Brook,4,5,1,0,Agarwal,8,6,1,0,Boult,1.0,1,5,2,Asif,1.0,0,7,0
+SRH,2,2.3,4,1,0,0,0,Agarwal,Brook,4,5,1,0,Agarwal,7,5,1,0,Boult,1.0,1,4,2,Asif,1.0,0,7,0
+SRH,2,2.2,0,0,1,0,0,Agarwal,Brook,4,5,1,0,Agarwal,3,4,0,0,Boult,1.0,1,0,2,Asif,1.0,0,7,0
+SRH,2,2.1,0,0,1,0,0,Agarwal,Brook,4,5,1,0,Agarwal,3,3,0,0,Boult,1.0,1,0,2,Asif,1.0,0,7,0
+SRH,1,1.6,0,0,1,0,0,Brook,Brook,4,5,1,0,Agarwal,3,2,0,0,Asif,1.0,0,7,0,Boult,1.0,1,0,2
+SRH,1,1.5,0,0,1,0,0,Brook,Brook,4,4,1,0,Agarwal,3,2,0,0,Asif,0,0,7,0,Boult,1.0,1,0,2
+SRH,1,1.4,4,1,0,0,0,Brook,Brook,4,3,1,0,Agarwal,3,2,0,0,Asif,0,0,7,0,Boult,1.0,1,0,2
+SRH,1,1.3,0,0,1,0,0,Brook,Brook,0,2,0,0,Agarwal,3,2,0,0,Asif,0,0,3,0,Boult,1.0,1,0,2
+SRH,1,1.2,1,0,0,0,0,Agarwal,Brook,0,1,0,0,Agarwal,3,2,0,0,Asif,0,0,3,0,Boult,1.0,1,0,2
+SRH,1,1.1,2,0,0,0,0,Agarwal,Brook,0,1,0,0,Agarwal,2,1,0,0,Asif,0,0,2,0,Boult,1.0,1,0,2
+SRH,0,0.6,0,0,1,0,0,Brook,Brook,0,1,0,0,,0,0,0,0,Boult,1.0,1,0,2,,0,0,0,0
+SRH,0,0.5,0,0,0,1,0,Tripathi,,0,0,0,0,,0,0,0,0,Boult,0,0,0,2,,0,0,0,0
+SRH,0,0.4,0,0,1,0,0,Tripathi,Tripathi,0,1,0,0,,0,0,0,0,Boult,0,0,0,1,,0,0,0,0
+SRH,0,0.3,0,0,0,1,0,Abhishek,,0,0,0,0,,0,0,0,0,Boult,0,0,0,1,,0,0,0,0
+SRH,0,0.2,0,0,1,0,0,Abhishek,Abhishek,0,2,0,0,,0,0,0,0,Boult,0,0,0,0,,0,0,0,0
+SRH,0,0.1,0,0,1,0,0,Abhishek,Abhishek,0,1,0,0,,0,0,0,0,Boult,0,0,0,0,,0,0,0,0

@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+PBKS,19,19.1,17,2,3,1,1,Livingstone,Livingstone,82,42,3,7,,0,0,0,0,Ishant Sharma,2.0,0,19,1,Nortje,4.0,0,36,3
+PBKS,18,18.1,5,1,2,2,0,Livingstone,Livingstone,81,38,3,7,Sam Curran,12,4,1,1,Nortje,3.0,0,35,1,Mukesh Kumar,4.0,0,52,0
+PBKS,17,17.1,21,3,1,0,2,Livingstone,Livingstone,68,34,3,5,Sam Curran,1,1,0,0,Mukesh Kumar,3.0,0,33,0,Khaleel Ahmed,3.0,1,20,1
+PBKS,16,16.1,20,2,0,1,3,Livingstone,Livingstone,53,30,3,3,Shahrukh Khan,6,2,0,1,Khaleel Ahmed,2.0,1,7,0,Nortje,3.0,0,31,1
+PBKS,15,15.1,7,1,3,1,0,Shahrukh Khan,Atharva,59,42,5,2,Livingstone,48,29,3,3,Nortje,2.0,0,25,0,Mukesh Kumar,3.0,0,32,0
+PBKS,14,14.1,11,2,1,0,0,Livingstone,Atharva,58,41,5,2,Livingstone,41,24,2,3,Mukesh Kumar,2.0,0,25,0,Kuldeep,3.0,0,21,0
+PBKS,13,13.1,5,0,1,0,0,Livingstone,Atharva,56,39,5,2,Livingstone,35,20,1,3,Kuldeep,2.0,0,17,0,Nortje,2.0,0,24,0
+PBKS,12,12.1,12,1,1,0,0,Atharva,Atharva,52,36,5,2,Livingstone,27,17,1,2,Nortje,1.0,0,13,0,Axar Patel,3.0,0,27,1
+PBKS,11,11.1,15,3,0,0,0,Livingstone,Atharva,45,32,4,2,Livingstone,22,15,0,2,Axar Patel,2.0,0,16,1,Mukesh Kumar,2.0,0,21,0
+PBKS,10,10.1,10,1,2,0,0,Livingstone,Atharva,40,29,3,2,Livingstone,15,12,0,1,Mukesh Kumar,1.0,0,13,0,Kuldeep,2.0,0,16,0
+PBKS,9,9.1,12,1,1,0,1,Livingstone,Atharva,36,26,3,2,Livingstone,6,9,0,0,Kuldeep,1.0,0,5,0,Axar Patel,2.0,0,12,1
+PBKS,8,8.1,8,1,1,0,0,Livingstone,Atharva,34,24,3,2,Livingstone,3,5,0,0,Axar Patel,1.0,0,8,1,Kuldeep,1.0,0,4,0
+PBKS,7,7.1,4,0,2,0,0,Livingstone,Atharva,28,20,2,2,Livingstone,2,3,0,0,Kuldeep,0,0,1,0,Axar Patel,1.0,0,4,1
+PBKS,6,6.1,4,0,1,1,0,Livingstone,Prabhsimran,21,17,4,0,Atharva,27,19,2,2,Axar Patel,0,0,1,0,Mukesh Kumar,1.0,0,11,0
+PBKS,5,5.1,11,2,3,0,0,Prabhsimran,Prabhsimran,21,16,4,0,Atharva,15,14,1,1,Mukesh Kumar,0,0,0,0,Nortje,1.0,0,12,0
+PBKS,4,4.1,13,2,1,0,1,Atharva,Prabhsimran,20,15,4,0,Atharva,7,9,1,0,Nortje,0,0,4,0,Ishant Sharma,2.0,0,19,1
+PBKS,3,3.1,13,3,2,0,1,Prabhsimran,Prabhsimran,8,11,1,0,Atharva,2,7,0,0,Ishant Sharma,1.0,0,7,1,Khaleel Ahmed,2.0,1,2,0
+PBKS,2,2.1,3,0,4,0,1,Prabhsimran,Prabhsimran,6,9,1,0,Atharva,1,3,0,0,Khaleel Ahmed,1.0,1,0,0,Ishant Sharma,1.0,0,7,1
+PBKS,1,1.1,7,1,2,1,0,Prabhsimran,Prabhsimran,0,6,0,0,,0,0,0,0,Ishant Sharma,0,0,0,1,Khaleel Ahmed,1.0,1,0,0
+PBKS,0,0.1,0,0,6,0,0,Prabhsimran,Prabhsimran,0,1,0,0,,0,0,0,0,Khaleel Ahmed,0,0,0,0,,0,0,0,0

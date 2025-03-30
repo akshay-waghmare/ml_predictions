@@ -1,0 +1,19 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+KKR,19,19.1,8,1,0,2,0,Venkatesh Iyer,,0,0,0,0,,0,0,0,0,Ishant Sharma,1.0,0,26,1,Nortje,4.0,0,59,3
+KKR,18,18.1,25,4,0,1,1,Rinku Singh,Russell,47,18,4,3,Rinku Singh,10,3,0,1,Nortje,3.0,0,40,2,Khaleel Ahmed,3.0,0,40,1
+KKR,17,17.1,15,1,1,1,3,Rinku Singh,Russell,44,15,4,3,Shreyas Iyer,12,9,0,1,Khaleel Ahmed,2.0,0,27,0,Marsh,3.0,0,37,1
+KKR,16,16.1,19,3,1,0,1,Shreyas Iyer,Russell,30,12,3,2,Shreyas Iyer,6,7,0,0,Marsh,2.0,0,19,1,Khaleel Ahmed,2.0,0,25,0
+KKR,15,15.1,10,1,3,0,2,Russell,Russell,22,7,3,1,Shreyas Iyer,4,5,0,0,Khaleel Ahmed,1.0,0,16,0,Rasikh Salam,3.0,0,47,0
+KKR,14,14.1,14,2,1,0,0,Russell,Russell,10,4,2,0,Shreyas Iyer,3,3,0,0,Rasikh Salam,2.0,0,35,0,Nortje,3.0,0,34,2
+KKR,13,13.1,10,2,2,1,1,Russell,A Raghuvanshi,55,26,5,3,Russell,6,2,1,0,Nortje,2.0,0,28,1,Marsh,2.0,0,18,1
+KKR,12,12.1,9,1,1,1,2,Russell,Narine,86,31,7,7,A Raghuvanshi,50,24,4,3,Marsh,1.0,0,10,0,Nortje,2.0,0,24,1
+KKR,11,11.1,12,1,0,0,0,Narine,Narine,77,28,7,6,A Raghuvanshi,47,21,4,3,Nortje,1.0,0,13,1,Rasikh Salam,2.0,0,33,0
+KKR,10,10.1,15,2,2,0,1,A Raghuvanshi,Narine,74,26,7,6,A Raghuvanshi,34,17,4,1,Rasikh Salam,1.0,0,18,0,Marsh,1.0,0,9,0
+KKR,9,9.1,9,1,1,0,1,Narine,Narine,68,22,6,6,A Raghuvanshi,32,14,4,1,Marsh,0,0,1,0,Sumit Kumar,2.0,0,19,0
+KKR,8,8.1,14,2,1,0,0,A Raghuvanshi,Narine,66,21,6,6,A Raghuvanshi,20,10,3,0,Sumit Kumar,1.0,0,6,0,Axar Patel,1.0,0,18,0
+KKR,7,7.1,19,3,0,0,1,Narine,Narine,53,18,6,4,A Raghuvanshi,17,7,3,0,Axar Patel,0,0,4,0,Sumit Kumar,1.0,0,5,0
+KKR,6,6.1,5,0,1,0,0,A Raghuvanshi,Narine,51,15,6,4,A Raghuvanshi,11,4,2,0,Sumit Kumar,0,0,1,0,Rasikh Salam,1.0,0,18,0
+KKR,5,5.1,18,4,2,0,0,Narine,Narine,33,10,3,3,A Raghuvanshi,10,3,2,0,Rasikh Salam,0,0,0,0,Nortje,1.0,0,12,1
+KKR,4,4.1,12,2,1,1,0,A Raghuvanshi,Narine,33,9,3,3,Salt,8,4,2,0,Nortje,0,0,0,0,Ishant Sharma,1.0,0,26,0
+KKR,3,3.1,26,5,1,0,0,Narine,Narine,13,4,1,1,Salt,8,3,2,0,Ishant Sharma,0,0,6,0,Khaleel Ahmed,1.0,0,15,0
+KKR,2,2.1,15,3,1,0,0,Salt,Narine,2,1,0,0,,0,0,0,0,Khaleel Ahmed,0,0,2,0,,0,0,0,0

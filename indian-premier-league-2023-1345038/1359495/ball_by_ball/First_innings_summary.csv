@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+PBKS,19,19.1,8,1,0,0,0,Shahrukh Khan,Shahrukh Khan,19,8,0,2,Rabada,0,1,0,0,Ravi Bishnoi,2.0,0,12,2,Wood,4.0,0,35,2
+PBKS,18,18.1,13,2,1,1,1,Rabada,Shahrukh Khan,9,5,0,1,Harpreet Brar,2,2,0,0,Wood,3.0,0,23,1,Ravi Bishnoi,2.0,0,10,2
+PBKS,17,17.1,3,0,3,1,1,Harpreet Brar,Raza,60,39,4,3,Shahrukh Khan,7,3,0,1,Ravi Bishnoi,1.0,0,7,1,Avesh Khan,3.0,0,24,0
+PBKS,16,16.1,9,1,2,0,1,Raza,Raza,54,35,3,3,Shahrukh Khan,6,1,0,1,Avesh Khan,2.0,0,17,0,Wood,3.0,0,22,1
+PBKS,15,15.1,13,2,1,1,1,Shahrukh Khan,Raza,46,32,2,3,Sharma,1,2,0,0,Wood,2.0,0,9,0,Ravi Bishnoi,1.0,0,7,1
+PBKS,14,14.1,7,1,2,1,0,Raza,Raza,44,30,2,3,Sam Curran,2,4,0,0,Ravi Bishnoi,0,0,0,0,Gowtham,4.0,0,31,1
+PBKS,13,13.1,9,1,1,0,1,Sam Curran,Raza,41,27,2,3,Sam Curran,0,1,0,0,Gowtham,3.0,0,26,1,Krunal,3.0,0,32,1
+PBKS,12,12.1,17,3,2,0,0,Sam Curran,Raza,20,22,0,1,,0,0,0,0,Krunal,2.0,0,15,1,Gowtham,3.0,0,22,1
+PBKS,11,11.1,7,1,4,0,0,Raza,Raza,13,16,0,0,,0,0,0,0,Gowtham,2.0,0,15,1,Krunal,2.0,0,15,1
+PBKS,10,10.1,7,1,1,1,0,Harpreet Singh,Harpreet Singh,18,18,2,0,Raza,12,14,0,0,Krunal,1.0,0,9,0,Gowtham,2.0,0,15,1
+PBKS,9,9.1,7,0,2,0,0,Harpreet Singh,Harpreet Singh,17,16,2,0,Raza,5,10,0,0,Gowtham,1.0,0,8,1,Krunal,1.0,0,8,0
+PBKS,8,8.1,8,1,2,0,0,Harpreet Singh,Harpreet Singh,11,13,1,0,Raza,4,7,0,0,Krunal,0,0,1,0,Wood,2.0,0,9,0
+PBKS,7,7.1,5,0,2,0,0,Raza,Harpreet Singh,9,11,1,0,Raza,1,3,0,0,Wood,1.0,0,5,0,Avesh Khan,2.0,0,15,0
+PBKS,6,6.1,3,0,3,0,0,Harpreet Singh,Harpreet Singh,6,8,1,0,,0,0,0,0,Avesh Khan,1.0,0,12,0,Gowtham,1.0,0,8,1
+PBKS,5,5.1,8,1,2,1,0,MW Short,MW Short,28,18,5,0,Harpreet Singh,5,6,1,0,Gowtham,0,0,0,0,Yudhvir Singh,3.0,0,19,2
+PBKS,4,4.1,9,2,3,0,0,Harpreet Singh,MW Short,23,15,4,0,Harpreet Singh,5,3,1,0,Yudhvir Singh,2.0,0,14,2,Wood,1.0,0,4,0
+PBKS,3,3.1,5,0,3,0,1,Harpreet Singh,MW Short,16,10,3,0,Harpreet Singh,5,2,1,0,Wood,0,0,2,0,Yudhvir Singh,2.0,0,10,2
+PBKS,2,2.1,10,2,1,1,1,Harpreet Singh,MW Short,13,7,3,0,Prabhsimran,4,3,1,0,Yudhvir Singh,1.0,0,5,1,Avesh Khan,1.0,0,12,0
+PBKS,1,1.1,12,3,3,0,0,MW Short,MW Short,5,2,1,0,Prabhsimran,0,2,0,0,Avesh Khan,0,0,4,0,Yudhvir Singh,1.0,0,1,1
+PBKS,0,0.1,1,0,4,1,0,Prabhsimran,Atharva,0,1,0,0,,0,0,0,0,Yudhvir Singh,0,0,0,0,,0,0,0,0

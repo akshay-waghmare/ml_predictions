@@ -1,0 +1,41 @@
+over,innings,score,projected_score,required,CRR,RRR,fav_team,win_probability,venue,matches_played,total_runs,total_wickets,balls_bowled,average_runs_per_wicket,average_runs_per_over
+20,DC,146/9,N/A,N/A,7.30,N/A,CSK,100.0,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+1,CSK,6/0,165,N/A,6.00,N/A,DC,56.7,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+2,CSK,19/0,172,N/A,9.50,N/A,CSK,51.16,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+3,CSK,30/0,175,N/A,10.00,N/A,CSK,54.55,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+4,CSK,41/0,189,N/A,10.25,N/A,CSK,69.4,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+5,CSK,50/0,191,N/A,10.00,N/A,CSK,71.3,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+6,CSK,52/0,180,N/A,8.67,N/A,CSK,60.09,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+7,CSK,60/0,175,N/A,8.57,N/A,CSK,54.55,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+8,CSK,66/0,175,N/A,8.25,N/A,CSK,54.55,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+9,CSK,72/0,171,N/A,8.00,N/A,CSK,50.03,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+10,CSK,87/0,189,N/A,8.70,N/A,CSK,69.4,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+11,CSK,97/0,201,N/A,8.82,N/A,CSK,79.67,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+12,CSK,117/0,227,N/A,9.75,N/A,CSK,92.71,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+13,CSK,127/0,217,N/A,9.77,N/A,CSK,89.01,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+14,CSK,140/0,219,N/A,10.00,N/A,CSK,89.87,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+15,CSK,148/1,204,N/A,9.87,N/A,CSK,81.79,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+16,CSK,167/1,214,N/A,10.44,N/A,CSK,87.61,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+17,CSK,179/1,215,N/A,10.53,N/A,CSK,88.1,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+18,CSK,195/2,220,N/A,10.83,N/A,CSK,90.27,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+19,CSK,207/3,221,N/A,10.89,N/A,CSK,90.66,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+20,CSK,223/3,223,N/A,11.15,N/A,CSK,91.4,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+1,DC,5/0,N/A,219 from 114,5.00,11.53,CSK,92.33,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+2,DC,6/1,N/A,218 from 108,3.00,12.11,CSK,96.2,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+3,DC,9/1,N/A,215 from 102,3.00,12.65,CSK,97.47,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+4,DC,15/1,N/A,209 from 96,3.75,13.06,CSK,98.17,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+5,DC,26/3,N/A,198 from 90,5.20,13.20,CSK,98.99,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+6,DC,34/3,N/A,190 from 84,5.67,13.57,CSK,99.06,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+7,DC,43/3,N/A,181 from 78,6.14,13.92,CSK,98.94,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+8,DC,47/3,N/A,177 from 72,5.88,14.75,CSK,99.45,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+9,DC,61/3,N/A,163 from 66,6.78,14.82,CSK,98.71,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+10,DC,72/3,N/A,152 from 60,7.20,15.20,CSK,98.63,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+11,DC,76/4,N/A,148 from 54,6.91,16.44,CSK,99.59,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+12,DC,84/4,N/A,140 from 48,7.00,17.50,CSK,99.8,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+13,DC,107/4,N/A,117 from 42,8.23,16.71,CSK,99.41,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+14,DC,110/5,N/A,114 from 36,7.86,19.00,CSK,99.88,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+15,DC,116/5,N/A,108 from 30,7.73,21.60,CSK,99.92,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+16,DC,131/5,N/A,93 from 24,8.19,23.25,CSK,99.93,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+17,DC,137/6,N/A,87 from 18,8.06,29.00,CSK,99.99,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+18,DC,143/6,N/A,81 from 12,7.94,40.50,CSK,99.99,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99
+19,DC,146/7,N/A,78 from 6,7.68,78.00,CSK,99.99,"Arun Jaitley Stadium, Delhi",162,49144,1963,36878,25.03,7.99

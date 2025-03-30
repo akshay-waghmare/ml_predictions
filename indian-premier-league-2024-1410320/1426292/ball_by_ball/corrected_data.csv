@@ -1,0 +1,38 @@
+over,innings,score,projected_score,required,CRR,RRR,fav_team,win_probability,venue,matches_played,total_runs,total_wickets,balls_bowled,average_runs_per_wicket,average_runs_per_over
+17,LSG,137/10,N/A,N/A,8.06,N/A,KKR,100.0,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",44,12182,526,9895,23.15,7.38
+1,KKR,10/0,183,N/A,10.00,N/A,KKR,59.4,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",44,12182,526,9895,23.15,7.38
+2,KKR,18/0,181,N/A,9.00,N/A,KKR,57.23,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",44,12182,526,9895,23.15,7.38
+3,KKR,37/0,195,N/A,12.33,N/A,KKR,71.41,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",44,12182,526,9895,23.15,7.38
+4,KKR,57/0,216,N/A,14.25,N/A,KKR,86.38,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",44,12182,526,9895,23.15,7.38
+5,KKR,68/1,228,N/A,13.60,N/A,KKR,91.48,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",44,12182,526,9895,23.15,7.38
+6,KKR,70/1,209,N/A,11.67,N/A,KKR,82.32,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",44,12182,526,9895,23.15,7.38
+7,KKR,81/1,203,N/A,11.57,N/A,KKR,78.1,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",44,12182,526,9895,23.15,7.38
+8,KKR,86/1,199,N/A,10.75,N/A,KKR,74.91,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",44,12182,526,9895,23.15,7.38
+9,KKR,100/1,209,N/A,11.11,N/A,KKR,82.32,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",44,12182,526,9895,23.15,7.38
+10,KKR,110/1,214,N/A,11.00,N/A,KKR,85.31,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",44,12182,526,9895,23.15,7.38
+11,KKR,129/1,238,N/A,11.73,N/A,KKR,94.32,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",44,12182,526,9895,23.15,7.38
+12,KKR,140/2,239,N/A,11.67,N/A,KKR,94.55,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",44,12182,526,9895,23.15,7.38
+13,KKR,155/2,245,N/A,11.92,N/A,KKR,95.74,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",44,12182,526,9895,23.15,7.38
+14,KKR,162/2,232,N/A,11.57,N/A,KKR,92.75,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",44,12182,526,9895,23.15,7.38
+15,KKR,171/3,227,N/A,11.40,N/A,KKR,91.14,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",44,12182,526,9895,23.15,7.38
+16,KKR,178/4,222,N/A,11.12,N/A,KKR,89.2,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",44,12182,526,9895,23.15,7.38
+17,KKR,190/4,224,N/A,11.18,N/A,KKR,90.02,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",44,12182,526,9895,23.15,7.38
+18,KKR,200/5,223,N/A,11.11,N/A,KKR,89.62,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",44,12182,526,9895,23.15,7.38
+19,KKR,217/5,229,N/A,11.42,N/A,KKR,91.82,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",44,12182,526,9895,23.15,7.38
+20,KKR,235/6,235,N/A,11.75,N/A,KKR,93.58,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",44,12182,526,9895,23.15,7.38
+1,LSG,11/0,N/A,225 from 114,11.00,11.84,KKR,93.01,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",44,12182,526,9895,23.15,7.38
+2,LSG,20/1,N/A,216 from 108,10.00,12.00,KKR,95.1,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",44,12182,526,9895,23.15,7.38
+3,LSG,30/1,N/A,206 from 102,10.00,12.12,KKR,95.02,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",44,12182,526,9895,23.15,7.38
+4,LSG,43/1,N/A,193 from 96,10.75,12.06,KKR,93.44,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",44,12182,526,9895,23.15,7.38
+5,LSG,47/1,N/A,189 from 90,9.40,12.60,KKR,95.84,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",44,12182,526,9895,23.15,7.38
+6,LSG,55/1,N/A,181 from 84,9.17,12.93,KKR,96.26,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",44,12182,526,9895,23.15,7.38
+7,LSG,65/1,N/A,171 from 78,9.29,13.15,KKR,96.4,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",44,12182,526,9895,23.15,7.38
+8,LSG,76/2,N/A,160 from 72,9.50,13.33,KKR,96.37,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",44,12182,526,9895,23.15,7.38
+9,LSG,85/3,N/A,151 from 66,9.44,13.73,KKR,97.26,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",44,12182,526,9895,23.15,7.38
+10,LSG,96/4,N/A,140 from 60,9.60,14.00,KKR,97.98,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",44,12182,526,9895,23.15,7.38
+11,LSG,100/4,N/A,136 from 54,9.09,15.11,KKR,99.18,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",44,12182,526,9895,23.15,7.38
+12,LSG,107/5,N/A,129 from 48,8.92,16.12,KKR,99.76,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",44,12182,526,9895,23.15,7.38
+13,LSG,111/6,N/A,125 from 42,8.54,17.86,KKR,99.95,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",44,12182,526,9895,23.15,7.38
+14,LSG,125/7,N/A,111 from 36,8.93,18.50,KKR,99.96,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",44,12182,526,9895,23.15,7.38
+15,LSG,130/8,N/A,106 from 30,8.67,21.20,KKR,99.99,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",44,12182,526,9895,23.15,7.38
+16,LSG,137/9,N/A,99 from 24,8.56,24.75,KKR,99.99,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",44,12182,526,9895,23.15,7.38

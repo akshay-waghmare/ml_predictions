@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+CSK,19,19.1,16,2,0,1,2,Gleeson,Jadeja,36,23,3,1,Deshpande,1,1,0,0,Arshdeep,3.0,0,31,1,Harshal,4.0,0,24,3
+CSK,18,18.1,2,0,3,2,1,Deshpande,Jadeja,32,22,2,1,Thakur,18,8,2,1,Harshal,3.0,0,23,1,Chahar,4.0,0,23,3
+CSK,17,17.1,13,2,2,0,1,Thakur,Jadeja,24,19,2,0,Thakur,16,5,2,1,Chahar,3.0,0,14,3,Sam Curran,4.0,0,34,1
+CSK,16,16.1,14,2,0,0,0,Thakur,Jadeja,23,18,2,0,,0,0,0,0,Sam Curran,3.0,0,21,1,Chahar,3.0,0,10,3
+CSK,15,15.1,5,0,0,1,0,Santner,Jadeja,20,15,2,0,Santner,9,8,1,0,Chahar,2.0,0,6,2,Arshdeep,3.0,0,27,1
+CSK,14,14.1,8,1,1,0,0,Jadeja,Jadeja,17,12,2,0,Santner,3,5,0,0,Arshdeep,2.0,0,19,1,Harshal,3.0,0,22,1
+CSK,13,13.1,6,0,2,0,0,Santner,Jadeja,14,10,2,0,Santner,1,1,0,0,Harshal,2.0,0,17,1,Sam Curran,3.0,0,20,1
+CSK,12,12.1,4,0,1,1,0,Jadeja,Moeen Ali,16,18,2,0,Jadeja,11,7,2,0,Sam Curran,2.0,0,16,0,Rabada,3.0,0,24,0
+CSK,11,11.1,9,2,3,0,0,Moeen Ali,Moeen Ali,7,12,0,0,Jadeja,11,7,2,0,Rabada,2.0,0,15,0,Harshal,2.0,0,16,1
+CSK,10,10.1,11,2,1,0,0,Jadeja,Moeen Ali,5,9,0,0,Jadeja,2,4,0,0,Harshal,1.0,0,5,1,Chahar,2.0,0,5,2
+CSK,9,9.1,3,0,3,0,0,Jadeja,Moeen Ali,3,6,0,0,Jadeja,1,1,0,0,Chahar,1.0,0,2,2,Harshal,1.0,0,5,1
+CSK,8,8.1,5,0,1,1,1,Jadeja,Mitchell,29,17,2,1,Moeen Ali,1,3,0,0,Harshal,0,0,1,0,Chahar,1.0,0,2,2
+CSK,7,7.1,2,0,2,2,0,Mitchell,Mitchell,27,15,2,1,,0,0,0,0,Chahar,0,0,0,1,Sam Curran,2.0,0,16,0
+CSK,6,6.1,9,1,0,0,0,Gaikwad,Gaikwad,29,17,4,1,Mitchell,25,13,2,1,Sam Curran,1.0,0,11,0,Harpreet Brar,1.0,0,19,0
+CSK,5,5.1,19,4,1,0,0,Mitchell,Gaikwad,10,12,1,0,Mitchell,21,12,1,1,Harpreet Brar,0,0,0,0,Sam Curran,1.0,0,7,0
+CSK,4,4.1,7,0,1,0,0,Mitchell,Gaikwad,9,10,1,0,Mitchell,16,8,1,1,Sam Curran,0,0,1,0,Arshdeep,2.0,0,19,1
+CSK,3,3.1,12,2,2,0,0,Gaikwad,Gaikwad,7,8,1,0,Mitchell,9,4,1,0,Arshdeep,1.0,0,11,1,Rabada,2.0,0,15,0
+CSK,2,2.1,9,1,2,0,0,Gaikwad,Gaikwad,2,4,0,0,Mitchell,4,2,0,0,Rabada,1.0,0,9,0,Arshdeep,1.0,0,7,1
+CSK,1,1.1,7,1,1,1,0,Mitchell,Rahane,9,4,1,0,Gaikwad,1,3,0,0,Arshdeep,0,0,4,0,Rabada,1.0,0,6,0
+CSK,0,0.1,6,0,2,0,1,Gaikwad,Rahane,1,0,0,0,,0,0,0,0,Rabada,0,0,1,0,,0,0,0,0

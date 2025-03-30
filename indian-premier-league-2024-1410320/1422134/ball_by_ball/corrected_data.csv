@@ -1,0 +1,39 @@
+over,innings,score,projected_score,required,CRR,RRR,fav_team,win_probability,venue,matches_played,total_runs,total_wickets,balls_bowled,average_runs_per_wicket,average_runs_per_over
+18,DC,166/10,N/A,N/A,9.22,N/A,KKR,100.0,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",79,23170,1022,17561,22.67,7.91
+1,KKR,7/0,169,N/A,7.00,N/A,DC,54.55,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",79,23170,1022,17561,22.67,7.91
+2,KKR,17/0,171,N/A,8.50,N/A,DC,52.32,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",79,23170,1022,17561,22.67,7.91
+3,KKR,32/0,181,N/A,10.67,N/A,KKR,58.84,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",79,23170,1022,17561,22.67,7.91
+4,KKR,58/0,214,N/A,14.50,N/A,KKR,86.31,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",79,23170,1022,17561,22.67,7.91
+5,KKR,70/1,219,N/A,14.00,N/A,KKR,88.74,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",79,23170,1022,17561,22.67,7.91
+6,KKR,88/1,238,N/A,14.67,N/A,KKR,94.81,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",79,23170,1022,17561,22.67,7.91
+7,KKR,93/1,225,N/A,13.29,N/A,KKR,91.14,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",79,23170,1022,17561,22.67,7.91
+8,KKR,112/1,239,N/A,14.00,N/A,KKR,95.02,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",79,23170,1022,17561,22.67,7.91
+9,KKR,126/1,245,N/A,14.00,N/A,KKR,96.13,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",79,23170,1022,17561,22.67,7.91
+10,KKR,135/1,256,N/A,13.50,N/A,KKR,97.57,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",79,23170,1022,17561,22.67,7.91
+11,KKR,150/1,254,N/A,13.64,N/A,KKR,97.36,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",79,23170,1022,17561,22.67,7.91
+12,KKR,162/1,257,N/A,13.50,N/A,KKR,97.67,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",79,23170,1022,17561,22.67,7.91
+13,KKR,171/2,253,N/A,13.15,N/A,KKR,97.24,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",79,23170,1022,17561,22.67,7.91
+14,KKR,181/3,246,N/A,12.93,N/A,KKR,96.29,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",79,23170,1022,17561,22.67,7.91
+15,KKR,195/3,251,N/A,13.00,N/A,KKR,97.0,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",79,23170,1022,17561,22.67,7.91
+16,KKR,205/3,250,N/A,12.81,N/A,KKR,96.87,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",79,23170,1022,17561,22.67,7.91
+17,KKR,224/3,261,N/A,13.18,N/A,KKR,98.04,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",79,23170,1022,17561,22.67,7.91
+18,KKR,239/4,263,N/A,13.28,N/A,KKR,98.2,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",79,23170,1022,17561,22.67,7.91
+19,KKR,264/5,277,N/A,13.89,N/A,KKR,99.01,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",79,23170,1022,17561,22.67,7.91
+20,KKR,272/7,272,N/A,13.60,N/A,KKR,98.77,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",79,23170,1022,17561,22.67,7.91
+1,DC,11/0,N/A,262 from 114,11.00,13.79,KKR,98.71,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",79,23170,1022,17561,22.67,7.91
+2,DC,21/1,N/A,252 from 108,10.50,14.00,KKR,99.22,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",79,23170,1022,17561,22.67,7.91
+3,DC,26/2,N/A,247 from 102,8.67,14.53,KKR,99.65,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",79,23170,1022,17561,22.67,7.91
+4,DC,27/3,N/A,246 from 96,6.75,15.38,KKR,99.86,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",79,23170,1022,17561,22.67,7.91
+5,DC,40/4,N/A,233 from 90,8.00,15.53,KKR,99.94,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",79,23170,1022,17561,22.67,7.91
+6,DC,51/4,N/A,222 from 84,8.50,15.86,KKR,99.94,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",79,23170,1022,17561,22.67,7.91
+7,DC,65/4,N/A,208 from 78,9.29,16.00,KKR,99.91,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",79,23170,1022,17561,22.67,7.91
+8,DC,70/4,N/A,203 from 72,8.75,16.92,KKR,99.94,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",79,23170,1022,17561,22.67,7.91
+9,DC,83/4,N/A,190 from 66,9.22,17.27,KKR,99.94,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",79,23170,1022,17561,22.67,7.91
+10,DC,87/4,N/A,186 from 60,8.70,18.60,KKR,99.98,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",79,23170,1022,17561,22.67,7.91
+11,DC,97/4,N/A,176 from 54,8.82,19.56,KKR,99.98,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",79,23170,1022,17561,22.67,7.91
+12,DC,125/4,N/A,148 from 48,10.42,18.50,KKR,99.93,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",79,23170,1022,17561,22.67,7.91
+13,DC,129/6,N/A,144 from 42,9.92,20.57,KKR,99.99,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",79,23170,1022,17561,22.67,7.91
+14,DC,148/6,N/A,125 from 36,10.57,20.83,KKR,99.99,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",79,23170,1022,17561,22.67,7.91
+15,DC,159/7,N/A,114 from 30,10.60,22.80,KKR,99.99,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",79,23170,1022,17561,22.67,7.91
+16,DC,161/8,N/A,112 from 24,10.06,28.00,KKR,99.99,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",79,23170,1022,17561,22.67,7.91
+17,DC,166/9,N/A,107 from 18,9.76,35.67,KKR,99.99,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",79,23170,1022,17561,22.67,7.91

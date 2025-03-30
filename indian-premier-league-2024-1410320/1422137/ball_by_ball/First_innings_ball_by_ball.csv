@@ -1,0 +1,119 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+RR,19,19.1,6,1,0,0,0,Buttler,Buttler,101,58,9,4,Hetmyer,12,6,2,0,Green,3.0,0,27,0,Siraj,4.0,0,35,1
+RR,18,18.6,1,0,0,0,0,Buttler,Buttler,95,57,9,3,Hetmyer,12,6,2,0,Siraj,4.0,0,35,1,Green,3.0,0,21,0
+RR,18,18.5,1,0,0,0,0,Hetmyer,Buttler,94,56,9,3,Hetmyer,12,6,2,0,Siraj,3.0,0,34,1,Green,3.0,0,21,0
+RR,18,18.5,1,0,0,0,1,Hetmyer,Buttler,94,56,9,3,Hetmyer,11,5,2,0,Siraj,3.0,0,33,1,Green,3.0,0,21,0
+RR,18,18.4,4,1,0,0,0,Hetmyer,Buttler,94,56,9,3,Hetmyer,10,5,2,0,Siraj,3.0,0,32,1,Green,3.0,0,21,0
+RR,18,18.3,1,0,0,0,0,Buttler,Buttler,94,56,9,3,Hetmyer,6,4,1,0,Siraj,3.0,0,28,1,Green,3.0,0,21,0
+RR,18,18.2,0,0,1,0,0,Buttler,Buttler,93,55,9,3,Hetmyer,6,4,1,0,Siraj,3.0,0,27,1,Green,3.0,0,21,0
+RR,18,18.1,0,0,1,0,0,Buttler,Buttler,93,54,9,3,Hetmyer,6,4,1,0,Siraj,3.0,0,27,1,Green,3.0,0,21,0
+RR,17,17.6,1,0,0,0,0,Buttler,Buttler,93,53,9,3,Hetmyer,6,4,1,0,Green,3.0,0,21,0,Topley,4.0,0,27,2
+RR,17,17.5,0,0,1,0,0,Buttler,Buttler,92,52,9,3,Hetmyer,6,4,1,0,Green,2.0,0,20,0,Topley,4.0,0,27,2
+RR,17,17.4,2,0,0,0,0,Buttler,Buttler,92,51,9,3,Hetmyer,6,4,1,0,Green,2.0,0,20,0,Topley,4.0,0,27,2
+RR,17,17.3,1,0,0,0,0,Hetmyer,Buttler,90,50,9,3,Hetmyer,6,4,1,0,Green,2.0,0,18,0,Topley,4.0,0,27,2
+RR,17,17.2,0,0,1,0,0,Hetmyer,Buttler,90,50,9,3,Hetmyer,5,3,1,0,Green,2.0,0,17,0,Topley,4.0,0,27,2
+RR,17,17.1,1,0,0,0,0,Buttler,Buttler,90,50,9,3,Hetmyer,5,2,1,0,Green,2.0,0,17,0,Topley,4.0,0,27,2
+RR,16,16.6,4,1,0,0,0,Hetmyer,Buttler,89,49,9,3,Hetmyer,5,2,1,0,Topley,4.0,0,27,2,Yash Dayal,4.0,0,37,1
+RR,16,16.5,1,0,0,0,0,Buttler,Buttler,89,49,9,3,Hetmyer,1,1,0,0,Topley,3.0,0,23,2,Yash Dayal,4.0,0,37,1
+RR,16,16.4,1,0,0,0,0,Hetmyer,Buttler,88,48,9,3,Hetmyer,1,1,0,0,Topley,3.0,0,22,2,Yash Dayal,4.0,0,37,1
+RR,16,16.3,0,0,0,1,0,Jurel,Buttler,88,48,9,3,,0,0,0,0,Topley,3.0,0,21,2,Yash Dayal,4.0,0,37,1
+RR,16,16.2,3,0,0,0,0,Buttler,Buttler,88,48,9,3,Jurel,2,2,0,0,Topley,3.0,0,21,1,Yash Dayal,4.0,0,37,1
+RR,16,16.1,1,0,0,0,0,Jurel,Buttler,85,47,9,3,Jurel,2,2,0,0,Topley,3.0,0,18,1,Yash Dayal,4.0,0,37,1
+RR,15,15.6,4,1,0,0,0,Buttler,Buttler,85,47,9,3,Jurel,1,1,0,0,Yash Dayal,4.0,0,37,1,Siraj,3.0,0,27,1
+RR,15,15.5,1,0,0,0,0,Jurel,Buttler,81,46,8,3,Jurel,1,1,0,0,Yash Dayal,3.0,0,33,1,Siraj,3.0,0,27,1
+RR,15,15.4,0,0,0,1,0,Parag,Buttler,81,46,8,3,,0,0,0,0,Yash Dayal,3.0,0,32,1,Siraj,3.0,0,27,1
+RR,15,15.3,0,0,1,0,0,Parag,Buttler,81,46,8,3,Parag,4,3,1,0,Yash Dayal,3.0,0,32,0,Siraj,3.0,0,27,1
+RR,15,15.2,1,0,0,0,0,Buttler,Buttler,81,46,8,3,Parag,4,2,1,0,Yash Dayal,3.0,0,32,0,Siraj,3.0,0,27,1
+RR,15,15.1,2,0,0,0,0,Buttler,Buttler,80,45,8,3,Parag,4,2,1,0,Yash Dayal,3.0,0,31,0,Siraj,3.0,0,27,1
+RR,14,14.6,4,1,0,0,0,Parag,Buttler,78,44,8,3,Parag,4,2,1,0,Siraj,3.0,0,27,1,Topley,3.0,0,17,1
+RR,14,14.5,0,0,1,0,0,Parag,Buttler,78,44,8,3,Parag,0,1,0,0,Siraj,2.0,0,23,1,Topley,3.0,0,17,1
+RR,14,14.4,0,0,0,1,0,Samson,Buttler,78,44,8,3,,0,0,0,0,Siraj,2.0,0,23,1,Topley,3.0,0,17,1
+RR,14,14.3,1,0,0,0,0,Buttler,Samson,70,41,8,2,Buttler,78,44,8,3,Siraj,2.0,0,23,0,Topley,3.0,0,17,1
+RR,14,14.2,1,0,0,0,0,Samson,Samson,70,41,8,2,Buttler,77,43,8,3,Siraj,2.0,0,22,0,Topley,3.0,0,17,1
+RR,14,14.1,1,0,0,0,0,Buttler,Samson,69,40,8,2,Buttler,77,43,8,3,Siraj,2.0,0,21,0,Topley,3.0,0,17,1
+RR,13,13.6,1,0,0,0,0,Buttler,Samson,69,40,8,2,Buttler,76,42,8,3,Topley,3.0,0,17,1,Yash Dayal,3.0,0,29,0
+RR,13,13.5,4,1,0,0,0,Buttler,Samson,69,40,8,2,Buttler,75,41,8,3,Topley,2.0,0,16,1,Yash Dayal,3.0,0,29,0
+RR,13,13.4,0,0,1,0,0,Buttler,Samson,69,40,8,2,Buttler,71,40,7,3,Topley,2.0,0,12,1,Yash Dayal,3.0,0,29,0
+RR,13,13.4,1,0,0,0,1,Buttler,Samson,69,40,8,2,Buttler,71,39,7,3,Topley,2.0,0,12,1,Yash Dayal,3.0,0,29,0
+RR,13,13.3,1,0,0,0,0,Samson,Samson,69,40,8,2,Buttler,70,39,7,3,Topley,2.0,0,11,1,Yash Dayal,3.0,0,29,0
+RR,13,13.2,1,0,0,0,0,Buttler,Samson,68,39,8,2,Buttler,70,39,7,3,Topley,2.0,0,10,1,Yash Dayal,3.0,0,29,0
+RR,13,13.1,1,0,0,0,0,Samson,Samson,68,39,8,2,Buttler,69,38,7,3,Topley,2.0,0,9,1,Yash Dayal,3.0,0,29,0
+RR,12,12.6,6,1,0,0,0,Buttler,Samson,67,38,8,2,Buttler,69,38,7,3,Yash Dayal,3.0,0,29,0,Sharma,2.0,0,29,0
+RR,12,12.5,0,0,1,0,0,Buttler,Samson,67,38,8,2,Buttler,63,37,7,2,Yash Dayal,2.0,0,23,0,Sharma,2.0,0,29,0
+RR,12,12.4,2,0,0,0,0,Buttler,Samson,67,38,8,2,Buttler,63,36,7,2,Yash Dayal,2.0,0,23,0,Sharma,2.0,0,29,0
+RR,12,12.3,2,0,0,0,0,Buttler,Samson,67,38,8,2,Buttler,61,35,7,2,Yash Dayal,2.0,0,21,0,Sharma,2.0,0,29,0
+RR,12,12.2,1,0,0,0,0,Samson,Samson,67,38,8,2,Buttler,59,34,7,2,Yash Dayal,2.0,0,19,0,Sharma,2.0,0,29,0
+RR,12,12.1,1,0,0,0,0,Buttler,Samson,66,37,8,2,Buttler,59,34,7,2,Yash Dayal,2.0,0,18,0,Sharma,2.0,0,29,0
+RR,11,11.6,1,0,0,0,0,Buttler,Samson,66,37,8,2,Buttler,58,33,7,2,Sharma,2.0,0,29,0,Dagar,2.0,0,34,0
+RR,11,11.5,1,0,0,0,0,Samson,Samson,66,37,8,2,Buttler,57,32,7,2,Sharma,1.0,0,28,0,Dagar,2.0,0,34,0
+RR,11,11.4,2,0,0,0,0,Samson,Samson,65,36,8,2,Buttler,57,32,7,2,Sharma,1.0,0,27,0,Dagar,2.0,0,34,0
+RR,11,11.3,4,1,0,0,0,Samson,Samson,63,35,8,2,Buttler,57,32,7,2,Sharma,1.0,0,25,0,Dagar,2.0,0,34,0
+RR,11,11.2,1,0,0,0,0,Buttler,Samson,59,34,7,2,Buttler,57,32,7,2,Sharma,1.0,0,21,0,Dagar,2.0,0,34,0
+RR,11,11.1,6,1,0,0,0,Buttler,Samson,59,34,7,2,Buttler,56,31,7,2,Sharma,1.0,0,20,0,Dagar,2.0,0,34,0
+RR,10,10.6,4,1,0,0,0,Samson,Samson,59,34,7,2,Buttler,50,30,7,1,Dagar,2.0,0,34,0,Siraj,2.0,0,20,0
+RR,10,10.5,6,1,0,0,0,Samson,Samson,55,33,6,2,Buttler,50,30,7,1,Dagar,1.0,0,30,0,Siraj,2.0,0,20,0
+RR,10,10.4,0,0,1,0,0,Samson,Samson,49,32,6,1,Buttler,50,30,7,1,Dagar,1.0,0,24,0,Siraj,2.0,0,20,0
+RR,10,10.3,4,1,0,0,0,Samson,Samson,49,31,6,1,Buttler,50,30,7,1,Dagar,1.0,0,24,0,Siraj,2.0,0,20,0
+RR,10,10.2,0,0,1,0,0,Samson,Samson,45,30,5,1,Buttler,50,30,7,1,Dagar,1.0,0,20,0,Siraj,2.0,0,20,0
+RR,10,10.1,0,0,1,0,0,Samson,Samson,45,29,5,1,Buttler,50,30,7,1,Dagar,1.0,0,20,0,Siraj,2.0,0,20,0
+RR,9,9.6,1,0,0,0,0,Samson,Samson,45,28,5,1,Buttler,50,30,7,1,Siraj,2.0,0,20,0,Green,2.0,0,16,0
+RR,9,9.5,1,0,0,0,0,Buttler,Samson,44,27,5,1,Buttler,50,30,7,1,Siraj,1.0,0,19,0,Green,2.0,0,16,0
+RR,9,9.4,1,0,0,0,0,Samson,Samson,44,27,5,1,Buttler,49,29,7,1,Siraj,1.0,0,18,0,Green,2.0,0,16,0
+RR,9,9.3,6,1,0,0,0,Samson,Samson,43,26,5,1,Buttler,49,29,7,1,Siraj,1.0,0,17,0,Green,2.0,0,16,0
+RR,9,9.2,1,0,0,0,0,Buttler,Samson,37,25,5,0,Buttler,49,29,7,1,Siraj,1.0,0,11,0,Green,2.0,0,16,0
+RR,9,9.1,1,0,0,0,0,Samson,Samson,37,25,5,0,Buttler,48,28,7,1,Siraj,1.0,0,10,0,Green,2.0,0,16,0
+RR,8,8.6,0,0,1,0,0,Buttler,Samson,36,24,5,0,Buttler,48,28,7,1,Green,2.0,0,16,0,Sharma,1.0,0,14,0
+RR,8,8.5,1,0,0,0,0,Samson,Samson,36,24,5,0,Buttler,48,27,7,1,Green,1.0,0,16,0,Sharma,1.0,0,14,0
+RR,8,8.4,1,0,0,0,0,Buttler,Samson,35,23,5,0,Buttler,48,27,7,1,Green,1.0,0,15,0,Sharma,1.0,0,14,0
+RR,8,8.3,4,1,0,0,0,Buttler,Samson,35,23,5,0,Buttler,47,26,7,1,Green,1.0,0,14,0,Sharma,1.0,0,14,0
+RR,8,8.2,1,0,0,0,0,Samson,Samson,35,23,5,0,Buttler,43,25,6,1,Green,1.0,0,10,0,Sharma,1.0,0,14,0
+RR,8,8.1,0,0,1,0,0,Samson,Samson,34,22,5,0,Buttler,43,25,6,1,Green,1.0,0,9,0,Sharma,1.0,0,14,0
+RR,7,7.6,2,0,0,0,0,Buttler,Samson,34,21,5,0,Buttler,43,25,6,1,Sharma,1.0,0,14,0,Green,1.0,0,9,0
+RR,7,7.5,1,0,0,0,0,Samson,Samson,34,21,5,0,Buttler,41,24,6,1,Sharma,0,0,12,0,Green,1.0,0,9,0
+RR,7,7.4,4,1,0,0,0,Samson,Samson,33,20,5,0,Buttler,41,24,6,1,Sharma,0,0,11,0,Green,1.0,0,9,0
+RR,7,7.3,2,0,0,0,0,Samson,Samson,29,19,4,0,Buttler,41,24,6,1,Sharma,0,0,7,0,Green,1.0,0,9,0
+RR,7,7.2,4,1,0,0,0,Samson,Samson,27,18,4,0,Buttler,41,24,6,1,Sharma,0,0,5,0,Green,1.0,0,9,0
+RR,7,7.1,1,0,0,0,0,Buttler,Samson,23,17,3,0,Buttler,41,24,6,1,Sharma,0,0,1,0,Green,1.0,0,9,0
+RR,6,6.6,2,0,0,0,0,Samson,Samson,23,17,3,0,Buttler,40,23,6,1,Green,1.0,0,9,0,Dagar,1.0,0,20,0
+RR,6,6.6,1,0,0,0,1,Samson,Samson,21,16,3,0,Buttler,40,23,6,1,Green,0,0,7,0,Dagar,1.0,0,20,0
+RR,6,6.5,2,0,0,0,0,Samson,Samson,20,16,3,0,Buttler,40,23,6,1,Green,0,0,6,0,Dagar,1.0,0,20,0
+RR,6,6.4,1,0,0,0,0,Buttler,Samson,18,15,3,0,Buttler,40,23,6,1,Green,0,0,4,0,Dagar,1.0,0,20,0
+RR,6,6.3,1,0,0,0,0,Samson,Samson,18,15,3,0,Buttler,39,22,6,1,Green,0,0,3,0,Dagar,1.0,0,20,0
+RR,6,6.2,2,0,0,0,0,Samson,Samson,17,14,3,0,Buttler,39,22,6,1,Green,0,0,2,0,Dagar,1.0,0,20,0
+RR,6,6.1,0,0,1,0,0,Samson,Samson,15,13,3,0,Buttler,39,22,6,1,Green,0,0,0,0,Dagar,1.0,0,20,0
+RR,5,5.6,2,0,0,0,0,Buttler,Samson,15,12,3,0,Buttler,39,22,6,1,Dagar,1.0,0,20,0,Yash Dayal,2.0,0,17,0
+RR,5,5.5,4,1,0,0,0,Buttler,Samson,15,12,3,0,Buttler,37,21,6,1,Dagar,0,0,18,0,Yash Dayal,2.0,0,17,0
+RR,5,5.4,6,1,0,0,0,Buttler,Samson,15,12,3,0,Buttler,33,20,5,1,Dagar,0,0,14,0,Yash Dayal,2.0,0,17,0
+RR,5,5.3,4,1,0,0,0,Buttler,Samson,15,12,3,0,Buttler,27,19,5,0,Dagar,0,0,8,0,Yash Dayal,2.0,0,17,0
+RR,5,5.2,0,0,1,0,0,Buttler,Samson,15,12,3,0,Buttler,23,18,4,0,Dagar,0,0,4,0,Yash Dayal,2.0,0,17,0
+RR,5,5.1,4,1,0,0,0,Buttler,Samson,15,12,3,0,Buttler,23,17,4,0,Dagar,0,0,4,0,Yash Dayal,2.0,0,17,0
+RR,4,4.6,1,0,0,0,0,Buttler,Samson,15,12,3,0,Buttler,19,16,3,0,Yash Dayal,2.0,0,17,0,Siraj,1.0,0,9,0
+RR,4,4.5,4,1,0,0,0,Buttler,Samson,15,12,3,0,Buttler,18,15,3,0,Yash Dayal,1.0,0,16,0,Siraj,1.0,0,9,0
+RR,4,4.4,0,0,1,0,0,Buttler,Samson,15,12,3,0,Buttler,14,14,2,0,Yash Dayal,1.0,0,12,0,Siraj,1.0,0,9,0
+RR,4,4.3,0,0,1,0,0,Buttler,Samson,15,12,3,0,Buttler,14,13,2,0,Yash Dayal,1.0,0,12,0,Siraj,1.0,0,9,0
+RR,4,4.2,0,0,1,0,0,Buttler,Samson,15,12,3,0,Buttler,14,12,2,0,Yash Dayal,1.0,0,12,0,Siraj,1.0,0,9,0
+RR,4,4.1,4,1,0,0,0,Buttler,Samson,15,12,3,0,Buttler,14,11,2,0,Yash Dayal,1.0,0,12,0,Siraj,1.0,0,9,0
+RR,3,3.6,1,0,0,0,0,Buttler,Samson,15,12,3,0,Buttler,10,10,1,0,Siraj,1.0,0,9,0,Topley,2.0,0,8,1
+RR,3,3.5,1,0,0,0,0,Samson,Samson,15,12,3,0,Buttler,9,9,1,0,Siraj,0,0,8,0,Topley,2.0,0,8,1
+RR,3,3.4,1,0,0,0,0,Buttler,Samson,14,11,3,0,Buttler,9,9,1,0,Siraj,0,0,7,0,Topley,2.0,0,8,1
+RR,3,3.3,0,0,1,0,0,Buttler,Samson,14,11,3,0,Buttler,8,8,1,0,Siraj,0,0,6,0,Topley,2.0,0,8,1
+RR,3,3.2,2,0,0,0,0,Buttler,Samson,14,11,3,0,Buttler,8,7,1,0,Siraj,0,0,6,0,Topley,2.0,0,8,1
+RR,3,3.1,4,1,0,0,0,Buttler,Samson,14,11,3,0,Buttler,6,6,1,0,Siraj,0,0,4,0,Topley,2.0,0,8,1
+RR,2,2.6,1,0,0,0,0,Buttler,Samson,14,11,3,0,Buttler,2,5,0,0,Topley,2.0,0,8,1,Yash Dayal,1.0,0,8,0
+RR,2,2.5,1,0,0,0,0,Samson,Samson,14,11,3,0,Buttler,1,4,0,0,Topley,1.0,0,7,1,Yash Dayal,1.0,0,8,0
+RR,2,2.4,4,1,0,0,0,Samson,Samson,13,10,3,0,Buttler,1,4,0,0,Topley,1.0,0,6,1,Yash Dayal,1.0,0,8,0
+RR,2,2.3,1,0,0,0,0,Buttler,Samson,9,9,2,0,Buttler,1,4,0,0,Topley,1.0,0,2,1,Yash Dayal,1.0,0,8,0
+RR,2,2.2,0,0,1,0,0,Buttler,Samson,9,9,2,0,Buttler,0,3,0,0,Topley,1.0,0,1,1,Yash Dayal,1.0,0,8,0
+RR,2,2.1,0,0,1,0,0,Buttler,Samson,9,9,2,0,Buttler,0,2,0,0,Topley,1.0,0,1,1,Yash Dayal,1.0,0,8,0
+RR,1,1.6,4,1,0,0,0,Samson,Samson,9,9,2,0,Buttler,0,1,0,0,Yash Dayal,1.0,0,8,0,Topley,1.0,0,1,1
+RR,1,1.5,0,0,1,0,0,Samson,Samson,5,8,1,0,Buttler,0,1,0,0,Yash Dayal,0,0,4,0,Topley,1.0,0,1,1
+RR,1,1.4,0,0,1,0,0,Samson,Samson,5,7,1,0,Buttler,0,1,0,0,Yash Dayal,0,0,4,0,Topley,1.0,0,1,1
+RR,1,1.3,0,0,1,0,0,Samson,Samson,5,6,1,0,Buttler,0,1,0,0,Yash Dayal,0,0,4,0,Topley,1.0,0,1,1
+RR,1,1.2,4,1,0,0,0,Samson,Samson,5,5,1,0,Buttler,0,1,0,0,Yash Dayal,0,0,4,0,Topley,1.0,0,1,1
+RR,1,1.1,0,0,1,0,0,Samson,Samson,1,4,0,0,Buttler,0,1,0,0,Yash Dayal,0,0,0,0,Topley,1.0,0,1,1
+RR,0,0.6,0,0,1,0,0,Buttler,Samson,1,3,0,0,Buttler,0,1,0,0,Topley,1.0,0,1,1,,0,0,0,0
+RR,0,0.5,1,0,0,0,0,Samson,Samson,1,3,0,0,,0,0,0,0,Topley,0,0,1,1,,0,0,0,0
+RR,0,0.4,0,0,1,0,0,Samson,Samson,0,2,0,0,,0,0,0,0,Topley,0,0,0,1,,0,0,0,0
+RR,0,0.3,0,0,1,0,0,Samson,Samson,0,1,0,0,,0,0,0,0,Topley,0,0,0,1,,0,0,0,0
+RR,0,0.2,0,0,0,1,0,Jaiswal,,0,0,0,0,,0,0,0,0,Topley,0,0,0,1,,0,0,0,0
+RR,0,0.1,0,0,1,0,0,Jaiswal,Jaiswal,0,1,0,0,,0,0,0,0,Topley,0,0,0,0,,0,0,0,0

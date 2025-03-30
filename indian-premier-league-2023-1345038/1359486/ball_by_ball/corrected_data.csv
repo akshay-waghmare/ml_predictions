@@ -1,0 +1,40 @@
+over,innings,score,projected_score,required,CRR,RRR,fav_team,win_probability,venue,matches_played,total_runs,total_wickets,balls_bowled,average_runs_per_wicket,average_runs_per_over
+19,CSK,159/3,N/A,N/A,8.37,N/A,CSK,100.0,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+1,MI,10/0,175,N/A,10.00,N/A,MI,56.31,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+2,MI,16/0,172,N/A,8.00,N/A,MI,52.86,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+3,MI,30/0,180,N/A,10.00,N/A,MI,61.93,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+4,MI,38/1,184,N/A,9.50,N/A,MI,66.22,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+5,MI,47/1,186,N/A,9.40,N/A,MI,68.27,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+6,MI,61/1,198,N/A,10.17,N/A,MI,79.02,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+7,MI,66/2,189,N/A,9.43,N/A,MI,71.22,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+8,MI,73/3,191,N/A,9.12,N/A,MI,73.09,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+9,MI,76/4,179,N/A,8.44,N/A,MI,60.83,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+10,MI,84/5,182,N/A,8.40,N/A,MI,64.1,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+11,MI,87/5,173,N/A,7.91,N/A,MI,54.01,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+12,MI,93/5,170,N/A,7.75,N/A,MI,50.54,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+13,MI,102/6,172,N/A,7.85,N/A,MI,52.86,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+14,MI,105/6,165,N/A,7.50,N/A,CSK,55.24,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+15,MI,109/6,160,N/A,7.27,N/A,CSK,60.87,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+16,MI,113/7,155,N/A,7.06,N/A,CSK,66.2,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+17,MI,131/8,163,N/A,7.71,N/A,CSK,57.52,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+18,MI,135/8,155,N/A,7.50,N/A,CSK,66.2,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+19,MI,141/8,151,N/A,7.42,N/A,CSK,70.19,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+20,MI,157/8,157,N/A,7.85,N/A,CSK,64.11,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+1,CSK,6/1,N/A,152 from 114,6.00,8.00,CSK,56.34,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+2,CSK,12/1,N/A,146 from 108,6.00,8.11,CSK,56.3,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+3,CSK,21/1,N/A,137 from 102,7.00,8.06,CSK,59.79,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+4,CSK,44/1,N/A,114 from 96,11.00,7.12,CSK,83.09,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+5,CSK,55/1,N/A,103 from 90,11.00,6.87,CSK,88.53,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+6,CSK,68/1,N/A,90 from 84,11.33,6.43,CSK,93.7,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+7,CSK,74/1,N/A,84 from 78,10.57,6.46,CSK,93.97,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+8,CSK,82/2,N/A,76 from 72,10.25,6.33,CSK,91.76,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+9,CSK,86/2,N/A,72 from 66,9.56,6.55,CSK,90.74,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+10,CSK,97/2,N/A,61 from 60,9.70,6.10,CSK,94.52,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+11,CSK,102/2,N/A,56 from 54,9.27,6.22,CSK,94.43,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+12,CSK,108/2,N/A,50 from 48,9.00,6.25,CSK,95.45,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+13,CSK,112/2,N/A,46 from 42,8.62,6.57,CSK,95.13,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+14,CSK,125/2,N/A,33 from 36,8.93,5.50,CSK,98.43,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+15,CSK,134/3,N/A,24 from 30,8.93,4.80,CSK,98.49,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+16,CSK,135/3,N/A,23 from 24,8.44,5.75,CSK,97.87,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+17,CSK,140/3,N/A,18 from 18,8.24,6.00,CSK,97.59,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30
+18,CSK,153/3,N/A,5 from 12,8.50,2.50,CSK,99.77,"Wankhede Stadium, Mumbai",203,64586,2438,46641,26.49,8.30

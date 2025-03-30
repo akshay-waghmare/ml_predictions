@@ -1,0 +1,20 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+GT,18,18.1,2,0,0,0,0,Miller,B Sai Sudharsan,64,48,4,2,Miller,33,16,2,2,Marsh,3.0,0,24,1,Khaleel Ahmed,4.0,0,38,1
+GT,17,17.1,10,1,1,0,1,Miller,B Sai Sudharsan,61,46,4,2,Miller,24,12,1,2,Khaleel Ahmed,3.0,0,28,1,Nortje,4.0,0,39,2
+GT,16,16.1,14,2,0,0,0,B Sai Sudharsan,B Sai Sudharsan,50,43,3,1,Miller,22,9,1,2,Nortje,3.0,0,26,2,Mukesh Kumar,4.0,0,42,0
+GT,15,15.1,20,3,0,0,1,Miller,B Sai Sudharsan,48,41,3,1,Miller,4,5,0,0,Mukesh Kumar,3.0,0,23,0,Kuldeep,3.0,0,18,0
+GT,14,14.1,5,0,2,0,1,B Sai Sudharsan,B Sai Sudharsan,44,37,3,1,Miller,2,3,0,0,Kuldeep,2.0,0,13,0,Marsh,3.0,0,22,1
+GT,13,13.1,6,0,0,1,0,Miller,B Sai Sudharsan,41,35,3,1,Shankar,31,22,3,0,Marsh,2.0,0,17,0,Nortje,3.0,0,25,2
+GT,12,12.1,5,0,2,0,0,Shankar,B Sai Sudharsan,38,32,3,1,Shankar,30,19,3,0,Nortje,2.0,0,22,2,Khaleel Ahmed,3.0,0,28,1
+GT,11,11.1,10,1,0,0,1,B Sai Sudharsan,B Sai Sudharsan,34,29,3,1,Shankar,26,16,3,0,Khaleel Ahmed,2.0,0,23,1,Marsh,2.0,0,16,0
+GT,10,10.1,8,1,2,0,1,Shankar,B Sai Sudharsan,33,26,3,1,Shankar,16,12,1,0,Marsh,1.0,0,9,0,Kuldeep,2.0,0,13,0
+GT,9,9.1,9,1,1,0,0,Shankar,B Sai Sudharsan,30,24,3,1,Shankar,9,9,0,0,Kuldeep,1.0,0,4,0,Mukesh Kumar,3.0,0,22,0
+GT,8,8.1,8,1,1,0,0,B Sai Sudharsan,B Sai Sudharsan,25,21,2,1,Shankar,7,6,0,0,Mukesh Kumar,2.0,0,15,0,Kuldeep,1.0,0,4,0
+GT,7,7.1,4,0,2,0,0,Shankar,B Sai Sudharsan,22,17,2,1,Shankar,6,4,0,0,Kuldeep,0,0,1,0,Marsh,1.0,0,8,0
+GT,6,6.1,8,0,1,0,0,B Sai Sudharsan,B Sai Sudharsan,20,15,2,1,,0,0,0,0,Marsh,0,0,1,0,Khaleel Ahmed,2.0,0,19,1
+GT,5,5.1,5,1,3,1,0,Hardik,B Sai Sudharsan,18,10,2,1,Hardik,6,3,1,0,Khaleel Ahmed,1.0,0,18,0,Nortje,2.0,0,20,2
+GT,4,4.1,13,2,2,1,2,Hardik,B Sai Sudharsan,7,6,1,0,,0,0,0,0,Nortje,1.0,0,8,2,Mukesh Kumar,2.0,0,14,0
+GT,3,3.1,6,1,3,0,0,B Sai Sudharsan,Gill,14,10,2,0,B Sai Sudharsan,2,3,0,0,Mukesh Kumar,1.0,0,8,0,Nortje,1.0,0,8,1
+GT,2,2.1,8,0,2,1,1,Gill,Gill,8,6,2,0,,0,0,0,0,Nortje,0,0,0,1,Mukesh Kumar,1.0,0,8,0
+GT,1,1.1,8,2,4,0,0,Gill,Saha,14,6,2,1,Gill,4,1,1,0,Mukesh Kumar,0,0,4,0,Khaleel Ahmed,1.0,0,14,0
+GT,0,0.1,14,3,3,0,0,Saha,Saha,0,1,0,0,,0,0,0,0,Khaleel Ahmed,0,0,0,0,,0,0,0,0

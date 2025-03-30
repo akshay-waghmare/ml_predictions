@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+GT,19,19.1,13,2,0,0,0,Tewatia,Gill,88,46,6,4,Tewatia,17,5,1,1,Arshdeep,3.0,0,22,0,Harshal,4.0,0,44,1
+GT,18,18.1,20,2,0,0,3,Gill,Gill,83,44,6,4,Tewatia,1,1,0,0,Harshal,3.0,0,25,1,Rabada,4.0,0,44,2
+GT,17,17.1,13,2,0,1,0,Gill,Gill,76,40,5,4,Shankar,8,9,0,0,Rabada,3.0,0,37,1,Harshal,3.0,0,24,1
+GT,16,16.1,12,1,0,0,0,Gill,Gill,60,35,5,2,Shankar,7,8,0,0,Harshal,2.0,0,13,1,Arshdeep,3.0,0,20,0
+GT,15,15.1,7,0,0,0,0,Shankar,Gill,56,32,5,2,Shankar,4,5,0,0,Arshdeep,2.0,0,14,0,Harpreet Brar,4.0,0,33,1
+GT,14,14.1,11,1,1,0,0,Shankar,Gill,47,29,4,2,Shankar,1,2,0,0,Harpreet Brar,3.0,0,22,1,Harshal,2.0,0,12,1
+GT,13,13.1,4,0,1,1,0,Shankar,Gill,46,28,4,2,B Sai Sudharsan,32,16,6,0,Harshal,1.0,0,9,0,Rabada,3.0,0,31,1
+GT,12,12.1,14,2,0,0,0,Gill,Gill,37,24,4,1,B Sai Sudharsan,27,14,5,0,Rabada,2.0,0,18,1,Raza,2.0,0,22,0
+GT,11,11.1,14,3,1,0,0,B Sai Sudharsan,Gill,32,22,3,1,B Sai Sudharsan,17,10,3,0,Raza,1.0,0,8,0,Sam Curran,2.0,0,18,0
+GT,10,10.1,8,1,1,0,0,Gill,Gill,30,19,3,1,B Sai Sudharsan,12,7,2,0,Sam Curran,1.0,0,11,0,Raza,1.0,0,8,0
+GT,9,9.1,8,1,1,0,0,B Sai Sudharsan,Gill,29,18,3,1,B Sai Sudharsan,5,2,1,0,Raza,0,0,1,0,Harpreet Brar,3.0,0,22,1
+GT,8,8.1,10,2,1,1,0,B Sai Sudharsan,Gill,27,16,3,1,Williamson,22,20,3,0,Harpreet Brar,2.0,0,12,0,Harshal,1.0,0,8,0
+GT,7,7.1,8,1,1,0,0,Gill,Gill,22,13,2,1,Williamson,20,17,3,0,Harshal,0,0,1,0,Harpreet Brar,2.0,0,12,0
+GT,6,6.1,5,0,3,0,0,Williamson,Gill,20,11,2,1,Williamson,16,13,3,0,Harpreet Brar,1.0,0,7,0,Sam Curran,1.0,0,10,0
+GT,5,5.1,11,2,2,0,1,Williamson,Gill,20,10,2,1,Williamson,6,8,1,0,Sam Curran,0,0,0,0,Rabada,2.0,0,17,1
+GT,4,4.1,6,1,3,0,0,Williamson,Gill,18,8,2,1,Williamson,1,4,0,0,Rabada,1.0,0,11,1,Arshdeep,2.0,0,13,0
+GT,3,3.1,6,1,3,0,0,Gill,Gill,13,6,1,1,,0,0,0,0,Arshdeep,1.0,0,7,0,Rabada,1.0,0,11,1
+GT,2,2.1,11,2,1,1,1,Saha,Saha,11,9,2,0,Gill,8,3,0,1,Rabada,0,0,1,0,Arshdeep,1.0,0,7,0
+GT,1,1.1,11,2,2,0,1,Gill,Saha,1,5,0,0,Gill,6,2,0,1,Arshdeep,0,0,0,0,Harpreet Brar,1.0,0,7,0
+GT,0,0.1,7,1,4,0,0,Gill,Saha,0,1,0,0,,0,0,0,0,Harpreet Brar,0,0,0,0,,0,0,0,0

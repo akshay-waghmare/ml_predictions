@@ -1,0 +1,126 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+RCB,19,19.6,0,0,0,1,0,Swapnil,Green,39,20,5,0,,0,0,0,0,Natarajan,4.0,0,39,2,Cummins,4.0,0,55,1
+RCB,19,19.5,1,0,0,0,0,Green,Green,39,20,5,0,Swapnil,12,5,1,1,Natarajan,3.0,0,39,1,Cummins,4.0,0,55,1
+RCB,19,19.4,1,0,0,0,0,Swapnil,Green,38,19,5,0,Swapnil,12,5,1,1,Natarajan,3.0,0,38,1,Cummins,4.0,0,55,1
+RCB,19,19.3,0,0,1,0,0,Swapnil,Green,38,19,5,0,Swapnil,11,4,1,1,Natarajan,3.0,0,37,1,Cummins,4.0,0,55,1
+RCB,19,19.2,4,1,0,0,0,Swapnil,Green,38,19,5,0,Swapnil,11,3,1,1,Natarajan,3.0,0,37,1,Cummins,4.0,0,55,1
+RCB,19,19.1,6,1,0,0,0,Swapnil,Green,38,19,5,0,Swapnil,7,2,0,1,Natarajan,3.0,0,33,1,Cummins,4.0,0,55,1
+RCB,18,18.6,1,0,0,0,0,Swapnil,Green,38,19,5,0,Swapnil,1,1,0,0,Cummins,4.0,0,55,1,Natarajan,3.0,0,27,1
+RCB,18,18.5,0,0,0,1,0,Karthik,Green,38,19,5,0,,0,0,0,0,Cummins,3.0,0,54,1,Natarajan,3.0,0,27,1
+RCB,18,18.5,1,0,0,0,1,Karthik,Green,38,19,5,0,Karthik,13,5,2,0,Cummins,3.0,0,54,0,Natarajan,3.0,0,27,1
+RCB,18,18.4,4,1,0,0,0,Karthik,Green,38,19,5,0,Karthik,12,5,2,0,Cummins,3.0,0,53,0,Natarajan,3.0,0,27,1
+RCB,18,18.3,1,0,0,0,0,Green,Green,38,19,5,0,Karthik,8,4,1,0,Cummins,3.0,0,49,0,Natarajan,3.0,0,27,1
+RCB,18,18.2,4,1,0,0,0,Green,Green,37,18,5,0,Karthik,8,4,1,0,Cummins,3.0,0,48,0,Natarajan,3.0,0,27,1
+RCB,18,18.1,4,1,0,0,0,Green,Green,33,17,4,0,Karthik,8,4,1,0,Cummins,3.0,0,44,0,Natarajan,3.0,0,27,1
+RCB,17,17.6,4,1,0,0,0,Karthik,Green,29,16,3,0,Karthik,8,4,1,0,Natarajan,3.0,0,27,1,Unadkat,4.0,0,30,3
+RCB,17,17.5,2,0,0,0,0,Karthik,Green,29,16,3,0,Karthik,4,3,0,0,Natarajan,2.0,0,23,1,Unadkat,4.0,0,30,3
+RCB,17,17.4,1,0,0,0,0,Green,Green,29,16,3,0,Karthik,2,2,0,0,Natarajan,2.0,0,21,1,Unadkat,4.0,0,30,3
+RCB,17,17.4,1,0,0,0,1,Green,Green,28,15,3,0,Karthik,2,2,0,0,Natarajan,2.0,0,20,1,Unadkat,4.0,0,30,3
+RCB,17,17.3,2,0,0,0,0,Green,Green,27,15,3,0,Karthik,2,2,0,0,Natarajan,2.0,0,19,1,Unadkat,4.0,0,30,3
+RCB,17,17.2,1,0,0,0,1,Karthik,Green,25,14,3,0,Karthik,2,2,0,0,Natarajan,2.0,0,17,1,Unadkat,4.0,0,30,3
+RCB,17,17.1,1,0,0,0,0,Green,Green,25,14,3,0,Karthik,1,1,0,0,Natarajan,2.0,0,17,1,Unadkat,4.0,0,30,3
+RCB,16,16.6,1,0,0,0,0,Green,Green,24,13,3,0,Karthik,1,1,0,0,Unadkat,4.0,0,30,3,Cummins,3.0,0,40,0
+RCB,16,16.5,4,1,0,0,0,Green,Green,23,12,3,0,Karthik,1,1,0,0,Unadkat,3.0,0,29,3,Cummins,3.0,0,40,0
+RCB,16,16.4,1,0,0,0,0,Karthik,Green,19,11,2,0,Karthik,1,1,0,0,Unadkat,3.0,0,25,3,Cummins,3.0,0,40,0
+RCB,16,16.3,0,0,0,1,0,Lomror,Green,19,11,2,0,,0,0,0,0,Unadkat,3.0,0,24,3,Cummins,3.0,0,40,0
+RCB,16,16.3,1,0,0,0,1,Lomror,Green,19,11,2,0,Lomror,8,3,1,0,Unadkat,3.0,0,24,2,Cummins,3.0,0,40,0
+RCB,16,16.2,1,0,0,0,0,Green,Green,19,11,2,0,Lomror,7,3,1,0,Unadkat,3.0,0,23,2,Cummins,3.0,0,40,0
+RCB,16,16.1,2,0,0,0,0,Green,Green,18,10,2,0,Lomror,7,3,1,0,Unadkat,3.0,0,22,2,Cummins,3.0,0,40,0
+RCB,15,15.6,4,1,0,0,0,Lomror,Green,16,9,2,0,Lomror,7,3,1,0,Cummins,3.0,0,40,0,Unadkat,3.0,0,20,2
+RCB,15,15.5,1,0,0,0,0,Green,Green,16,9,2,0,Lomror,3,2,0,0,Cummins,2.0,0,36,0,Unadkat,3.0,0,20,2
+RCB,15,15.4,4,1,0,0,0,Green,Green,15,8,2,0,Lomror,3,2,0,0,Cummins,2.0,0,35,0,Unadkat,3.0,0,20,2
+RCB,15,15.3,1,0,0,0,0,Lomror,Green,11,7,1,0,Lomror,3,2,0,0,Cummins,2.0,0,31,0,Unadkat,3.0,0,20,2
+RCB,15,15.2,1,0,0,0,0,Green,Green,11,7,1,0,Lomror,2,1,0,0,Cummins,2.0,0,30,0,Unadkat,3.0,0,20,2
+RCB,15,15.1,4,1,0,0,0,Green,Green,10,6,1,0,Lomror,2,1,0,0,Cummins,2.0,0,29,0,Unadkat,3.0,0,20,2
+RCB,14,14.6,2,0,0,0,0,Lomror,Green,6,5,0,0,Lomror,2,1,0,0,Unadkat,3.0,0,20,2,Shahbaz Ahmed,3.0,0,14,0
+RCB,14,14.5,0,0,0,1,0,Kohli,Green,6,5,0,0,,0,0,0,0,Unadkat,2.0,0,18,2,Shahbaz Ahmed,3.0,0,14,0
+RCB,14,14.4,1,0,0,0,0,Green,Kohli,52,42,4,1,Green,6,5,0,0,Unadkat,2.0,0,18,1,Shahbaz Ahmed,3.0,0,14,0
+RCB,14,14.4,1,0,0,0,1,Green,Kohli,52,42,4,1,Green,5,4,0,0,Unadkat,2.0,0,17,1,Shahbaz Ahmed,3.0,0,14,0
+RCB,14,14.3,1,0,0,0,1,Kohli,Kohli,52,42,4,1,Green,4,4,0,0,Unadkat,2.0,0,16,1,Shahbaz Ahmed,3.0,0,14,0
+RCB,14,14.2,0,0,1,0,0,Kohli,Kohli,51,41,4,1,Green,4,4,0,0,Unadkat,2.0,0,16,1,Shahbaz Ahmed,3.0,0,14,0
+RCB,14,14.1,1,0,0,0,0,Green,Kohli,51,40,4,1,Green,4,4,0,0,Unadkat,2.0,0,16,1,Shahbaz Ahmed,3.0,0,14,0
+RCB,13,13.6,0,0,1,0,0,Kohli,Kohli,51,40,4,1,Green,3,3,0,0,Shahbaz Ahmed,3.0,0,14,0,Unadkat,2.0,0,15,1
+RCB,13,13.5,1,0,0,0,0,Green,Kohli,51,39,4,1,Green,3,3,0,0,Shahbaz Ahmed,2.0,0,14,0,Unadkat,2.0,0,15,1
+RCB,13,13.4,1,0,0,0,0,Kohli,Kohli,51,39,4,1,Green,2,2,0,0,Shahbaz Ahmed,2.0,0,13,0,Unadkat,2.0,0,15,1
+RCB,13,13.3,0,0,1,0,0,Kohli,Kohli,50,38,4,1,Green,2,2,0,0,Shahbaz Ahmed,2.0,0,12,0,Unadkat,2.0,0,15,1
+RCB,13,13.2,1,0,0,0,0,Green,Kohli,50,37,4,1,Green,2,2,0,0,Shahbaz Ahmed,2.0,0,12,0,Unadkat,2.0,0,15,1
+RCB,13,13.1,1,0,0,0,0,Kohli,Kohli,50,37,4,1,Green,1,1,0,0,Shahbaz Ahmed,2.0,0,11,0,Unadkat,2.0,0,15,1
+RCB,12,12.6,1,0,0,0,0,Kohli,Kohli,49,36,4,1,Green,1,1,0,0,Unadkat,2.0,0,15,1,Cummins,2.0,0,25,0
+RCB,12,12.5,1,0,0,0,0,Green,Kohli,48,35,4,1,Green,1,1,0,0,Unadkat,1.0,0,14,1,Cummins,2.0,0,25,0
+RCB,12,12.4,0,0,0,1,0,Patidar,Kohli,48,35,4,1,,0,0,0,0,Unadkat,1.0,0,13,1,Cummins,2.0,0,25,0
+RCB,12,12.3,1,0,0,0,0,Kohli,Kohli,48,35,4,1,Patidar,51,19,2,5,Unadkat,1.0,0,13,0,Cummins,2.0,0,25,0
+RCB,12,12.2,1,0,0,0,0,Patidar,Kohli,47,34,4,1,Patidar,51,19,2,5,Unadkat,1.0,0,12,0,Cummins,2.0,0,25,0
+RCB,12,12.1,1,0,0,0,0,Kohli,Kohli,47,34,4,1,Patidar,50,18,2,5,Unadkat,1.0,0,11,0,Cummins,2.0,0,25,0
+RCB,11,11.6,1,0,0,0,0,Kohli,Kohli,46,33,4,1,Patidar,50,18,2,5,Cummins,2.0,0,25,0,Markande,3.0,0,42,1
+RCB,11,11.5,1,0,0,0,0,Patidar,Kohli,45,32,4,1,Patidar,50,18,2,5,Cummins,1.0,0,24,0,Markande,3.0,0,42,1
+RCB,11,11.4,1,0,0,0,0,Kohli,Kohli,45,32,4,1,Patidar,49,17,2,5,Cummins,1.0,0,23,0,Markande,3.0,0,42,1
+RCB,11,11.3,1,0,0,0,0,Patidar,Kohli,44,31,4,1,Patidar,49,17,2,5,Cummins,1.0,0,22,0,Markande,3.0,0,42,1
+RCB,11,11.2,1,0,0,0,0,Kohli,Kohli,44,31,4,1,Patidar,48,16,2,5,Cummins,1.0,0,21,0,Markande,3.0,0,42,1
+RCB,11,11.1,1,0,0,0,0,Patidar,Kohli,43,30,4,1,Patidar,48,16,2,5,Cummins,1.0,0,20,0,Markande,3.0,0,42,1
+RCB,10,10.6,1,0,0,0,0,Patidar,Kohli,43,30,4,1,Patidar,47,15,2,5,Markande,3.0,0,42,1,Unadkat,1.0,0,10,0
+RCB,10,10.5,6,1,0,0,0,Patidar,Kohli,43,30,4,1,Patidar,46,14,2,5,Markande,2.0,0,41,1,Unadkat,1.0,0,10,0
+RCB,10,10.4,6,1,0,0,0,Patidar,Kohli,43,30,4,1,Patidar,40,13,2,4,Markande,2.0,0,35,1,Unadkat,1.0,0,10,0
+RCB,10,10.3,6,1,0,0,0,Patidar,Kohli,43,30,4,1,Patidar,34,12,2,3,Markande,2.0,0,29,1,Unadkat,1.0,0,10,0
+RCB,10,10.2,6,1,0,0,0,Patidar,Kohli,43,30,4,1,Patidar,28,11,2,2,Markande,2.0,0,23,1,Unadkat,1.0,0,10,0
+RCB,10,10.2,1,0,0,0,1,Patidar,Kohli,43,30,4,1,Patidar,22,10,2,1,Markande,2.0,0,17,1,Unadkat,1.0,0,10,0
+RCB,10,10.1,1,0,0,0,0,Kohli,Kohli,43,30,4,1,Patidar,21,10,2,1,Markande,2.0,0,16,1,Unadkat,1.0,0,10,0
+RCB,9,9.6,1,0,0,0,0,Kohli,Kohli,42,29,4,1,Patidar,21,10,2,1,Unadkat,1.0,0,10,0,Markande,2.0,0,15,1
+RCB,9,9.5,2,0,0,0,0,Kohli,Kohli,41,28,4,1,Patidar,21,10,2,1,Unadkat,0,0,9,0,Markande,2.0,0,15,1
+RCB,9,9.4,1,0,0,0,0,Patidar,Kohli,39,27,4,1,Patidar,21,10,2,1,Unadkat,0,0,7,0,Markande,2.0,0,15,1
+RCB,9,9.3,4,1,0,0,0,Patidar,Kohli,39,27,4,1,Patidar,20,9,2,1,Unadkat,0,0,6,0,Markande,2.0,0,15,1
+RCB,9,9.2,1,0,0,0,0,Kohli,Kohli,39,27,4,1,Patidar,16,8,1,1,Unadkat,0,0,2,0,Markande,2.0,0,15,1
+RCB,9,9.1,1,0,0,0,0,Patidar,Kohli,38,26,4,1,Patidar,16,8,1,1,Unadkat,0,0,1,0,Markande,2.0,0,15,1
+RCB,8,8.6,1,0,0,0,0,Patidar,Kohli,38,26,4,1,Patidar,15,7,1,1,Markande,2.0,0,15,1,Shahbaz Ahmed,2.0,0,10,0
+RCB,8,8.5,1,0,0,0,0,Kohli,Kohli,38,26,4,1,Patidar,14,6,1,1,Markande,1.0,0,14,1,Shahbaz Ahmed,2.0,0,10,0
+RCB,8,8.4,1,0,0,0,0,Patidar,Kohli,37,25,4,1,Patidar,14,6,1,1,Markande,1.0,0,13,1,Shahbaz Ahmed,2.0,0,10,0
+RCB,8,8.3,1,0,0,0,0,Kohli,Kohli,37,25,4,1,Patidar,13,5,1,1,Markande,1.0,0,12,1,Shahbaz Ahmed,2.0,0,10,0
+RCB,8,8.2,1,0,0,0,0,Patidar,Kohli,36,24,4,1,Patidar,13,5,1,1,Markande,1.0,0,11,1,Shahbaz Ahmed,2.0,0,10,0
+RCB,8,8.1,6,1,0,0,0,Patidar,Kohli,36,24,4,1,Patidar,12,4,1,1,Markande,1.0,0,10,1,Shahbaz Ahmed,2.0,0,10,0
+RCB,7,7.6,0,0,1,0,0,Kohli,Kohli,36,24,4,1,Patidar,6,3,1,0,Shahbaz Ahmed,2.0,0,10,0,Markande,1.0,0,4,1
+RCB,7,7.5,1,0,0,0,0,Patidar,Kohli,36,23,4,1,Patidar,6,3,1,0,Shahbaz Ahmed,1.0,0,10,0,Markande,1.0,0,4,1
+RCB,7,7.4,4,1,0,0,0,Patidar,Kohli,36,23,4,1,Patidar,5,2,1,0,Shahbaz Ahmed,1.0,0,9,0,Markande,1.0,0,4,1
+RCB,7,7.3,1,0,0,0,0,Kohli,Kohli,36,23,4,1,Patidar,1,1,0,0,Shahbaz Ahmed,1.0,0,5,0,Markande,1.0,0,4,1
+RCB,7,7.2,1,0,0,0,0,Patidar,Kohli,35,22,4,1,Patidar,1,1,0,0,Shahbaz Ahmed,1.0,0,4,0,Markande,1.0,0,4,1
+RCB,7,7.1,1,0,0,0,0,Kohli,Kohli,35,22,4,1,,0,0,0,0,Shahbaz Ahmed,1.0,0,3,0,Markande,1.0,0,4,1
+RCB,6,6.6,0,0,0,1,0,Jacks,Kohli,34,21,4,1,,0,0,0,0,Markande,1.0,0,4,1,Natarajan,2.0,0,16,1
+RCB,6,6.5,1,0,0,0,0,Kohli,Kohli,34,21,4,1,Jacks,6,8,0,0,Markande,0,0,4,0,Natarajan,2.0,0,16,1
+RCB,6,6.4,1,0,0,0,0,Jacks,Kohli,33,20,4,1,Jacks,6,8,0,0,Markande,0,0,3,0,Natarajan,2.0,0,16,1
+RCB,6,6.3,1,0,0,0,0,Kohli,Kohli,33,20,4,1,Jacks,5,7,0,0,Markande,0,0,2,0,Natarajan,2.0,0,16,1
+RCB,6,6.2,0,0,1,0,0,Kohli,Kohli,32,19,4,1,Jacks,5,7,0,0,Markande,0,0,1,0,Natarajan,2.0,0,16,1
+RCB,6,6.1,1,0,0,0,0,Jacks,Kohli,32,18,4,1,Jacks,5,7,0,0,Markande,0,0,1,0,Natarajan,2.0,0,16,1
+RCB,5,5.6,1,0,0,0,0,Jacks,Kohli,32,18,4,1,Jacks,4,6,0,0,Natarajan,2.0,0,16,1,Shahbaz Ahmed,1.0,0,2,0
+RCB,5,5.5,1,0,0,0,0,Kohli,Kohli,32,18,4,1,Jacks,3,5,0,0,Natarajan,1.0,0,15,1,Shahbaz Ahmed,1.0,0,2,0
+RCB,5,5.4,0,0,1,0,0,Kohli,Kohli,31,17,4,1,Jacks,3,5,0,0,Natarajan,1.0,0,14,1,Shahbaz Ahmed,1.0,0,2,0
+RCB,5,5.3,6,1,0,0,0,Kohli,Kohli,31,16,4,1,Jacks,3,5,0,0,Natarajan,1.0,0,14,1,Shahbaz Ahmed,1.0,0,2,0
+RCB,5,5.2,1,0,0,0,0,Jacks,Kohli,25,15,4,0,Jacks,3,5,0,0,Natarajan,1.0,0,8,1,Shahbaz Ahmed,1.0,0,2,0
+RCB,5,5.1,1,0,0,0,0,Kohli,Kohli,25,15,4,0,Jacks,2,4,0,0,Natarajan,1.0,0,7,1,Shahbaz Ahmed,1.0,0,2,0
+RCB,4,4.6,0,0,1,0,0,Jacks,Kohli,24,14,4,0,Jacks,2,4,0,0,Shahbaz Ahmed,1.0,0,2,0,Natarajan,1.0,0,6,1
+RCB,4,4.5,1,0,0,0,0,Kohli,Kohli,24,14,4,0,Jacks,2,3,0,0,Shahbaz Ahmed,0,0,2,0,Natarajan,1.0,0,6,1
+RCB,4,4.4,0,0,1,0,0,Kohli,Kohli,23,13,4,0,Jacks,2,3,0,0,Shahbaz Ahmed,0,0,1,0,Natarajan,1.0,0,6,1
+RCB,4,4.3,0,0,1,0,0,Kohli,Kohli,23,12,4,0,Jacks,2,3,0,0,Shahbaz Ahmed,0,0,1,0,Natarajan,1.0,0,6,1
+RCB,4,4.2,1,0,0,0,0,Jacks,Kohli,23,11,4,0,Jacks,2,3,0,0,Shahbaz Ahmed,0,0,1,0,Natarajan,1.0,0,6,1
+RCB,4,4.1,0,0,1,0,0,Jacks,Kohli,23,11,4,0,Jacks,1,2,0,0,Shahbaz Ahmed,0,0,0,0,Natarajan,1.0,0,6,1
+RCB,3,3.6,1,0,0,0,0,Jacks,Kohli,23,11,4,0,Jacks,1,1,0,0,Natarajan,1.0,0,6,1,Cummins,1.0,0,19,0
+RCB,3,3.5,0,0,0,1,0,du Plessis,Kohli,23,11,4,0,,0,0,0,0,Natarajan,0,0,5,1,Cummins,1.0,0,19,0
+RCB,3,3.4,0,0,1,0,0,du Plessis,Kohli,23,11,4,0,du Plessis,25,11,3,1,Natarajan,0,0,5,0,Cummins,1.0,0,19,0
+RCB,3,3.3,0,0,1,0,0,du Plessis,Kohli,23,11,4,0,du Plessis,25,10,3,1,Natarajan,0,0,5,0,Cummins,1.0,0,19,0
+RCB,3,3.2,1,0,0,0,0,Kohli,Kohli,23,11,4,0,du Plessis,25,9,3,1,Natarajan,0,0,5,0,Cummins,1.0,0,19,0
+RCB,3,3.1,4,1,0,0,0,Kohli,Kohli,22,10,4,0,du Plessis,25,9,3,1,Natarajan,0,0,4,0,Cummins,1.0,0,19,0
+RCB,2,2.6,2,0,0,0,0,du Plessis,Kohli,18,9,3,0,du Plessis,25,9,3,1,Cummins,1.0,0,19,0,Bhuvneshwar,1.0,0,14,0
+RCB,2,2.5,2,0,0,0,0,du Plessis,Kohli,18,9,3,0,du Plessis,23,8,3,1,Cummins,0,0,17,0,Bhuvneshwar,1.0,0,14,0
+RCB,2,2.4,6,1,0,0,0,du Plessis,Kohli,18,9,3,0,du Plessis,21,7,3,1,Cummins,0,0,15,0,Bhuvneshwar,1.0,0,14,0
+RCB,2,2.3,1,0,0,0,0,Kohli,Kohli,18,9,3,0,du Plessis,15,6,3,0,Cummins,0,0,9,0,Bhuvneshwar,1.0,0,14,0
+RCB,2,2.2,4,1,0,0,0,Kohli,Kohli,17,8,3,0,du Plessis,15,6,3,0,Cummins,0,0,8,0,Bhuvneshwar,1.0,0,14,0
+RCB,2,2.1,4,1,0,0,0,Kohli,Kohli,13,7,2,0,du Plessis,15,6,3,0,Cummins,0,0,4,0,Bhuvneshwar,1.0,0,14,0
+RCB,1,1.6,4,1,0,0,0,du Plessis,Kohli,9,6,1,0,du Plessis,15,6,3,0,Bhuvneshwar,1.0,0,14,0,Abhishek,1.0,0,10,0
+RCB,1,1.5,4,1,0,0,0,du Plessis,Kohli,9,6,1,0,du Plessis,11,5,2,0,Bhuvneshwar,0,0,10,0,Abhishek,1.0,0,10,0
+RCB,1,1.4,1,0,0,0,0,Kohli,Kohli,9,6,1,0,du Plessis,7,4,1,0,Bhuvneshwar,0,0,6,0,Abhishek,1.0,0,10,0
+RCB,1,1.3,0,0,1,0,0,Kohli,Kohli,8,5,1,0,du Plessis,7,4,1,0,Bhuvneshwar,0,0,5,0,Abhishek,1.0,0,10,0
+RCB,1,1.2,1,0,0,0,0,du Plessis,Kohli,8,4,1,0,du Plessis,7,4,1,0,Bhuvneshwar,0,0,5,0,Abhishek,1.0,0,10,0
+RCB,1,1.1,4,1,0,0,0,du Plessis,Kohli,8,4,1,0,du Plessis,6,3,1,0,Bhuvneshwar,0,0,4,0,Abhishek,1.0,0,10,0
+RCB,0,0.6,2,0,0,0,0,Kohli,Kohli,8,4,1,0,du Plessis,2,2,0,0,Abhishek,1.0,0,10,0,,0,0,0,0
+RCB,0,0.5,1,0,0,0,0,du Plessis,Kohli,6,3,1,0,du Plessis,2,2,0,0,Abhishek,0,0,8,0,,0,0,0,0
+RCB,0,0.4,1,0,0,0,0,Kohli,Kohli,6,3,1,0,du Plessis,1,1,0,0,Abhishek,0,0,7,0,,0,0,0,0
+RCB,0,0.3,1,0,0,0,0,du Plessis,Kohli,5,2,1,0,du Plessis,1,1,0,0,Abhishek,0,0,6,0,,0,0,0,0
+RCB,0,0.2,1,0,0,0,0,Kohli,Kohli,5,2,1,0,,0,0,0,0,Abhishek,0,0,5,0,,0,0,0,0
+RCB,0,0.1,4,1,0,0,0,Kohli,Kohli,4,1,1,0,,0,0,0,0,Abhishek,0,0,4,0,,0,0,0,0

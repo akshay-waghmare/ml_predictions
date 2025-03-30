@@ -1,0 +1,126 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+CSK,19,19.6,2,0,0,0,0,Dhoni,Dube,51,34,1,3,Dhoni,4,3,0,0,Arora,4.0,0,30,1,Thakur,3.0,0,15,1
+CSK,19,19.5,0,0,1,0,0,Dhoni,Dube,51,34,1,3,Dhoni,2,2,0,0,Arora,4.0,0,28,1,Thakur,3.0,0,15,1
+CSK,19,19.5,1,0,0,0,1,Dhoni,Dube,51,34,1,3,Dhoni,2,1,0,0,Arora,3.0,0,28,1,Thakur,3.0,0,15,1
+CSK,19,19.5,1,0,0,0,1,Dhoni,Dube,51,34,1,3,Dhoni,1,0,0,0,Arora,3.0,0,27,1,Thakur,3.0,0,15,1
+CSK,19,19.4,0,0,0,1,0,Jadeja,Dube,51,34,1,3,,0,0,0,0,Arora,3.0,0,26,1,Thakur,3.0,0,15,1
+CSK,19,19.3,2,0,0,0,0,Jadeja,Dube,51,34,1,3,Jadeja,21,23,0,1,Arora,3.0,0,26,0,Thakur,3.0,0,15,1
+CSK,19,19.2,1,0,0,0,0,Dube,Dube,51,34,1,3,Jadeja,19,22,0,1,Arora,3.0,0,24,0,Thakur,3.0,0,15,1
+CSK,19,19.1,2,0,0,0,0,Dube,Dube,50,33,1,3,Jadeja,19,22,0,1,Arora,3.0,0,23,0,Thakur,3.0,0,15,1
+CSK,18,18.6,1,0,0,0,0,Dube,Dube,48,32,1,3,Jadeja,19,22,0,1,Thakur,3.0,0,15,1,Varun,4.0,0,36,2
+CSK,18,18.5,0,0,1,0,0,Dube,Dube,47,31,1,3,Jadeja,19,22,0,1,Thakur,2.0,0,14,1,Varun,4.0,0,36,2
+CSK,18,18.5,1,0,0,0,1,Dube,Dube,47,30,1,3,Jadeja,19,22,0,1,Thakur,2.0,0,14,1,Varun,4.0,0,36,2
+CSK,18,18.4,1,0,0,0,0,Jadeja,Dube,46,30,1,3,Jadeja,19,22,0,1,Thakur,2.0,0,13,1,Varun,4.0,0,36,2
+CSK,18,18.3,1,0,0,0,0,Dube,Dube,46,30,1,3,Jadeja,18,21,0,1,Thakur,2.0,0,12,1,Varun,4.0,0,36,2
+CSK,18,18.2,1,0,0,0,0,Jadeja,Dube,45,29,1,3,Jadeja,18,21,0,1,Thakur,2.0,0,11,1,Varun,4.0,0,36,2
+CSK,18,18.1,0,0,1,0,0,Jadeja,Dube,45,29,1,3,Jadeja,17,20,0,1,Thakur,2.0,0,10,1,Varun,4.0,0,36,2
+CSK,17,17.6,2,0,0,0,0,Dube,Dube,45,29,1,3,Jadeja,17,19,0,1,Varun,4.0,0,36,2,Suyash Sharma,3.0,0,29,0
+CSK,17,17.5,2,0,0,0,0,Dube,Dube,43,28,1,3,Jadeja,17,19,0,1,Varun,3.0,0,34,2,Suyash Sharma,3.0,0,29,0
+CSK,17,17.4,1,0,0,0,0,Jadeja,Dube,41,27,1,3,Jadeja,17,19,0,1,Varun,3.0,0,32,2,Suyash Sharma,3.0,0,29,0
+CSK,17,17.4,2,0,0,0,1,Dube,Dube,41,27,1,3,Jadeja,16,18,0,1,Varun,3.0,0,31,2,Suyash Sharma,3.0,0,29,0
+CSK,17,17.3,6,1,0,0,0,Dube,Dube,39,27,1,3,Jadeja,16,18,0,1,Varun,3.0,0,29,2,Suyash Sharma,3.0,0,29,0
+CSK,17,17.2,1,0,0,0,0,Jadeja,Dube,33,26,1,2,Jadeja,16,18,0,1,Varun,3.0,0,23,2,Suyash Sharma,3.0,0,29,0
+CSK,17,17.1,1,0,0,0,0,Dube,Dube,33,26,1,2,Jadeja,15,17,0,1,Varun,3.0,0,22,2,Suyash Sharma,3.0,0,29,0
+CSK,16,16.6,0,0,1,0,0,Jadeja,Dube,32,25,1,2,Jadeja,15,17,0,1,Suyash Sharma,3.0,0,29,0,Thakur,2.0,0,10,1
+CSK,16,16.5,1,0,0,0,0,Dube,Dube,32,25,1,2,Jadeja,15,16,0,1,Suyash Sharma,3.0,0,29,0,Thakur,2.0,0,10,1
+CSK,16,16.4,6,1,0,0,0,Dube,Dube,31,24,1,2,Jadeja,15,16,0,1,Suyash Sharma,2.0,0,28,0,Thakur,2.0,0,10,1
+CSK,16,16.4,2,0,0,0,1,Jadeja,Dube,25,23,1,1,Jadeja,15,16,0,1,Suyash Sharma,2.0,0,22,0,Thakur,2.0,0,10,1
+CSK,16,16.3,0,0,1,0,0,Jadeja,Dube,25,23,1,1,Jadeja,13,15,0,1,Suyash Sharma,2.0,0,20,0,Thakur,2.0,0,10,1
+CSK,16,16.2,6,1,0,0,0,Jadeja,Dube,25,23,1,1,Jadeja,13,14,0,1,Suyash Sharma,2.0,0,20,0,Thakur,2.0,0,10,1
+CSK,16,16.1,1,0,0,0,0,Dube,Dube,25,23,1,1,Jadeja,7,13,0,0,Suyash Sharma,2.0,0,14,0,Thakur,2.0,0,10,1
+CSK,15,15.6,1,0,0,0,0,Dube,Dube,24,22,1,1,Jadeja,7,13,0,0,Thakur,2.0,0,10,1,Varun,3.0,0,21,2
+CSK,15,15.5,1,0,0,0,0,Jadeja,Dube,23,21,1,1,Jadeja,7,13,0,0,Thakur,1.0,0,9,1,Varun,3.0,0,21,2
+CSK,15,15.4,0,0,1,0,0,Jadeja,Dube,23,21,1,1,Jadeja,6,12,0,0,Thakur,1.0,0,8,1,Varun,3.0,0,21,2
+CSK,15,15.3,1,0,0,0,0,Dube,Dube,23,21,1,1,Jadeja,6,11,0,0,Thakur,1.0,0,8,1,Varun,3.0,0,21,2
+CSK,15,15.2,0,0,1,0,0,Dube,Dube,22,20,1,1,Jadeja,6,11,0,0,Thakur,1.0,0,7,1,Varun,3.0,0,21,2
+CSK,15,15.1,4,1,0,0,0,Dube,Dube,22,19,1,1,Jadeja,6,11,0,0,Thakur,1.0,0,7,1,Varun,3.0,0,21,2
+CSK,14,14.6,0,0,1,0,0,Jadeja,Dube,18,18,0,1,Jadeja,6,11,0,0,Varun,3.0,0,21,2,Suyash Sharma,2.0,0,13,0
+CSK,14,14.5,1,0,0,0,0,Dube,Dube,18,18,0,1,Jadeja,6,10,0,0,Varun,2.0,0,21,2,Suyash Sharma,2.0,0,13,0
+CSK,14,14.4,1,0,0,0,0,Jadeja,Dube,17,17,0,1,Jadeja,6,10,0,0,Varun,2.0,0,20,2,Suyash Sharma,2.0,0,13,0
+CSK,14,14.3,1,0,0,0,0,Dube,Dube,17,17,0,1,Jadeja,5,9,0,0,Varun,2.0,0,19,2,Suyash Sharma,2.0,0,13,0
+CSK,14,14.2,1,0,0,0,0,Jadeja,Dube,16,16,0,1,Jadeja,5,9,0,0,Varun,2.0,0,18,2,Suyash Sharma,2.0,0,13,0
+CSK,14,14.1,1,0,0,0,0,Dube,Dube,16,16,0,1,Jadeja,4,8,0,0,Varun,2.0,0,17,2,Suyash Sharma,2.0,0,13,0
+CSK,13,13.6,0,0,1,0,0,Jadeja,Dube,15,15,0,1,Jadeja,4,8,0,0,Suyash Sharma,2.0,0,13,0,Narine,4.0,0,15,2
+CSK,13,13.5,0,0,1,0,0,Jadeja,Dube,15,15,0,1,Jadeja,4,7,0,0,Suyash Sharma,1.0,0,13,0,Narine,4.0,0,15,2
+CSK,13,13.4,1,0,0,0,0,Dube,Dube,15,15,0,1,Jadeja,4,6,0,0,Suyash Sharma,1.0,0,13,0,Narine,4.0,0,15,2
+CSK,13,13.3,1,0,0,0,0,Jadeja,Dube,14,14,0,1,Jadeja,4,6,0,0,Suyash Sharma,1.0,0,12,0,Narine,4.0,0,15,2
+CSK,13,13.2,1,0,0,0,0,Dube,Dube,14,14,0,1,Jadeja,3,5,0,0,Suyash Sharma,1.0,0,11,0,Narine,4.0,0,15,2
+CSK,13,13.1,1,0,0,0,0,Jadeja,Dube,13,13,0,1,Jadeja,3,5,0,0,Suyash Sharma,1.0,0,10,0,Narine,4.0,0,15,2
+CSK,12,12.6,1,0,0,0,0,Jadeja,Dube,13,13,0,1,Jadeja,2,4,0,0,Narine,4.0,0,15,2,Suyash Sharma,1.0,0,9,0
+CSK,12,12.5,0,0,1,0,0,Jadeja,Dube,13,13,0,1,Jadeja,1,3,0,0,Narine,3.0,0,14,2,Suyash Sharma,1.0,0,9,0
+CSK,12,12.4,0,0,1,0,0,Jadeja,Dube,13,13,0,1,Jadeja,1,2,0,0,Narine,3.0,0,14,2,Suyash Sharma,1.0,0,9,0
+CSK,12,12.3,1,0,0,0,0,Dube,Dube,13,13,0,1,Jadeja,1,1,0,0,Narine,3.0,0,14,2,Suyash Sharma,1.0,0,9,0
+CSK,12,12.2,0,0,1,0,0,Dube,Dube,12,12,0,1,Jadeja,1,1,0,0,Narine,3.0,0,13,2,Suyash Sharma,1.0,0,9,0
+CSK,12,12.1,0,0,1,0,0,Dube,Dube,12,11,0,1,Jadeja,1,1,0,0,Narine,3.0,0,13,2,Suyash Sharma,1.0,0,9,0
+CSK,11,11.6,1,0,0,0,0,Dube,Dube,12,10,0,1,Jadeja,1,1,0,0,Suyash Sharma,1.0,0,9,0,Narine,3.0,0,13,2
+CSK,11,11.5,6,1,0,0,0,Dube,Dube,11,9,0,1,Jadeja,1,1,0,0,Suyash Sharma,0,0,8,0,Narine,3.0,0,13,2
+CSK,11,11.4,1,0,0,0,0,Jadeja,Dube,5,8,0,0,Jadeja,1,1,0,0,Suyash Sharma,0,0,2,0,Narine,3.0,0,13,2
+CSK,11,11.3,1,0,0,0,0,Dube,Dube,5,8,0,0,,0,0,0,0,Suyash Sharma,0,0,1,0,Narine,3.0,0,13,2
+CSK,11,11.2,0,0,1,0,0,Dube,Dube,4,7,0,0,,0,0,0,0,Suyash Sharma,0,0,0,0,Narine,3.0,0,13,2
+CSK,11,11.1,0,0,1,0,0,Dube,Dube,4,6,0,0,,0,0,0,0,Suyash Sharma,0,0,0,0,Narine,3.0,0,13,2
+CSK,10,10.6,0,0,0,1,0,Moeen Ali,Dube,4,5,0,0,,0,0,0,0,Narine,3.0,0,13,2,Thakur,1.0,0,3,1
+CSK,10,10.5,1,0,0,0,0,Dube,Dube,4,5,0,0,Moeen Ali,1,1,0,0,Narine,2.0,0,13,1,Thakur,1.0,0,3,1
+CSK,10,10.4,2,0,0,0,0,Dube,Dube,3,4,0,0,Moeen Ali,1,1,0,0,Narine,2.0,0,12,1,Thakur,1.0,0,3,1
+CSK,10,10.3,0,0,1,0,0,Dube,Dube,1,3,0,0,Moeen Ali,1,1,0,0,Narine,2.0,0,10,1,Thakur,1.0,0,3,1
+CSK,10,10.2,1,0,0,0,0,Moeen Ali,Dube,1,2,0,0,Moeen Ali,1,1,0,0,Narine,2.0,0,10,1,Thakur,1.0,0,3,1
+CSK,10,10.1,0,0,0,1,0,Rayudu,Dube,1,2,0,0,,0,0,0,0,Narine,2.0,0,9,1,Thakur,1.0,0,3,1
+CSK,9,9.6,0,0,1,0,0,Dube,Rayudu,4,6,0,0,Dube,1,2,0,0,Thakur,1.0,0,3,1,Narine,2.0,0,9,0
+CSK,9,9.5,1,0,0,0,0,Rayudu,Rayudu,4,6,0,0,Dube,1,1,0,0,Thakur,0,0,3,1,Narine,2.0,0,9,0
+CSK,9,9.4,1,0,0,0,0,Dube,Rayudu,3,5,0,0,Dube,1,1,0,0,Thakur,0,0,2,1,Narine,2.0,0,9,0
+CSK,9,9.3,0,0,0,1,0,Conway,Rayudu,3,5,0,0,,0,0,0,0,Thakur,0,0,1,1,Narine,2.0,0,9,0
+CSK,9,9.2,0,0,1,0,0,Conway,Conway,30,27,3,0,Rayudu,3,5,0,0,Thakur,0,0,1,0,Narine,2.0,0,9,0
+CSK,9,9.1,1,0,0,0,0,Rayudu,Conway,30,26,3,0,Rayudu,3,5,0,0,Thakur,0,0,1,0,Narine,2.0,0,9,0
+CSK,8,8.6,1,0,0,0,0,Rayudu,Conway,30,26,3,0,Rayudu,2,4,0,0,Narine,2.0,0,9,0,Varun,2.0,0,16,2
+CSK,8,8.5,1,0,0,0,0,Conway,Conway,30,26,3,0,Rayudu,1,3,0,0,Narine,1.0,0,8,0,Varun,2.0,0,16,2
+CSK,8,8.4,1,0,0,0,0,Rayudu,Conway,29,25,3,0,Rayudu,1,3,0,0,Narine,1.0,0,7,0,Varun,2.0,0,16,2
+CSK,8,8.3,0,0,1,0,0,Rayudu,Conway,29,25,3,0,Rayudu,0,2,0,0,Narine,1.0,0,6,0,Varun,2.0,0,16,2
+CSK,8,8.2,0,0,1,0,0,Rayudu,Conway,29,25,3,0,Rayudu,0,1,0,0,Narine,1.0,0,6,0,Varun,2.0,0,16,2
+CSK,8,8.1,1,0,0,0,0,Conway,Conway,29,25,3,0,,0,0,0,0,Narine,1.0,0,6,0,Varun,2.0,0,16,2
+CSK,7,7.6,0,0,0,1,0,Rahane,Conway,28,24,3,0,,0,0,0,0,Varun,2.0,0,16,2,Narine,1.0,0,5,0
+CSK,7,7.5,0,0,1,0,0,Rahane,Conway,28,24,3,0,Rahane,16,10,1,1,Varun,1.0,0,16,1,Narine,1.0,0,5,0
+CSK,7,7.4,1,0,0,0,0,Conway,Conway,28,24,3,0,Rahane,16,9,1,1,Varun,1.0,0,16,1,Narine,1.0,0,5,0
+CSK,7,7.3,2,0,0,0,0,Conway,Conway,27,23,3,0,Rahane,16,9,1,1,Varun,1.0,0,15,1,Narine,1.0,0,5,0
+CSK,7,7.2,0,0,1,0,0,Conway,Conway,25,22,3,0,Rahane,16,9,1,1,Varun,1.0,0,13,1,Narine,1.0,0,5,0
+CSK,7,7.1,1,0,0,0,0,Rahane,Conway,25,21,3,0,Rahane,16,9,1,1,Varun,1.0,0,13,1,Narine,1.0,0,5,0
+CSK,6,6.6,1,0,0,0,0,Rahane,Conway,25,21,3,0,Rahane,15,8,1,1,Narine,1.0,0,5,0,Arora,3.0,0,21,0
+CSK,6,6.5,1,0,0,0,0,Conway,Conway,25,21,3,0,Rahane,14,7,1,1,Narine,0,0,4,0,Arora,3.0,0,21,0
+CSK,6,6.4,1,0,0,0,0,Rahane,Conway,24,20,3,0,Rahane,14,7,1,1,Narine,0,0,3,0,Arora,3.0,0,21,0
+CSK,6,6.3,1,0,0,0,0,Conway,Conway,24,20,3,0,Rahane,13,6,1,1,Narine,0,0,2,0,Arora,3.0,0,21,0
+CSK,6,6.2,0,0,1,0,0,Conway,Conway,23,19,3,0,Rahane,13,6,1,1,Narine,0,0,1,0,Arora,3.0,0,21,0
+CSK,6,6.1,1,0,0,0,0,Rahane,Conway,23,18,3,0,Rahane,13,6,1,1,Narine,0,0,1,0,Arora,3.0,0,21,0
+CSK,5,5.6,0,0,1,0,0,Conway,Conway,23,18,3,0,Rahane,12,5,1,1,Arora,3.0,0,21,0,Harshit Rana,2.0,0,19,0
+CSK,5,5.5,0,0,1,0,0,Conway,Conway,23,17,3,0,Rahane,12,5,1,1,Arora,2.0,0,21,0,Harshit Rana,2.0,0,19,0
+CSK,5,5.4,0,0,1,0,0,Conway,Conway,23,16,3,0,Rahane,12,5,1,1,Arora,2.0,0,21,0,Harshit Rana,2.0,0,19,0
+CSK,5,5.3,1,0,0,0,0,Rahane,Conway,23,15,3,0,Rahane,12,5,1,1,Arora,2.0,0,21,0,Harshit Rana,2.0,0,19,0
+CSK,5,5.2,1,0,0,0,0,Conway,Conway,23,15,3,0,Rahane,11,4,1,1,Arora,2.0,0,20,0,Harshit Rana,2.0,0,19,0
+CSK,5,5.1,2,0,0,0,0,Conway,Conway,22,14,3,0,Rahane,11,4,1,1,Arora,2.0,0,19,0,Harshit Rana,2.0,0,19,0
+CSK,4,4.6,6,1,0,0,0,Rahane,Conway,20,13,3,0,Rahane,11,4,1,1,Harshit Rana,2.0,0,19,0,Varun,1.0,0,12,1
+CSK,4,4.5,0,0,1,0,0,Rahane,Conway,20,13,3,0,Rahane,5,3,1,0,Harshit Rana,1.0,0,13,0,Varun,1.0,0,12,1
+CSK,4,4.4,4,1,0,0,0,Rahane,Conway,20,13,3,0,Rahane,5,2,1,0,Harshit Rana,1.0,0,13,0,Varun,1.0,0,12,1
+CSK,4,4.3,1,0,0,0,0,Conway,Conway,20,13,3,0,Rahane,1,1,0,0,Harshit Rana,1.0,0,9,0,Varun,1.0,0,12,1
+CSK,4,4.2,0,0,1,0,0,Conway,Conway,19,12,3,0,Rahane,1,1,0,0,Harshit Rana,1.0,0,8,0,Varun,1.0,0,12,1
+CSK,4,4.1,0,0,1,0,0,Conway,Conway,19,11,3,0,Rahane,1,1,0,0,Harshit Rana,1.0,0,8,0,Varun,1.0,0,12,1
+CSK,3,3.6,1,0,0,0,0,Conway,Conway,19,10,3,0,Rahane,1,1,0,0,Varun,1.0,0,12,1,Arora,2.0,0,17,0
+CSK,3,3.5,4,1,0,0,0,Conway,Conway,18,9,3,0,Rahane,1,1,0,0,Varun,0,0,11,1,Arora,2.0,0,17,0
+CSK,3,3.4,1,0,0,0,0,Rahane,Conway,14,8,2,0,Rahane,1,1,0,0,Varun,0,0,7,1,Arora,2.0,0,17,0
+CSK,3,3.3,0,0,0,1,0,Gaikwad,Conway,14,8,2,0,,0,0,0,0,Varun,0,0,6,1,Arora,2.0,0,17,0
+CSK,3,3.2,2,0,0,0,0,Gaikwad,Gaikwad,17,12,2,0,Conway,14,8,2,0,Varun,0,0,6,0,Arora,2.0,0,17,0
+CSK,3,3.1,4,1,0,0,0,Gaikwad,Gaikwad,15,11,2,0,Conway,14,8,2,0,Varun,0,0,4,0,Arora,2.0,0,17,0
+CSK,2,2.6,4,1,0,0,0,Conway,Gaikwad,11,10,1,0,Conway,14,8,2,0,Arora,2.0,0,17,0,Harshit Rana,1.0,0,8,0
+CSK,2,2.5,1,0,0,0,0,Gaikwad,Gaikwad,11,10,1,0,Conway,10,7,1,0,Arora,1.0,0,13,0,Harshit Rana,1.0,0,8,0
+CSK,2,2.4,0,0,1,0,0,Gaikwad,Gaikwad,10,9,1,0,Conway,10,7,1,0,Arora,1.0,0,12,0,Harshit Rana,1.0,0,8,0
+CSK,2,2.3,1,0,0,0,0,Conway,Gaikwad,10,8,1,0,Conway,10,7,1,0,Arora,1.0,0,12,0,Harshit Rana,1.0,0,8,0
+CSK,2,2.2,1,0,0,0,0,Gaikwad,Gaikwad,10,8,1,0,Conway,9,6,1,0,Arora,1.0,0,11,0,Harshit Rana,1.0,0,8,0
+CSK,2,2.1,1,0,0,0,0,Conway,Gaikwad,9,7,1,0,Conway,9,6,1,0,Arora,1.0,0,10,0,Harshit Rana,1.0,0,8,0
+CSK,1,1.6,2,0,0,0,0,Gaikwad,Gaikwad,9,7,1,0,Conway,8,5,1,0,Harshit Rana,1.0,0,8,0,Arora,1.0,0,9,0
+CSK,1,1.5,1,0,0,0,0,Conway,Gaikwad,7,6,1,0,Conway,8,5,1,0,Harshit Rana,0,0,6,0,Arora,1.0,0,9,0
+CSK,1,1.4,4,1,0,0,0,Conway,Gaikwad,7,6,1,0,Conway,7,4,1,0,Harshit Rana,0,0,5,0,Arora,1.0,0,9,0
+CSK,1,1.3,1,0,0,0,0,Gaikwad,Gaikwad,7,6,1,0,Conway,3,3,0,0,Harshit Rana,0,0,1,0,Arora,1.0,0,9,0
+CSK,1,1.2,0,0,1,0,0,Gaikwad,Gaikwad,6,5,1,0,Conway,3,3,0,0,Harshit Rana,0,0,0,0,Arora,1.0,0,9,0
+CSK,1,1.1,0,0,1,0,0,Gaikwad,Gaikwad,6,4,1,0,Conway,3,3,0,0,Harshit Rana,0,0,0,0,Arora,1.0,0,9,0
+CSK,0,0.6,0,0,1,0,0,Conway,Gaikwad,6,3,1,0,Conway,3,3,0,0,Arora,1.0,0,9,0,,0,0,0,0
+CSK,0,0.5,1,0,0,0,0,Gaikwad,Gaikwad,6,3,1,0,Conway,3,2,0,0,Arora,0,0,9,0,,0,0,0,0
+CSK,0,0.4,4,1,0,0,0,Gaikwad,Gaikwad,5,2,1,0,Conway,3,2,0,0,Arora,0,0,8,0,,0,0,0,0
+CSK,0,0.3,1,0,0,0,0,Conway,Gaikwad,1,1,0,0,Conway,3,2,0,0,Arora,0,0,4,0,,0,0,0,0
+CSK,0,0.2,2,0,0,0,0,Conway,Gaikwad,1,1,0,0,Conway,2,1,0,0,Arora,0,0,3,0,,0,0,0,0
+CSK,0,0.1,1,0,0,0,0,Gaikwad,Gaikwad,1,1,0,0,,0,0,0,0,Arora,0,0,1,0,,0,0,0,0

@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+DC,19,19.1,6,1,2,1,0,Kuldeep,Patel,4,5,0,0,Nortje,2,2,0,0,Bhuvneshwar,3.0,0,5,2,Natarajan,3.0,0,21,1
+DC,18,18.1,6,0,0,0,0,Patel,Pandey,35,26,2,0,Patel,2,2,0,0,Natarajan,2.0,0,16,1,Bhuvneshwar,3.0,0,5,2
+DC,17,17.1,4,0,1,1,1,Patel,Pandey,34,24,2,0,Axar Patel,34,32,4,0,Bhuvneshwar,2.0,0,3,1,Markande,4.0,0,34,0
+DC,16,16.1,15,3,1,0,0,Axar Patel,Pandey,33,23,2,0,Axar Patel,20,27,1,0,Markande,3.0,0,20,0,Sundar,4.0,0,28,3
+DC,15,15.1,7,0,1,0,0,Pandey,Pandey,26,18,2,0,Axar Patel,19,26,1,0,Sundar,3.0,0,21,3,Natarajan,2.0,0,15,1
+DC,14,14.1,9,1,0,0,0,Axar Patel,Pandey,24,15,2,0,Axar Patel,13,23,0,0,Natarajan,1.0,0,7,1,Umran Malik,2.0,0,14,0
+DC,13,13.1,6,1,3,0,0,Axar Patel,Pandey,18,12,1,0,Axar Patel,13,20,0,0,Umran Malik,1.0,0,9,0,Markram,1.0,0,7,0
+DC,12,12.1,7,0,0,0,0,Axar Patel,Pandey,14,9,1,0,Axar Patel,10,17,0,0,Markram,0,0,1,0,Umran Malik,1.0,0,8,0
+DC,11,11.1,8,1,1,0,0,Axar Patel,Pandey,12,7,1,0,Axar Patel,7,13,0,0,Umran Malik,0,0,4,0,Markande,3.0,0,19,0
+DC,10,10.1,4,0,3,0,0,Axar Patel,Pandey,7,5,0,0,Axar Patel,4,9,0,0,Markande,2.0,0,15,0,Sundar,3.0,0,21,3
+DC,9,9.1,3,0,3,0,0,Axar Patel,Pandey,6,4,0,0,Axar Patel,2,4,0,0,Sundar,2.0,0,18,3,Markande,2.0,0,15,0
+DC,8,8.1,7,0,2,0,1,Pandey,Pandey,3,1,0,0,,0,0,0,0,Markande,1.0,0,10,0,Sundar,2.0,0,18,3
+DC,7,7.1,5,1,1,3,0,Aman Khan,Warner,21,19,2,1,Sarfaraz Khan,10,8,0,1,Sundar,1.0,0,13,0,Markande,1.0,0,8,0
+DC,6,6.1,8,1,1,0,0,Warner,Warner,15,14,1,1,Sarfaraz Khan,9,7,0,1,Markande,0,0,1,0,Jansen,2.0,0,27,0
+DC,5,5.1,8,1,3,0,0,Sarfaraz Khan,Warner,15,14,1,1,Sarfaraz Khan,1,1,0,0,Jansen,1.0,0,20,0,Natarajan,1.0,0,6,1
+DC,4,4.1,6,1,2,1,0,Warner,Warner,13,12,1,1,Marsh,22,12,4,0,Natarajan,0,0,0,0,Sundar,1.0,0,13,0
+DC,3,3.1,13,2,2,0,0,Warner,Warner,1,9,0,0,Marsh,21,9,4,0,Sundar,0,0,0,0,Bhuvneshwar,2.0,0,2,1
+DC,2,2.1,1,0,5,0,0,Warner,Warner,1,4,0,0,Marsh,21,8,4,0,Bhuvneshwar,1.0,0,2,1,Jansen,1.0,0,19,0
+DC,1,1.1,19,4,1,0,0,Marsh,Warner,1,4,0,0,Marsh,5,2,1,0,Jansen,0,0,4,0,Bhuvneshwar,1.0,0,1,1
+DC,0,0.1,2,0,3,1,1,Warner,Warner,0,1,0,0,,0,0,0,0,Bhuvneshwar,0,0,0,0,,0,0,0,0

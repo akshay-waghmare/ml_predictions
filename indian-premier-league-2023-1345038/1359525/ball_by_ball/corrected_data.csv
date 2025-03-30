@@ -1,0 +1,41 @@
+over,innings,score,projected_score,required,CRR,RRR,fav_team,win_probability,venue,matches_played,total_runs,total_wickets,balls_bowled,average_runs_per_wicket,average_runs_per_over
+20,LSG,171/7,N/A,N/A,8.55,N/A,GT,100.0,"Narendra Modi Stadium, Ahmedabad",67,20964,811,15189,25.84,8.28
+1,GT,12/0,166,N/A,12.00,N/A,GT,50.69,"Narendra Modi Stadium, Ahmedabad",67,20964,811,15189,25.84,8.28
+2,GT,23/0,169,N/A,11.50,N/A,GT,54.1,"Narendra Modi Stadium, Ahmedabad",67,20964,811,15189,25.84,8.28
+3,GT,31/0,171,N/A,10.33,N/A,GT,56.35,"Narendra Modi Stadium, Ahmedabad",67,20964,811,15189,25.84,8.28
+4,GT,53/0,194,N/A,13.25,N/A,GT,78.51,"Narendra Modi Stadium, Ahmedabad",67,20964,811,15189,25.84,8.28
+5,GT,63/0,203,N/A,12.60,N/A,GT,84.53,"Narendra Modi Stadium, Ahmedabad",67,20964,811,15189,25.84,8.28
+6,GT,78/0,217,N/A,13.00,N/A,GT,91.06,"Narendra Modi Stadium, Ahmedabad",67,20964,811,15189,25.84,8.28
+7,GT,82/0,207,N/A,11.71,N/A,GT,86.72,"Narendra Modi Stadium, Ahmedabad",67,20964,811,15189,25.84,8.28
+8,GT,98/0,212,N/A,12.25,N/A,GT,89.08,"Narendra Modi Stadium, Ahmedabad",67,20964,811,15189,25.84,8.28
+9,GT,115/0,236,N/A,12.78,N/A,GT,95.93,"Narendra Modi Stadium, Ahmedabad",67,20964,811,15189,25.84,8.28
+10,GT,121/0,238,N/A,12.10,N/A,GT,96.26,"Narendra Modi Stadium, Ahmedabad",67,20964,811,15189,25.84,8.28
+11,GT,128/0,225,N/A,11.64,N/A,GT,93.55,"Narendra Modi Stadium, Ahmedabad",67,20964,811,15189,25.84,8.28
+12,GT,142/0,224,N/A,11.83,N/A,GT,93.28,"Narendra Modi Stadium, Ahmedabad",67,20964,811,15189,25.84,8.28
+13,GT,145/1,215,N/A,11.15,N/A,GT,90.31,"Narendra Modi Stadium, Ahmedabad",67,20964,811,15189,25.84,8.28
+14,GT,156/1,221,N/A,11.14,N/A,GT,92.4,"Narendra Modi Stadium, Ahmedabad",67,20964,811,15189,25.84,8.28
+15,GT,176/1,239,N/A,11.73,N/A,GT,96.42,"Narendra Modi Stadium, Ahmedabad",67,20964,811,15189,25.84,8.28
+16,GT,184/2,233,N/A,11.50,N/A,GT,95.38,"Narendra Modi Stadium, Ahmedabad",67,20964,811,15189,25.84,8.28
+17,GT,194/2,228,N/A,11.41,N/A,GT,94.31,"Narendra Modi Stadium, Ahmedabad",67,20964,811,15189,25.84,8.28
+18,GT,202/2,225,N/A,11.22,N/A,GT,93.55,"Narendra Modi Stadium, Ahmedabad",67,20964,811,15189,25.84,8.28
+19,GT,213/2,225,N/A,11.21,N/A,GT,93.55,"Narendra Modi Stadium, Ahmedabad",67,20964,811,15189,25.84,8.28
+20,GT,227/2,227,N/A,11.35,N/A,GT,94.07,"Narendra Modi Stadium, Ahmedabad",67,20964,811,15189,25.84,8.28
+1,LSG,4/0,N/A,224 from 114,4.00,11.79,GT,94.9,"Narendra Modi Stadium, Ahmedabad",67,20964,811,15189,25.84,8.28
+2,LSG,16/0,N/A,212 from 108,8.00,11.78,GT,94.13,"Narendra Modi Stadium, Ahmedabad",67,20964,811,15189,25.84,8.28
+3,LSG,35/0,N/A,193 from 102,11.67,11.35,GT,90.89,"Narendra Modi Stadium, Ahmedabad",67,20964,811,15189,25.84,8.28
+4,LSG,50/0,N/A,178 from 96,12.50,11.12,GT,86.38,"Narendra Modi Stadium, Ahmedabad",67,20964,811,15189,25.84,8.28
+5,LSG,64/0,N/A,164 from 90,12.80,10.93,GT,79.7,"Narendra Modi Stadium, Ahmedabad",67,20964,811,15189,25.84,8.28
+6,LSG,72/0,N/A,156 from 84,12.00,11.14,GT,82.24,"Narendra Modi Stadium, Ahmedabad",67,20964,811,15189,25.84,8.28
+7,LSG,76/0,N/A,152 from 78,10.86,11.69,GT,86.73,"Narendra Modi Stadium, Ahmedabad",67,20964,811,15189,25.84,8.28
+8,LSG,88/0,N/A,140 from 72,11.00,11.67,GT,84.53,"Narendra Modi Stadium, Ahmedabad",67,20964,811,15189,25.84,8.28
+9,LSG,92/1,N/A,136 from 66,10.22,12.36,GT,91.64,"Narendra Modi Stadium, Ahmedabad",67,20964,811,15189,25.84,8.28
+10,LSG,102/1,N/A,126 from 60,10.20,12.60,GT,90.69,"Narendra Modi Stadium, Ahmedabad",67,20964,811,15189,25.84,8.28
+11,LSG,107/1,N/A,121 from 54,9.73,13.44,GT,92.56,"Narendra Modi Stadium, Ahmedabad",67,20964,811,15189,25.84,8.28
+12,LSG,113/1,N/A,115 from 48,9.42,14.38,GT,94.27,"Narendra Modi Stadium, Ahmedabad",67,20964,811,15189,25.84,8.28
+13,LSG,117/2,N/A,111 from 42,9.00,15.86,GT,97.82,"Narendra Modi Stadium, Ahmedabad",67,20964,811,15189,25.84,8.28
+14,LSG,121/2,N/A,107 from 36,8.64,17.83,GT,98.7,"Narendra Modi Stadium, Ahmedabad",67,20964,811,15189,25.84,8.28
+15,LSG,130/3,N/A,98 from 30,8.67,19.60,GT,99.28,"Narendra Modi Stadium, Ahmedabad",67,20964,811,15189,25.84,8.28
+16,LSG,140/4,N/A,88 from 24,8.75,22.00,GT,99.79,"Narendra Modi Stadium, Ahmedabad",67,20964,811,15189,25.84,8.28
+17,LSG,152/4,N/A,76 from 18,8.94,25.33,GT,99.9,"Narendra Modi Stadium, Ahmedabad",67,20964,811,15189,25.84,8.28
+18,LSG,155/5,N/A,73 from 12,8.61,36.50,GT,99.99,"Narendra Modi Stadium, Ahmedabad",67,20964,811,15189,25.84,8.28
+19,LSG,166/7,N/A,62 from 6,8.74,62.00,GT,99.99,"Narendra Modi Stadium, Ahmedabad",67,20964,811,15189,25.84,8.28

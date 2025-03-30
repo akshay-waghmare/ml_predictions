@@ -1,0 +1,11 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+SRH,9,9.1,10,1,0,0,0,Abhishek,Abhishek,71,27,8,5,Head,87,28,8,8,Thakur,2.0,0,38,0,Haq,2.0,0,37,0
+SRH,8,8.1,14,2,1,0,0,Abhishek,Abhishek,65,23,7,5,Head,80,26,8,7,Haq,1.0,0,25,0,Ravi Bishnoi,2.0,0,34,0
+SRH,7,7.1,17,3,2,0,0,Abhishek,Abhishek,59,21,7,4,Head,71,22,8,6,Ravi Bishnoi,1.0,0,21,0,Badoni,1.0,0,19,0
+SRH,6,6.1,19,3,0,0,0,Abhishek,Abhishek,48,18,6,3,Head,65,19,7,6,Badoni,0,0,6,0,Thakur,2.0,0,37,0
+SRH,5,5.1,20,4,2,0,0,Abhishek,Abhishek,32,13,5,1,Head,59,18,7,5,Thakur,1.0,0,21,0,Haq,1.0,0,23,0
+SRH,4,4.1,23,5,0,0,0,Head,Abhishek,28,12,4,1,Head,37,13,3,4,Haq,0,0,1,0,Ravi Bishnoi,1.0,0,17,0
+SRH,3,3.1,17,3,2,0,0,Head,Abhishek,26,10,4,1,Head,27,9,2,3,Ravi Bishnoi,0,0,6,0,Gowtham,2.0,0,29,0
+SRH,2,2.1,22,4,2,0,0,Head,Abhishek,20,9,4,0,Head,11,4,1,1,Gowtham,1.0,0,13,0,Thakur,1.0,0,17,0
+SRH,1,1.1,17,4,2,0,1,Abhishek,Abhishek,3,4,0,0,Head,5,3,1,0,Thakur,0,0,0,0,Gowtham,1.0,0,7,0
+SRH,0,0.1,8,1,2,0,2,Head,Abhishek,0,1,0,0,,0,0,0,0,Gowtham,0,0,0,0,,0,0,0,0

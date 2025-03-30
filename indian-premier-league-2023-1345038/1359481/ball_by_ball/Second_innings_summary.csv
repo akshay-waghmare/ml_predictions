@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+DC,19,19.1,12,2,2,1,0,Nortje,Axar Patel,34,19,2,3,Kuldeep,1,1,0,0,Shami,3.0,0,35,2,Rashid Khan,4.0,0,31,3
+DC,18,18.1,9,1,1,1,0,Axar Patel,Axar Patel,27,17,2,2,Aman Khan,2,5,0,0,Rashid Khan,3.0,0,23,2,Little,4.0,0,27,0
+DC,17,17.1,9,1,2,0,0,Aman Khan,Axar Patel,19,14,2,1,Aman Khan,1,2,0,0,Little,3.0,0,19,0,Rashid Khan,3.0,0,22,2
+DC,16,16.1,6,1,2,1,0,Axar Patel,Sarfaraz Khan,34,33,3,0,Axar Patel,17,11,2,1,Rashid Khan,2.0,0,20,1,Little,3.0,0,18,0
+DC,15,15.1,5,0,2,0,0,Axar Patel,Sarfaraz Khan,26,29,2,0,Axar Patel,16,9,2,1,Little,2.0,0,13,0,Rashid Khan,2.0,0,16,1
+DC,14,14.1,9,1,2,0,0,Axar Patel,Sarfaraz Khan,24,25,2,0,Axar Patel,9,7,2,0,Rashid Khan,1.0,0,7,1,Alzarri Joseph,4.0,0,29,2
+DC,13,13.1,5,1,4,0,0,Axar Patel,Sarfaraz Khan,23,23,2,0,Axar Patel,5,3,1,0,Alzarri Joseph,3.0,0,24,2,Rashid Khan,1.0,0,7,1
+DC,12,12.1,7,1,1,1,0,Sarfaraz Khan,Sarfaraz Khan,22,21,2,0,Abishek Porel,20,10,0,2,Rashid Khan,0,0,1,0,Yash Dayal,1.0,0,12,0
+DC,11,11.1,12,1,0,0,0,Abishek Porel,Sarfaraz Khan,17,17,2,0,Abishek Porel,13,8,0,1,Yash Dayal,0,0,1,0,Alzarri Joseph,3.0,0,24,2
+DC,10,10.1,10,1,2,0,0,Abishek Porel,Sarfaraz Khan,16,16,2,0,Abishek Porel,3,3,0,0,Alzarri Joseph,2.0,0,14,2,Hardik,3.0,0,18,0
+DC,9,9.1,8,1,1,0,0,Sarfaraz Khan,Sarfaraz Khan,10,11,1,0,Abishek Porel,2,2,0,0,Hardik,2.0,0,11,0,Alzarri Joseph,2.0,0,14,2
+DC,8,8.1,3,0,2,2,0,Sarfaraz Khan,Warner,45,31,7,0,Sarfaraz Khan,8,9,1,0,Alzarri Joseph,1.0,0,11,0,Hardik,2.0,0,10,0
+DC,7,7.1,4,0,2,0,0,Warner,Warner,43,28,7,0,Sarfaraz Khan,6,6,1,0,Hardik,1.0,0,6,0,Alzarri Joseph,1.0,0,11,0
+DC,6,6.1,11,2,3,0,1,Warner,Warner,32,23,5,0,Sarfaraz Khan,6,5,1,0,Alzarri Joseph,0,0,0,0,Hardik,1.0,0,6,0
+DC,5,5.1,10,2,2,0,1,Sarfaraz Khan,Warner,27,19,4,0,Sarfaraz Khan,2,3,0,0,Hardik,0,0,1,0,Shami,3.0,0,29,2
+DC,4,4.1,9,2,2,1,0,Warner,Warner,23,17,3,0,Marsh,4,3,1,0,Shami,2.0,0,24,1,Little,2.0,0,13,0
+DC,3,3.1,4,1,5,0,0,Warner,Warner,19,12,2,0,Marsh,0,2,0,0,Little,1.0,0,9,0,Shami,2.0,0,20,1
+DC,2,2.1,9,1,3,1,1,Marsh,Warner,19,11,2,0,Shaw,4,1,0,0,Shami,1.0,0,14,0,Little,1.0,0,9,0
+DC,1,1.1,9,1,2,0,0,Warner,Warner,11,6,1,0,Shaw,1,1,0,0,Little,0,0,1,0,Shami,1.0,0,11,0
+DC,0,0.1,11,1,5,0,3,Warner,Warner,1,0,0,0,,0,0,0,0,Shami,0,0,1,0,,0,0,0,0

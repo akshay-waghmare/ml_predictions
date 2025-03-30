@@ -1,0 +1,121 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+CSK,18,18.4,4,1,0,0,1,Dube,Dube,46,28,6,1,Jadeja,26,17,0,1,Alzarri Joseph,3.0,0,38,0,Siraj,4.0,0,38,0
+CSK,18,18.3,6,1,0,0,0,Dube,Dube,42,27,5,1,Jadeja,26,17,0,1,Alzarri Joseph,3.0,0,38,0,Siraj,4.0,0,38,0
+CSK,18,18.2,0,0,1,0,0,Dube,Dube,36,26,5,0,Jadeja,26,17,0,1,Alzarri Joseph,3.0,0,32,0,Siraj,4.0,0,38,0
+CSK,18,18.2,1,0,0,0,1,Dube,Dube,36,25,5,0,Jadeja,26,17,0,1,Alzarri Joseph,3.0,0,32,0,Siraj,4.0,0,38,0
+CSK,18,18.1,1,0,0,0,0,Jadeja,Dube,35,25,5,0,Jadeja,26,17,0,1,Alzarri Joseph,3.0,0,31,0,Siraj,4.0,0,38,0
+CSK,17,17.6,0,0,1,0,0,Dube,Dube,35,25,5,0,Jadeja,25,16,0,1,Siraj,4.0,0,38,0,Alzarri Joseph,3.0,0,30,0
+CSK,17,17.5,4,1,0,0,0,Dube,Dube,35,24,5,0,Jadeja,25,16,0,1,Siraj,3.0,0,38,0,Alzarri Joseph,3.0,0,30,0
+CSK,17,17.4,0,0,1,0,0,Dube,Dube,31,23,4,0,Jadeja,25,16,0,1,Siraj,3.0,0,34,0,Alzarri Joseph,3.0,0,30,0
+CSK,17,17.3,0,0,1,0,0,Dube,Dube,31,22,4,0,Jadeja,25,16,0,1,Siraj,3.0,0,34,0,Alzarri Joseph,3.0,0,30,0
+CSK,17,17.2,4,1,0,0,0,Dube,Dube,31,21,4,0,Jadeja,25,16,0,1,Siraj,3.0,0,34,0,Alzarri Joseph,3.0,0,30,0
+CSK,17,17.1,0,0,1,0,0,Dube,Dube,27,20,3,0,Jadeja,25,16,0,1,Siraj,3.0,0,30,0,Alzarri Joseph,3.0,0,30,0
+CSK,16,16.6,1,0,0,0,0,Dube,Dube,27,19,3,0,Jadeja,25,16,0,1,Alzarri Joseph,3.0,0,30,0,Green,3.0,0,27,2
+CSK,16,16.5,4,1,0,0,1,Dube,Dube,26,18,3,0,Jadeja,25,16,0,1,Alzarri Joseph,2.0,0,29,0,Green,3.0,0,27,2
+CSK,16,16.5,1,0,0,0,1,Dube,Dube,22,17,2,0,Jadeja,25,16,0,1,Alzarri Joseph,2.0,0,29,0,Green,3.0,0,27,2
+CSK,16,16.4,4,1,0,0,0,Dube,Dube,21,17,2,0,Jadeja,25,16,0,1,Alzarri Joseph,2.0,0,28,0,Green,3.0,0,27,2
+CSK,16,16.4,1,0,0,0,1,Dube,Dube,17,16,1,0,Jadeja,25,16,0,1,Alzarri Joseph,2.0,0,24,0,Green,3.0,0,27,2
+CSK,16,16.3,1,0,0,0,0,Jadeja,Dube,16,16,1,0,Jadeja,25,16,0,1,Alzarri Joseph,2.0,0,23,0,Green,3.0,0,27,2
+CSK,16,16.2,2,0,0,0,0,Jadeja,Dube,16,16,1,0,Jadeja,24,15,0,1,Alzarri Joseph,2.0,0,22,0,Green,3.0,0,27,2
+CSK,16,16.1,2,0,0,0,0,Jadeja,Dube,16,16,1,0,Jadeja,22,14,0,1,Alzarri Joseph,2.0,0,20,0,Green,3.0,0,27,2
+CSK,15,15.6,1,0,0,0,0,Jadeja,Dube,16,16,1,0,Jadeja,20,13,0,1,Green,3.0,0,27,2,Siraj,3.0,0,30,0
+CSK,15,15.5,1,0,0,0,0,Dube,Dube,16,16,1,0,Jadeja,19,12,0,1,Green,2.0,0,26,2,Siraj,3.0,0,30,0
+CSK,15,15.4,1,0,0,0,0,Jadeja,Dube,15,15,1,0,Jadeja,19,12,0,1,Green,2.0,0,25,2,Siraj,3.0,0,30,0
+CSK,15,15.3,3,0,0,0,0,Dube,Dube,15,15,1,0,Jadeja,18,11,0,1,Green,2.0,0,24,2,Siraj,3.0,0,30,0
+CSK,15,15.3,1,0,0,0,1,Dube,Dube,12,14,1,0,Jadeja,18,11,0,1,Green,2.0,0,21,2,Siraj,3.0,0,30,0
+CSK,15,15.2,4,1,0,0,0,Dube,Dube,11,14,1,0,Jadeja,18,11,0,1,Green,2.0,0,20,2,Siraj,3.0,0,30,0
+CSK,15,15.1,1,0,0,0,0,Jadeja,Dube,7,13,0,0,Jadeja,18,11,0,1,Green,2.0,0,16,2,Siraj,3.0,0,30,0
+CSK,14,14.6,0,0,1,0,0,Dube,Dube,7,13,0,0,Jadeja,17,10,0,1,Siraj,3.0,0,30,0,Maxwell,1.0,0,7,0
+CSK,14,14.5,1,0,0,0,0,Jadeja,Dube,7,12,0,0,Jadeja,17,10,0,1,Siraj,2.0,0,30,0,Maxwell,1.0,0,7,0
+CSK,14,14.4,1,0,0,0,0,Dube,Dube,7,12,0,0,Jadeja,16,9,0,1,Siraj,2.0,0,29,0,Maxwell,1.0,0,7,0
+CSK,14,14.3,1,0,0,0,0,Jadeja,Dube,6,11,0,0,Jadeja,16,9,0,1,Siraj,2.0,0,28,0,Maxwell,1.0,0,7,0
+CSK,14,14.2,2,0,0,0,0,Jadeja,Dube,6,11,0,0,Jadeja,15,8,0,1,Siraj,2.0,0,27,0,Maxwell,1.0,0,7,0
+CSK,14,14.1,2,0,0,0,0,Jadeja,Dube,6,11,0,0,Jadeja,13,7,0,1,Siraj,2.0,0,25,0,Maxwell,1.0,0,7,0
+CSK,13,13.6,0,0,1,0,0,Dube,Dube,6,11,0,0,Jadeja,11,6,0,1,Maxwell,1.0,0,7,0,Green,2.0,0,15,2
+CSK,13,13.5,0,0,1,0,0,Dube,Dube,6,10,0,0,Jadeja,11,6,0,1,Maxwell,0,0,7,0,Green,2.0,0,15,2
+CSK,13,13.4,0,0,1,0,0,Dube,Dube,6,9,0,0,Jadeja,11,6,0,1,Maxwell,0,0,7,0,Green,2.0,0,15,2
+CSK,13,13.3,1,0,0,0,0,Jadeja,Dube,6,8,0,0,Jadeja,11,6,0,1,Maxwell,0,0,7,0,Green,2.0,0,15,2
+CSK,13,13.2,6,1,0,0,0,Jadeja,Dube,6,8,0,0,Jadeja,10,5,0,1,Maxwell,0,0,6,0,Green,2.0,0,15,2
+CSK,13,13.1,0,0,1,0,0,Jadeja,Dube,6,8,0,0,Jadeja,4,4,0,0,Maxwell,0,0,0,0,Green,2.0,0,15,2
+CSK,12,12.6,1,0,0,0,0,Jadeja,Dube,6,8,0,0,Jadeja,4,3,0,0,Green,2.0,0,15,2,Alzarri Joseph,2.0,0,18,0
+CSK,12,12.5,2,0,0,0,0,Jadeja,Dube,6,8,0,0,Jadeja,3,2,0,0,Green,1.0,0,14,2,Alzarri Joseph,2.0,0,18,0
+CSK,12,12.5,1,0,0,0,1,Jadeja,Dube,6,8,0,0,Jadeja,1,1,0,0,Green,1.0,0,12,2,Alzarri Joseph,2.0,0,18,0
+CSK,12,12.4,0,0,1,0,0,Jadeja,Dube,6,8,0,0,Jadeja,0,1,0,0,Green,1.0,0,11,2,Alzarri Joseph,2.0,0,18,0
+CSK,12,12.3,0,0,0,1,0,Mitchell,Dube,6,8,0,0,,0,0,0,0,Green,1.0,0,11,2,Alzarri Joseph,2.0,0,18,0
+CSK,12,12.2,1,0,0,0,0,Dube,Mitchell,22,17,0,2,Dube,6,8,0,0,Green,1.0,0,11,1,Alzarri Joseph,2.0,0,18,0
+CSK,12,12.1,0,0,1,0,0,Dube,Mitchell,22,17,0,2,Dube,5,7,0,0,Green,1.0,0,10,1,Alzarri Joseph,2.0,0,18,0
+CSK,11,11.6,2,0,0,0,0,Mitchell,Mitchell,22,17,0,2,Dube,5,6,0,0,Alzarri Joseph,2.0,0,18,0,Green,1.0,0,10,1
+CSK,11,11.5,1,0,0,0,0,Dube,Mitchell,20,16,0,2,Dube,5,6,0,0,Alzarri Joseph,1.0,0,16,0,Green,1.0,0,10,1
+CSK,11,11.4,1,0,0,0,0,Mitchell,Mitchell,20,16,0,2,Dube,4,5,0,0,Alzarri Joseph,1.0,0,15,0,Green,1.0,0,10,1
+CSK,11,11.3,1,0,0,0,0,Dube,Mitchell,19,15,0,2,Dube,4,5,0,0,Alzarri Joseph,1.0,0,14,0,Green,1.0,0,10,1
+CSK,11,11.2,1,0,0,0,0,Mitchell,Mitchell,19,15,0,2,Dube,3,4,0,0,Alzarri Joseph,1.0,0,13,0,Green,1.0,0,10,1
+CSK,11,11.1,1,0,0,0,0,Dube,Mitchell,18,14,0,2,Dube,3,4,0,0,Alzarri Joseph,1.0,0,12,0,Green,1.0,0,10,1
+CSK,10,10.6,1,0,0,0,0,Dube,Mitchell,18,14,0,2,Dube,2,3,0,0,Green,1.0,0,10,1,Dagar,2.0,0,6,0
+CSK,10,10.5,0,0,1,0,0,Dube,Mitchell,18,14,0,2,Dube,1,2,0,0,Green,0,0,9,1,Dagar,2.0,0,6,0
+CSK,10,10.4,1,0,0,0,0,Mitchell,Mitchell,18,14,0,2,Dube,1,1,0,0,Green,0,0,9,1,Dagar,2.0,0,6,0
+CSK,10,10.3,1,0,0,0,0,Dube,Mitchell,17,13,0,2,Dube,1,1,0,0,Green,0,0,8,1,Dagar,2.0,0,6,0
+CSK,10,10.2,0,0,0,1,0,Rahane,Mitchell,17,13,0,2,,0,0,0,0,Green,0,0,7,1,Dagar,2.0,0,6,0
+CSK,10,10.1,6,1,0,0,0,Rahane,Rahane,28,18,0,2,Mitchell,17,13,0,2,Green,0,0,7,0,Dagar,2.0,0,6,0
+CSK,10,10.1,1,0,0,0,1,Rahane,Rahane,22,17,0,1,Mitchell,17,13,0,2,Green,0,0,1,0,Dagar,2.0,0,6,0
+CSK,9,9.6,1,0,0,0,0,Rahane,Rahane,21,17,0,1,Mitchell,17,13,0,2,Dagar,2.0,0,6,0,Karn,2.0,0,24,1
+CSK,9,9.5,1,0,0,0,0,Mitchell,Rahane,20,16,0,1,Mitchell,17,13,0,2,Dagar,1.0,0,5,0,Karn,2.0,0,24,1
+CSK,9,9.4,0,0,1,0,0,Mitchell,Rahane,20,16,0,1,Mitchell,16,12,0,2,Dagar,1.0,0,4,0,Karn,2.0,0,24,1
+CSK,9,9.3,0,0,1,0,0,Mitchell,Rahane,20,16,0,1,Mitchell,16,11,0,2,Dagar,1.0,0,4,0,Karn,2.0,0,24,1
+CSK,9,9.2,1,0,0,0,0,Rahane,Rahane,20,16,0,1,Mitchell,16,10,0,2,Dagar,1.0,0,4,0,Karn,2.0,0,24,1
+CSK,9,9.1,1,0,0,0,0,Mitchell,Rahane,19,15,0,1,Mitchell,16,10,0,2,Dagar,1.0,0,3,0,Karn,2.0,0,24,1
+CSK,8,8.6,1,0,0,0,0,Mitchell,Rahane,19,15,0,1,Mitchell,15,9,0,2,Karn,2.0,0,24,1,Dagar,1.0,0,2,0
+CSK,8,8.5,1,0,0,0,0,Rahane,Rahane,19,15,0,1,Mitchell,14,8,0,2,Karn,1.0,0,23,1,Dagar,1.0,0,2,0
+CSK,8,8.4,1,0,0,0,0,Mitchell,Rahane,18,14,0,1,Mitchell,14,8,0,2,Karn,1.0,0,22,1,Dagar,1.0,0,2,0
+CSK,8,8.3,6,1,0,0,0,Mitchell,Rahane,18,14,0,1,Mitchell,13,7,0,2,Karn,1.0,0,21,1,Dagar,1.0,0,2,0
+CSK,8,8.2,6,1,0,0,0,Mitchell,Rahane,18,14,0,1,Mitchell,7,6,0,1,Karn,1.0,0,15,1,Dagar,1.0,0,2,0
+CSK,8,8.1,0,0,1,0,0,Mitchell,Rahane,18,14,0,1,Mitchell,1,5,0,0,Karn,1.0,0,9,1,Dagar,1.0,0,2,0
+CSK,7,7.6,0,0,1,0,0,Rahane,Rahane,18,14,0,1,Mitchell,1,4,0,0,Dagar,1.0,0,2,0,Karn,1.0,0,9,1
+CSK,7,7.5,1,0,0,0,0,Mitchell,Rahane,18,13,0,1,Mitchell,1,4,0,0,Dagar,0,0,2,0,Karn,1.0,0,9,1
+CSK,7,7.4,0,0,1,0,0,Mitchell,Rahane,18,13,0,1,Mitchell,0,3,0,0,Dagar,0,0,1,0,Karn,1.0,0,9,1
+CSK,7,7.3,0,0,1,0,0,Mitchell,Rahane,18,13,0,1,Mitchell,0,2,0,0,Dagar,0,0,1,0,Karn,1.0,0,9,1
+CSK,7,7.2,0,0,1,0,0,Mitchell,Rahane,18,13,0,1,Mitchell,0,1,0,0,Dagar,0,0,1,0,Karn,1.0,0,9,1
+CSK,7,7.1,1,0,0,0,0,Rahane,Rahane,18,13,0,1,,0,0,0,0,Dagar,0,0,1,0,Karn,1.0,0,9,1
+CSK,6,6.6,0,0,0,1,0,Ravindra,Rahane,17,12,0,1,,0,0,0,0,Karn,1.0,0,9,1,Yash Dayal,3.0,0,28,1
+CSK,6,6.5,6,1,0,0,0,Ravindra,Ravindra,39,14,3,3,Rahane,17,12,0,1,Karn,0,0,9,0,Yash Dayal,3.0,0,28,1
+CSK,6,6.4,1,0,0,0,0,Rahane,Ravindra,33,13,3,2,Rahane,17,12,0,1,Karn,0,0,3,0,Yash Dayal,3.0,0,28,1
+CSK,6,6.3,0,0,1,0,0,Rahane,Ravindra,33,13,3,2,Rahane,16,11,0,1,Karn,0,0,2,0,Yash Dayal,3.0,0,28,1
+CSK,6,6.2,2,0,0,0,0,Rahane,Ravindra,33,13,3,2,Rahane,16,10,0,1,Karn,0,0,2,0,Yash Dayal,3.0,0,28,1
+CSK,6,6.1,0,0,1,0,0,Rahane,Ravindra,33,13,3,2,Rahane,14,9,0,1,Karn,0,0,0,0,Yash Dayal,3.0,0,28,1
+CSK,5,5.6,3,0,0,0,0,Rahane,Ravindra,33,13,3,2,Rahane,14,8,0,1,Yash Dayal,3.0,0,28,1,Alzarri Joseph,1.0,0,11,0
+CSK,5,5.5,2,0,0,0,0,Rahane,Ravindra,33,13,3,2,Rahane,11,7,0,1,Yash Dayal,2.0,0,25,1,Alzarri Joseph,1.0,0,11,0
+CSK,5,5.4,2,0,0,0,0,Rahane,Ravindra,33,13,3,2,Rahane,9,6,0,1,Yash Dayal,2.0,0,23,1,Alzarri Joseph,1.0,0,11,0
+CSK,5,5.3,6,1,0,0,0,Rahane,Ravindra,33,13,3,2,Rahane,7,5,0,1,Yash Dayal,2.0,0,21,1,Alzarri Joseph,1.0,0,11,0
+CSK,5,5.2,0,0,1,0,0,Rahane,Ravindra,33,13,3,2,Rahane,1,4,0,0,Yash Dayal,2.0,0,15,1,Alzarri Joseph,1.0,0,11,0
+CSK,5,5.1,0,0,1,0,0,Rahane,Ravindra,33,13,3,2,Rahane,1,3,0,0,Yash Dayal,2.0,0,15,1,Alzarri Joseph,1.0,0,11,0
+CSK,4,4.6,0,0,1,0,0,Ravindra,Ravindra,33,13,3,2,Rahane,1,2,0,0,Alzarri Joseph,1.0,0,11,0,Yash Dayal,2.0,0,15,1
+CSK,4,4.5,2,0,0,0,0,Ravindra,Ravindra,33,12,3,2,Rahane,1,2,0,0,Alzarri Joseph,0,0,11,0,Yash Dayal,2.0,0,15,1
+CSK,4,4.5,1,0,0,0,1,Ravindra,Ravindra,31,11,3,2,Rahane,1,2,0,0,Alzarri Joseph,0,0,9,0,Yash Dayal,2.0,0,15,1
+CSK,4,4.4,1,0,0,0,0,Rahane,Ravindra,30,11,3,2,Rahane,1,2,0,0,Alzarri Joseph,0,0,8,0,Yash Dayal,2.0,0,15,1
+CSK,4,4.3,0,0,1,0,0,Rahane,Ravindra,30,11,3,2,Rahane,0,1,0,0,Alzarri Joseph,0,0,7,0,Yash Dayal,2.0,0,15,1
+CSK,4,4.2,1,0,0,0,0,Ravindra,Ravindra,30,11,3,2,,0,0,0,0,Alzarri Joseph,0,0,7,0,Yash Dayal,2.0,0,15,1
+CSK,4,4.1,6,1,0,0,0,Ravindra,Ravindra,29,10,3,2,,0,0,0,0,Alzarri Joseph,0,0,6,0,Yash Dayal,2.0,0,15,1
+CSK,3,3.6,0,0,0,1,0,Gaikwad,Ravindra,23,9,3,1,,0,0,0,0,Yash Dayal,2.0,0,15,1,Siraj,2.0,0,23,0
+CSK,3,3.5,4,1,0,0,0,Gaikwad,Gaikwad,15,14,3,0,Ravindra,23,9,3,1,Yash Dayal,1.0,0,15,0,Siraj,2.0,0,23,0
+CSK,3,3.4,1,0,0,0,0,Ravindra,Gaikwad,11,13,2,0,Ravindra,23,9,3,1,Yash Dayal,1.0,0,11,0,Siraj,2.0,0,23,0
+CSK,3,3.3,0,0,1,0,0,Ravindra,Gaikwad,11,13,2,0,Ravindra,22,8,3,1,Yash Dayal,1.0,0,10,0,Siraj,2.0,0,23,0
+CSK,3,3.2,4,1,0,0,0,Ravindra,Gaikwad,11,13,2,0,Ravindra,22,7,3,1,Yash Dayal,1.0,0,10,0,Siraj,2.0,0,23,0
+CSK,3,3.1,1,0,0,0,0,Gaikwad,Gaikwad,11,13,2,0,Ravindra,18,6,2,1,Yash Dayal,1.0,0,6,0,Siraj,2.0,0,23,0
+CSK,2,2.6,6,1,0,0,0,Ravindra,Gaikwad,10,12,2,0,Ravindra,18,6,2,1,Siraj,2.0,0,23,0,Yash Dayal,1.0,0,5,0
+CSK,2,2.5,1,0,0,0,0,Gaikwad,Gaikwad,10,12,2,0,Ravindra,12,5,2,0,Siraj,1.0,0,17,0,Yash Dayal,1.0,0,5,0
+CSK,2,2.4,1,0,0,0,0,Ravindra,Gaikwad,9,11,2,0,Ravindra,12,5,2,0,Siraj,1.0,0,16,0,Yash Dayal,1.0,0,5,0
+CSK,2,2.3,1,0,0,0,0,Gaikwad,Gaikwad,9,11,2,0,Ravindra,11,4,2,0,Siraj,1.0,0,15,0,Yash Dayal,1.0,0,5,0
+CSK,2,2.2,1,0,0,0,0,Ravindra,Gaikwad,8,10,2,0,Ravindra,11,4,2,0,Siraj,1.0,0,14,0,Yash Dayal,1.0,0,5,0
+CSK,2,2.1,4,1,0,0,0,Ravindra,Gaikwad,8,10,2,0,Ravindra,10,3,2,0,Siraj,1.0,0,13,0,Yash Dayal,1.0,0,5,0
+CSK,2,2.1,1,0,0,0,1,Ravindra,Gaikwad,8,10,2,0,Ravindra,6,2,1,0,Siraj,1.0,0,9,0,Yash Dayal,1.0,0,5,0
+CSK,1,1.6,0,0,1,0,0,Gaikwad,Gaikwad,8,10,2,0,Ravindra,5,2,1,0,Yash Dayal,1.0,0,5,0,Siraj,1.0,0,8,0
+CSK,1,1.5,0,0,1,0,0,Gaikwad,Gaikwad,8,9,2,0,Ravindra,5,2,1,0,Yash Dayal,0,0,5,0,Siraj,1.0,0,8,0
+CSK,1,1.4,0,0,1,0,0,Gaikwad,Gaikwad,8,8,2,0,Ravindra,5,2,1,0,Yash Dayal,0,0,5,0,Siraj,1.0,0,8,0
+CSK,1,1.3,0,0,1,0,0,Gaikwad,Gaikwad,8,7,2,0,Ravindra,5,2,1,0,Yash Dayal,0,0,5,0,Siraj,1.0,0,8,0
+CSK,1,1.2,1,0,0,0,0,Ravindra,Gaikwad,8,6,2,0,Ravindra,5,2,1,0,Yash Dayal,0,0,5,0,Siraj,1.0,0,8,0
+CSK,1,1.1,4,1,0,0,0,Ravindra,Gaikwad,8,6,2,0,Ravindra,4,1,1,0,Yash Dayal,0,0,4,0,Siraj,1.0,0,8,0
+CSK,0,0.6,0,0,1,0,0,Gaikwad,Gaikwad,8,6,2,0,,0,0,0,0,Siraj,1.0,0,8,0,,0,0,0,0
+CSK,0,0.5,4,1,0,0,0,Gaikwad,Gaikwad,8,5,2,0,,0,0,0,0,Siraj,0,0,8,0,,0,0,0,0
+CSK,0,0.4,0,0,1,0,0,Gaikwad,Gaikwad,4,4,1,0,,0,0,0,0,Siraj,0,0,4,0,,0,0,0,0
+CSK,0,0.3,0,0,1,0,0,Gaikwad,Gaikwad,4,3,1,0,,0,0,0,0,Siraj,0,0,4,0,,0,0,0,0
+CSK,0,0.2,0,0,1,0,0,Gaikwad,Gaikwad,4,2,1,0,,0,0,0,0,Siraj,0,0,4,0,,0,0,0,0
+CSK,0,0.1,4,1,0,0,0,Gaikwad,Gaikwad,4,1,1,0,,0,0,0,0,Siraj,0,0,4,0,,0,0,0,0

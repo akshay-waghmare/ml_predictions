@@ -1,0 +1,123 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+GT,18,18.5,0,0,0,1,0,Noor Ahmad,Johnson,0,1,0,0,,0,0,0,0,Thakur,3.0,0,30,5,Haq,4.0,0,37,1
+GT,18,18.4,4,1,0,0,0,Noor Ahmad,Johnson,0,1,0,0,Noor Ahmad,4,1,1,0,Thakur,3.0,0,30,4,Haq,4.0,0,37,1
+GT,18,18.3,0,0,0,1,0,Tewatia,Johnson,0,1,0,0,,0,0,0,0,Thakur,3.0,0,26,4,Haq,4.0,0,37,1
+GT,18,18.2,6,1,0,0,0,Tewatia,Tewatia,35,24,2,2,Johnson,0,1,0,0,Thakur,3.0,0,26,3,Haq,4.0,0,37,1
+GT,18,18.1,0,0,1,0,0,Tewatia,Tewatia,29,23,2,1,Johnson,0,1,0,0,Thakur,3.0,0,20,3,Haq,4.0,0,37,1
+GT,17,17.6,1,0,0,0,0,Tewatia,Tewatia,29,22,2,1,Johnson,0,1,0,0,Haq,4.0,0,37,1,Thakur,3.0,0,20,3
+GT,17,17.5,4,1,0,0,0,Tewatia,Tewatia,28,21,2,1,Johnson,0,1,0,0,Haq,4.0,0,36,1,Thakur,3.0,0,20,3
+GT,17,17.4,0,0,1,0,0,Tewatia,Tewatia,24,20,1,1,Johnson,0,1,0,0,Haq,3.0,0,32,1,Thakur,3.0,0,20,3
+GT,17,17.3,0,0,1,0,0,Tewatia,Tewatia,24,19,1,1,Johnson,0,1,0,0,Haq,3.0,0,32,1,Thakur,3.0,0,20,3
+GT,17,17.2,0,0,1,0,0,Tewatia,Tewatia,24,18,1,1,Johnson,0,1,0,0,Haq,3.0,0,32,1,Thakur,3.0,0,20,3
+GT,17,17.1,0,0,1,0,0,Tewatia,Tewatia,24,17,1,1,Johnson,0,1,0,0,Haq,3.0,0,32,1,Thakur,3.0,0,20,3
+GT,16,16.6,0,0,1,0,0,Johnson,Tewatia,24,16,1,1,Johnson,0,1,0,0,Thakur,3.0,0,20,3,Haq,3.0,0,32,1
+GT,16,16.5,1,0,0,0,0,Tewatia,Tewatia,24,16,1,1,,0,0,0,0,Thakur,2.0,0,20,3,Haq,3.0,0,32,1
+GT,16,16.5,1,0,0,0,1,Tewatia,Tewatia,23,15,1,1,,0,0,0,0,Thakur,2.0,0,19,3,Haq,3.0,0,32,1
+GT,16,16.4,0,0,1,0,0,Tewatia,Tewatia,22,15,1,1,,0,0,0,0,Thakur,2.0,0,18,3,Haq,3.0,0,32,1
+GT,16,16.4,1,0,0,0,1,Tewatia,Tewatia,22,14,1,1,,0,0,0,0,Thakur,2.0,0,18,3,Haq,3.0,0,32,1
+GT,16,16.3,4,1,0,0,0,Tewatia,Tewatia,21,14,1,1,,0,0,0,0,Thakur,2.0,0,17,3,Haq,3.0,0,32,1
+GT,16,16.2,0,0,1,0,0,Tewatia,Tewatia,17,13,0,1,,0,0,0,0,Thakur,2.0,0,13,3,Haq,3.0,0,32,1
+GT,16,16.1,6,1,0,0,0,Tewatia,Tewatia,17,12,0,1,,0,0,0,0,Thakur,2.0,0,13,3,Haq,3.0,0,32,1
+GT,15,15.6,0,0,0,1,0,Umesh Yadav,Tewatia,11,11,0,0,,0,0,0,0,Haq,3.0,0,32,1,Thakur,2.0,0,7,3
+GT,15,15.5,1,0,0,0,0,Tewatia,Tewatia,11,11,0,0,Umesh Yadav,2,3,0,0,Haq,3.0,0,32,0,Thakur,2.0,0,7,3
+GT,15,15.5,3,0,0,0,1,Tewatia,Tewatia,10,10,0,0,Umesh Yadav,2,3,0,0,Haq,2.0,0,31,0,Thakur,2.0,0,7,3
+GT,15,15.5,1,0,0,0,1,Tewatia,Tewatia,7,9,0,0,Umesh Yadav,2,3,0,0,Haq,2.0,0,28,0,Thakur,2.0,0,7,3
+GT,15,15.4,1,0,0,0,0,Umesh Yadav,Tewatia,6,9,0,0,Umesh Yadav,2,3,0,0,Haq,2.0,0,27,0,Thakur,2.0,0,7,3
+GT,15,15.3,1,0,0,0,0,Tewatia,Tewatia,6,9,0,0,Umesh Yadav,1,2,0,0,Haq,2.0,0,26,0,Thakur,2.0,0,7,3
+GT,15,15.2,1,0,0,0,0,Umesh Yadav,Tewatia,5,8,0,0,Umesh Yadav,1,2,0,0,Haq,2.0,0,25,0,Thakur,2.0,0,7,3
+GT,15,15.1,1,0,0,0,0,Tewatia,Tewatia,5,8,0,0,Umesh Yadav,0,1,0,0,Haq,2.0,0,24,0,Thakur,2.0,0,7,3
+GT,14,14.6,0,0,1,0,0,Umesh Yadav,Tewatia,4,7,0,0,Umesh Yadav,0,1,0,0,Thakur,2.0,0,7,3,Haq,2.0,0,23,0
+GT,14,14.5,0,0,0,1,0,Rashid Khan,Tewatia,4,7,0,0,,0,0,0,0,Thakur,1.0,0,7,3,Haq,2.0,0,23,0
+GT,14,14.4,0,0,1,0,0,Rashid Khan,Tewatia,4,7,0,0,Rashid Khan,0,2,0,0,Thakur,1.0,0,7,2,Haq,2.0,0,23,0
+GT,14,14.3,0,0,1,0,0,Rashid Khan,Tewatia,4,7,0,0,Rashid Khan,0,1,0,0,Thakur,1.0,0,7,2,Haq,2.0,0,23,0
+GT,14,14.2,0,0,0,1,0,Shankar,Tewatia,4,7,0,0,,0,0,0,0,Thakur,1.0,0,7,2,Haq,2.0,0,23,0
+GT,14,14.1,1,0,0,0,1,Tewatia,Shankar,18,16,0,1,Tewatia,4,7,0,0,Thakur,1.0,0,7,1,Haq,2.0,0,23,0
+GT,13,13.6,1,0,0,0,0,Tewatia,Shankar,18,16,0,1,Tewatia,3,6,0,0,Haq,2.0,0,23,0,Krunal,4.0,0,11,3
+GT,13,13.5,1,0,0,0,0,Shankar,Shankar,18,16,0,1,Tewatia,2,5,0,0,Haq,1.0,0,22,0,Krunal,4.0,0,11,3
+GT,13,13.4,6,1,0,0,0,Shankar,Shankar,17,15,0,1,Tewatia,2,5,0,0,Haq,1.0,0,21,0,Krunal,4.0,0,11,3
+GT,13,13.3,1,0,0,0,0,Tewatia,Shankar,11,14,0,0,Tewatia,2,5,0,0,Haq,1.0,0,15,0,Krunal,4.0,0,11,3
+GT,13,13.2,1,0,0,0,0,Shankar,Shankar,11,14,0,0,Tewatia,1,4,0,0,Haq,1.0,0,14,0,Krunal,4.0,0,11,3
+GT,13,13.1,0,0,1,0,0,Shankar,Shankar,10,13,0,0,Tewatia,1,4,0,0,Haq,1.0,0,13,0,Krunal,4.0,0,11,3
+GT,12,12.6,0,0,1,0,0,Tewatia,Shankar,10,12,0,0,Tewatia,1,4,0,0,Krunal,4.0,0,11,3,Siddharth,4.0,0,28,0
+GT,12,12.5,0,0,1,0,0,Tewatia,Shankar,10,12,0,0,Tewatia,1,3,0,0,Krunal,3.0,0,11,3,Siddharth,4.0,0,28,0
+GT,12,12.4,1,0,0,0,0,Shankar,Shankar,10,12,0,0,Tewatia,1,2,0,0,Krunal,3.0,0,11,3,Siddharth,4.0,0,28,0
+GT,12,12.3,1,0,0,0,0,Tewatia,Shankar,9,11,0,0,Tewatia,1,2,0,0,Krunal,3.0,0,10,3,Siddharth,4.0,0,28,0
+GT,12,12.2,0,0,1,0,0,Tewatia,Shankar,9,11,0,0,Tewatia,0,1,0,0,Krunal,3.0,0,9,3,Siddharth,4.0,0,28,0
+GT,12,12.1,0,0,0,1,0,Nalkande,Shankar,9,11,0,0,,0,0,0,0,Krunal,3.0,0,9,3,Siddharth,4.0,0,28,0
+GT,11,11.6,1,0,0,0,0,Nalkande,Shankar,9,11,0,0,Nalkande,12,10,0,1,Siddharth,4.0,0,28,0,Krunal,3.0,0,9,2
+GT,11,11.5,1,0,0,0,0,Shankar,Shankar,9,11,0,0,Nalkande,11,9,0,1,Siddharth,4.0,0,27,0,Krunal,3.0,0,9,2
+GT,11,11.4,0,0,1,0,0,Shankar,Shankar,8,10,0,0,Nalkande,11,9,0,1,Siddharth,4.0,0,26,0,Krunal,3.0,0,9,2
+GT,11,11.3,1,0,0,0,0,Nalkande,Shankar,8,9,0,0,Nalkande,11,9,0,1,Siddharth,4.0,0,26,0,Krunal,3.0,0,9,2
+GT,11,11.2,6,1,0,0,0,Nalkande,Shankar,8,9,0,0,Nalkande,10,8,0,1,Siddharth,3.0,0,25,0,Krunal,3.0,0,9,2
+GT,11,11.1,0,0,1,0,0,Nalkande,Shankar,8,9,0,0,Nalkande,4,7,0,0,Siddharth,3.0,0,19,0,Krunal,3.0,0,9,2
+GT,10,10.6,0,0,1,0,0,Shankar,Shankar,8,9,0,0,Nalkande,4,6,0,0,Krunal,3.0,0,9,2,Ravi Bishnoi,2.0,0,8,1
+GT,10,10.5,1,0,0,0,0,Nalkande,Shankar,8,8,0,0,Nalkande,4,6,0,0,Krunal,2.0,0,9,2,Ravi Bishnoi,2.0,0,8,1
+GT,10,10.4,0,0,1,0,0,Nalkande,Shankar,8,8,0,0,Nalkande,3,5,0,0,Krunal,2.0,0,8,2,Ravi Bishnoi,2.0,0,8,1
+GT,10,10.3,1,0,0,0,0,Shankar,Shankar,8,8,0,0,Nalkande,3,4,0,0,Krunal,2.0,0,8,2,Ravi Bishnoi,2.0,0,8,1
+GT,10,10.2,1,0,0,0,0,Nalkande,Shankar,7,7,0,0,Nalkande,3,4,0,0,Krunal,2.0,0,7,2,Ravi Bishnoi,2.0,0,8,1
+GT,10,10.1,1,0,0,0,0,Shankar,Shankar,7,7,0,0,Nalkande,2,3,0,0,Krunal,2.0,0,6,2,Ravi Bishnoi,2.0,0,8,1
+GT,9,9.6,1,0,0,0,0,Shankar,Shankar,6,6,0,0,Nalkande,2,3,0,0,Ravi Bishnoi,2.0,0,8,1,Krunal,2.0,0,5,2
+GT,9,9.6,1,0,0,0,1,Shankar,Shankar,5,5,0,0,Nalkande,2,3,0,0,Ravi Bishnoi,1.0,0,7,1,Krunal,2.0,0,5,2
+GT,9,9.5,1,0,0,0,0,Nalkande,Shankar,4,5,0,0,Nalkande,2,3,0,0,Ravi Bishnoi,1.0,0,6,1,Krunal,2.0,0,5,2
+GT,9,9.4,1,0,0,0,0,Shankar,Shankar,4,5,0,0,Nalkande,1,2,0,0,Ravi Bishnoi,1.0,0,5,1,Krunal,2.0,0,5,2
+GT,9,9.3,0,0,1,0,0,Shankar,Shankar,3,4,0,0,Nalkande,1,2,0,0,Ravi Bishnoi,1.0,0,4,1,Krunal,2.0,0,5,2
+GT,9,9.2,1,0,0,0,0,Nalkande,Shankar,3,3,0,0,Nalkande,1,2,0,0,Ravi Bishnoi,1.0,0,4,1,Krunal,2.0,0,5,2
+GT,9,9.1,1,0,0,0,0,Shankar,Shankar,3,3,0,0,Nalkande,0,1,0,0,Ravi Bishnoi,1.0,0,3,1,Krunal,2.0,0,5,2
+GT,8,8.6,0,0,1,0,0,Nalkande,Shankar,2,2,0,0,Nalkande,0,1,0,0,Krunal,2.0,0,5,2,Ravi Bishnoi,1.0,0,2,1
+GT,8,8.5,0,0,0,1,0,Sharath,Shankar,2,2,0,0,,0,0,0,0,Krunal,1.0,0,5,2,Ravi Bishnoi,1.0,0,2,1
+GT,8,8.4,1,0,0,0,0,Shankar,Sharath,2,4,0,0,Shankar,2,2,0,0,Krunal,1.0,0,5,1,Ravi Bishnoi,1.0,0,2,1
+GT,8,8.3,1,0,0,0,0,Sharath,Sharath,2,4,0,0,Shankar,1,1,0,0,Krunal,1.0,0,4,1,Ravi Bishnoi,1.0,0,2,1
+GT,8,8.2,1,0,0,0,0,Shankar,Sharath,1,3,0,0,Shankar,1,1,0,0,Krunal,1.0,0,3,1,Ravi Bishnoi,1.0,0,2,1
+GT,8,8.1,0,0,0,1,0,B Sai Sudharsan,Sharath,1,3,0,0,,0,0,0,0,Krunal,1.0,0,2,1,Ravi Bishnoi,1.0,0,2,1
+GT,7,7.6,0,0,1,0,0,Sharath,B Sai Sudharsan,37,22,4,0,Sharath,1,3,0,0,Ravi Bishnoi,1.0,0,2,1,Krunal,1.0,0,2,0
+GT,7,7.5,1,0,0,0,0,B Sai Sudharsan,B Sai Sudharsan,37,22,4,0,Sharath,1,2,0,0,Ravi Bishnoi,0,0,2,1,Krunal,1.0,0,2,0
+GT,7,7.4,1,0,0,0,0,Sharath,B Sai Sudharsan,36,21,4,0,Sharath,1,2,0,0,Ravi Bishnoi,0,0,1,1,Krunal,1.0,0,2,0
+GT,7,7.3,0,0,1,0,0,Sharath,B Sai Sudharsan,36,21,4,0,Sharath,0,1,0,0,Ravi Bishnoi,0,0,0,1,Krunal,1.0,0,2,0
+GT,7,7.2,0,0,0,1,0,Williamson,B Sai Sudharsan,36,21,4,0,,0,0,0,0,Ravi Bishnoi,0,0,0,1,Krunal,1.0,0,2,0
+GT,7,7.1,0,0,1,0,0,Williamson,B Sai Sudharsan,36,21,4,0,Williamson,1,4,0,0,Ravi Bishnoi,0,0,0,0,Krunal,1.0,0,2,0
+GT,6,6.6,1,0,0,0,0,Williamson,B Sai Sudharsan,36,21,4,0,Williamson,1,3,0,0,Krunal,1.0,0,2,0,Thakur,1.0,0,7,1
+GT,6,6.5,0,0,1,0,0,Williamson,B Sai Sudharsan,36,21,4,0,Williamson,0,2,0,0,Krunal,0,0,1,0,Thakur,1.0,0,7,1
+GT,6,6.4,0,0,1,0,0,Williamson,B Sai Sudharsan,36,21,4,0,Williamson,0,1,0,0,Krunal,0,0,1,0,Thakur,1.0,0,7,1
+GT,6,6.3,1,0,0,0,0,B Sai Sudharsan,B Sai Sudharsan,36,21,4,0,,0,0,0,0,Krunal,0,0,1,0,Thakur,1.0,0,7,1
+GT,6,6.2,0,0,1,0,0,B Sai Sudharsan,B Sai Sudharsan,35,20,4,0,,0,0,0,0,Krunal,0,0,0,0,Thakur,1.0,0,7,1
+GT,6,6.1,0,0,1,0,0,B Sai Sudharsan,B Sai Sudharsan,35,19,4,0,,0,0,0,0,Krunal,0,0,0,0,Thakur,1.0,0,7,1
+GT,5,5.6,0,0,0,1,0,Gill,B Sai Sudharsan,35,18,4,0,,0,0,0,0,Thakur,1.0,0,7,1,Siddharth,3.0,0,19,0
+GT,5,5.5,0,0,1,0,0,Gill,B Sai Sudharsan,35,18,4,0,Gill,19,20,2,0,Thakur,0,0,7,0,Siddharth,3.0,0,19,0
+GT,5,5.4,1,0,0,0,0,B Sai Sudharsan,B Sai Sudharsan,35,18,4,0,Gill,19,19,2,0,Thakur,0,0,7,0,Siddharth,3.0,0,19,0
+GT,5,5.3,1,0,0,0,0,Gill,B Sai Sudharsan,34,17,4,0,Gill,19,19,2,0,Thakur,0,0,6,0,Siddharth,3.0,0,19,0
+GT,5,5.2,4,1,0,0,0,Gill,B Sai Sudharsan,34,17,4,0,Gill,18,18,2,0,Thakur,0,0,5,0,Siddharth,3.0,0,19,0
+GT,5,5.1,1,0,0,0,0,B Sai Sudharsan,B Sai Sudharsan,34,17,4,0,Gill,14,17,1,0,Thakur,0,0,1,0,Siddharth,3.0,0,19,0
+GT,4,4.6,1,0,0,0,0,B Sai Sudharsan,B Sai Sudharsan,33,16,4,0,Gill,14,17,1,0,Siddharth,3.0,0,19,0,Yadav,1.0,0,13,0
+GT,4,4.6,3,0,0,0,1,B Sai Sudharsan,B Sai Sudharsan,32,15,4,0,Gill,14,17,1,0,Siddharth,3.0,0,18,0,Yadav,1.0,0,13,0
+GT,4,4.5,1,0,0,0,0,Gill,B Sai Sudharsan,29,14,4,0,Gill,14,17,1,0,Siddharth,3.0,0,15,0,Yadav,1.0,0,13,0
+GT,4,4.4,0,0,1,0,0,Gill,B Sai Sudharsan,29,14,4,0,Gill,13,16,1,0,Siddharth,3.0,0,14,0,Yadav,1.0,0,13,0
+GT,4,4.4,2,0,0,0,1,B Sai Sudharsan,B Sai Sudharsan,29,14,4,0,Gill,13,15,1,0,Siddharth,2.0,0,14,0,Yadav,1.0,0,13,0
+GT,4,4.4,3,0,0,0,1,B Sai Sudharsan,B Sai Sudharsan,27,13,4,0,Gill,13,15,1,0,Siddharth,2.0,0,14,0,Yadav,1.0,0,13,0
+GT,4,4.3,1,0,0,0,0,Gill,B Sai Sudharsan,24,12,4,0,Gill,13,15,1,0,Siddharth,2.0,0,11,0,Yadav,1.0,0,13,0
+GT,4,4.2,0,0,1,0,0,Gill,B Sai Sudharsan,24,12,4,0,Gill,12,14,1,0,Siddharth,2.0,0,10,0,Yadav,1.0,0,13,0
+GT,4,4.1,1,0,0,0,0,B Sai Sudharsan,B Sai Sudharsan,24,12,4,0,Gill,12,13,1,0,Siddharth,2.0,0,10,0,Yadav,1.0,0,13,0
+GT,3,3.6,4,1,0,0,0,Gill,B Sai Sudharsan,23,11,4,0,Gill,12,13,1,0,Yadav,1.0,0,13,0,Siddharth,2.0,0,9,0
+GT,3,3.5,1,0,0,0,0,B Sai Sudharsan,B Sai Sudharsan,23,11,4,0,Gill,8,12,0,0,Yadav,0,0,9,0,Siddharth,2.0,0,9,0
+GT,3,3.4,4,1,0,0,0,B Sai Sudharsan,B Sai Sudharsan,22,10,4,0,Gill,8,12,0,0,Yadav,0,0,8,0,Siddharth,2.0,0,9,0
+GT,3,3.3,0,0,1,0,0,B Sai Sudharsan,B Sai Sudharsan,18,9,3,0,Gill,8,12,0,0,Yadav,0,0,4,0,Siddharth,2.0,0,9,0
+GT,3,3.2,0,0,1,0,0,B Sai Sudharsan,B Sai Sudharsan,18,8,3,0,Gill,8,12,0,0,Yadav,0,0,4,0,Siddharth,2.0,0,9,0
+GT,3,3.1,4,1,0,0,0,B Sai Sudharsan,B Sai Sudharsan,18,7,3,0,Gill,8,12,0,0,Yadav,0,0,4,0,Siddharth,2.0,0,9,0
+GT,2,2.6,2,0,0,0,0,Gill,B Sai Sudharsan,14,6,2,0,Gill,8,12,0,0,Siddharth,2.0,0,9,0,Haq,1.0,0,13,0
+GT,2,2.5,1,0,0,0,0,B Sai Sudharsan,B Sai Sudharsan,14,6,2,0,Gill,6,11,0,0,Siddharth,1.0,0,7,0,Haq,1.0,0,13,0
+GT,2,2.4,1,0,0,0,0,Gill,B Sai Sudharsan,13,5,2,0,Gill,6,11,0,0,Siddharth,1.0,0,6,0,Haq,1.0,0,13,0
+GT,2,2.3,0,0,1,0,0,Gill,B Sai Sudharsan,13,5,2,0,Gill,5,10,0,0,Siddharth,1.0,0,5,0,Haq,1.0,0,13,0
+GT,2,2.2,0,0,1,0,0,Gill,B Sai Sudharsan,13,5,2,0,Gill,5,9,0,0,Siddharth,1.0,0,5,0,Haq,1.0,0,13,0
+GT,2,2.1,0,0,1,0,0,Gill,B Sai Sudharsan,13,5,2,0,Gill,5,8,0,0,Siddharth,1.0,0,5,0,Haq,1.0,0,13,0
+GT,1,1.6,4,1,0,0,0,B Sai Sudharsan,B Sai Sudharsan,13,5,2,0,Gill,5,7,0,0,Haq,1.0,0,13,0,Siddharth,1.0,0,5,0
+GT,1,1.5,2,0,0,0,0,B Sai Sudharsan,B Sai Sudharsan,9,4,1,0,Gill,5,7,0,0,Haq,0,0,9,0,Siddharth,1.0,0,5,0
+GT,1,1.4,4,1,0,0,0,B Sai Sudharsan,B Sai Sudharsan,7,3,1,0,Gill,5,7,0,0,Haq,0,0,7,0,Siddharth,1.0,0,5,0
+GT,1,1.3,1,0,0,0,0,Gill,B Sai Sudharsan,3,2,0,0,Gill,5,7,0,0,Haq,0,0,3,0,Siddharth,1.0,0,5,0
+GT,1,1.2,0,0,1,0,0,Gill,B Sai Sudharsan,3,2,0,0,Gill,4,6,0,0,Haq,0,0,2,0,Siddharth,1.0,0,5,0
+GT,1,1.1,2,0,0,0,0,Gill,B Sai Sudharsan,3,2,0,0,Gill,4,5,0,0,Haq,0,0,2,0,Siddharth,1.0,0,5,0
+GT,0,0.6,1,0,0,0,0,Gill,B Sai Sudharsan,3,2,0,0,Gill,2,4,0,0,Siddharth,1.0,0,5,0,,0,0,0,0
+GT,0,0.5,0,0,1,0,0,Gill,B Sai Sudharsan,3,2,0,0,Gill,1,3,0,0,Siddharth,0,0,4,0,,0,0,0,0
+GT,0,0.5,2,0,0,0,1,B Sai Sudharsan,B Sai Sudharsan,3,2,0,0,Gill,1,2,0,0,Siddharth,0,0,4,0,,0,0,0,0
+GT,0,0.4,0,0,1,0,0,B Sai Sudharsan,B Sai Sudharsan,1,2,0,0,Gill,1,2,0,0,Siddharth,0,0,2,0,,0,0,0,0
+GT,0,0.3,1,0,0,0,0,Gill,B Sai Sudharsan,1,1,0,0,Gill,1,2,0,0,Siddharth,0,0,2,0,,0,0,0,0
+GT,0,0.2,0,0,1,0,0,Gill,B Sai Sudharsan,1,1,0,0,Gill,0,1,0,0,Siddharth,0,0,1,0,,0,0,0,0
+GT,0,0.1,1,0,0,0,0,B Sai Sudharsan,B Sai Sudharsan,1,1,0,0,,0,0,0,0,Siddharth,0,0,1,0,,0,0,0,0

@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+DC,19,19.1,3,0,2,1,0,Kuldeep,Patel,23,11,2,1,Nortje,2,4,0,0,Mohit,3.0,0,31,1,Rashid Khan,4.0,0,28,1
+DC,18,18.1,8,1,2,1,0,Nortje,Aman Khan,52,43,3,3,Patel,22,10,2,1,Rashid Khan,3.0,0,26,0,Mohit,3.0,0,30,1
+DC,17,17.1,12,1,1,0,0,Aman Khan,Aman Khan,43,39,3,2,Patel,15,8,2,0,Mohit,2.0,0,20,1,Little,3.0,0,27,0
+DC,16,16.1,16,3,0,0,0,Patel,Aman Khan,36,36,2,2,Patel,8,5,1,0,Little,2.0,0,15,0,Mohit,2.0,0,18,1
+DC,15,15.1,13,2,1,0,0,Patel,Aman Khan,25,32,1,1,Patel,3,3,0,0,Mohit,1.0,0,6,1,Noor Ahmad,4.0,0,20,0
+DC,14,14.1,5,0,3,0,1,Patel,Aman Khan,22,29,1,1,,0,0,0,0,Noor Ahmad,3.0,0,15,0,Mohit,1.0,0,5,1
+DC,13,13.1,5,0,1,1,0,Axar Patel,Axar Patel,26,26,2,1,Aman Khan,21,27,1,1,Mohit,0,0,1,0,Noor Ahmad,3.0,0,15,0
+DC,12,12.1,7,1,2,0,0,Aman Khan,Axar Patel,21,24,1,1,Aman Khan,19,23,1,1,Noor Ahmad,2.0,0,9,0,Rashid Khan,3.0,0,20,0
+DC,11,11.1,3,0,3,0,1,Aman Khan,Axar Patel,20,23,1,1,Aman Khan,16,18,1,1,Rashid Khan,2.0,0,18,0,Noor Ahmad,2.0,0,8,0
+DC,10,10.1,4,0,3,0,0,Aman Khan,Axar Patel,20,23,1,1,Aman Khan,13,12,1,1,Noor Ahmad,1.0,0,5,0,Rashid Khan,2.0,0,18,0
+DC,9,9.1,10,1,2,0,1,Axar Patel,Axar Patel,10,19,1,0,Aman Khan,12,10,1,1,Rashid Khan,1.0,0,8,0,Noor Ahmad,1.0,0,4,0
+DC,8,8.1,4,0,3,0,1,Axar Patel,Axar Patel,8,14,1,0,Aman Khan,11,9,1,1,Noor Ahmad,0,0,1,0,Rashid Khan,1.0,0,8,0
+DC,7,7.1,8,1,3,0,0,Aman Khan,Axar Patel,6,11,1,0,Aman Khan,5,6,1,0,Rashid Khan,0,0,1,0,Shami,4.0,0,11,4
+DC,6,6.1,4,1,5,0,0,Axar Patel,Axar Patel,2,6,0,0,Aman Khan,4,5,1,0,Shami,3.0,0,7,4,Little,2.0,0,11,0
+DC,5,5.1,5,1,4,0,0,Aman Khan,Warner,2,2,0,0,Axar Patel,2,5,0,0,Little,1.0,0,7,0,Shami,3.0,0,7,4
+DC,4,4.1,1,0,3,2,0,Garg,Warner,2,2,0,0,,0,0,0,0,Shami,2.0,0,6,3,Little,1.0,0,6,0
+DC,3,3.1,6,0,2,0,0,Garg,Warner,2,2,0,0,Pandey,0,1,0,0,Little,0,0,0,0,Shami,2.0,0,6,2
+DC,2,2.1,1,0,4,1,0,Pandey,Warner,2,2,0,0,Rossouw,8,4,2,0,Shami,1.0,0,5,1,Hardik,1.0,0,10,0
+DC,1,1.1,10,2,3,0,1,Rossouw,Garg,3,4,0,0,Warner,2,2,0,0,Hardik,0,0,0,0,Shami,1.0,0,5,1
+DC,0,0.1,5,0,3,1,0,Warner,,0,0,0,0,,0,0,0,0,Shami,0,0,0,1,,0,0,0,0

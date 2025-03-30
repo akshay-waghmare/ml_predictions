@@ -1,0 +1,130 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+CSK,19,19.6,1,0,0,0,0,Dhoni,Jadeja,21,7,3,1,Dhoni,7,4,0,0,Sakariya,4.0,0,36,1,Nortje,4.0,0,43,1
+CSK,19,19.6,1,0,0,0,1,Dhoni,Jadeja,21,7,3,1,Dhoni,6,3,0,0,Sakariya,4.0,0,35,1,Nortje,4.0,0,43,1
+CSK,19,19.6,3,0,0,0,1,Dhoni,Jadeja,21,7,3,1,Dhoni,5,3,0,0,Sakariya,4.0,0,34,1,Nortje,4.0,0,43,1
+CSK,19,19.5,1,0,0,0,0,Jadeja,Jadeja,21,7,3,1,Dhoni,2,2,0,0,Sakariya,3.0,0,31,1,Nortje,4.0,0,43,1
+CSK,19,19.4,0,0,1,0,0,Jadeja,Jadeja,20,6,3,1,Dhoni,2,2,0,0,Sakariya,3.0,0,30,1,Nortje,4.0,0,43,1
+CSK,19,19.4,1,0,0,0,1,Jadeja,Jadeja,20,5,3,1,Dhoni,2,2,0,0,Sakariya,3.0,0,30,1,Nortje,4.0,0,43,1
+CSK,19,19.3,4,1,0,0,0,Jadeja,Jadeja,19,5,3,1,Dhoni,2,2,0,0,Sakariya,3.0,0,29,1,Nortje,4.0,0,43,1
+CSK,19,19.2,4,1,0,0,0,Jadeja,Jadeja,15,4,2,1,Dhoni,2,2,0,0,Sakariya,3.0,0,25,1,Nortje,4.0,0,43,1
+CSK,19,19.1,1,0,0,0,0,Dhoni,Jadeja,11,3,1,1,Dhoni,2,2,0,0,Sakariya,3.0,0,21,1,Nortje,4.0,0,43,1
+CSK,18,18.6,4,1,0,0,0,Jadeja,Jadeja,11,3,1,1,Dhoni,1,1,0,0,Nortje,4.0,0,43,1,Khaleel Ahmed,4.0,0,45,1
+CSK,18,18.5,6,1,0,0,0,Jadeja,Jadeja,7,2,0,1,Dhoni,1,1,0,0,Nortje,3.0,0,39,1,Khaleel Ahmed,4.0,0,45,1
+CSK,18,18.4,1,0,0,0,0,Dhoni,Jadeja,1,1,0,0,Dhoni,1,1,0,0,Nortje,3.0,0,33,1,Khaleel Ahmed,4.0,0,45,1
+CSK,18,18.3,1,0,0,0,0,Jadeja,Jadeja,1,1,0,0,,0,0,0,0,Nortje,3.0,0,32,1,Khaleel Ahmed,4.0,0,45,1
+CSK,18,18.2,0,0,0,1,0,Conway,,0,0,0,0,,0,0,0,0,Nortje,3.0,0,31,1,Khaleel Ahmed,4.0,0,45,1
+CSK,18,18.1,0,0,1,0,0,Conway,Conway,90,51,11,3,,0,0,0,0,Nortje,3.0,0,31,0,Khaleel Ahmed,4.0,0,45,1
+CSK,17,17.6,0,0,0,1,0,Dube,Conway,90,50,11,3,,0,0,0,0,Khaleel Ahmed,4.0,0,45,1,Nortje,3.0,0,31,0
+CSK,17,17.5,0,0,1,0,0,Dube,Conway,90,50,11,3,Dube,25,8,0,3,Khaleel Ahmed,4.0,0,45,0,Nortje,3.0,0,31,0
+CSK,17,17.4,1,0,0,0,0,Conway,Conway,90,50,11,3,Dube,25,7,0,3,Khaleel Ahmed,3.0,0,45,0,Nortje,3.0,0,31,0
+CSK,17,17.4,1,0,0,0,1,Conway,Conway,89,49,11,3,Dube,25,7,0,3,Khaleel Ahmed,3.0,0,44,0,Nortje,3.0,0,31,0
+CSK,17,17.3,1,0,0,0,0,Dube,Conway,88,48,11,3,Dube,25,7,0,3,Khaleel Ahmed,3.0,0,43,0,Nortje,3.0,0,31,0
+CSK,17,17.2,6,1,0,0,0,Dube,Conway,88,48,11,3,Dube,24,6,0,3,Khaleel Ahmed,3.0,0,42,0,Nortje,3.0,0,31,0
+CSK,17,17.2,1,0,0,0,1,Dube,Conway,88,48,11,3,Dube,18,5,0,2,Khaleel Ahmed,3.0,0,36,0,Nortje,3.0,0,31,0
+CSK,17,17.1,6,1,0,0,0,Dube,Conway,88,48,11,3,Dube,17,5,0,2,Khaleel Ahmed,3.0,0,35,0,Nortje,3.0,0,31,0
+CSK,16,16.6,0,0,1,0,0,Conway,Conway,88,48,11,3,Dube,11,4,0,1,Nortje,3.0,0,31,0,Lalit Yadav,2.0,0,32,0
+CSK,16,16.5,1,0,0,0,0,Dube,Conway,88,47,11,3,Dube,11,4,0,1,Nortje,2.0,0,31,0,Lalit Yadav,2.0,0,32,0
+CSK,16,16.4,1,0,0,0,0,Conway,Conway,88,47,11,3,Dube,10,3,0,1,Nortje,2.0,0,30,0,Lalit Yadav,2.0,0,32,0
+CSK,16,16.3,6,1,0,0,0,Conway,Conway,87,46,11,3,Dube,10,3,0,1,Nortje,2.0,0,29,0,Lalit Yadav,2.0,0,32,0
+CSK,16,16.2,0,0,1,0,0,Conway,Conway,81,45,11,2,Dube,10,3,0,1,Nortje,2.0,0,23,0,Lalit Yadav,2.0,0,32,0
+CSK,16,16.1,4,1,0,0,0,Conway,Conway,81,44,11,2,Dube,10,3,0,1,Nortje,2.0,0,23,0,Lalit Yadav,2.0,0,32,0
+CSK,15,15.6,1,0,0,0,0,Conway,Conway,77,43,10,2,Dube,10,3,0,1,Lalit Yadav,2.0,0,32,0,Sakariya,3.0,0,20,1
+CSK,15,15.5,4,1,0,0,0,Conway,Conway,76,42,10,2,Dube,10,3,0,1,Lalit Yadav,1.0,0,31,0,Sakariya,3.0,0,20,1
+CSK,15,15.4,1,0,0,0,0,Dube,Conway,72,41,9,2,Dube,10,3,0,1,Lalit Yadav,1.0,0,27,0,Sakariya,3.0,0,20,1
+CSK,15,15.4,1,0,0,0,1,Dube,Conway,72,41,9,2,Dube,9,2,0,1,Lalit Yadav,1.0,0,26,0,Sakariya,3.0,0,20,1
+CSK,15,15.4,1,0,0,0,1,Dube,Conway,72,41,9,2,Dube,8,2,0,1,Lalit Yadav,1.0,0,25,0,Sakariya,3.0,0,20,1
+CSK,15,15.3,6,1,0,0,0,Dube,Conway,72,41,9,2,Dube,7,2,0,1,Lalit Yadav,1.0,0,24,0,Sakariya,3.0,0,20,1
+CSK,15,15.2,1,0,0,0,0,Conway,Conway,72,41,9,2,Dube,1,1,0,0,Lalit Yadav,1.0,0,18,0,Sakariya,3.0,0,20,1
+CSK,15,15.1,4,1,0,0,0,Conway,Conway,71,40,9,2,Dube,1,1,0,0,Lalit Yadav,1.0,0,17,0,Sakariya,3.0,0,20,1
+CSK,14,14.6,1,0,0,0,0,Conway,Conway,67,39,8,2,Dube,1,1,0,0,Sakariya,3.0,0,20,1,Khaleel Ahmed,3.0,0,29,0
+CSK,14,14.6,1,0,0,0,1,Conway,Conway,66,38,8,2,Dube,1,1,0,0,Sakariya,2.0,0,19,1,Khaleel Ahmed,3.0,0,29,0
+CSK,14,14.5,4,1,0,0,0,Conway,Conway,65,38,8,2,Dube,1,1,0,0,Sakariya,2.0,0,18,1,Khaleel Ahmed,3.0,0,29,0
+CSK,14,14.4,1,0,0,0,0,Dube,Conway,61,37,7,2,Dube,1,1,0,0,Sakariya,2.0,0,14,1,Khaleel Ahmed,3.0,0,29,0
+CSK,14,14.3,0,0,0,1,0,Gaikwad,Conway,61,37,7,2,,0,0,0,0,Sakariya,2.0,0,13,1,Khaleel Ahmed,3.0,0,29,0
+CSK,14,14.2,0,0,1,0,0,Gaikwad,Gaikwad,80,49,3,7,Conway,61,37,7,2,Sakariya,2.0,0,13,0,Khaleel Ahmed,3.0,0,29,0
+CSK,14,14.1,1,0,0,0,0,Conway,Gaikwad,80,48,3,7,Conway,61,37,7,2,Sakariya,2.0,0,13,0,Khaleel Ahmed,3.0,0,29,0
+CSK,13,13.6,0,0,1,0,0,Gaikwad,Gaikwad,80,48,3,7,Conway,60,36,7,2,Khaleel Ahmed,3.0,0,29,0,Nortje,2.0,0,19,0
+CSK,13,13.5,1,0,0,0,0,Conway,Gaikwad,80,47,3,7,Conway,60,36,7,2,Khaleel Ahmed,2.0,0,29,0,Nortje,2.0,0,19,0
+CSK,13,13.4,4,1,0,0,0,Conway,Gaikwad,80,47,3,7,Conway,59,35,7,2,Khaleel Ahmed,2.0,0,28,0,Nortje,2.0,0,19,0
+CSK,13,13.3,1,0,0,0,0,Gaikwad,Gaikwad,80,47,3,7,Conway,55,34,6,2,Khaleel Ahmed,2.0,0,24,0,Nortje,2.0,0,19,0
+CSK,13,13.2,1,0,0,0,0,Conway,Gaikwad,79,46,3,7,Conway,55,34,6,2,Khaleel Ahmed,2.0,0,23,0,Nortje,2.0,0,19,0
+CSK,13,13.1,6,1,0,0,0,Conway,Gaikwad,79,46,3,7,Conway,54,33,6,2,Khaleel Ahmed,2.0,0,22,0,Nortje,2.0,0,19,0
+CSK,12,12.6,6,1,0,0,0,Gaikwad,Gaikwad,79,46,3,7,Conway,48,32,6,1,Nortje,2.0,0,19,0,Kuldeep,3.0,0,34,0
+CSK,12,12.5,1,0,0,0,0,Conway,Gaikwad,73,45,3,6,Conway,48,32,6,1,Nortje,1.0,0,13,0,Kuldeep,3.0,0,34,0
+CSK,12,12.4,1,0,0,0,0,Gaikwad,Gaikwad,73,45,3,6,Conway,47,31,6,1,Nortje,1.0,0,12,0,Kuldeep,3.0,0,34,0
+CSK,12,12.3,1,0,0,0,0,Conway,Gaikwad,72,44,3,6,Conway,47,31,6,1,Nortje,1.0,0,11,0,Kuldeep,3.0,0,34,0
+CSK,12,12.2,1,0,0,0,0,Gaikwad,Gaikwad,72,44,3,6,Conway,46,30,6,1,Nortje,1.0,0,10,0,Kuldeep,3.0,0,34,0
+CSK,12,12.1,0,0,1,0,0,Gaikwad,Gaikwad,71,43,3,6,Conway,46,30,6,1,Nortje,1.0,0,9,0,Kuldeep,3.0,0,34,0
+CSK,11,11.6,0,0,1,0,0,Conway,Gaikwad,71,42,3,6,Conway,46,30,6,1,Kuldeep,3.0,0,34,0,Sakariya,2.0,0,12,0
+CSK,11,11.5,1,0,0,0,0,Gaikwad,Gaikwad,71,42,3,6,Conway,46,29,6,1,Kuldeep,2.0,0,34,0,Sakariya,2.0,0,12,0
+CSK,11,11.4,6,1,0,0,0,Gaikwad,Gaikwad,70,41,3,6,Conway,46,29,6,1,Kuldeep,2.0,0,33,0,Sakariya,2.0,0,12,0
+CSK,11,11.3,6,1,0,0,0,Gaikwad,Gaikwad,64,40,3,5,Conway,46,29,6,1,Kuldeep,2.0,0,27,0,Sakariya,2.0,0,12,0
+CSK,11,11.2,6,1,0,0,0,Gaikwad,Gaikwad,58,39,3,4,Conway,46,29,6,1,Kuldeep,2.0,0,21,0,Sakariya,2.0,0,12,0
+CSK,11,11.1,1,0,0,0,0,Conway,Gaikwad,52,38,3,3,Conway,46,29,6,1,Kuldeep,2.0,0,15,0,Sakariya,2.0,0,12,0
+CSK,10,10.6,1,0,0,0,0,Conway,Gaikwad,52,38,3,3,Conway,45,28,6,1,Sakariya,2.0,0,12,0,Axar Patel,3.0,0,32,0
+CSK,10,10.5,0,0,1,0,0,Conway,Gaikwad,52,38,3,3,Conway,44,27,6,1,Sakariya,1.0,0,11,0,Axar Patel,3.0,0,32,0
+CSK,10,10.4,0,0,1,0,0,Conway,Gaikwad,52,38,3,3,Conway,44,26,6,1,Sakariya,1.0,0,11,0,Axar Patel,3.0,0,32,0
+CSK,10,10.3,4,1,0,0,0,Conway,Gaikwad,52,38,3,3,Conway,44,25,6,1,Sakariya,1.0,0,11,0,Axar Patel,3.0,0,32,0
+CSK,10,10.2,4,1,0,0,0,Conway,Gaikwad,52,38,3,3,Conway,40,24,5,1,Sakariya,1.0,0,7,0,Axar Patel,3.0,0,32,0
+CSK,10,10.1,1,0,0,0,0,Gaikwad,Gaikwad,52,38,3,3,Conway,36,23,4,1,Sakariya,1.0,0,3,0,Axar Patel,3.0,0,32,0
+CSK,9,9.6,0,0,1,0,0,Conway,Gaikwad,51,37,3,3,Conway,36,23,4,1,Axar Patel,3.0,0,32,0,Kuldeep,2.0,0,14,0
+CSK,9,9.5,1,0,0,0,0,Gaikwad,Gaikwad,51,37,3,3,Conway,36,22,4,1,Axar Patel,2.0,0,32,0,Kuldeep,2.0,0,14,0
+CSK,9,9.4,6,1,0,0,0,Gaikwad,Gaikwad,50,36,3,3,Conway,36,22,4,1,Axar Patel,2.0,0,31,0,Kuldeep,2.0,0,14,0
+CSK,9,9.3,6,1,0,0,0,Gaikwad,Gaikwad,44,35,3,2,Conway,36,22,4,1,Axar Patel,2.0,0,25,0,Kuldeep,2.0,0,14,0
+CSK,9,9.2,1,0,0,0,0,Conway,Gaikwad,38,34,3,1,Conway,36,22,4,1,Axar Patel,2.0,0,19,0,Kuldeep,2.0,0,14,0
+CSK,9,9.1,1,0,0,0,0,Gaikwad,Gaikwad,38,34,3,1,Conway,35,21,4,1,Axar Patel,2.0,0,18,0,Kuldeep,2.0,0,14,0
+CSK,8,8.6,1,0,0,0,0,Gaikwad,Gaikwad,37,33,3,1,Conway,35,21,4,1,Kuldeep,2.0,0,14,0,Axar Patel,2.0,0,17,0
+CSK,8,8.5,1,0,0,0,0,Conway,Gaikwad,36,32,3,1,Conway,35,21,4,1,Kuldeep,1.0,0,13,0,Axar Patel,2.0,0,17,0
+CSK,8,8.4,1,0,0,0,0,Gaikwad,Gaikwad,36,32,3,1,Conway,34,20,4,1,Kuldeep,1.0,0,12,0,Axar Patel,2.0,0,17,0
+CSK,8,8.3,1,0,0,0,0,Conway,Gaikwad,35,31,3,1,Conway,34,20,4,1,Kuldeep,1.0,0,11,0,Axar Patel,2.0,0,17,0
+CSK,8,8.2,1,0,0,0,0,Gaikwad,Gaikwad,35,31,3,1,Conway,33,19,4,1,Kuldeep,1.0,0,10,0,Axar Patel,2.0,0,17,0
+CSK,8,8.1,1,0,0,0,0,Conway,Gaikwad,34,30,3,1,Conway,33,19,4,1,Kuldeep,1.0,0,9,0,Axar Patel,2.0,0,17,0
+CSK,7,7.6,2,0,0,0,0,Gaikwad,Gaikwad,34,30,3,1,Conway,32,18,4,1,Axar Patel,2.0,0,17,0,Kuldeep,1.0,0,8,0
+CSK,7,7.5,0,0,1,0,0,Gaikwad,Gaikwad,32,29,3,1,Conway,32,18,4,1,Axar Patel,1.0,0,15,0,Kuldeep,1.0,0,8,0
+CSK,7,7.4,0,0,1,0,0,Gaikwad,Gaikwad,32,28,3,1,Conway,32,18,4,1,Axar Patel,1.0,0,15,0,Kuldeep,1.0,0,8,0
+CSK,7,7.3,2,0,0,0,0,Gaikwad,Gaikwad,32,27,3,1,Conway,32,18,4,1,Axar Patel,1.0,0,15,0,Kuldeep,1.0,0,8,0
+CSK,7,7.2,1,0,0,0,0,Conway,Gaikwad,30,26,3,1,Conway,32,18,4,1,Axar Patel,1.0,0,13,0,Kuldeep,1.0,0,8,0
+CSK,7,7.1,1,0,0,0,0,Gaikwad,Gaikwad,30,26,3,1,Conway,31,17,4,1,Axar Patel,1.0,0,12,0,Kuldeep,1.0,0,8,0
+CSK,6,6.6,1,0,0,0,0,Gaikwad,Gaikwad,29,25,3,1,Conway,31,17,4,1,Kuldeep,1.0,0,8,0,Sakariya,1.0,0,2,0
+CSK,6,6.5,0,0,1,0,0,Gaikwad,Gaikwad,28,24,3,1,Conway,31,17,4,1,Kuldeep,0,0,7,0,Sakariya,1.0,0,2,0
+CSK,6,6.4,1,0,0,0,0,Conway,Gaikwad,28,23,3,1,Conway,31,17,4,1,Kuldeep,0,0,7,0,Sakariya,1.0,0,2,0
+CSK,6,6.3,1,0,0,0,0,Gaikwad,Gaikwad,28,23,3,1,Conway,30,16,4,1,Kuldeep,0,0,6,0,Sakariya,1.0,0,2,0
+CSK,6,6.2,4,1,0,0,0,Gaikwad,Gaikwad,27,22,3,1,Conway,30,16,4,1,Kuldeep,0,0,5,0,Sakariya,1.0,0,2,0
+CSK,6,6.1,1,0,0,0,0,Conway,Gaikwad,23,21,2,1,Conway,30,16,4,1,Kuldeep,0,0,1,0,Sakariya,1.0,0,2,0
+CSK,5,5.6,0,0,1,0,0,Gaikwad,Gaikwad,23,21,2,1,Conway,29,15,4,1,Sakariya,1.0,0,2,0,Nortje,1.0,0,9,0
+CSK,5,5.5,0,0,1,0,0,Gaikwad,Gaikwad,23,20,2,1,Conway,29,15,4,1,Sakariya,0,0,2,0,Nortje,1.0,0,9,0
+CSK,5,5.4,0,0,1,0,0,Gaikwad,Gaikwad,23,19,2,1,Conway,29,15,4,1,Sakariya,0,0,2,0,Nortje,1.0,0,9,0
+CSK,5,5.3,1,0,0,0,0,Conway,Gaikwad,23,18,2,1,Conway,29,15,4,1,Sakariya,0,0,2,0,Nortje,1.0,0,9,0
+CSK,5,5.2,1,0,0,0,0,Gaikwad,Gaikwad,23,18,2,1,Conway,28,14,4,1,Sakariya,0,0,1,0,Nortje,1.0,0,9,0
+CSK,5,5.1,0,0,1,0,0,Gaikwad,Gaikwad,22,17,2,1,Conway,28,14,4,1,Sakariya,0,0,0,0,Nortje,1.0,0,9,0
+CSK,4,4.6,0,0,1,0,0,Conway,Gaikwad,22,16,2,1,Conway,28,14,4,1,Nortje,1.0,0,9,0,Axar Patel,1.0,0,11,0
+CSK,4,4.5,0,0,1,0,0,Conway,Gaikwad,22,16,2,1,Conway,28,13,4,1,Nortje,0,0,9,0,Axar Patel,1.0,0,11,0
+CSK,4,4.4,4,1,0,0,0,Conway,Gaikwad,22,16,2,1,Conway,28,12,4,1,Nortje,0,0,9,0,Axar Patel,1.0,0,11,0
+CSK,4,4.3,4,1,0,0,0,Conway,Gaikwad,22,16,2,1,Conway,24,11,3,1,Nortje,0,0,5,0,Axar Patel,1.0,0,11,0
+CSK,4,4.2,1,0,0,0,0,Gaikwad,Gaikwad,22,16,2,1,Conway,20,10,2,1,Nortje,0,0,1,0,Axar Patel,1.0,0,11,0
+CSK,4,4.1,0,0,1,0,0,Gaikwad,Gaikwad,21,15,2,1,Conway,20,10,2,1,Nortje,0,0,0,0,Axar Patel,1.0,0,11,0
+CSK,3,3.6,1,0,0,0,0,Gaikwad,Gaikwad,21,14,2,1,Conway,20,10,2,1,Axar Patel,1.0,0,11,0,Khaleel Ahmed,2.0,0,16,0
+CSK,3,3.5,1,0,0,0,0,Conway,Gaikwad,20,13,2,1,Conway,20,10,2,1,Axar Patel,0,0,10,0,Khaleel Ahmed,2.0,0,16,0
+CSK,3,3.4,1,0,0,0,0,Gaikwad,Gaikwad,20,13,2,1,Conway,19,9,2,1,Axar Patel,0,0,9,0,Khaleel Ahmed,2.0,0,16,0
+CSK,3,3.3,6,1,0,0,0,Gaikwad,Gaikwad,19,12,2,1,Conway,19,9,2,1,Axar Patel,0,0,8,0,Khaleel Ahmed,2.0,0,16,0
+CSK,3,3.2,1,0,0,0,0,Conway,Gaikwad,13,11,2,0,Conway,19,9,2,1,Axar Patel,0,0,2,0,Khaleel Ahmed,2.0,0,16,0
+CSK,3,3.1,1,0,0,0,0,Gaikwad,Gaikwad,13,11,2,0,Conway,18,8,2,1,Axar Patel,0,0,1,0,Khaleel Ahmed,2.0,0,16,0
+CSK,2,2.6,4,1,0,0,0,Conway,Gaikwad,12,10,2,0,Conway,18,8,2,1,Khaleel Ahmed,2.0,0,16,0,Lalit Yadav,1.0,0,13,0
+CSK,2,2.5,4,1,0,0,0,Conway,Gaikwad,12,10,2,0,Conway,14,7,1,1,Khaleel Ahmed,1.0,0,12,0,Lalit Yadav,1.0,0,13,0
+CSK,2,2.4,0,0,1,0,0,Conway,Gaikwad,12,10,2,0,Conway,10,6,0,1,Khaleel Ahmed,1.0,0,8,0,Lalit Yadav,1.0,0,13,0
+CSK,2,2.3,1,0,0,0,0,Gaikwad,Gaikwad,12,10,2,0,Conway,10,5,0,1,Khaleel Ahmed,1.0,0,8,0,Lalit Yadav,1.0,0,13,0
+CSK,2,2.3,1,0,0,0,1,Gaikwad,Gaikwad,11,9,2,0,Conway,10,5,0,1,Khaleel Ahmed,1.0,0,7,0,Lalit Yadav,1.0,0,13,0
+CSK,2,2.2,0,0,1,0,0,Gaikwad,Gaikwad,10,9,2,0,Conway,10,5,0,1,Khaleel Ahmed,1.0,0,6,0,Lalit Yadav,1.0,0,13,0
+CSK,2,2.1,1,0,0,0,0,Conway,Gaikwad,10,8,2,0,Conway,10,5,0,1,Khaleel Ahmed,1.0,0,6,0,Lalit Yadav,1.0,0,13,0
+CSK,1,1.6,0,0,1,0,0,Gaikwad,Gaikwad,10,8,2,0,Conway,9,4,0,1,Lalit Yadav,1.0,0,13,0,Khaleel Ahmed,1.0,0,5,0
+CSK,1,1.5,1,0,0,0,0,Conway,Gaikwad,10,7,2,0,Conway,9,4,0,1,Lalit Yadav,0,0,13,0,Khaleel Ahmed,1.0,0,5,0
+CSK,1,1.4,6,1,0,0,0,Conway,Gaikwad,10,7,2,0,Conway,8,3,0,1,Lalit Yadav,0,0,12,0,Khaleel Ahmed,1.0,0,5,0
+CSK,1,1.3,1,0,0,0,0,Gaikwad,Gaikwad,10,7,2,0,Conway,2,2,0,0,Lalit Yadav,0,0,6,0,Khaleel Ahmed,1.0,0,5,0
+CSK,1,1.2,4,1,0,0,0,Gaikwad,Gaikwad,9,6,2,0,Conway,2,2,0,0,Lalit Yadav,0,0,5,0,Khaleel Ahmed,1.0,0,5,0
+CSK,1,1.1,1,0,0,0,0,Conway,Gaikwad,5,5,1,0,Conway,2,2,0,0,Lalit Yadav,0,0,1,0,Khaleel Ahmed,1.0,0,5,0
+CSK,0,0.6,0,0,1,0,0,Gaikwad,Gaikwad,5,5,1,0,Conway,1,1,0,0,Khaleel Ahmed,1.0,0,5,0,,0,0,0,0
+CSK,0,0.5,4,1,0,0,0,Gaikwad,Gaikwad,5,4,1,0,Conway,1,1,0,0,Khaleel Ahmed,0,0,5,0,,0,0,0,0
+CSK,0,0.4,0,0,1,0,0,Gaikwad,Gaikwad,1,3,0,0,Conway,1,1,0,0,Khaleel Ahmed,0,0,1,0,,0,0,0,0
+CSK,0,0.3,0,0,1,0,0,Gaikwad,Gaikwad,1,2,0,0,Conway,1,1,0,0,Khaleel Ahmed,0,0,1,0,,0,0,0,0
+CSK,0,0.2,1,0,0,0,1,Conway,Gaikwad,1,1,0,0,Conway,1,1,0,0,Khaleel Ahmed,0,0,1,0,,0,0,0,0
+CSK,0,0.1,1,0,0,0,0,Gaikwad,Gaikwad,1,1,0,0,,0,0,0,0,Khaleel Ahmed,0,0,1,0,,0,0,0,0

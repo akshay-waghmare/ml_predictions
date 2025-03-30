@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+MI,19,19.1,10,1,0,0,1,Madhwal,Bumrah,2,6,0,0,Madhwal,2,3,0,0,Avesh Khan,3.0,0,21,1,Burger,4.0,0,32,2
+MI,18,18.1,1,0,4,1,0,Bumrah,David,19,22,1,0,Bumrah,2,5,0,0,Burger,3.0,0,31,1,Avesh Khan,3.0,0,21,1
+MI,17,17.1,2,0,4,0,0,Bumrah,David,18,17,1,0,Bumrah,2,4,0,0,Avesh Khan,2.0,0,20,1,Chahal,4.0,1,11,3
+MI,16,16.1,1,0,4,1,0,Bumrah,David,18,17,1,0,Coetzee,5,7,0,0,Chahal,3.0,0,10,2,Boult,4.0,0,22,3
+MI,15,15.1,9,1,1,0,2,David,David,12,13,0,0,Coetzee,3,4,0,0,Boult,3.0,0,15,3,Ashwin,4.0,0,27,0
+MI,14,14.1,5,0,1,0,0,David,David,9,10,0,0,Coetzee,1,2,0,0,Ashwin,3.0,0,23,0,Chahal,3.0,0,10,2
+MI,13,13.1,2,0,3,1,0,Coetzee,Tilak Varma,33,28,0,2,David,7,7,0,0,Chahal,2.0,0,8,1,Ashwin,3.0,0,22,0
+MI,12,12.1,6,0,2,0,0,Tilak Varma,Tilak Varma,28,23,0,2,David,6,6,0,0,Ashwin,2.0,0,16,0,Avesh Khan,2.0,0,19,1
+MI,11,11.1,6,0,2,1,1,David,Tilak Varma,28,23,0,2,,0,0,0,0,Avesh Khan,1.0,0,13,1,Ashwin,2.0,0,16,0
+MI,10,10.1,6,0,2,0,1,Chawla,Tilak Varma,24,20,0,2,Chawla,2,3,0,0,Ashwin,1.0,0,11,0,Chahal,2.0,0,8,1
+MI,9,9.1,2,0,3,1,0,Tilak Varma,Tilak Varma,24,19,0,2,Hardik,34,19,6,0,Chahal,1.0,0,7,0,Ashwin,1.0,0,10,0
+MI,8,8.1,10,1,1,0,0,Hardik,Tilak Varma,22,16,0,2,Hardik,26,16,5,0,Ashwin,0,0,1,0,Chahal,1.0,0,6,0
+MI,7,7.1,6,1,3,0,0,Hardik,Tilak Varma,22,16,0,2,Hardik,20,10,4,0,Chahal,0,0,1,0,Avesh Khan,1.0,0,13,0
+MI,6,6.1,13,2,2,0,0,Hardik,Tilak Varma,12,11,0,1,Hardik,16,9,3,0,Avesh Khan,0,0,0,0,Burger,3.0,0,31,1
+MI,5,5.1,16,3,1,0,0,Hardik,Tilak Varma,12,10,0,1,Hardik,2,4,0,0,Burger,2.0,0,17,1,Boult,3.0,0,14,3
+MI,4,4.1,10,1,3,0,0,Tilak Varma,Tilak Varma,8,5,0,1,Hardik,0,3,0,0,Boult,2.0,0,10,3,Burger,2.0,0,15,1
+MI,3,3.1,4,1,4,1,0,Hardik,Ishan,14,12,1,1,Tilak Varma,2,4,0,0,Burger,1.0,0,11,0,Boult,2.0,0,4,3
+MI,2,2.1,3,0,3,1,0,Tilak Varma,Ishan,14,11,1,1,,0,0,0,0,Boult,1.0,0,2,2,Burger,1.0,0,11,0
+MI,1,1.1,12,2,3,0,2,Ishan,Ishan,7,5,0,1,,0,0,0,0,Burger,0,0,6,0,Boult,1.0,0,1,2
+MI,0,0.1,1,0,3,2,0,Naman Dhir,Ishan,0,1,0,0,,0,0,0,0,Boult,0,0,0,0,,0,0,0,0

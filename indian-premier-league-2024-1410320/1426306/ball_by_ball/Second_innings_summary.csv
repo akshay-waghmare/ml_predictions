@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+RCB,19,19.1,13,2,1,1,0,Lomror,Green,41,17,3,3,Maxwell,4,1,1,0,Thakur,3.0,0,49,1,Deshpande,4.0,0,49,1
+RCB,18,18.1,18,3,0,1,2,Maxwell,Green,38,15,3,3,Karthik,4,3,0,0,Deshpande,3.0,0,32,0,Thakur,3.0,0,48,1
+RCB,17,17.1,16,2,0,1,0,Karthik,du Plessis,54,39,3,3,Green,31,13,3,2,Thakur,2.0,0,38,0,Deshpande,3.0,0,31,0
+RCB,16,16.1,16,2,2,0,2,Patidar,du Plessis,54,39,3,3,Green,24,11,3,1,Deshpande,2.0,0,21,0,Thakur,2.0,0,32,0
+RCB,15,15.1,17,3,0,0,1,Green,du Plessis,54,39,3,3,Green,13,8,2,0,Thakur,1.0,0,20,0,Theekshana,4.0,0,25,0
+RCB,14,14.1,6,1,3,0,0,Green,du Plessis,54,39,3,3,Green,8,4,1,0,Theekshana,3.0,0,19,0,Simarjeet Singh,1.0,0,19,0
+RCB,13,13.1,19,3,0,0,2,Green,du Plessis,54,39,3,3,Green,1,1,0,0,Simarjeet Singh,0,0,1,0,Santner,4.0,0,23,2
+RCB,12,12.1,5,0,0,1,0,Patidar,du Plessis,52,37,3,3,Patidar,9,7,0,1,Santner,3.0,0,19,1,Theekshana,3.0,0,19,0
+RCB,11,11.1,10,1,1,0,0,du Plessis,du Plessis,49,34,3,3,Patidar,2,4,0,0,Theekshana,2.0,0,10,0,Jadeja,3.0,0,40,0
+RCB,10,10.1,20,3,0,0,0,du Plessis,du Plessis,32,30,2,1,Patidar,0,2,0,0,Jadeja,2.0,0,22,0,Santner,3.0,0,18,1
+RCB,9,9.1,8,1,2,1,0,Patidar,Kohli,42,27,3,3,du Plessis,29,28,2,1,Santner,2.0,0,11,0,Jadeja,2.0,0,20,0
+RCB,8,8.1,10,1,2,0,0,Kohli,Kohli,34,22,3,2,du Plessis,28,27,2,1,Jadeja,1.0,0,12,0,Santner,2.0,0,10,0
+RCB,7,7.1,8,1,2,0,0,du Plessis,Kohli,29,19,2,2,du Plessis,23,24,2,1,Santner,1.0,0,2,0,Jadeja,1.0,0,10,0
+RCB,6,6.1,10,1,0,0,0,Kohli,Kohli,23,15,1,2,du Plessis,20,22,2,1,Jadeja,0,0,1,0,Theekshana,2.0,0,9,0
+RCB,5,5.1,5,1,4,0,0,Kohli,Kohli,23,14,1,2,du Plessis,14,17,1,1,Theekshana,1.0,0,4,0,Santner,1.0,0,2,0
+RCB,4,4.1,2,0,4,0,0,Kohli,Kohli,22,12,1,2,du Plessis,13,13,1,1,Santner,0,0,0,0,Theekshana,1.0,0,4,0
+RCB,3,3.1,4,0,3,0,1,Kohli,Kohli,20,10,1,2,du Plessis,12,9,1,1,Theekshana,0,0,1,0,Deshpande,2.0,0,15,0
+RCB,2,2.1,13,2,3,0,0,Kohli,Kohli,12,4,1,1,du Plessis,12,9,1,1,Deshpande,1.0,0,8,0,Thakur,1.0,0,16,0
+RCB,1,1.1,16,3,1,0,0,du Plessis,Kohli,1,1,0,0,du Plessis,2,6,0,0,Thakur,0,0,1,0,Deshpande,1.0,0,2,0
+RCB,0,0.1,2,0,4,0,0,du Plessis,Kohli,1,1,0,0,,0,0,0,0,Deshpande,0,0,1,0,,0,0,0,0

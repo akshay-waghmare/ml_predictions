@@ -1,0 +1,120 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+RR,18,18.6,6,1,0,0,0,Powell,Powell,16,8,2,1,,0,0,0,0,Ferguson,4.0,0,37,1,Siraj,4.0,0,33,2
+RR,18,18.5,0,0,1,0,0,Powell,Powell,10,7,2,0,,0,0,0,0,Ferguson,3.0,0,31,1,Siraj,4.0,0,33,2
+RR,18,18.4,0,0,1,0,0,Powell,Powell,10,6,2,0,,0,0,0,0,Ferguson,3.0,0,31,1,Siraj,4.0,0,33,2
+RR,18,18.3,0,0,1,0,0,Powell,Powell,10,5,2,0,,0,0,0,0,Ferguson,3.0,0,31,1,Siraj,4.0,0,33,2
+RR,18,18.2,4,1,0,0,0,Powell,Powell,10,4,2,0,,0,0,0,0,Ferguson,3.0,0,31,1,Siraj,4.0,0,33,2
+RR,18,18.1,4,1,0,0,0,Powell,Powell,6,3,1,0,,0,0,0,0,Ferguson,3.0,0,27,1,Siraj,4.0,0,33,2
+RR,17,17.6,0,0,0,1,0,Hetmyer,Powell,2,2,0,0,,0,0,0,0,Siraj,4.0,0,33,2,Yash Dayal,3.0,0,37,0
+RR,17,17.5,1,0,0,0,0,Powell,Hetmyer,27,13,3,1,Powell,2,2,0,0,Siraj,3.0,0,33,1,Yash Dayal,3.0,0,37,0
+RR,17,17.4,1,0,0,0,0,Hetmyer,Hetmyer,27,13,3,1,Powell,1,1,0,0,Siraj,3.0,0,32,1,Yash Dayal,3.0,0,37,0
+RR,17,17.3,1,0,0,0,0,Powell,Hetmyer,26,12,3,1,Powell,1,1,0,0,Siraj,3.0,0,31,1,Yash Dayal,3.0,0,37,0
+RR,17,17.2,0,0,0,1,0,Parag,Jurel,8,8,1,0,Hetmyer,26,12,3,1,Siraj,3.0,0,30,1,Yash Dayal,3.0,0,37,0
+RR,17,17.2,1,0,0,0,1,Parag,Jurel,8,8,1,0,Hetmyer,26,12,3,1,Siraj,3.0,0,30,0,Yash Dayal,3.0,0,37,0
+RR,17,17.2,1,0,0,0,1,Parag,Jurel,8,8,1,0,Hetmyer,26,12,3,1,Siraj,3.0,0,29,0,Yash Dayal,3.0,0,37,0
+RR,17,17.1,1,0,0,0,0,Hetmyer,Jurel,8,8,1,0,Hetmyer,26,12,3,1,Siraj,3.0,0,28,0,Yash Dayal,3.0,0,37,0
+RR,16,16.6,0,0,1,0,0,Parag,Jurel,8,8,1,0,Hetmyer,25,11,3,1,Yash Dayal,3.0,0,37,0,Green,4.0,0,28,1
+RR,16,16.5,1,0,0,0,0,Hetmyer,Jurel,8,8,1,0,Hetmyer,25,11,3,1,Yash Dayal,2.0,0,37,0,Green,4.0,0,28,1
+RR,16,16.4,4,1,0,0,0,Hetmyer,Jurel,8,8,1,0,Hetmyer,24,10,3,1,Yash Dayal,2.0,0,36,0,Green,4.0,0,28,1
+RR,16,16.3,4,1,0,0,0,Hetmyer,Jurel,8,8,1,0,Hetmyer,20,9,2,1,Yash Dayal,2.0,0,32,0,Green,4.0,0,28,1
+RR,16,16.2,1,0,0,0,0,Parag,Jurel,8,8,1,0,Hetmyer,16,8,1,1,Yash Dayal,2.0,0,28,0,Green,4.0,0,28,1
+RR,16,16.1,1,0,0,0,0,Hetmyer,Jurel,8,8,1,0,Hetmyer,16,8,1,1,Yash Dayal,2.0,0,27,0,Green,4.0,0,28,1
+RR,15,15.6,0,0,1,0,0,Parag,Jurel,8,8,1,0,Hetmyer,15,7,1,1,Green,4.0,0,28,1,Siraj,3.0,0,27,0
+RR,15,15.5,0,0,1,0,0,Parag,Jurel,8,8,1,0,Hetmyer,15,7,1,1,Green,3.0,0,28,1,Siraj,3.0,0,27,0
+RR,15,15.4,4,1,0,0,0,Parag,Jurel,8,8,1,0,Hetmyer,15,7,1,1,Green,3.0,0,28,1,Siraj,3.0,0,27,0
+RR,15,15.3,6,1,0,0,0,Parag,Jurel,8,8,1,0,Hetmyer,15,7,1,1,Green,3.0,0,24,1,Siraj,3.0,0,27,0
+RR,15,15.2,1,0,0,0,0,Hetmyer,Jurel,8,8,1,0,Hetmyer,15,7,1,1,Green,3.0,0,18,1,Siraj,3.0,0,27,0
+RR,15,15.1,6,1,0,0,0,Hetmyer,Jurel,8,8,1,0,Hetmyer,14,6,1,1,Green,3.0,0,17,1,Siraj,3.0,0,27,0
+RR,14,14.6,1,0,0,0,0,Hetmyer,Jurel,8,8,1,0,Hetmyer,8,5,1,0,Siraj,3.0,0,27,0,Green,3.0,0,11,1
+RR,14,14.6,1,0,0,0,1,Hetmyer,Jurel,8,8,1,0,Hetmyer,7,4,1,0,Siraj,2.0,0,26,0,Green,3.0,0,11,1
+RR,14,14.5,4,1,0,0,0,Hetmyer,Jurel,8,8,1,0,Hetmyer,6,4,1,0,Siraj,2.0,0,25,0,Green,3.0,0,11,1
+RR,14,14.4,1,0,0,0,0,Parag,Jurel,8,8,1,0,Hetmyer,2,3,0,0,Siraj,2.0,0,21,0,Green,3.0,0,11,1
+RR,14,14.3,2,0,0,0,0,Parag,Jurel,8,8,1,0,Hetmyer,2,3,0,0,Siraj,2.0,0,20,0,Green,3.0,0,11,1
+RR,14,14.2,1,0,0,0,0,Hetmyer,Jurel,8,8,1,0,Hetmyer,2,3,0,0,Siraj,2.0,0,18,0,Green,3.0,0,11,1
+RR,14,14.1,1,0,0,0,0,Parag,Jurel,8,8,1,0,Hetmyer,1,2,0,0,Siraj,2.0,0,17,0,Green,3.0,0,11,1
+RR,13,13.6,1,0,0,0,0,Parag,Jurel,8,8,1,0,Hetmyer,1,2,0,0,Green,3.0,0,11,1,Ferguson,3.0,0,23,1
+RR,13,13.5,1,0,0,0,0,Hetmyer,Jurel,8,8,1,0,Hetmyer,1,2,0,0,Green,2.0,0,10,1,Ferguson,3.0,0,23,1
+RR,13,13.4,0,0,1,0,0,Hetmyer,Jurel,8,8,1,0,Hetmyer,0,1,0,0,Green,2.0,0,9,1,Ferguson,3.0,0,23,1
+RR,13,13.3,1,0,0,0,0,Parag,Parag,21,15,1,1,Jurel,8,8,1,0,Green,2.0,0,9,1,Ferguson,3.0,0,23,1
+RR,13,13.2,0,0,1,0,0,Parag,Parag,20,14,1,1,Jurel,8,8,1,0,Green,2.0,0,8,1,Ferguson,3.0,0,23,1
+RR,13,13.1,1,0,0,0,0,Parag,Parag,20,13,1,1,Jurel,8,8,1,0,Green,2.0,0,8,1,Ferguson,3.0,0,23,1
+RR,12,12.6,1,0,0,0,0,Parag,Parag,19,12,1,1,Jurel,8,8,1,0,Ferguson,3.0,0,23,1,Green,2.0,0,7,1
+RR,12,12.5,0,0,1,0,0,Parag,Parag,18,11,1,1,Jurel,8,8,1,0,Ferguson,2.0,0,22,1,Green,2.0,0,7,1
+RR,12,12.4,6,1,0,0,0,Parag,Parag,18,10,1,1,Jurel,8,8,1,0,Ferguson,2.0,0,22,1,Green,2.0,0,7,1
+RR,12,12.3,1,0,0,0,0,Jurel,Parag,12,9,1,0,Jurel,8,8,1,0,Ferguson,2.0,0,16,1,Green,2.0,0,7,1
+RR,12,12.2,0,0,1,0,0,Jurel,Parag,12,9,1,0,Jurel,7,7,1,0,Ferguson,2.0,0,15,1,Green,2.0,0,7,1
+RR,12,12.1,3,0,0,0,0,Parag,Parag,12,9,1,0,Jurel,7,6,1,0,Ferguson,2.0,0,15,1,Green,2.0,0,7,1
+RR,11,11.6,0,0,1,0,0,Jurel,Parag,9,8,1,0,Jurel,7,6,1,0,Green,2.0,0,7,1,Karn,2.0,0,19,0
+RR,11,11.5,1,0,0,0,0,Parag,Parag,9,8,1,0,Jurel,7,5,1,0,Green,1.0,0,7,1,Karn,2.0,0,19,0
+RR,11,11.4,0,0,1,0,0,Parag,Parag,8,7,1,0,Jurel,7,5,1,0,Green,1.0,0,6,1,Karn,2.0,0,19,0
+RR,11,11.3,0,0,1,0,0,Parag,Parag,8,6,1,0,Jurel,7,5,1,0,Green,1.0,0,6,1,Karn,2.0,0,19,0
+RR,11,11.2,1,0,0,0,0,Jurel,Parag,8,5,1,0,Jurel,7,5,1,0,Green,1.0,0,6,1,Karn,2.0,0,19,0
+RR,11,11.1,0,0,1,0,0,Jurel,Parag,8,5,1,0,Jurel,6,4,1,0,Green,1.0,0,5,1,Karn,2.0,0,19,0
+RR,10,10.6,1,0,0,0,0,Jurel,Parag,8,5,1,0,Jurel,6,3,1,0,Karn,2.0,0,19,0,Green,1.0,0,5,1
+RR,10,10.5,1,0,0,0,0,Parag,Parag,8,5,1,0,Jurel,5,2,1,0,Karn,1.0,0,18,0,Green,1.0,0,5,1
+RR,10,10.5,1,0,0,0,1,Parag,Parag,7,4,1,0,Jurel,5,2,1,0,Karn,1.0,0,17,0,Green,1.0,0,5,1
+RR,10,10.4,0,0,1,0,0,Parag,Parag,6,4,1,0,Jurel,5,2,1,0,Karn,1.0,0,16,0,Green,1.0,0,5,1
+RR,10,10.3,4,1,0,0,0,Parag,Parag,6,3,1,0,Jurel,5,2,1,0,Karn,1.0,0,16,0,Green,1.0,0,5,1
+RR,10,10.2,1,0,0,0,0,Jurel,Parag,2,2,0,0,Jurel,5,2,1,0,Karn,1.0,0,12,0,Green,1.0,0,5,1
+RR,10,10.1,4,1,0,0,0,Jurel,Parag,2,2,0,0,Jurel,4,1,1,0,Karn,1.0,0,11,0,Green,1.0,0,5,1
+RR,10,10.1,1,0,0,0,1,Samson,Samson,18,13,0,1,Parag,2,2,0,0,Karn,1.0,0,7,0,Green,1.0,0,5,1
+RR,9,9.6,1,0,0,0,0,Samson,Samson,17,13,0,1,Parag,2,2,0,0,Green,1.0,0,5,1,Karn,1.0,0,6,0
+RR,9,9.5,1,0,0,0,0,Parag,Samson,16,12,0,1,Parag,2,2,0,0,Green,0,0,4,1,Karn,1.0,0,6,0
+RR,9,9.4,1,0,0,0,0,Samson,Samson,16,12,0,1,Parag,1,1,0,0,Green,0,0,3,1,Karn,1.0,0,6,0
+RR,9,9.3,1,0,0,0,0,Parag,Samson,15,11,0,1,Parag,1,1,0,0,Green,0,0,2,1,Karn,1.0,0,6,0
+RR,9,9.2,0,0,0,1,0,Jaiswal,Samson,15,11,0,1,,0,0,0,0,Green,0,0,1,1,Karn,1.0,0,6,0
+RR,9,9.1,1,0,0,0,0,Samson,Jaiswal,45,29,8,0,Samson,15,11,0,1,Green,0,0,1,0,Karn,1.0,0,6,0
+RR,8,8.6,1,0,0,0,0,Samson,Jaiswal,45,29,8,0,Samson,14,10,0,1,Karn,1.0,0,6,0,Ferguson,2.0,0,12,1
+RR,8,8.5,1,0,0,0,0,Jaiswal,Jaiswal,45,29,8,0,Samson,13,9,0,1,Karn,0,0,5,0,Ferguson,2.0,0,12,1
+RR,8,8.4,1,0,0,0,0,Samson,Jaiswal,44,28,8,0,Samson,13,9,0,1,Karn,0,0,4,0,Ferguson,2.0,0,12,1
+RR,8,8.3,1,0,0,0,0,Jaiswal,Jaiswal,44,28,8,0,Samson,12,8,0,1,Karn,0,0,3,0,Ferguson,2.0,0,12,1
+RR,8,8.2,1,0,0,0,0,Samson,Jaiswal,43,27,8,0,Samson,12,8,0,1,Karn,0,0,2,0,Ferguson,2.0,0,12,1
+RR,8,8.1,1,0,0,0,0,Jaiswal,Jaiswal,43,27,8,0,Samson,11,7,0,1,Karn,0,0,1,0,Ferguson,2.0,0,12,1
+RR,7,7.6,1,0,0,0,0,Jaiswal,Jaiswal,42,26,8,0,Samson,11,7,0,1,Ferguson,2.0,0,12,1,Swapnil,2.0,0,19,0
+RR,7,7.5,2,0,0,0,0,Jaiswal,Jaiswal,41,25,8,0,Samson,11,7,0,1,Ferguson,1.0,0,11,1,Swapnil,2.0,0,19,0
+RR,7,7.4,1,0,0,0,0,Samson,Jaiswal,39,24,8,0,Samson,11,7,0,1,Ferguson,1.0,0,9,1,Swapnil,2.0,0,19,0
+RR,7,7.3,1,0,0,0,0,Jaiswal,Jaiswal,39,24,8,0,Samson,10,6,0,1,Ferguson,1.0,0,8,1,Swapnil,2.0,0,19,0
+RR,7,7.2,4,1,0,0,0,Jaiswal,Jaiswal,38,23,8,0,Samson,10,6,0,1,Ferguson,1.0,0,7,1,Swapnil,2.0,0,19,0
+RR,7,7.1,1,0,0,0,0,Samson,Jaiswal,34,22,7,0,Samson,10,6,0,1,Ferguson,1.0,0,3,1,Swapnil,2.0,0,19,0
+RR,6,6.6,4,1,0,0,0,Jaiswal,Jaiswal,34,22,7,0,Samson,9,5,0,1,Swapnil,2.0,0,19,0,Ferguson,1.0,0,2,1
+RR,6,6.5,4,1,0,0,0,Jaiswal,Jaiswal,30,21,6,0,Samson,9,5,0,1,Swapnil,1.0,0,15,0,Ferguson,1.0,0,2,1
+RR,6,6.4,1,0,0,0,0,Samson,Jaiswal,26,20,5,0,Samson,9,5,0,1,Swapnil,1.0,0,11,0,Ferguson,1.0,0,2,1
+RR,6,6.3,1,0,0,0,0,Jaiswal,Jaiswal,26,20,5,0,Samson,8,4,0,1,Swapnil,1.0,0,10,0,Ferguson,1.0,0,2,1
+RR,6,6.2,1,0,0,0,0,Samson,Jaiswal,25,19,5,0,Samson,8,4,0,1,Swapnil,1.0,0,9,0,Ferguson,1.0,0,2,1
+RR,6,6.1,6,1,0,0,0,Samson,Jaiswal,25,19,5,0,Samson,7,3,0,1,Swapnil,1.0,0,8,0,Ferguson,1.0,0,2,1
+RR,5,5.6,0,0,1,0,0,Jaiswal,Jaiswal,25,19,5,0,Samson,1,2,0,0,Ferguson,1.0,0,2,1,Yash Dayal,2.0,0,26,0
+RR,5,5.5,1,0,0,0,0,Samson,Jaiswal,25,18,5,0,Samson,1,2,0,0,Ferguson,0,0,2,1,Yash Dayal,2.0,0,26,0
+RR,5,5.4,0,0,1,0,0,Samson,Jaiswal,25,18,5,0,Samson,0,1,0,0,Ferguson,0,0,1,1,Yash Dayal,2.0,0,26,0
+RR,5,5.3,0,0,0,1,0,Kohler,Jaiswal,25,18,5,0,,0,0,0,0,Ferguson,0,0,1,1,Yash Dayal,2.0,0,26,0
+RR,5,5.2,1,0,0,0,0,Jaiswal,Jaiswal,25,18,5,0,Kohler,21,14,4,0,Ferguson,0,0,1,0,Yash Dayal,2.0,0,26,0
+RR,5,5.1,0,0,1,0,0,Jaiswal,Jaiswal,24,17,5,0,Kohler,21,14,4,0,Ferguson,0,0,0,0,Yash Dayal,2.0,0,26,0
+RR,4,4.6,4,1,0,0,0,Kohler,Jaiswal,24,16,5,0,Kohler,21,14,4,0,Yash Dayal,2.0,0,26,0,Siraj,2.0,0,16,0
+RR,4,4.5,0,0,1,0,0,Kohler,Jaiswal,24,16,5,0,Kohler,17,13,3,0,Yash Dayal,1.0,0,22,0,Siraj,2.0,0,16,0
+RR,4,4.4,4,1,0,0,0,Kohler,Jaiswal,24,16,5,0,Kohler,17,12,3,0,Yash Dayal,1.0,0,22,0,Siraj,2.0,0,16,0
+RR,4,4.3,0,0,1,0,0,Kohler,Jaiswal,24,16,5,0,Kohler,13,11,2,0,Yash Dayal,1.0,0,18,0,Siraj,2.0,0,16,0
+RR,4,4.2,1,0,0,0,0,Jaiswal,Jaiswal,24,16,5,0,Kohler,13,10,2,0,Yash Dayal,1.0,0,18,0,Siraj,2.0,0,16,0
+RR,4,4.1,1,0,0,0,0,Kohler,Jaiswal,23,15,5,0,Kohler,13,10,2,0,Yash Dayal,1.0,0,17,0,Siraj,2.0,0,16,0
+RR,3,3.6,0,0,1,0,0,Jaiswal,Jaiswal,23,15,5,0,Kohler,12,9,2,0,Siraj,2.0,0,16,0,Yash Dayal,1.0,0,16,0
+RR,3,3.5,4,1,0,0,0,Jaiswal,Jaiswal,23,14,5,0,Kohler,12,9,2,0,Siraj,1.0,0,16,0,Yash Dayal,1.0,0,16,0
+RR,3,3.4,0,0,1,0,0,Jaiswal,Jaiswal,19,13,4,0,Kohler,12,9,2,0,Siraj,1.0,0,12,0,Yash Dayal,1.0,0,16,0
+RR,3,3.3,1,0,0,0,0,Kohler,Jaiswal,19,12,4,0,Kohler,12,9,2,0,Siraj,1.0,0,12,0,Yash Dayal,1.0,0,16,0
+RR,3,3.2,4,1,0,0,0,Kohler,Jaiswal,19,12,4,0,Kohler,11,8,2,0,Siraj,1.0,0,11,0,Yash Dayal,1.0,0,16,0
+RR,3,3.1,4,1,0,0,0,Kohler,Jaiswal,19,12,4,0,Kohler,7,7,1,0,Siraj,1.0,0,7,0,Yash Dayal,1.0,0,16,0
+RR,2,2.6,4,1,0,0,0,Jaiswal,Jaiswal,19,12,4,0,Kohler,3,6,0,0,Yash Dayal,1.0,0,16,0,Siraj,1.0,0,3,0
+RR,2,2.5,4,1,0,0,0,Jaiswal,Jaiswal,15,11,3,0,Kohler,3,6,0,0,Yash Dayal,0,0,12,0,Siraj,1.0,0,3,0
+RR,2,2.4,0,0,1,0,0,Jaiswal,Jaiswal,11,10,2,0,Kohler,3,6,0,0,Yash Dayal,0,0,8,0,Siraj,1.0,0,3,0
+RR,2,2.3,4,1,0,0,0,Jaiswal,Jaiswal,11,9,2,0,Kohler,3,6,0,0,Yash Dayal,0,0,8,0,Siraj,1.0,0,3,0
+RR,2,2.2,4,1,0,0,0,Jaiswal,Jaiswal,7,8,1,0,Kohler,3,6,0,0,Yash Dayal,0,0,4,0,Siraj,1.0,0,3,0
+RR,2,2.1,0,0,1,0,0,Jaiswal,Jaiswal,3,7,0,0,Kohler,3,6,0,0,Yash Dayal,0,0,0,0,Siraj,1.0,0,3,0
+RR,1,1.6,1,0,0,0,0,Jaiswal,Jaiswal,3,6,0,0,Kohler,3,6,0,0,Siraj,1.0,0,3,0,Swapnil,1.0,0,2,0
+RR,1,1.5,1,0,0,0,1,Kohler,Jaiswal,2,5,0,0,Kohler,3,6,0,0,Siraj,0,0,2,0,Swapnil,1.0,0,2,0
+RR,1,1.4,0,0,1,0,0,Kohler,Jaiswal,2,5,0,0,Kohler,2,5,0,0,Siraj,0,0,2,0,Swapnil,1.0,0,2,0
+RR,1,1.3,1,0,0,0,0,Jaiswal,Jaiswal,2,5,0,0,Kohler,2,4,0,0,Siraj,0,0,2,0,Swapnil,1.0,0,2,0
+RR,1,1.2,1,0,0,0,0,Kohler,Jaiswal,1,4,0,0,Kohler,2,4,0,0,Siraj,0,0,1,0,Swapnil,1.0,0,2,0
+RR,1,1.1,0,0,1,0,0,Kohler,Jaiswal,1,4,0,0,Kohler,1,3,0,0,Siraj,0,0,0,0,Swapnil,1.0,0,2,0
+RR,0,0.6,0,0,1,0,0,Jaiswal,Jaiswal,1,4,0,0,Kohler,1,2,0,0,Swapnil,1.0,0,2,0,,0,0,0,0
+RR,0,0.5,1,0,0,0,0,Kohler,Jaiswal,1,3,0,0,Kohler,1,2,0,0,Swapnil,0,0,2,0,,0,0,0,0
+RR,0,0.4,0,0,1,0,0,Kohler,Jaiswal,1,3,0,0,Kohler,0,1,0,0,Swapnil,0,0,1,0,,0,0,0,0
+RR,0,0.3,1,0,0,0,0,Jaiswal,Jaiswal,1,3,0,0,,0,0,0,0,Swapnil,0,0,1,0,,0,0,0,0
+RR,0,0.2,0,0,1,0,0,Jaiswal,Jaiswal,0,2,0,0,,0,0,0,0,Swapnil,0,0,0,0,,0,0,0,0
+RR,0,0.1,0,0,1,0,0,Jaiswal,Jaiswal,0,1,0,0,,0,0,0,0,Swapnil,0,0,0,0,,0,0,0,0

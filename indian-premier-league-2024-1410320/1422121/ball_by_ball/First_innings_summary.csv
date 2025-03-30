@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+SRH,19,19.1,8,1,1,2,0,Cummins,Klaasen,63,27,0,8,Shahbaz Ahmed,16,4,1,2,Harshit Rana,3.0,0,31,1,Starc,4.0,0,53,0
+SRH,18,18.1,26,4,1,0,1,Shahbaz Ahmed,Klaasen,43,22,0,5,Shahbaz Ahmed,10,3,1,1,Starc,3.0,0,33,0,Varun,4.0,0,55,1
+SRH,17,17.1,21,3,1,0,0,Shahbaz Ahmed,Klaasen,28,18,0,3,Shahbaz Ahmed,4,1,1,0,Varun,3.0,0,40,1,Russell,2.0,0,25,2
+SRH,16,16.1,16,3,0,1,0,Shahbaz Ahmed,Klaasen,21,16,0,2,Abdul Samad,10,8,0,1,Russell,1.0,0,15,1,Starc,3.0,0,27,0
+SRH,15,15.1,5,0,2,0,0,Abdul Samad,Klaasen,18,12,0,2,Abdul Samad,3,6,0,0,Starc,2.0,0,23,0,Varun,3.0,0,34,1
+SRH,14,14.1,13,2,3,0,0,Klaasen,Klaasen,6,7,0,0,Abdul Samad,2,5,0,0,Varun,2.0,0,22,1,Suyash Sharma,2.0,0,18,0
+SRH,13,13.1,4,0,3,0,0,Klaasen,Klaasen,3,5,0,0,Abdul Samad,0,1,0,0,Suyash Sharma,1.0,0,14,0,Narine,4.0,0,19,1
+SRH,12,12.1,3,0,2,1,0,Abdul Samad,Tripathi,20,17,0,1,Klaasen,2,3,0,0,Narine,3.0,0,17,0,Varun,2.0,0,21,1
+SRH,11,11.1,3,0,2,1,0,Klaasen,Tripathi,19,16,0,1,Markram,18,11,2,0,Varun,1.0,0,19,0,Narine,3.0,0,16,0
+SRH,10,10.1,6,0,1,0,0,Markram,Tripathi,15,13,0,1,Markram,15,8,2,0,Narine,2.0,0,10,0,Suyash Sharma,1.0,0,14,0
+SRH,9,9.1,14,2,0,0,0,Tripathi,Tripathi,7,9,0,0,Markram,10,6,1,0,Suyash Sharma,0,0,1,0,Narine,2.0,0,10,0
+SRH,8,8.1,8,0,0,0,0,Markram,Tripathi,4,7,0,0,Markram,5,2,1,0,Narine,1.0,0,3,0,Russell,1.0,0,9,1
+SRH,7,7.1,10,2,1,1,1,Tripathi,Abhishek,32,18,4,2,Tripathi,2,4,0,0,Russell,0,0,4,0,Narine,1.0,0,2,0
+SRH,6,6.1,2,0,4,0,0,Tripathi,Abhishek,27,14,3,2,Tripathi,2,2,0,0,Narine,0,0,1,0,Harshit Rana,3.0,0,25,1
+SRH,5,5.1,7,1,2,1,0,Abhishek,Agarwal,37,19,4,1,Abhishek,23,12,2,2,Harshit Rana,2.0,0,20,0,Varun,1.0,0,18,0
+SRH,4,4.1,18,3,1,0,0,Abhishek,Agarwal,34,17,4,1,Abhishek,6,8,1,0,Varun,0,0,0,0,Harshit Rana,2.0,0,18,0
+SRH,3,3.1,13,2,2,0,0,Agarwal,Agarwal,22,12,3,0,Abhishek,6,7,1,0,Harshit Rana,1.0,0,6,0,Starc,2.0,0,22,0
+SRH,2,2.1,10,2,2,0,0,Agarwal,Agarwal,18,11,2,0,Abhishek,0,2,0,0,Starc,1.0,0,13,0,Harshit Rana,1.0,0,5,0
+SRH,1,1.1,5,1,4,0,0,Abhishek,Agarwal,12,7,1,0,,0,0,0,0,Harshit Rana,0,0,0,0,Starc,1.0,0,12,0
+SRH,0,0.1,12,1,3,0,1,Agarwal,Agarwal,0,1,0,0,,0,0,0,0,Starc,0,0,0,0,,0,0,0,0

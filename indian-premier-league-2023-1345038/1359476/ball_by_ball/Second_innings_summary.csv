@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+PBKS,19,19.1,15,2,1,0,0,Sam Curran,Sam Curran,17,13,0,1,Shahrukh Khan,10,6,2,0,Southee,3.0,0,43,2,Thakur,4.0,0,43,0
+PBKS,18,18.1,8,1,1,0,0,Shahrukh Khan,Sam Curran,16,12,0,1,Shahrukh Khan,0,1,0,0,Thakur,3.0,0,36,0,Narine,4.0,0,40,1
+PBKS,17,17.1,4,0,2,1,0,Shahrukh Khan,Raza,16,11,1,1,Sam Curran,12,9,0,1,Narine,3.0,0,37,0,Varun,4.0,0,26,1
+PBKS,16,16.1,11,1,1,0,1,Sam Curran,Raza,13,8,1,1,Sam Curran,4,5,0,0,Varun,3.0,0,16,1,Thakur,3.0,0,35,0
+PBKS,15,15.1,10,1,2,0,0,Raza,Raza,7,5,1,0,Sam Curran,0,3,0,0,Thakur,2.0,0,26,0,Varun,3.0,0,15,1
+PBKS,14,14.1,1,0,4,1,0,Sam Curran,S Dhawan,42,28,5,0,Raza,5,3,1,0,Varun,2.0,0,14,0,Southee,3.0,0,39,2
+PBKS,13,13.1,13,2,1,1,0,S Dhawan,S Dhawan,40,27,5,0,Sharma,15,9,1,1,Southee,2.0,0,26,1,Umesh Yadav,4.0,0,27,1
+PBKS,12,12.1,8,1,1,0,0,Sharma,S Dhawan,39,26,5,0,Sharma,9,4,0,1,Umesh Yadav,3.0,0,20,1,Narine,3.0,0,36,0
+PBKS,11,11.1,12,1,1,0,1,Sharma,S Dhawan,36,24,5,0,,0,0,0,0,Narine,2.0,0,25,0,Umesh Yadav,3.0,0,19,1
+PBKS,10,10.1,9,1,1,1,0,Rajapaksa,S Dhawan,34,22,5,0,Rajapaksa,47,28,5,2,Umesh Yadav,2.0,0,14,0,Varun,2.0,0,14,0
+PBKS,9,9.1,9,1,0,0,1,S Dhawan,S Dhawan,27,18,4,0,Rajapaksa,45,26,5,2,Varun,1.0,0,10,0,Thakur,2.0,0,25,0
+PBKS,8,8.1,12,1,2,0,1,Rajapaksa,S Dhawan,17,14,3,0,Rajapaksa,40,23,4,2,Thakur,1.0,0,14,0,Narine,2.0,0,24,0
+PBKS,7,7.1,10,1,1,0,0,Rajapaksa,S Dhawan,15,12,3,0,Rajapaksa,31,19,3,2,Narine,1.0,0,14,0,Thakur,1.0,0,13,0
+PBKS,6,6.1,13,2,2,0,0,Rajapaksa,S Dhawan,15,12,3,0,Rajapaksa,20,13,2,1,Thakur,0,0,2,0,Varun,1.0,0,6,0
+PBKS,5,5.1,6,1,3,0,0,S Dhawan,S Dhawan,10,9,2,0,Rajapaksa,17,10,2,1,Varun,0,0,0,0,Narine,1.0,0,14,0
+PBKS,4,4.1,14,3,3,0,0,Rajapaksa,S Dhawan,10,8,2,0,Rajapaksa,3,5,0,0,Narine,0,0,0,0,Southee,2.0,0,26,1
+PBKS,3,3.1,12,2,1,0,0,S Dhawan,S Dhawan,5,5,1,0,Rajapaksa,0,2,0,0,Southee,1.0,0,18,1,Umesh Yadav,2.0,0,10,0
+PBKS,2,2.1,1,0,5,0,0,Rajapaksa,S Dhawan,0,1,0,0,,0,0,0,0,Umesh Yadav,1.0,0,9,0,Southee,1.0,0,14,1
+PBKS,1,1.1,14,3,2,1,0,Prabhsimran,Prabhsimran,13,7,1,1,,0,0,0,0,Southee,0,0,4,0,Umesh Yadav,1.0,0,9,0
+PBKS,0,0.1,9,1,3,0,0,Prabhsimran,Prabhsimran,0,1,0,0,,0,0,0,0,Umesh Yadav,0,0,0,0,,0,0,0,0

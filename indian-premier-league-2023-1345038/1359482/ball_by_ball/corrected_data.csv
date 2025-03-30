@@ -1,0 +1,41 @@
+over,innings,score,projected_score,required,CRR,RRR,fav_team,win_probability,venue,matches_played,total_runs,total_wickets,balls_bowled,average_runs_per_wicket,average_runs_per_over
+20,RR,192/7,N/A,N/A,9.60,N/A,PBKS,100.0,"Barsapara Cricket Stadium, Guwahati",18,4881,180,3724,27.11,7.86
+1,PBKS,7/0,160,N/A,7.00,N/A,RR,57.88,"Barsapara Cricket Stadium, Guwahati",18,4881,180,3724,27.11,7.86
+2,PBKS,16/0,161,N/A,8.00,N/A,RR,56.75,"Barsapara Cricket Stadium, Guwahati",18,4881,180,3724,27.11,7.86
+3,PBKS,26/0,165,N/A,8.67,N/A,RR,52.14,"Barsapara Cricket Stadium, Guwahati",18,4881,180,3724,27.11,7.86
+4,PBKS,45/0,186,N/A,11.25,N/A,PBKS,70.89,"Barsapara Cricket Stadium, Guwahati",18,4881,180,3724,27.11,7.86
+5,PBKS,56/0,195,N/A,11.20,N/A,PBKS,78.7,"Barsapara Cricket Stadium, Guwahati",18,4881,180,3724,27.11,7.86
+6,PBKS,63/0,197,N/A,10.50,N/A,PBKS,80.21,"Barsapara Cricket Stadium, Guwahati",18,4881,180,3724,27.11,7.86
+7,PBKS,68/0,177,N/A,9.71,N/A,PBKS,61.59,"Barsapara Cricket Stadium, Guwahati",18,4881,180,3724,27.11,7.86
+8,PBKS,77/0,180,N/A,9.62,N/A,PBKS,64.83,"Barsapara Cricket Stadium, Guwahati",18,4881,180,3724,27.11,7.86
+9,PBKS,86/0,183,N/A,9.56,N/A,PBKS,67.94,"Barsapara Cricket Stadium, Guwahati",18,4881,180,3724,27.11,7.86
+10,PBKS,92/1,182,N/A,9.20,N/A,PBKS,66.92,"Barsapara Cricket Stadium, Guwahati",18,4881,180,3724,27.11,7.86
+11,PBKS,95/1,177,N/A,8.64,N/A,PBKS,61.59,"Barsapara Cricket Stadium, Guwahati",18,4881,180,3724,27.11,7.86
+12,PBKS,113/1,188,N/A,9.42,N/A,PBKS,72.77,"Barsapara Cricket Stadium, Guwahati",18,4881,180,3724,27.11,7.86
+13,PBKS,124/1,198,N/A,9.54,N/A,PBKS,80.94,"Barsapara Cricket Stadium, Guwahati",18,4881,180,3724,27.11,7.86
+14,PBKS,140/1,212,N/A,10.00,N/A,PBKS,89.01,"Barsapara Cricket Stadium, Guwahati",18,4881,180,3724,27.11,7.86
+15,PBKS,152/1,212,N/A,10.13,N/A,PBKS,89.01,"Barsapara Cricket Stadium, Guwahati",18,4881,180,3724,27.11,7.86
+16,PBKS,159/2,205,N/A,9.94,N/A,PBKS,85.43,"Barsapara Cricket Stadium, Guwahati",18,4881,180,3724,27.11,7.86
+17,PBKS,165/3,196,N/A,9.71,N/A,PBKS,79.47,"Barsapara Cricket Stadium, Guwahati",18,4881,180,3724,27.11,7.86
+18,PBKS,174/3,195,N/A,9.67,N/A,PBKS,78.7,"Barsapara Cricket Stadium, Guwahati",18,4881,180,3724,27.11,7.86
+19,PBKS,190/3,201,N/A,10.00,N/A,PBKS,82.98,"Barsapara Cricket Stadium, Guwahati",18,4881,180,3724,27.11,7.86
+20,PBKS,197/4,197,N/A,9.85,N/A,PBKS,80.21,"Barsapara Cricket Stadium, Guwahati",18,4881,180,3724,27.11,7.86
+1,RR,7/0,N/A,191 from 114,7.00,10.05,PBKS,80.24,"Barsapara Cricket Stadium, Guwahati",18,4881,180,3724,27.11,7.86
+2,RR,16/1,N/A,182 from 108,8.00,10.11,PBKS,83.9,"Barsapara Cricket Stadium, Guwahati",18,4881,180,3724,27.11,7.86
+3,RR,25/1,N/A,173 from 102,8.33,10.18,PBKS,83.63,"Barsapara Cricket Stadium, Guwahati",18,4881,180,3724,27.11,7.86
+4,RR,39/2,N/A,159 from 96,9.75,9.94,PBKS,82.89,"Barsapara Cricket Stadium, Guwahati",18,4881,180,3724,27.11,7.86
+5,RR,48/2,N/A,150 from 90,9.60,10.00,PBKS,77.52,"Barsapara Cricket Stadium, Guwahati",18,4881,180,3724,27.11,7.86
+6,RR,57/3,N/A,141 from 84,9.50,10.07,PBKS,80.75,"Barsapara Cricket Stadium, Guwahati",18,4881,180,3724,27.11,7.86
+7,RR,63/3,N/A,135 from 78,9.00,10.38,PBKS,83.9,"Barsapara Cricket Stadium, Guwahati",18,4881,180,3724,27.11,7.86
+8,RR,70/3,N/A,128 from 72,8.75,10.67,PBKS,89.47,"Barsapara Cricket Stadium, Guwahati",18,4881,180,3724,27.11,7.86
+9,RR,81/3,N/A,117 from 66,9.00,10.64,PBKS,86.49,"Barsapara Cricket Stadium, Guwahati",18,4881,180,3724,27.11,7.86
+10,RR,89/3,N/A,109 from 60,8.90,10.90,PBKS,81.56,"Barsapara Cricket Stadium, Guwahati",18,4881,180,3724,27.11,7.86
+11,RR,91/4,N/A,107 from 54,8.27,11.89,PBKS,93.63,"Barsapara Cricket Stadium, Guwahati",18,4881,180,3724,27.11,7.86
+12,RR,102/4,N/A,96 from 48,8.50,12.00,PBKS,92.28,"Barsapara Cricket Stadium, Guwahati",18,4881,180,3724,27.11,7.86
+13,RR,115/4,N/A,83 from 42,8.85,11.86,PBKS,88.79,"Barsapara Cricket Stadium, Guwahati",18,4881,180,3724,27.11,7.86
+14,RR,121/4,N/A,77 from 36,8.64,12.83,PBKS,90.84,"Barsapara Cricket Stadium, Guwahati",18,4881,180,3724,27.11,7.86
+15,RR,124/6,N/A,74 from 30,8.27,14.80,PBKS,98.25,"Barsapara Cricket Stadium, Guwahati",18,4881,180,3724,27.11,7.86
+16,RR,129/6,N/A,69 from 24,8.06,17.25,PBKS,99.22,"Barsapara Cricket Stadium, Guwahati",18,4881,180,3724,27.11,7.86
+17,RR,145/6,N/A,53 from 18,8.53,17.67,PBKS,98.79,"Barsapara Cricket Stadium, Guwahati",18,4881,180,3724,27.11,7.86
+18,RR,164/6,N/A,34 from 12,9.11,17.00,PBKS,95.09,"Barsapara Cricket Stadium, Guwahati",18,4881,180,3724,27.11,7.86
+19,RR,182/6,N/A,16 from 6,9.58,16.00,PBKS,73.48,"Barsapara Cricket Stadium, Guwahati",18,4881,180,3724,27.11,7.86

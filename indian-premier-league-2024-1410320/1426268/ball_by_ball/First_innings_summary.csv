@@ -1,0 +1,19 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+RCB,19,19.1,18,4,0,0,0,Rawat,Rawat,14,10,2,0,Vyshak,0,1,0,0,Bhuvneshwar,2.0,0,35,0,Natarajan,4.0,0,47,1
+RCB,18,18.1,14,2,1,1,0,Vyshak,Karthik,83,31,4,7,Rawat,10,9,1,0,Natarajan,3.0,0,39,0,Bhuvneshwar,2.0,0,31,0
+RCB,17,17.1,14,1,1,0,4,Karthik,Karthik,66,27,4,5,Rawat,8,6,1,0,Bhuvneshwar,1.0,0,18,0,Cummins,4.0,0,43,3
+RCB,16,16.1,17,2,1,0,1,Karthik,Karthik,56,23,4,4,Rawat,6,5,1,0,Cummins,3.0,0,32,3,Natarajan,3.0,0,33,0
+RCB,15,15.1,12,1,1,0,2,Karthik,Karthik,45,18,4,3,Rawat,5,4,1,0,Natarajan,2.0,0,28,0,Cummins,3.0,0,26,3
+RCB,14,14.1,6,1,2,1,0,Rawat,Karthik,38,16,4,2,,0,0,0,0,Cummins,2.0,0,20,3,Unadkat,2.0,0,37,1
+RCB,13,13.1,21,4,0,0,1,Karthik,Karthik,22,12,2,1,Lomror,21,9,0,2,Unadkat,1.0,0,20,1,Markande,4.0,0,46,2
+RCB,12,12.1,25,4,0,0,1,Karthik,Karthik,6,8,0,0,Lomror,14,7,0,1,Markande,3.0,0,27,2,Natarajan,2.0,0,22,0
+RCB,11,11.1,8,0,1,0,3,Lomror,Karthik,3,5,0,0,Lomror,4,4,0,0,Natarajan,1.0,0,15,0,Markande,3.0,0,21,2
+RCB,10,10.1,5,0,2,0,1,Lomror,Karthik,1,3,0,0,,0,0,0,0,Markande,2.0,0,16,2,Cummins,2.0,0,20,2
+RCB,9,9.1,11,2,1,2,0,Chauhan,Jacks,7,4,1,0,,0,0,0,0,Cummins,1.0,0,13,0,Markande,2.0,0,16,2
+RCB,8,8.1,11,1,1,1,1,Patidar,Jacks,7,4,1,0,Patidar,1,1,0,0,Markande,1.0,0,6,1,Unadkat,1.0,0,16,1
+RCB,7,7.1,16,3,0,1,0,du Plessis,du Plessis,40,17,4,3,Jacks,2,2,0,0,Unadkat,0,0,6,0,Markande,1.0,0,5,1
+RCB,6,6.1,5,0,0,1,0,du Plessis,du Plessis,32,14,4,2,Kohli,27,11,4,1,Markande,0,0,1,0,Cummins,1.0,0,9,0
+RCB,5,5.1,9,2,3,0,0,Kohli,du Plessis,26,10,3,2,Kohli,23,9,3,1,Cummins,0,0,0,0,Natarajan,1.0,0,14,0
+RCB,4,4.1,14,2,1,0,0,Kohli,du Plessis,25,8,3,2,Kohli,11,5,2,0,Natarajan,0,0,1,0,Bhuvneshwar,1.0,0,17,0
+RCB,3,3.1,17,4,1,0,0,du Plessis,du Plessis,17,5,1,2,Kohli,5,2,1,0,Bhuvneshwar,0,0,4,0,Shahbaz Ahmed,1.0,0,18,0
+RCB,2,2.1,18,3,1,0,0,du Plessis,du Plessis,4,1,1,0,,0,0,0,0,Shahbaz Ahmed,0,0,4,0,,0,0,0,0

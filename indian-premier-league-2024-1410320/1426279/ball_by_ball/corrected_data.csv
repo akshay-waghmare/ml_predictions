@@ -1,0 +1,41 @@
+over,innings,score,projected_score,required,CRR,RRR,fav_team,win_probability,venue,matches_played,total_runs,total_wickets,balls_bowled,average_runs_per_wicket,average_runs_per_over
+20,SRH,171/8,N/A,N/A,8.55,N/A,RCB,100.0,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",137,42629,1648,31325,25.86,8.16
+1,RCB,10/0,187,N/A,10.00,N/A,RCB,54.52,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",137,42629,1648,31325,25.86,8.16
+2,RCB,24/0,195,N/A,12.00,N/A,RCB,62.89,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",137,42629,1648,31325,25.86,8.16
+3,RCB,43/0,211,N/A,14.33,N/A,RCB,77.5,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",137,42629,1648,31325,25.86,8.16
+4,RCB,49/1,214,N/A,12.25,N/A,RCB,79.77,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",137,42629,1648,31325,25.86,8.16
+5,RCB,51/1,198,N/A,10.20,N/A,RCB,65.9,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",137,42629,1648,31325,25.86,8.16
+6,RCB,61/1,196,N/A,10.17,N/A,RCB,63.9,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",137,42629,1648,31325,25.86,8.16
+7,RCB,65/2,191,N/A,9.29,N/A,RCB,58.75,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",137,42629,1648,31325,25.86,8.16
+8,RCB,73/2,191,N/A,9.12,N/A,RCB,58.75,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",137,42629,1648,31325,25.86,8.16
+9,RCB,84/2,194,N/A,9.33,N/A,RCB,61.86,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",137,42629,1648,31325,25.86,8.16
+10,RCB,94/2,202,N/A,9.40,N/A,RCB,69.75,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",137,42629,1648,31325,25.86,8.16
+11,RCB,121/2,244,N/A,11.00,N/A,RCB,93.89,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",137,42629,1648,31325,25.86,8.16
+12,RCB,127/2,236,N/A,10.58,N/A,RCB,91.44,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",137,42629,1648,31325,25.86,8.16
+13,RCB,132/3,217,N/A,10.15,N/A,RCB,81.86,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",137,42629,1648,31325,25.86,8.16
+14,RCB,136/3,199,N/A,9.71,N/A,RCB,66.88,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",137,42629,1648,31325,25.86,8.16
+15,RCB,142/4,192,N/A,9.47,N/A,RCB,59.79,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",137,42629,1648,31325,25.86,8.16
+16,RCB,157/4,199,N/A,9.81,N/A,RCB,66.88,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",137,42629,1648,31325,25.86,8.16
+17,RCB,167/5,202,N/A,9.82,N/A,RCB,69.75,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",137,42629,1648,31325,25.86,8.16
+18,RCB,179/5,202,N/A,9.94,N/A,RCB,69.75,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",137,42629,1648,31325,25.86,8.16
+19,RCB,194/6,205,N/A,10.21,N/A,RCB,72.48,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",137,42629,1648,31325,25.86,8.16
+20,RCB,206/7,206,N/A,10.30,N/A,RCB,73.36,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",137,42629,1648,31325,25.86,8.16
+1,SRH,3/1,N/A,204 from 114,3.00,10.74,RCB,82.3,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",137,42629,1648,31325,25.86,8.16
+2,SRH,11/1,N/A,196 from 108,5.50,10.89,RCB,83.08,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",137,42629,1648,31325,25.86,8.16
+3,SRH,31/1,N/A,176 from 102,10.33,10.35,RCB,72.87,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",137,42629,1648,31325,25.86,8.16
+4,SRH,37/2,N/A,170 from 96,9.25,10.62,RCB,78.45,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",137,42629,1648,31325,25.86,8.16
+5,SRH,56/4,N/A,151 from 90,11.20,10.07,RCB,84.16,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",137,42629,1648,31325,25.86,8.16
+6,SRH,62/4,N/A,145 from 84,10.33,10.36,RCB,86.22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",137,42629,1648,31325,25.86,8.16
+7,SRH,68/4,N/A,139 from 78,9.71,10.69,RCB,89.04,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",137,42629,1648,31325,25.86,8.16
+8,SRH,72/5,N/A,135 from 72,9.00,11.25,RCB,97.97,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",137,42629,1648,31325,25.86,8.16
+9,SRH,85/5,N/A,122 from 66,9.44,11.09,RCB,96.93,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",137,42629,1648,31325,25.86,8.16
+10,SRH,89/6,N/A,118 from 60,8.90,11.80,RCB,98.89,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",137,42629,1648,31325,25.86,8.16
+11,SRH,104/6,N/A,103 from 54,9.45,11.44,RCB,98.09,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",137,42629,1648,31325,25.86,8.16
+12,SRH,119/6,N/A,88 from 48,9.92,11.00,RCB,96.14,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",137,42629,1648,31325,25.86,8.16
+13,SRH,123/6,N/A,84 from 42,9.46,12.00,RCB,97.06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",137,42629,1648,31325,25.86,8.16
+14,SRH,126/7,N/A,81 from 36,9.00,13.50,RCB,99.12,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",137,42629,1648,31325,25.86,8.16
+15,SRH,132/7,N/A,75 from 30,8.80,15.00,RCB,99.25,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",137,42629,1648,31325,25.86,8.16
+16,SRH,141/8,N/A,66 from 24,8.81,16.50,RCB,99.66,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",137,42629,1648,31325,25.86,8.16
+17,SRH,144/8,N/A,63 from 18,8.47,21.00,RCB,99.89,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",137,42629,1648,31325,25.86,8.16
+18,SRH,159/8,N/A,48 from 12,8.83,24.00,RCB,99.79,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",137,42629,1648,31325,25.86,8.16
+19,SRH,163/8,N/A,44 from 6,8.58,44.00,RCB,99.97,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",137,42629,1648,31325,25.86,8.16

@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+PBKS,19,19.1,21,4,1,0,0,Harpreet Brar,Shahrukh Khan,13,5,1,1,Harpreet Brar,12,7,2,0,Harshit Rana,2.0,0,18,2,Arora,3.0,0,32,0
+PBKS,18,18.1,15,3,1,0,1,Harpreet Brar,Shahrukh Khan,2,2,0,0,Harpreet Brar,6,4,1,0,Arora,2.0,0,21,0,Suyash Sharma,4.0,0,26,1
+PBKS,17,17.1,4,0,2,1,1,Harpreet Brar,Sam Curran,4,8,0,0,Shahrukh Khan,0,1,0,0,Suyash Sharma,3.0,0,22,0,Varun,4.0,0,26,3
+PBKS,16,16.1,8,1,3,1,0,Shahrukh Khan,Sam Curran,4,7,0,0,R Dhawan,17,7,1,1,Varun,3.0,0,24,2,Narine,4.0,0,29,0
+PBKS,15,15.1,7,0,1,0,0,R Dhawan,Sam Curran,3,5,0,0,R Dhawan,7,3,1,0,Narine,3.0,0,24,0,Rana,1.0,0,7,1
+PBKS,14,14.1,7,1,2,1,0,R Dhawan,S Dhawan,63,44,10,1,Sam Curran,3,5,0,0,Rana,0,0,0,0,Narine,3.0,0,22,0
+PBKS,13,13.1,8,1,3,0,0,Sam Curran,S Dhawan,56,40,10,0,Sam Curran,2,3,0,0,Narine,2.0,0,14,0,Varun,3.0,0,18,2
+PBKS,12,12.1,5,0,1,1,1,Sam Curran,S Dhawan,53,38,10,0,Sharma,22,17,0,2,Varun,2.0,0,13,1,Narine,2.0,0,14,0
+PBKS,11,11.1,11,2,2,0,1,Sharma,S Dhawan,44,33,8,0,Sharma,21,16,0,2,Narine,1.0,0,4,0,Suyash Sharma,3.0,0,22,0
+PBKS,10,10.1,11,2,3,0,0,S Dhawan,S Dhawan,40,31,7,0,Sharma,13,12,0,1,Suyash Sharma,2.0,0,11,0,Narine,1.0,0,3,0
+PBKS,9,9.1,3,0,3,0,0,Sharma,S Dhawan,39,28,7,0,Sharma,11,9,0,1,Narine,0,0,0,0,Suyash Sharma,2.0,0,11,0
+PBKS,8,8.1,9,1,2,0,0,Sharma,S Dhawan,38,25,7,0,Sharma,4,6,0,0,Suyash Sharma,1.0,0,3,0,Varun,2.0,0,13,1
+PBKS,7,7.1,6,1,3,0,0,S Dhawan,S Dhawan,34,22,6,0,Sharma,2,3,0,0,Varun,1.0,0,8,1,Suyash Sharma,1.0,0,2,0
+PBKS,6,6.1,6,1,3,0,1,Sharma,S Dhawan,28,17,5,0,Sharma,2,2,0,0,Suyash Sharma,0,0,1,0,Varun,1.0,0,7,1
+PBKS,5,5.1,7,1,1,1,0,S Dhawan,S Dhawan,23,14,4,0,Livingstone,16,8,2,0,Varun,0,0,1,0,Russell,1.0,0,19,0
+PBKS,4,4.1,19,3,1,0,1,S Dhawan,S Dhawan,19,13,3,0,Livingstone,1,2,0,0,Russell,0,0,1,0,Harshit Rana,2.0,0,12,2
+PBKS,3,3.1,6,0,1,1,4,Livingstone,S Dhawan,15,10,3,0,Rajapaksa,0,1,0,0,Harshit Rana,1.0,0,9,1,Arora,2.0,0,17,0
+PBKS,2,2.1,5,1,4,0,0,Rajapaksa,S Dhawan,9,5,2,0,,0,0,0,0,Arora,1.0,0,12,0,Harshit Rana,1.0,0,9,1
+PBKS,1,1.1,9,2,2,1,0,Prabhsimran,Prabhsimran,12,6,3,0,S Dhawan,4,1,1,0,Harshit Rana,0,0,4,0,Arora,1.0,0,12,0
+PBKS,0,0.1,12,3,3,0,0,Prabhsimran,Prabhsimran,0,1,0,0,,0,0,0,0,Arora,0,0,0,0,,0,0,0,0

@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+PBKS,19,19.1,9,0,1,0,1,Raza,Shahrukh Khan,2,2,0,0,Raza,7,3,1,0,Pathirana,3.0,0,25,1,Deshpande,4.0,0,49,3
+PBKS,18,18.1,13,2,1,1,2,Raza,Sharma,20,7,2,1,Shahrukh Khan,2,2,0,0,Deshpande,3.0,0,40,2,Pathirana,3.0,0,24,1
+PBKS,17,17.1,9,1,0,1,1,Sharma,Sharma,9,3,0,1,,0,0,0,0,Pathirana,2.0,0,15,1,Jadeja,4.0,0,32,2
+PBKS,16,16.1,17,2,0,0,0,Sam Curran,Sam Curran,22,16,1,0,Sharma,2,1,0,0,Jadeja,3.0,0,16,2,Deshpande,3.0,0,36,2
+PBKS,15,15.1,24,4,0,1,1,Sharma,Livingstone,29,20,1,2,Sam Curran,21,15,1,0,Deshpande,2.0,0,22,1,Theekshana,4.0,0,36,0
+PBKS,14,14.1,10,1,2,0,2,Sam Curran,Livingstone,21,17,1,1,Sam Curran,13,12,0,0,Theekshana,3.0,0,27,0,Pathirana,2.0,0,15,0
+PBKS,13,13.1,7,0,1,0,0,Livingstone,Livingstone,19,13,1,1,Sam Curran,10,10,0,0,Pathirana,1.0,0,10,0,Theekshana,3.0,0,27,0
+PBKS,12,12.1,7,0,0,0,0,Livingstone,Livingstone,15,10,1,1,Sam Curran,6,7,0,0,Theekshana,2.0,0,21,0,Pathirana,1.0,0,8,0
+PBKS,11,11.1,8,1,2,0,0,Sam Curran,Livingstone,9,6,0,1,Sam Curran,3,5,0,0,Pathirana,0,0,0,0,Jadeja,3.0,0,15,2
+PBKS,10,10.1,3,0,3,1,0,Sam Curran,Atharva,13,16,0,0,Livingstone,9,6,0,1,Jadeja,2.0,0,12,1,Akash Singh,3.0,0,35,0
+PBKS,9,9.1,10,1,1,0,0,Atharva,Atharva,11,13,0,0,Livingstone,1,3,0,0,Akash Singh,2.0,0,25,0,Jadeja,2.0,0,12,1
+PBKS,8,8.1,4,0,2,1,0,Atharva,Prabhsimran,43,23,4,2,Atharva,8,11,0,0,Jadeja,1.0,0,8,0,Moeen Ali,1.0,0,10,0
+PBKS,7,7.1,10,1,2,0,0,Atharva,Prabhsimran,36,20,4,1,Atharva,7,8,0,0,Moeen Ali,0,0,2,0,Jadeja,1.0,0,8,0
+PBKS,6,6.1,8,1,1,0,0,Prabhsimran,Prabhsimran,28,16,3,1,Atharva,5,6,0,0,Jadeja,0,0,0,0,Theekshana,2.0,0,20,0
+PBKS,5,5.1,8,1,1,0,0,Prabhsimran,Prabhsimran,26,13,3,1,Atharva,3,3,0,0,Theekshana,1.0,0,16,0,Deshpande,2.0,0,16,1
+PBKS,4,4.1,8,1,1,1,0,Prabhsimran,Prabhsimran,21,11,2,1,S Dhawan,29,14,4,1,Deshpande,1.0,0,12,0,Theekshana,1.0,0,12,0
+PBKS,3,3.1,12,2,1,0,0,Prabhsimran,Prabhsimran,16,9,1,1,S Dhawan,22,10,3,1,Theekshana,0,0,4,0,Akash Singh,2.0,0,25,0
+PBKS,2,2.1,14,2,2,0,1,S Dhawan,Prabhsimran,12,8,0,1,S Dhawan,9,5,2,0,Akash Singh,1.0,0,12,0,Deshpande,1.0,0,8,0
+PBKS,1,1.1,9,1,3,0,1,S Dhawan,Prabhsimran,4,3,0,0,S Dhawan,9,4,2,0,Deshpande,0,0,2,0,Akash Singh,1.0,0,11,0
+PBKS,0,0.1,11,2,1,0,0,Prabhsimran,Prabhsimran,1,1,0,0,,0,0,0,0,Akash Singh,0,0,1,0,,0,0,0,0

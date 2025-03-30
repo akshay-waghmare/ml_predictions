@@ -1,0 +1,125 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+MI,19,19.6,1,0,0,0,0,Rohit Sharma,Rohit Sharma,109,63,11,5,M Nabi,6,7,0,0,Pathirana,4.0,0,28,4,Mustafizur,4.0,0,55,1
+MI,19,19.5,1,0,0,0,0,M Nabi,Rohit Sharma,108,62,11,5,M Nabi,6,7,0,0,Pathirana,3.0,0,27,4,Mustafizur,4.0,0,55,1
+MI,19,19.5,2,0,0,0,1,Rohit Sharma,Rohit Sharma,108,62,11,5,M Nabi,5,6,0,0,Pathirana,3.0,0,26,4,Mustafizur,4.0,0,55,1
+MI,19,19.4,4,1,0,0,0,Rohit Sharma,Rohit Sharma,106,62,11,5,M Nabi,5,6,0,0,Pathirana,3.0,0,24,4,Mustafizur,4.0,0,55,1
+MI,19,19.3,4,1,0,0,0,Rohit Sharma,Rohit Sharma,102,61,10,5,M Nabi,5,6,0,0,Pathirana,3.0,0,20,4,Mustafizur,4.0,0,55,1
+MI,19,19.2,1,0,0,0,1,M Nabi,Rohit Sharma,98,60,9,5,M Nabi,5,6,0,0,Pathirana,3.0,0,16,4,Mustafizur,4.0,0,55,1
+MI,19,19.1,0,0,1,0,0,M Nabi,Rohit Sharma,98,60,9,5,M Nabi,4,5,0,0,Pathirana,3.0,0,16,4,Mustafizur,4.0,0,55,1
+MI,18,18.6,6,1,0,0,0,Rohit Sharma,Rohit Sharma,98,60,9,5,M Nabi,4,4,0,0,Mustafizur,4.0,0,55,1,Pathirana,3.0,0,16,4
+MI,18,18.6,1,0,0,0,1,Rohit Sharma,Rohit Sharma,92,59,9,4,M Nabi,4,4,0,0,Mustafizur,3.0,0,49,1,Pathirana,3.0,0,16,4
+MI,18,18.5,1,0,0,0,0,M Nabi,Rohit Sharma,91,59,9,4,M Nabi,4,4,0,0,Mustafizur,3.0,0,48,1,Pathirana,3.0,0,16,4
+MI,18,18.4,1,0,0,0,0,Rohit Sharma,Rohit Sharma,91,59,9,4,M Nabi,3,3,0,0,Mustafizur,3.0,0,47,1,Pathirana,3.0,0,16,4
+MI,18,18.3,1,0,0,0,0,M Nabi,Rohit Sharma,90,58,9,4,M Nabi,3,3,0,0,Mustafizur,3.0,0,46,1,Pathirana,3.0,0,16,4
+MI,18,18.2,1,0,0,0,0,Rohit Sharma,Rohit Sharma,90,58,9,4,M Nabi,2,2,0,0,Mustafizur,3.0,0,45,1,Pathirana,3.0,0,16,4
+MI,18,18.2,1,0,0,0,1,Rohit Sharma,Rohit Sharma,89,57,9,4,M Nabi,2,2,0,0,Mustafizur,3.0,0,44,1,Pathirana,3.0,0,16,4
+MI,18,18.1,1,0,0,0,0,M Nabi,Rohit Sharma,88,57,9,4,M Nabi,2,2,0,0,Mustafizur,3.0,0,43,1,Pathirana,3.0,0,16,4
+MI,17,17.6,2,0,0,0,0,Rohit Sharma,Rohit Sharma,88,57,9,4,M Nabi,1,1,0,0,Pathirana,3.0,0,16,4,Mustafizur,3.0,0,42,1
+MI,17,17.5,0,0,1,0,0,Rohit Sharma,Rohit Sharma,86,56,9,4,M Nabi,1,1,0,0,Pathirana,2.0,0,14,4,Mustafizur,3.0,0,42,1
+MI,17,17.4,1,0,0,0,1,M Nabi,Rohit Sharma,86,55,9,4,M Nabi,1,1,0,0,Pathirana,2.0,0,14,4,Mustafizur,3.0,0,42,1
+MI,17,17.3,0,0,0,1,0,Shepherd,Rohit Sharma,86,55,9,4,,0,0,0,0,Pathirana,2.0,0,14,4,Mustafizur,3.0,0,42,1
+MI,17,17.2,1,0,0,0,0,Rohit Sharma,Rohit Sharma,86,55,9,4,Shepherd,1,1,0,0,Pathirana,2.0,0,14,3,Mustafizur,3.0,0,42,1
+MI,17,17.1,2,0,0,0,0,Rohit Sharma,Rohit Sharma,85,54,9,4,Shepherd,1,1,0,0,Pathirana,2.0,0,13,3,Mustafizur,3.0,0,42,1
+MI,16,16.6,1,0,0,0,0,Rohit Sharma,Rohit Sharma,83,53,9,4,Shepherd,1,1,0,0,Mustafizur,3.0,0,42,1,Deshpande,4.0,0,29,1
+MI,16,16.5,4,1,0,0,0,Rohit Sharma,Rohit Sharma,82,52,9,4,Shepherd,1,1,0,0,Mustafizur,2.0,0,41,1,Deshpande,4.0,0,29,1
+MI,16,16.4,1,0,0,0,0,Shepherd,Rohit Sharma,78,51,8,4,Shepherd,1,1,0,0,Mustafizur,2.0,0,37,1,Deshpande,4.0,0,29,1
+MI,16,16.3,0,0,0,1,0,David,Rohit Sharma,78,51,8,4,,0,0,0,0,Mustafizur,2.0,0,36,1,Deshpande,4.0,0,29,1
+MI,16,16.2,6,1,0,0,0,David,Rohit Sharma,78,51,8,4,David,14,4,0,2,Mustafizur,2.0,0,36,0,Deshpande,4.0,0,29,1
+MI,16,16.2,1,0,0,0,1,David,Rohit Sharma,78,51,8,4,David,8,3,0,1,Mustafizur,2.0,0,30,0,Deshpande,4.0,0,29,1
+MI,16,16.1,6,1,0,0,0,David,Rohit Sharma,78,51,8,4,David,7,3,0,1,Mustafizur,2.0,0,29,0,Deshpande,4.0,0,29,1
+MI,15,15.6,0,0,1,0,0,Rohit Sharma,Rohit Sharma,78,51,8,4,David,1,2,0,0,Deshpande,4.0,0,29,1,Thakur,4.0,0,35,0
+MI,15,15.5,1,0,0,0,0,David,Rohit Sharma,78,50,8,4,David,1,2,0,0,Deshpande,3.0,0,29,1,Thakur,4.0,0,35,0
+MI,15,15.4,0,0,1,0,0,David,Rohit Sharma,78,50,8,4,David,0,1,0,0,Deshpande,3.0,0,28,1,Thakur,4.0,0,35,0
+MI,15,15.3,0,0,0,1,0,Hardik,Rohit Sharma,78,50,8,4,,0,0,0,0,Deshpande,3.0,0,28,1,Thakur,4.0,0,35,0
+MI,15,15.2,1,0,0,0,0,Rohit Sharma,Rohit Sharma,78,50,8,4,Hardik,2,5,0,0,Deshpande,3.0,0,28,0,Thakur,4.0,0,35,0
+MI,15,15.1,1,0,0,0,0,Hardik,Rohit Sharma,77,49,8,4,Hardik,2,5,0,0,Deshpande,3.0,0,27,0,Thakur,4.0,0,35,0
+MI,14,14.6,1,0,0,0,0,Hardik,Rohit Sharma,77,49,8,4,Hardik,1,4,0,0,Thakur,4.0,0,35,0,Pathirana,2.0,0,11,3
+MI,14,14.5,0,0,1,0,0,Hardik,Rohit Sharma,77,49,8,4,Hardik,0,3,0,0,Thakur,3.0,0,34,0,Pathirana,2.0,0,11,3
+MI,14,14.4,0,0,1,0,0,Hardik,Rohit Sharma,77,49,8,4,Hardik,0,2,0,0,Thakur,3.0,0,34,0,Pathirana,2.0,0,11,3
+MI,14,14.3,1,0,0,0,0,Rohit Sharma,Rohit Sharma,77,49,8,4,Hardik,0,1,0,0,Thakur,3.0,0,34,0,Pathirana,2.0,0,11,3
+MI,14,14.2,0,0,1,0,0,Rohit Sharma,Rohit Sharma,76,48,8,4,Hardik,0,1,0,0,Thakur,3.0,0,33,0,Pathirana,2.0,0,11,3
+MI,14,14.1,0,0,1,0,0,Rohit Sharma,Rohit Sharma,76,47,8,4,Hardik,0,1,0,0,Thakur,3.0,0,33,0,Pathirana,2.0,0,11,3
+MI,13,13.6,0,0,1,0,0,Hardik,Rohit Sharma,76,46,8,4,Hardik,0,1,0,0,Pathirana,2.0,0,11,3,Jadeja,4.0,0,37,0
+MI,13,13.5,0,0,0,1,0,Tilak Varma,Rohit Sharma,76,46,8,4,,0,0,0,0,Pathirana,1.0,0,11,3,Jadeja,4.0,0,37,0
+MI,13,13.4,0,0,1,0,0,Tilak Varma,Rohit Sharma,76,46,8,4,Tilak Varma,31,19,5,0,Pathirana,1.0,0,11,2,Jadeja,4.0,0,37,0
+MI,13,13.3,4,1,0,0,0,Tilak Varma,Rohit Sharma,76,46,8,4,Tilak Varma,31,18,5,0,Pathirana,1.0,0,11,2,Jadeja,4.0,0,37,0
+MI,13,13.2,1,0,0,0,0,Rohit Sharma,Rohit Sharma,76,46,8,4,Tilak Varma,27,17,4,0,Pathirana,1.0,0,7,2,Jadeja,4.0,0,37,0
+MI,13,13.1,1,0,0,0,0,Tilak Varma,Rohit Sharma,75,45,8,4,Tilak Varma,27,17,4,0,Pathirana,1.0,0,6,2,Jadeja,4.0,0,37,0
+MI,12,12.6,1,0,0,0,0,Tilak Varma,Rohit Sharma,75,45,8,4,Tilak Varma,26,16,4,0,Jadeja,4.0,0,37,0,Thakur,3.0,0,33,0
+MI,12,12.5,0,0,1,0,0,Tilak Varma,Rohit Sharma,75,45,8,4,Tilak Varma,25,15,4,0,Jadeja,3.0,0,36,0,Thakur,3.0,0,33,0
+MI,12,12.4,0,0,1,0,0,Tilak Varma,Rohit Sharma,75,45,8,4,Tilak Varma,25,14,4,0,Jadeja,3.0,0,36,0,Thakur,3.0,0,33,0
+MI,12,12.3,4,1,0,0,0,Tilak Varma,Rohit Sharma,75,45,8,4,Tilak Varma,25,13,4,0,Jadeja,3.0,0,36,0,Thakur,3.0,0,33,0
+MI,12,12.2,1,0,0,0,0,Rohit Sharma,Rohit Sharma,75,45,8,4,Tilak Varma,21,12,3,0,Jadeja,3.0,0,32,0,Thakur,3.0,0,33,0
+MI,12,12.1,0,0,1,0,0,Rohit Sharma,Rohit Sharma,74,44,8,4,Tilak Varma,21,12,3,0,Jadeja,3.0,0,31,0,Thakur,3.0,0,33,0
+MI,11,11.6,1,0,0,0,0,Rohit Sharma,Rohit Sharma,74,43,8,4,Tilak Varma,21,12,3,0,Thakur,3.0,0,33,0,Jadeja,3.0,0,31,0
+MI,11,11.5,6,1,0,0,0,Rohit Sharma,Rohit Sharma,73,42,8,4,Tilak Varma,21,12,3,0,Thakur,2.0,0,32,0,Jadeja,3.0,0,31,0
+MI,11,11.4,1,0,0,0,0,Tilak Varma,Rohit Sharma,67,41,8,3,Tilak Varma,21,12,3,0,Thakur,2.0,0,26,0,Jadeja,3.0,0,31,0
+MI,11,11.3,1,0,0,0,0,Rohit Sharma,Rohit Sharma,67,41,8,3,Tilak Varma,20,11,3,0,Thakur,2.0,0,25,0,Jadeja,3.0,0,31,0
+MI,11,11.2,0,0,1,0,0,Rohit Sharma,Rohit Sharma,66,40,8,3,Tilak Varma,20,11,3,0,Thakur,2.0,0,24,0,Jadeja,3.0,0,31,0
+MI,11,11.1,1,0,0,0,0,Tilak Varma,Rohit Sharma,66,39,8,3,Tilak Varma,20,11,3,0,Thakur,2.0,0,24,0,Jadeja,3.0,0,31,0
+MI,10,10.6,1,0,0,0,0,Tilak Varma,Rohit Sharma,66,39,8,3,Tilak Varma,19,10,3,0,Jadeja,3.0,0,31,0,Deshpande,3.0,0,26,0
+MI,10,10.5,4,1,0,0,0,Tilak Varma,Rohit Sharma,66,39,8,3,Tilak Varma,18,9,3,0,Jadeja,2.0,0,30,0,Deshpande,3.0,0,26,0
+MI,10,10.4,2,0,0,0,0,Tilak Varma,Rohit Sharma,66,39,8,3,Tilak Varma,14,8,2,0,Jadeja,2.0,0,26,0,Deshpande,3.0,0,26,0
+MI,10,10.3,1,0,0,0,0,Rohit Sharma,Rohit Sharma,66,39,8,3,Tilak Varma,12,7,2,0,Jadeja,2.0,0,24,0,Deshpande,3.0,0,26,0
+MI,10,10.2,6,1,0,0,0,Rohit Sharma,Rohit Sharma,65,38,8,3,Tilak Varma,12,7,2,0,Jadeja,2.0,0,23,0,Deshpande,3.0,0,26,0
+MI,10,10.1,4,1,0,0,0,Rohit Sharma,Rohit Sharma,59,37,8,2,Tilak Varma,12,7,2,0,Jadeja,2.0,0,17,0,Deshpande,3.0,0,26,0
+MI,9,9.6,1,0,0,0,0,Rohit Sharma,Rohit Sharma,55,36,7,2,Tilak Varma,12,7,2,0,Deshpande,3.0,0,26,0,Jadeja,2.0,0,13,0
+MI,9,9.5,1,0,0,0,0,Tilak Varma,Rohit Sharma,54,35,7,2,Tilak Varma,12,7,2,0,Deshpande,2.0,0,25,0,Jadeja,2.0,0,13,0
+MI,9,9.4,1,0,0,0,0,Rohit Sharma,Rohit Sharma,54,35,7,2,Tilak Varma,11,6,2,0,Deshpande,2.0,0,24,0,Jadeja,2.0,0,13,0
+MI,9,9.3,1,0,0,0,0,Tilak Varma,Rohit Sharma,53,34,7,2,Tilak Varma,11,6,2,0,Deshpande,2.0,0,23,0,Jadeja,2.0,0,13,0
+MI,9,9.2,4,1,0,0,0,Tilak Varma,Rohit Sharma,53,34,7,2,Tilak Varma,10,5,2,0,Deshpande,2.0,0,22,0,Jadeja,2.0,0,13,0
+MI,9,9.1,1,0,0,0,0,Rohit Sharma,Rohit Sharma,53,34,7,2,Tilak Varma,6,4,1,0,Deshpande,2.0,0,18,0,Jadeja,2.0,0,13,0
+MI,8,8.6,1,0,0,0,0,Rohit Sharma,Rohit Sharma,52,33,7,2,Tilak Varma,6,4,1,0,Jadeja,2.0,0,13,0,Pathirana,1.0,0,5,2
+MI,8,8.5,0,0,1,0,0,Rohit Sharma,Rohit Sharma,51,32,7,2,Tilak Varma,6,4,1,0,Jadeja,1.0,0,12,0,Pathirana,1.0,0,5,2
+MI,8,8.4,0,0,1,0,0,Rohit Sharma,Rohit Sharma,51,31,7,2,Tilak Varma,6,4,1,0,Jadeja,1.0,0,12,0,Pathirana,1.0,0,5,2
+MI,8,8.3,4,1,0,0,0,Rohit Sharma,Rohit Sharma,51,30,7,2,Tilak Varma,6,4,1,0,Jadeja,1.0,0,12,0,Pathirana,1.0,0,5,2
+MI,8,8.2,0,0,1,0,0,Rohit Sharma,Rohit Sharma,47,29,6,2,Tilak Varma,6,4,1,0,Jadeja,1.0,0,8,0,Pathirana,1.0,0,5,2
+MI,8,8.1,1,0,0,0,0,Tilak Varma,Rohit Sharma,47,28,6,2,Tilak Varma,6,4,1,0,Jadeja,1.0,0,8,0,Pathirana,1.0,0,5,2
+MI,7,7.6,1,0,0,0,0,Tilak Varma,Rohit Sharma,47,28,6,2,Tilak Varma,5,3,1,0,Pathirana,1.0,0,5,2,Jadeja,1.0,0,7,0
+MI,7,7.5,4,1,0,0,0,Tilak Varma,Rohit Sharma,47,28,6,2,Tilak Varma,4,2,1,0,Pathirana,0,0,4,2,Jadeja,1.0,0,7,0
+MI,7,7.4,0,0,1,0,0,Tilak Varma,Rohit Sharma,47,28,6,2,Tilak Varma,0,1,0,0,Pathirana,0,0,0,2,Jadeja,1.0,0,7,0
+MI,7,7.3,0,0,0,1,0,Suryakumar,Rohit Sharma,47,28,6,2,,0,0,0,0,Pathirana,0,0,0,2,Jadeja,1.0,0,7,0
+MI,7,7.2,0,0,1,0,0,Suryakumar,Rohit Sharma,47,28,6,2,Suryakumar,0,1,0,0,Pathirana,0,0,0,1,Jadeja,1.0,0,7,0
+MI,7,7.1,0,0,0,1,0,Ishan,Rohit Sharma,47,28,6,2,,0,0,0,0,Pathirana,0,0,0,1,Jadeja,1.0,0,7,0
+MI,6,6.6,4,1,0,0,0,Rohit Sharma,Rohit Sharma,47,28,6,2,Ishan,23,14,3,1,Jadeja,1.0,0,7,0,Thakur,2.0,0,23,0
+MI,6,6.5,0,0,1,0,0,Rohit Sharma,Rohit Sharma,43,27,5,2,Ishan,23,14,3,1,Jadeja,0,0,3,0,Thakur,2.0,0,23,0
+MI,6,6.4,1,0,0,0,0,Ishan,Rohit Sharma,43,26,5,2,Ishan,23,14,3,1,Jadeja,0,0,3,0,Thakur,2.0,0,23,0
+MI,6,6.3,0,0,1,0,0,Ishan,Rohit Sharma,43,26,5,2,Ishan,22,13,3,1,Jadeja,0,0,2,0,Thakur,2.0,0,23,0
+MI,6,6.2,1,0,0,0,0,Rohit Sharma,Rohit Sharma,43,26,5,2,Ishan,22,12,3,1,Jadeja,0,0,2,0,Thakur,2.0,0,23,0
+MI,6,6.1,1,0,0,0,0,Ishan,Rohit Sharma,42,25,5,2,Ishan,22,12,3,1,Jadeja,0,0,1,0,Thakur,2.0,0,23,0
+MI,5,5.6,0,0,1,0,0,Rohit Sharma,Rohit Sharma,42,25,5,2,Ishan,21,11,3,1,Thakur,2.0,0,23,0,Mustafizur,2.0,0,23,0
+MI,5,5.5,4,1,0,0,0,Rohit Sharma,Rohit Sharma,42,24,5,2,Ishan,21,11,3,1,Thakur,1.0,0,23,0,Mustafizur,2.0,0,23,0
+MI,5,5.4,0,0,1,0,0,Rohit Sharma,Rohit Sharma,38,23,4,2,Ishan,21,11,3,1,Thakur,1.0,0,19,0,Mustafizur,2.0,0,23,0
+MI,5,5.3,0,0,1,0,0,Rohit Sharma,Rohit Sharma,38,22,4,2,Ishan,21,11,3,1,Thakur,1.0,0,19,0,Mustafizur,2.0,0,23,0
+MI,5,5.2,4,1,0,0,0,Rohit Sharma,Rohit Sharma,38,21,4,2,Ishan,21,11,3,1,Thakur,1.0,0,19,0,Mustafizur,2.0,0,23,0
+MI,5,5.1,2,0,0,0,0,Rohit Sharma,Rohit Sharma,34,20,3,2,Ishan,21,11,3,1,Thakur,1.0,0,15,0,Mustafizur,2.0,0,23,0
+MI,4,4.6,4,1,0,0,0,Ishan,Rohit Sharma,32,19,3,2,Ishan,21,11,3,1,Mustafizur,2.0,0,23,0,Thakur,1.0,0,13,0
+MI,4,4.5,0,0,1,0,0,Ishan,Rohit Sharma,32,19,3,2,Ishan,17,10,2,1,Mustafizur,1.0,0,19,0,Thakur,1.0,0,13,0
+MI,4,4.4,0,0,1,0,0,Ishan,Rohit Sharma,32,19,3,2,Ishan,17,9,2,1,Mustafizur,1.0,0,19,0,Thakur,1.0,0,13,0
+MI,4,4.3,1,0,0,0,0,Rohit Sharma,Rohit Sharma,32,19,3,2,Ishan,17,8,2,1,Mustafizur,1.0,0,19,0,Thakur,1.0,0,13,0
+MI,4,4.2,6,1,0,0,0,Rohit Sharma,Rohit Sharma,31,18,3,2,Ishan,17,8,2,1,Mustafizur,1.0,0,18,0,Thakur,1.0,0,13,0
+MI,4,4.1,4,1,0,0,0,Rohit Sharma,Rohit Sharma,25,17,3,1,Ishan,17,8,2,1,Mustafizur,1.0,0,12,0,Thakur,1.0,0,13,0
+MI,3,3.6,1,0,0,0,0,Rohit Sharma,Rohit Sharma,21,16,2,1,Ishan,17,8,2,1,Thakur,1.0,0,13,0,Deshpande,2.0,0,17,0
+MI,3,3.5,0,0,1,0,0,Rohit Sharma,Rohit Sharma,20,15,2,1,Ishan,17,8,2,1,Thakur,0,0,12,0,Deshpande,2.0,0,17,0
+MI,3,3.4,1,0,0,0,0,Ishan,Rohit Sharma,20,14,2,1,Ishan,17,8,2,1,Thakur,0,0,12,0,Deshpande,2.0,0,17,0
+MI,3,3.3,4,1,0,0,0,Ishan,Rohit Sharma,20,14,2,1,Ishan,16,7,2,1,Thakur,0,0,11,0,Deshpande,2.0,0,17,0
+MI,3,3.2,6,1,0,0,0,Ishan,Rohit Sharma,20,14,2,1,Ishan,12,6,1,1,Thakur,0,0,7,0,Deshpande,2.0,0,17,0
+MI,3,3.1,1,0,0,0,0,Rohit Sharma,Rohit Sharma,20,14,2,1,Ishan,6,5,1,0,Thakur,0,0,1,0,Deshpande,2.0,0,17,0
+MI,2,2.6,1,0,0,0,0,Rohit Sharma,Rohit Sharma,19,13,2,1,Ishan,6,5,1,0,Deshpande,2.0,0,17,0,Mustafizur,1.0,0,8,0
+MI,2,2.5,6,1,0,0,0,Rohit Sharma,Rohit Sharma,18,12,2,1,Ishan,6,5,1,0,Deshpande,1.0,0,16,0,Mustafizur,1.0,0,8,0
+MI,2,2.4,0,0,1,0,0,Rohit Sharma,Rohit Sharma,12,11,2,0,Ishan,6,5,1,0,Deshpande,1.0,0,10,0,Mustafizur,1.0,0,8,0
+MI,2,2.3,1,0,0,0,0,Ishan,Rohit Sharma,12,10,2,0,Ishan,6,5,1,0,Deshpande,1.0,0,10,0,Mustafizur,1.0,0,8,0
+MI,2,2.2,4,1,0,0,0,Ishan,Rohit Sharma,12,10,2,0,Ishan,5,4,1,0,Deshpande,1.0,0,9,0,Mustafizur,1.0,0,8,0
+MI,2,2.1,0,0,1,0,0,Ishan,Rohit Sharma,12,10,2,0,Ishan,1,3,0,0,Deshpande,1.0,0,5,0,Mustafizur,1.0,0,8,0
+MI,1,1.6,0,0,1,0,0,Rohit Sharma,Rohit Sharma,12,10,2,0,Ishan,1,2,0,0,Mustafizur,1.0,0,8,0,Deshpande,1.0,0,5,0
+MI,1,1.5,2,0,0,0,0,Rohit Sharma,Rohit Sharma,12,9,2,0,Ishan,1,2,0,0,Mustafizur,0,0,8,0,Deshpande,1.0,0,5,0
+MI,1,1.4,1,0,0,0,0,Ishan,Rohit Sharma,10,8,2,0,Ishan,1,2,0,0,Mustafizur,0,0,6,0,Deshpande,1.0,0,5,0
+MI,1,1.3,0,0,1,0,0,Ishan,Rohit Sharma,10,8,2,0,Ishan,0,1,0,0,Mustafizur,0,0,5,0,Deshpande,1.0,0,5,0
+MI,1,1.2,1,0,0,0,0,Rohit Sharma,Rohit Sharma,10,8,2,0,,0,0,0,0,Mustafizur,0,0,5,0,Deshpande,1.0,0,5,0
+MI,1,1.1,4,1,0,0,0,Rohit Sharma,Rohit Sharma,9,7,2,0,,0,0,0,0,Mustafizur,0,0,4,0,Deshpande,1.0,0,5,0
+MI,0,0.6,1,0,0,0,0,Rohit Sharma,Rohit Sharma,5,6,1,0,,0,0,0,0,Deshpande,1.0,0,5,0,,0,0,0,0
+MI,0,0.5,4,1,0,0,0,Rohit Sharma,Rohit Sharma,4,5,1,0,,0,0,0,0,Deshpande,0,0,4,0,,0,0,0,0
+MI,0,0.4,0,0,1,0,0,Rohit Sharma,Rohit Sharma,0,4,0,0,,0,0,0,0,Deshpande,0,0,0,0,,0,0,0,0
+MI,0,0.3,0,0,1,0,0,Rohit Sharma,Rohit Sharma,0,3,0,0,,0,0,0,0,Deshpande,0,0,0,0,,0,0,0,0
+MI,0,0.2,0,0,1,0,0,Rohit Sharma,Rohit Sharma,0,2,0,0,,0,0,0,0,Deshpande,0,0,0,0,,0,0,0,0
+MI,0,0.1,0,0,1,0,0,Rohit Sharma,Rohit Sharma,0,1,0,0,,0,0,0,0,Deshpande,0,0,0,0,,0,0,0,0

@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+GT,19,19.1,20,3,3,0,2,Rashid Khan,Rashid Khan,63,26,3,7,Alzarri Joseph,8,12,1,0,Kartikeya,2.0,0,18,2,Jordan,4.0,0,34,0
+GT,18,18.1,7,1,4,0,0,Alzarri Joseph,Rashid Khan,55,24,3,6,Alzarri Joseph,8,9,1,0,Jordan,3.0,0,27,0,Green,1.0,0,13,0
+GT,17,17.1,13,2,3,0,0,Rashid Khan,Rashid Khan,42,18,3,4,Alzarri Joseph,8,9,1,0,Green,0,0,0,0,Jordan,3.0,0,27,0
+GT,16,16.1,15,3,2,0,0,Alzarri Joseph,Rashid Khan,31,13,2,3,Alzarri Joseph,8,8,1,0,Jordan,2.0,0,16,0,Madhwal,4.0,0,31,3
+GT,15,15.1,6,1,3,0,1,Alzarri Joseph,Rashid Khan,26,11,1,3,Alzarri Joseph,3,4,0,0,Madhwal,3.0,0,26,3,Behrendorff,4.0,0,37,1
+GT,14,14.1,14,2,1,0,1,Alzarri Joseph,Rashid Khan,14,7,0,2,Alzarri Joseph,2,2,0,0,Behrendorff,3.0,0,24,1,Kartikeya,2.0,0,17,2
+GT,13,13.1,13,2,2,1,0,Rashid Khan,Noor Ahmad,1,2,0,0,Rashid Khan,2,4,0,0,Kartikeya,1.0,0,4,1,Chawla,4.0,0,36,2
+GT,12,12.1,3,0,3,1,0,Rashid Khan,,0,0,0,0,,0,0,0,0,Chawla,3.0,0,33,2,Madhwal,3.0,0,26,3
+GT,11,11.1,10,1,0,1,0,Miller,Miller,41,23,4,2,Tewatia,12,10,1,0,Madhwal,2.0,0,22,2,Chawla,3.0,0,33,1
+GT,10,10.1,8,1,1,0,0,Tewatia,Miller,33,20,4,1,Tewatia,7,7,0,0,Chawla,2.0,0,26,1,Jordan,2.0,0,12,0
+GT,9,9.1,5,0,1,0,0,Tewatia,Miller,31,17,4,1,Tewatia,4,4,0,0,Jordan,1.0,0,8,0,Chawla,2.0,0,25,1
+GT,8,8.1,18,3,0,0,0,Miller,Miller,15,13,2,0,Tewatia,2,2,0,0,Chawla,1.0,0,8,1,Kartikeya,1.0,0,4,1
+GT,7,7.1,4,0,1,1,0,Miller,Miller,12,9,2,0,,0,0,0,0,Kartikeya,0,0,0,1,Chawla,1.0,0,7,1
+GT,6,6.1,7,1,1,1,0,Manohar,Miller,7,6,1,0,,0,0,0,0,Chawla,0,0,0,1,Jordan,1.0,0,7,0
+GT,5,5.1,9,1,1,0,1,Miller,Shankar,28,12,6,0,Miller,0,2,0,0,Jordan,0,0,1,0,Behrendorff,3.0,0,23,1
+GT,4,4.1,13,3,2,0,0,Miller,Shankar,14,7,3,0,Miller,0,1,0,0,Behrendorff,2.0,0,10,1,Madhwal,2.0,0,16,2
+GT,3,3.1,9,2,2,1,0,Miller,Gill,6,8,0,0,Shankar,9,3,2,0,Madhwal,1.0,0,11,1,Behrendorff,2.0,0,10,1
+GT,2,2.1,6,1,2,1,0,Gill,Gill,6,7,0,0,Hardik,4,1,1,0,Behrendorff,1.0,0,5,0,Madhwal,1.0,0,7,1
+GT,1,1.1,7,1,2,1,0,Hardik,Saha,2,4,0,0,Gill,2,3,0,0,Madhwal,0,0,0,0,Behrendorff,1.0,0,4,0
+GT,0,0.1,4,0,2,0,0,Saha,Saha,0,1,0,0,,0,0,0,0,Behrendorff,0,0,0,0,,0,0,0,0

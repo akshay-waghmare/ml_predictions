@@ -1,0 +1,123 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+PBKS,19,19.2,6,1,0,0,0,Livingstone,Livingstone,40,21,2,3,Harpreet Brar,2,2,0,0,Sumit Kumar,1.0,0,19,0,Khaleel Ahmed,4.0,0,43,2
+PBKS,19,19.1,0,0,1,0,0,Livingstone,Livingstone,34,20,2,2,Harpreet Brar,2,2,0,0,Sumit Kumar,1.0,0,13,0,Khaleel Ahmed,4.0,0,43,2
+PBKS,19,19.1,1,0,0,0,1,Livingstone,Livingstone,34,19,2,2,Harpreet Brar,2,2,0,0,Sumit Kumar,1.0,0,13,0,Khaleel Ahmed,4.0,0,43,2
+PBKS,19,19.1,1,0,0,0,1,Livingstone,Livingstone,33,19,2,2,Harpreet Brar,2,2,0,0,Sumit Kumar,1.0,0,12,0,Khaleel Ahmed,4.0,0,43,2
+PBKS,18,18.6,2,0,0,0,0,Harpreet Brar,Livingstone,32,19,2,2,Harpreet Brar,2,2,0,0,Khaleel Ahmed,4.0,0,43,2,Marsh,4.0,0,52,0
+PBKS,18,18.5,0,0,1,0,0,Harpreet Brar,Livingstone,32,19,2,2,Harpreet Brar,0,1,0,0,Khaleel Ahmed,3.0,0,41,2,Marsh,4.0,0,52,0
+PBKS,18,18.4,0,0,0,1,0,Shashank Singh,Livingstone,32,19,2,2,,0,0,0,0,Khaleel Ahmed,3.0,0,41,2,Marsh,4.0,0,52,0
+PBKS,18,18.3,0,0,0,1,0,Sam Curran,Livingstone,32,19,2,2,,0,0,0,0,Khaleel Ahmed,3.0,0,41,1,Marsh,4.0,0,52,0
+PBKS,18,18.2,1,0,0,0,0,Livingstone,Sam Curran,65,46,6,1,Livingstone,32,19,2,2,Khaleel Ahmed,3.0,0,41,0,Marsh,4.0,0,52,0
+PBKS,18,18.1,1,0,0,0,0,Sam Curran,Sam Curran,65,46,6,1,Livingstone,31,18,2,2,Khaleel Ahmed,3.0,0,40,0,Marsh,4.0,0,52,0
+PBKS,17,17.6,6,1,0,0,0,Livingstone,Sam Curran,64,45,6,1,Livingstone,31,18,2,2,Marsh,4.0,0,52,0,Khaleel Ahmed,3.0,0,39,0
+PBKS,17,17.5,1,0,0,0,0,Sam Curran,Sam Curran,64,45,6,1,Livingstone,25,17,2,1,Marsh,3.0,0,46,0,Khaleel Ahmed,3.0,0,39,0
+PBKS,17,17.4,0,0,1,0,0,Sam Curran,Sam Curran,63,44,6,1,Livingstone,25,17,2,1,Marsh,3.0,0,45,0,Khaleel Ahmed,3.0,0,39,0
+PBKS,17,17.3,4,1,0,0,0,Sam Curran,Sam Curran,63,43,6,1,Livingstone,25,17,2,1,Marsh,3.0,0,45,0,Khaleel Ahmed,3.0,0,39,0
+PBKS,17,17.2,6,1,0,0,0,Sam Curran,Sam Curran,59,42,5,1,Livingstone,25,17,2,1,Marsh,3.0,0,41,0,Khaleel Ahmed,3.0,0,39,0
+PBKS,17,17.1,1,0,0,0,0,Livingstone,Sam Curran,53,41,5,0,Livingstone,25,17,2,1,Marsh,3.0,0,35,0,Khaleel Ahmed,3.0,0,39,0
+PBKS,16,16.6,1,0,0,0,0,Livingstone,Sam Curran,53,41,5,0,Livingstone,24,16,2,1,Khaleel Ahmed,3.0,0,39,0,Axar Patel,4.0,0,25,0
+PBKS,16,16.5,4,1,0,0,0,Livingstone,Sam Curran,53,41,5,0,Livingstone,23,15,2,1,Khaleel Ahmed,2.0,0,38,0,Axar Patel,4.0,0,25,0
+PBKS,16,16.4,4,1,0,0,0,Livingstone,Sam Curran,53,41,5,0,Livingstone,19,14,1,1,Khaleel Ahmed,2.0,0,34,0,Axar Patel,4.0,0,25,0
+PBKS,16,16.3,1,0,0,0,0,Sam Curran,Sam Curran,53,41,5,0,Livingstone,15,13,0,1,Khaleel Ahmed,2.0,0,30,0,Axar Patel,4.0,0,25,0
+PBKS,16,16.2,0,0,1,0,0,Sam Curran,Sam Curran,52,40,5,0,Livingstone,15,13,0,1,Khaleel Ahmed,2.0,0,29,0,Axar Patel,4.0,0,25,0
+PBKS,16,16.1,1,0,0,0,0,Livingstone,Sam Curran,52,39,5,0,Livingstone,15,13,0,1,Khaleel Ahmed,2.0,0,29,0,Axar Patel,4.0,0,25,0
+PBKS,15,15.6,1,0,0,0,0,Livingstone,Sam Curran,52,39,5,0,Livingstone,14,12,0,1,Axar Patel,4.0,0,25,0,Marsh,3.0,0,34,0
+PBKS,15,15.5,0,0,1,0,0,Livingstone,Sam Curran,52,39,5,0,Livingstone,13,11,0,1,Axar Patel,3.0,0,24,0,Marsh,3.0,0,34,0
+PBKS,15,15.4,1,0,0,0,0,Sam Curran,Sam Curran,52,39,5,0,Livingstone,13,10,0,1,Axar Patel,3.0,0,24,0,Marsh,3.0,0,34,0
+PBKS,15,15.3,2,0,0,0,0,Sam Curran,Sam Curran,51,38,5,0,Livingstone,13,10,0,1,Axar Patel,3.0,0,23,0,Marsh,3.0,0,34,0
+PBKS,15,15.2,1,0,0,0,0,Livingstone,Sam Curran,49,37,5,0,Livingstone,13,10,0,1,Axar Patel,3.0,0,21,0,Marsh,3.0,0,34,0
+PBKS,15,15.1,1,0,0,0,0,Sam Curran,Sam Curran,49,37,5,0,Livingstone,12,9,0,1,Axar Patel,3.0,0,20,0,Marsh,3.0,0,34,0
+PBKS,14,14.6,6,1,0,0,0,Livingstone,Sam Curran,48,36,5,0,Livingstone,12,9,0,1,Marsh,3.0,0,34,0,Kuldeep,4.0,0,20,2
+PBKS,14,14.5,1,0,0,0,0,Sam Curran,Sam Curran,48,36,5,0,Livingstone,6,8,0,0,Marsh,2.0,0,28,0,Kuldeep,4.0,0,20,2
+PBKS,14,14.4,2,0,0,0,0,Sam Curran,Sam Curran,47,35,5,0,Livingstone,6,8,0,0,Marsh,2.0,0,27,0,Kuldeep,4.0,0,20,2
+PBKS,14,14.4,1,0,0,0,1,Sam Curran,Sam Curran,45,34,5,0,Livingstone,6,8,0,0,Marsh,2.0,0,25,0,Kuldeep,4.0,0,20,2
+PBKS,14,14.3,4,1,0,0,0,Sam Curran,Sam Curran,44,34,5,0,Livingstone,6,8,0,0,Marsh,2.0,0,24,0,Kuldeep,4.0,0,20,2
+PBKS,14,14.2,0,0,1,0,0,Sam Curran,Sam Curran,40,33,4,0,Livingstone,6,8,0,0,Marsh,2.0,0,20,0,Kuldeep,4.0,0,20,2
+PBKS,14,14.1,4,1,0,0,0,Sam Curran,Sam Curran,40,32,4,0,Livingstone,6,8,0,0,Marsh,2.0,0,20,0,Kuldeep,4.0,0,20,2
+PBKS,13,13.6,1,0,0,0,0,Sam Curran,Sam Curran,36,31,3,0,Livingstone,6,8,0,0,Kuldeep,4.0,0,20,2,Axar Patel,3.0,0,19,0
+PBKS,13,13.5,0,0,1,0,0,Sam Curran,Sam Curran,35,30,3,0,Livingstone,6,8,0,0,Kuldeep,3.0,0,19,2,Axar Patel,3.0,0,19,0
+PBKS,13,13.4,0,0,1,0,0,Sam Curran,Sam Curran,35,29,3,0,Livingstone,6,8,0,0,Kuldeep,3.0,0,19,2,Axar Patel,3.0,0,19,0
+PBKS,13,13.3,1,0,0,0,0,Livingstone,Sam Curran,35,28,3,0,Livingstone,6,8,0,0,Kuldeep,3.0,0,19,2,Axar Patel,3.0,0,19,0
+PBKS,13,13.2,1,0,0,0,0,Sam Curran,Sam Curran,35,28,3,0,Livingstone,5,7,0,0,Kuldeep,3.0,0,18,2,Axar Patel,3.0,0,19,0
+PBKS,13,13.1,1,0,0,0,0,Livingstone,Sam Curran,34,27,3,0,Livingstone,5,7,0,0,Kuldeep,3.0,0,17,2,Axar Patel,3.0,0,19,0
+PBKS,12,12.6,1,0,0,0,0,Livingstone,Sam Curran,34,27,3,0,Livingstone,4,6,0,0,Axar Patel,3.0,0,19,0,Kuldeep,3.0,0,16,2
+PBKS,12,12.5,0,0,1,0,0,Livingstone,Sam Curran,34,27,3,0,Livingstone,3,5,0,0,Axar Patel,2.0,0,18,0,Kuldeep,3.0,0,16,2
+PBKS,12,12.4,0,0,1,0,0,Livingstone,Sam Curran,34,27,3,0,Livingstone,3,4,0,0,Axar Patel,2.0,0,18,0,Kuldeep,3.0,0,16,2
+PBKS,12,12.3,1,0,0,0,0,Sam Curran,Sam Curran,34,27,3,0,Livingstone,3,3,0,0,Axar Patel,2.0,0,18,0,Kuldeep,3.0,0,16,2
+PBKS,12,12.2,2,0,0,0,0,Sam Curran,Sam Curran,33,26,3,0,Livingstone,3,3,0,0,Axar Patel,2.0,0,17,0,Kuldeep,3.0,0,16,2
+PBKS,12,12.1,1,0,0,0,0,Livingstone,Sam Curran,31,25,3,0,Livingstone,3,3,0,0,Axar Patel,2.0,0,15,0,Kuldeep,3.0,0,16,2
+PBKS,11,11.6,1,0,0,0,0,Livingstone,Sam Curran,31,25,3,0,Livingstone,2,2,0,0,Kuldeep,3.0,0,16,2,Sumit Kumar,1.0,0,11,0
+PBKS,11,11.5,1,0,0,0,0,Sam Curran,Sam Curran,31,25,3,0,Livingstone,1,1,0,0,Kuldeep,2.0,0,15,2,Sumit Kumar,1.0,0,11,0
+PBKS,11,11.4,1,0,0,0,0,Livingstone,Sam Curran,30,24,3,0,Livingstone,1,1,0,0,Kuldeep,2.0,0,14,2,Sumit Kumar,1.0,0,11,0
+PBKS,11,11.3,0,0,0,1,0,Sharma,Sam Curran,30,24,3,0,,0,0,0,0,Kuldeep,2.0,0,13,2,Sumit Kumar,1.0,0,11,0
+PBKS,11,11.2,1,0,0,0,0,Sam Curran,Sam Curran,30,24,3,0,Sharma,9,8,1,0,Kuldeep,2.0,0,13,1,Sumit Kumar,1.0,0,11,0
+PBKS,11,11.1,1,0,0,0,0,Sharma,Sam Curran,29,23,3,0,Sharma,9,8,1,0,Kuldeep,2.0,0,12,1,Sumit Kumar,1.0,0,11,0
+PBKS,10,10.6,1,0,0,0,0,Sharma,Sam Curran,29,23,3,0,Sharma,8,7,1,0,Sumit Kumar,1.0,0,11,0,Kuldeep,2.0,0,11,1
+PBKS,10,10.5,4,1,0,0,0,Sharma,Sam Curran,29,23,3,0,Sharma,7,6,1,0,Sumit Kumar,0,0,10,0,Kuldeep,2.0,0,11,1
+PBKS,10,10.4,1,0,0,0,0,Sam Curran,Sam Curran,29,23,3,0,Sharma,3,5,0,0,Sumit Kumar,0,0,6,0,Kuldeep,2.0,0,11,1
+PBKS,10,10.3,4,1,0,0,0,Sam Curran,Sam Curran,28,22,3,0,Sharma,3,5,0,0,Sumit Kumar,0,0,5,0,Kuldeep,2.0,0,11,1
+PBKS,10,10.2,1,0,0,0,0,Sharma,Sam Curran,24,21,2,0,Sharma,3,5,0,0,Sumit Kumar,0,0,1,0,Kuldeep,2.0,0,11,1
+PBKS,10,10.1,0,0,1,0,0,Sharma,Sam Curran,24,21,2,0,Sharma,2,4,0,0,Sumit Kumar,0,0,0,0,Kuldeep,2.0,0,11,1
+PBKS,9,9.6,1,0,0,0,0,Sharma,Sam Curran,24,21,2,0,Sharma,2,3,0,0,Kuldeep,2.0,0,11,1,Axar Patel,2.0,0,14,0
+PBKS,9,9.5,0,0,1,0,0,Sharma,Sam Curran,24,21,2,0,Sharma,1,2,0,0,Kuldeep,1.0,0,10,1,Axar Patel,2.0,0,14,0
+PBKS,9,9.4,1,0,0,0,0,Sam Curran,Sam Curran,24,21,2,0,Sharma,1,1,0,0,Kuldeep,1.0,0,10,1,Axar Patel,2.0,0,14,0
+PBKS,9,9.3,1,0,0,0,0,Sharma,Sam Curran,23,20,2,0,Sharma,1,1,0,0,Kuldeep,1.0,0,9,1,Axar Patel,2.0,0,14,0
+PBKS,9,9.2,0,0,0,1,0,Prabhsimran,Bairstow,9,3,2,0,Sam Curran,23,20,2,0,Kuldeep,1.0,0,8,1,Axar Patel,2.0,0,14,0
+PBKS,9,9.1,1,0,0,0,1,Sam Curran,Bairstow,9,3,2,0,Sam Curran,23,20,2,0,Kuldeep,1.0,0,8,0,Axar Patel,2.0,0,14,0
+PBKS,8,8.6,0,0,1,0,0,Prabhsimran,Bairstow,9,3,2,0,Sam Curran,22,19,2,0,Axar Patel,2.0,0,14,0,Kuldeep,1.0,0,8,0
+PBKS,8,8.5,1,0,0,0,0,Sam Curran,Bairstow,9,3,2,0,Sam Curran,22,19,2,0,Axar Patel,1.0,0,14,0,Kuldeep,1.0,0,8,0
+PBKS,8,8.4,1,0,0,0,0,Prabhsimran,Bairstow,9,3,2,0,Sam Curran,21,18,2,0,Axar Patel,1.0,0,13,0,Kuldeep,1.0,0,8,0
+PBKS,8,8.3,4,1,0,0,0,Prabhsimran,Bairstow,9,3,2,0,Sam Curran,21,18,2,0,Axar Patel,1.0,0,12,0,Kuldeep,1.0,0,8,0
+PBKS,8,8.2,1,0,0,0,0,Sam Curran,Bairstow,9,3,2,0,Sam Curran,21,18,2,0,Axar Patel,1.0,0,8,0,Kuldeep,1.0,0,8,0
+PBKS,8,8.1,1,0,0,0,0,Prabhsimran,Bairstow,9,3,2,0,Sam Curran,20,17,2,0,Axar Patel,1.0,0,7,0,Kuldeep,1.0,0,8,0
+PBKS,7,7.6,0,0,1,0,0,Sam Curran,Bairstow,9,3,2,0,Sam Curran,20,17,2,0,Kuldeep,1.0,0,8,0,Axar Patel,1.0,0,6,0
+PBKS,7,7.5,4,1,0,0,0,Sam Curran,Bairstow,9,3,2,0,Sam Curran,20,16,2,0,Kuldeep,0,0,8,0,Axar Patel,1.0,0,6,0
+PBKS,7,7.4,1,0,0,0,0,Prabhsimran,Bairstow,9,3,2,0,Sam Curran,16,15,1,0,Kuldeep,0,0,4,0,Axar Patel,1.0,0,6,0
+PBKS,7,7.3,1,0,0,0,0,Sam Curran,Bairstow,9,3,2,0,Sam Curran,16,15,1,0,Kuldeep,0,0,3,0,Axar Patel,1.0,0,6,0
+PBKS,7,7.2,1,0,0,0,0,Prabhsimran,Bairstow,9,3,2,0,Sam Curran,15,14,1,0,Kuldeep,0,0,2,0,Axar Patel,1.0,0,6,0
+PBKS,7,7.1,1,0,0,0,0,Sam Curran,Bairstow,9,3,2,0,Sam Curran,15,14,1,0,Kuldeep,0,0,1,0,Axar Patel,1.0,0,6,0
+PBKS,6,6.6,1,0,0,0,0,Sam Curran,Bairstow,9,3,2,0,Sam Curran,14,13,1,0,Axar Patel,1.0,0,6,0,Marsh,2.0,0,16,0
+PBKS,6,6.5,1,0,0,0,0,Prabhsimran,Bairstow,9,3,2,0,Sam Curran,13,12,1,0,Axar Patel,0,0,5,0,Marsh,2.0,0,16,0
+PBKS,6,6.4,1,0,0,0,0,Sam Curran,Bairstow,9,3,2,0,Sam Curran,13,12,1,0,Axar Patel,0,0,4,0,Marsh,2.0,0,16,0
+PBKS,6,6.3,2,0,0,0,0,Sam Curran,Bairstow,9,3,2,0,Sam Curran,12,11,1,0,Axar Patel,0,0,3,0,Marsh,2.0,0,16,0
+PBKS,6,6.2,1,0,0,0,1,Prabhsimran,Bairstow,9,3,2,0,Sam Curran,10,10,1,0,Axar Patel,0,0,1,0,Marsh,2.0,0,16,0
+PBKS,6,6.1,1,0,0,0,0,Sam Curran,Bairstow,9,3,2,0,Sam Curran,10,10,1,0,Axar Patel,0,0,1,0,Marsh,2.0,0,16,0
+PBKS,5,5.6,1,0,0,0,0,Sam Curran,Bairstow,9,3,2,0,Sam Curran,9,9,1,0,Marsh,2.0,0,16,0,Khaleel Ahmed,2.0,0,28,0
+PBKS,5,5.5,0,0,1,0,0,Sam Curran,Bairstow,9,3,2,0,Sam Curran,8,8,1,0,Marsh,1.0,0,15,0,Khaleel Ahmed,2.0,0,28,0
+PBKS,5,5.4,0,0,1,0,0,Sam Curran,Bairstow,9,3,2,0,Sam Curran,8,7,1,0,Marsh,1.0,0,15,0,Khaleel Ahmed,2.0,0,28,0
+PBKS,5,5.3,1,0,0,0,0,Prabhsimran,Bairstow,9,3,2,0,Sam Curran,8,6,1,0,Marsh,1.0,0,15,0,Khaleel Ahmed,2.0,0,28,0
+PBKS,5,5.2,1,0,0,0,0,Sam Curran,Bairstow,9,3,2,0,Sam Curran,8,6,1,0,Marsh,1.0,0,14,0,Khaleel Ahmed,2.0,0,28,0
+PBKS,5,5.1,4,1,0,0,0,Sam Curran,Bairstow,9,3,2,0,Sam Curran,7,5,1,0,Marsh,1.0,0,13,0,Khaleel Ahmed,2.0,0,28,0
+PBKS,4,4.6,4,1,0,0,0,Prabhsimran,Bairstow,9,3,2,0,Sam Curran,3,4,0,0,Khaleel Ahmed,2.0,0,28,0,Ishant Sharma,2.0,0,16,2
+PBKS,4,4.5,4,1,0,0,0,Prabhsimran,Bairstow,9,3,2,0,Sam Curran,3,4,0,0,Khaleel Ahmed,1.0,0,24,0,Ishant Sharma,2.0,0,16,2
+PBKS,4,4.4,1,0,0,0,0,Sam Curran,Bairstow,9,3,2,0,Sam Curran,3,4,0,0,Khaleel Ahmed,1.0,0,20,0,Ishant Sharma,2.0,0,16,2
+PBKS,4,4.3,2,0,0,0,0,Sam Curran,Bairstow,9,3,2,0,Sam Curran,2,3,0,0,Khaleel Ahmed,1.0,0,19,0,Ishant Sharma,2.0,0,16,2
+PBKS,4,4.2,0,0,1,0,0,Sam Curran,Bairstow,9,3,2,0,Sam Curran,0,2,0,0,Khaleel Ahmed,1.0,0,17,0,Ishant Sharma,2.0,0,16,2
+PBKS,4,4.1,0,0,1,0,0,Sam Curran,Bairstow,9,3,2,0,Sam Curran,0,1,0,0,Khaleel Ahmed,1.0,0,17,0,Ishant Sharma,2.0,0,16,2
+PBKS,3,3.6,0,0,1,0,0,Prabhsimran,Bairstow,9,3,2,0,,0,0,0,0,Ishant Sharma,2.0,0,16,2,Marsh,1.0,0,9,0
+PBKS,3,3.5,0,0,0,1,0,Prabhsimran,Bairstow,9,3,2,0,,0,0,0,0,Ishant Sharma,1.0,0,16,2,Marsh,1.0,0,9,0
+PBKS,3,3.4,0,0,1,0,0,Prabhsimran,Bairstow,9,3,2,0,Prabhsimran,8,3,2,0,Ishant Sharma,1.0,0,16,1,Marsh,1.0,0,9,0
+PBKS,3,3.3,4,1,0,0,0,Prabhsimran,Bairstow,9,3,2,0,Prabhsimran,8,2,2,0,Ishant Sharma,1.0,0,16,1,Marsh,1.0,0,9,0
+PBKS,3,3.2,4,1,0,0,0,Prabhsimran,Bairstow,9,3,2,0,Prabhsimran,4,1,1,0,Ishant Sharma,1.0,0,12,1,Marsh,1.0,0,9,0
+PBKS,3,3.1,0,0,0,1,0,S Dhawan,Bairstow,9,3,2,0,,0,0,0,0,Ishant Sharma,1.0,0,8,1,Marsh,1.0,0,9,0
+PBKS,2,2.6,1,0,0,0,0,S Dhawan,S Dhawan,25,15,4,0,Bairstow,9,3,2,0,Marsh,1.0,0,9,0,Ishant Sharma,1.0,0,8,0
+PBKS,2,2.5,0,0,1,0,0,S Dhawan,S Dhawan,24,14,4,0,Bairstow,9,3,2,0,Marsh,0,0,8,0,Ishant Sharma,1.0,0,8,0
+PBKS,2,2.4,2,0,0,0,0,S Dhawan,S Dhawan,24,13,4,0,Bairstow,9,3,2,0,Marsh,0,0,8,0,Ishant Sharma,1.0,0,8,0
+PBKS,2,2.3,1,0,0,0,0,Bairstow,S Dhawan,22,12,4,0,Bairstow,9,3,2,0,Marsh,0,0,6,0,Ishant Sharma,1.0,0,8,0
+PBKS,2,2.2,1,0,0,0,0,S Dhawan,S Dhawan,22,12,4,0,Bairstow,8,2,2,0,Marsh,0,0,5,0,Ishant Sharma,1.0,0,8,0
+PBKS,2,2.1,4,1,0,0,0,S Dhawan,S Dhawan,21,11,4,0,Bairstow,8,2,2,0,Marsh,0,0,4,0,Ishant Sharma,1.0,0,8,0
+PBKS,1,1.6,1,0,0,0,0,S Dhawan,S Dhawan,17,10,3,0,Bairstow,8,2,2,0,Ishant Sharma,1.0,0,8,0,Khaleel Ahmed,1.0,0,17,0
+PBKS,1,1.5,0,0,1,0,0,S Dhawan,S Dhawan,16,9,3,0,Bairstow,8,2,2,0,Ishant Sharma,0,0,7,0,Khaleel Ahmed,1.0,0,17,0
+PBKS,1,1.4,0,0,1,0,0,S Dhawan,S Dhawan,16,8,3,0,Bairstow,8,2,2,0,Ishant Sharma,0,0,7,0,Khaleel Ahmed,1.0,0,17,0
+PBKS,1,1.3,0,0,1,0,0,S Dhawan,S Dhawan,16,7,3,0,Bairstow,8,2,2,0,Ishant Sharma,0,0,7,0,Khaleel Ahmed,1.0,0,17,0
+PBKS,1,1.2,0,0,1,0,0,S Dhawan,S Dhawan,16,6,3,0,Bairstow,8,2,2,0,Ishant Sharma,0,0,7,0,Khaleel Ahmed,1.0,0,17,0
+PBKS,1,1.2,1,0,0,0,1,S Dhawan,S Dhawan,16,5,3,0,Bairstow,8,2,2,0,Ishant Sharma,0,0,7,0,Khaleel Ahmed,1.0,0,17,0
+PBKS,1,1.1,4,1,0,0,0,S Dhawan,S Dhawan,15,5,3,0,Bairstow,8,2,2,0,Ishant Sharma,0,0,6,0,Khaleel Ahmed,1.0,0,17,0
+PBKS,1,1.1,1,0,0,0,1,S Dhawan,S Dhawan,11,4,2,0,Bairstow,8,2,2,0,Ishant Sharma,0,0,2,0,Khaleel Ahmed,1.0,0,17,0
+PBKS,1,1.1,1,0,0,0,1,S Dhawan,S Dhawan,10,4,2,0,Bairstow,8,2,2,0,Ishant Sharma,0,0,1,0,Khaleel Ahmed,1.0,0,17,0
+PBKS,0,0.6,4,1,0,0,0,Bairstow,S Dhawan,9,4,2,0,Bairstow,8,2,2,0,Khaleel Ahmed,1.0,0,17,0,,0,0,0,0
+PBKS,0,0.5,4,1,0,0,0,Bairstow,S Dhawan,9,4,2,0,Bairstow,4,1,1,0,Khaleel Ahmed,0,0,13,0,,0,0,0,0
+PBKS,0,0.4,1,0,0,0,0,S Dhawan,S Dhawan,9,4,2,0,,0,0,0,0,Khaleel Ahmed,0,0,9,0,,0,0,0,0
+PBKS,0,0.3,4,1,0,0,0,S Dhawan,S Dhawan,8,3,2,0,,0,0,0,0,Khaleel Ahmed,0,0,8,0,,0,0,0,0
+PBKS,0,0.2,0,0,1,0,0,S Dhawan,S Dhawan,4,2,1,0,,0,0,0,0,Khaleel Ahmed,0,0,4,0,,0,0,0,0
+PBKS,0,0.1,4,1,0,0,0,S Dhawan,S Dhawan,4,1,1,0,,0,0,0,0,Khaleel Ahmed,0,0,4,0,,0,0,0,0

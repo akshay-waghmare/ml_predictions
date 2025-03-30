@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+LSG,19,19.1,22,3,0,1,2,Gowtham,Krunal,16,12,0,1,Badoni,7,4,1,0,Sakariya,3.0,0,32,1,Khaleel Ahmed,4.0,0,30,2
+LSG,18,18.1,14,2,1,1,1,Badoni,Krunal,16,12,0,1,Pooran,36,19,2,3,Khaleel Ahmed,3.0,0,22,1,Mukesh Kumar,4.0,0,34,0
+LSG,17,17.1,7,0,1,0,1,Pooran,Krunal,15,11,0,1,Pooran,25,14,2,2,Mukesh Kumar,3.0,0,28,0,Sakariya,3.0,0,31,1
+LSG,16,16.1,19,3,1,0,1,Krunal,Krunal,7,8,0,0,Pooran,13,11,1,1,Sakariya,2.0,0,12,1,Kuldeep,4.0,0,35,1
+LSG,15,15.1,4,0,3,0,1,Pooran,Krunal,7,8,0,0,Pooran,10,5,1,1,Kuldeep,3.0,0,32,1,Khaleel Ahmed,3.0,0,16,1
+LSG,14,14.1,10,2,3,1,0,Pooran,Krunal,6,7,0,0,,0,0,0,0,Khaleel Ahmed,2.0,0,6,1,Axar Patel,4.0,0,38,1
+LSG,13,13.1,5,0,2,0,0,Krunal,Krunal,3,4,0,0,Stoinis,11,7,0,1,Axar Patel,3.0,0,34,1,Kuldeep,3.0,0,32,1
+LSG,12,12.1,11,1,0,0,1,Stoinis,Krunal,1,2,0,0,Stoinis,2,3,0,0,Kuldeep,2.0,0,23,1,Axar Patel,3.0,0,33,1
+LSG,11,11.1,3,0,2,1,0,Krunal,Mayers,73,37,2,7,,0,0,0,0,Axar Patel,2.0,0,31,0,Kuldeep,2.0,0,22,1
+LSG,10,10.1,9,1,1,1,0,Hooda,Mayers,70,33,2,7,Hooda,16,16,0,0,Kuldeep,1.0,0,19,0,Axar Patel,2.0,0,30,0
+LSG,9,9.1,16,2,1,0,0,Hooda,Mayers,51,29,2,4,Hooda,14,14,0,0,Axar Patel,1.0,0,15,0,Kuldeep,1.0,0,13,0
+LSG,8,8.1,13,1,0,0,0,Hooda,Mayers,42,26,2,3,Hooda,10,11,0,0,Kuldeep,0,0,1,0,Axar Patel,1.0,0,14,0
+LSG,7,7.1,14,2,2,0,0,Mayers,Mayers,35,22,2,2,Hooda,6,9,0,0,Axar Patel,0,0,4,0,Mukesh Kumar,3.0,0,27,0
+LSG,6,6.1,16,2,0,0,0,Mayers,Mayers,17,17,1,0,Hooda,5,8,0,0,Mukesh Kumar,2.0,0,12,0,Sakariya,2.0,0,12,1
+LSG,5,5.1,5,0,2,0,0,Mayers,Mayers,14,15,1,0,Hooda,2,4,0,0,Sakariya,1.0,0,7,1,Mukesh Kumar,2.0,0,11,0
+LSG,4,4.1,6,0,1,0,0,Hooda,Mayers,11,13,1,0,,0,0,0,0,Mukesh Kumar,1.0,0,6,0,Sakariya,1.0,0,7,1
+LSG,3,3.1,7,1,3,1,0,Rahul,Rahul,3,7,0,0,Mayers,10,12,1,0,Sakariya,0,0,1,0,Khaleel Ahmed,2.0,0,6,0
+LSG,2,2.1,6,1,3,0,1,Rahul,Rahul,3,6,0,0,Mayers,4,7,0,0,Khaleel Ahmed,1.0,0,1,0,Mukesh Kumar,1.0,0,5,0
+LSG,1,1.1,5,0,3,0,0,Mayers,Rahul,1,2,0,0,Mayers,0,5,0,0,Mukesh Kumar,0,0,0,0,Khaleel Ahmed,1.0,0,1,0
+LSG,0,0.1,1,0,5,0,0,Mayers,Rahul,1,1,0,0,,0,0,0,0,Khaleel Ahmed,0,0,1,0,,0,0,0,0

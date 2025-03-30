@@ -1,0 +1,21 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+CSK,19,19.1,8,1,1,1,0,Jadeja,Mitchell,24,20,2,0,Sameer Rizvi,14,4,0,2,Mohit,3.0,0,29,0,Rashid Khan,4.0,0,49,2
+CSK,18,18.1,15,2,1,1,0,Sameer Rizvi,Dube,53,22,2,5,Mitchell,23,19,2,0,Rashid Khan,3.0,0,35,1,Mohit,3.0,0,28,0
+CSK,17,17.1,11,1,1,0,0,Dube,Dube,44,18,2,4,Mitchell,21,17,2,0,Mohit,2.0,0,18,0,Johnson,4.0,0,35,1
+CSK,16,16.1,7,1,2,0,0,Mitchell,Dube,43,16,2,4,Mitchell,15,13,1,0,Johnson,3.0,0,29,1,Mohit,2.0,0,17,0
+CSK,15,15.1,10,1,1,0,0,Dube,Dube,39,15,1,4,Mitchell,9,8,1,0,Mohit,1.0,0,8,0,Johnson,3.0,0,28,1
+CSK,14,14.1,14,2,0,0,0,Dube,Dube,26,10,0,3,Mitchell,8,7,1,0,Johnson,2.0,0,15,1,Rashid Khan,3.0,0,34,1
+CSK,13,13.1,13,2,1,0,0,Dube,Dube,19,8,0,2,Mitchell,1,3,0,0,Rashid Khan,2.0,0,21,1,Johnson,2.0,0,14,1
+CSK,12,12.1,2,0,3,1,0,Dube,Gaikwad,48,34,5,1,Dube,19,7,0,2,Johnson,1.0,0,13,0,Mohit,1.0,0,7,0
+CSK,11,11.1,7,0,0,0,1,Dube,Gaikwad,46,32,5,1,Dube,14,3,0,2,Mohit,0,0,1,0,Sai Kishore,3.0,0,28,1
+CSK,10,10.1,15,2,1,1,1,Gaikwad,Gaikwad,44,29,5,1,,0,0,0,0,Sai Kishore,2.0,0,13,1,Johnson,1.0,0,12,0
+CSK,9,9.1,12,2,2,0,0,Gaikwad,Gaikwad,39,25,4,1,Rahane,11,10,1,0,Johnson,0,0,6,0,Sai Kishore,2.0,0,13,0
+CSK,8,8.1,8,1,2,0,0,Gaikwad,Gaikwad,30,21,4,0,Rahane,6,8,0,0,Sai Kishore,1.0,0,5,0,Rashid Khan,2.0,0,21,1
+CSK,7,7.1,10,1,0,0,0,Rahane,Gaikwad,24,18,3,0,Rahane,4,5,0,0,Rashid Khan,1.0,0,13,1,Sai Kishore,1.0,0,5,0
+CSK,6,6.1,5,0,2,0,1,Gaikwad,Gaikwad,19,14,3,0,Rahane,3,3,0,0,Sai Kishore,0,0,1,0,Rashid Khan,1.0,0,11,1
+CSK,5,5.1,11,2,0,1,0,Gaikwad,Gaikwad,14,12,2,0,Ravindra,48,19,6,3,Rashid Khan,0,0,4,0,Azmatullah,3.0,0,30,0
+CSK,4,4.1,17,3,1,0,2,Ravindra,Gaikwad,13,11,2,0,Ravindra,32,14,4,2,Azmatullah,2.0,0,18,0,Umesh Yadav,2.0,0,27,0
+CSK,3,3.1,16,3,1,0,0,Ravindra,Gaikwad,4,8,0,0,Ravindra,27,11,3,2,Umesh Yadav,1.0,0,17,0,Azmatullah,2.0,0,14,0
+CSK,2,2.1,12,2,1,0,0,Ravindra,Gaikwad,3,6,0,0,Ravindra,12,7,1,1,Azmatullah,1.0,0,4,0,Umesh Yadav,1.0,0,11,0
+CSK,1,1.1,11,2,4,0,1,Ravindra,Gaikwad,1,5,0,0,Ravindra,1,2,0,0,Umesh Yadav,0,0,0,0,Azmatullah,1.0,0,2,0
+CSK,0,0.1,2,0,4,0,0,Gaikwad,Gaikwad,0,1,0,0,,0,0,0,0,Azmatullah,0,0,0,0,,0,0,0,0

@@ -1,0 +1,125 @@
+batting_team,over_number,ball_number,runs_scored,boundaries,dot_balls,wickets,extras,striker_batsman,batsman1_name,batsman1_runs,batsman1_balls_faced,batsman1_fours,batsman1_sixes,batsman2_name,batsman2_runs,batsman2_balls_faced,batsman2_fours,batsman2_sixes,bowler1_name,bowler1_overs_bowled,bowler1_maidens_bowled,bowler1_runs_conceded,bowler1_wickets_taken,bowler2_name,bowler2_overs_bowled,bowler2_maidens_bowled,bowler2_runs_conceded,bowler2_wickets_taken
+PBKS,19,19.6,0,0,0,1,0,Livingstone,,0,0,0,0,,0,0,0,0,Ishant Sharma,3.0,0,36,2,Nortje,4.0,0,36,3
+PBKS,19,19.5,0,0,1,0,0,Livingstone,Livingstone,99,47,4,8,,0,0,0,0,Ishant Sharma,3.0,0,36,1,Nortje,4.0,0,36,3
+PBKS,19,19.4,0,0,1,0,0,Livingstone,Livingstone,99,46,4,8,,0,0,0,0,Ishant Sharma,2.0,0,36,1,Nortje,4.0,0,36,3
+PBKS,19,19.4,7,0,0,0,1,Livingstone,Livingstone,99,45,4,8,,0,0,0,0,Ishant Sharma,2.0,0,36,1,Nortje,4.0,0,36,3
+PBKS,19,19.3,4,1,0,0,0,Livingstone,Livingstone,92,44,4,8,,0,0,0,0,Ishant Sharma,2.0,0,29,1,Nortje,4.0,0,36,3
+PBKS,19,19.2,6,1,0,0,0,Livingstone,Livingstone,88,43,3,8,,0,0,0,0,Ishant Sharma,2.0,0,25,1,Nortje,4.0,0,36,3
+PBKS,19,19.1,0,0,1,0,0,Livingstone,Livingstone,82,42,3,7,,0,0,0,0,Ishant Sharma,2.0,0,19,1,Nortje,4.0,0,36,3
+PBKS,18,18.6,1,0,0,0,0,Livingstone,Livingstone,82,41,3,7,,0,0,0,0,Nortje,4.0,0,36,3,Mukesh Kumar,4.0,0,52,0
+PBKS,18,18.5,0,0,1,0,0,Livingstone,Livingstone,81,40,3,7,,0,0,0,0,Nortje,3.0,0,35,3,Mukesh Kumar,4.0,0,52,0
+PBKS,18,18.4,0,0,1,0,0,Livingstone,Livingstone,81,39,3,7,,0,0,0,0,Nortje,3.0,0,35,3,Mukesh Kumar,4.0,0,52,0
+PBKS,18,18.3,0,0,0,1,0,Harpreet Brar,Livingstone,81,38,3,7,,0,0,0,0,Nortje,3.0,0,35,3,Mukesh Kumar,4.0,0,52,0
+PBKS,18,18.2,0,0,0,1,0,Sam Curran,Livingstone,81,38,3,7,,0,0,0,0,Nortje,3.0,0,35,2,Mukesh Kumar,4.0,0,52,0
+PBKS,18,18.1,4,1,0,0,0,Sam Curran,Livingstone,81,38,3,7,Sam Curran,12,4,1,1,Nortje,3.0,0,35,1,Mukesh Kumar,4.0,0,52,0
+PBKS,17,17.6,0,0,1,0,0,Livingstone,Livingstone,81,38,3,7,Sam Curran,8,3,0,1,Mukesh Kumar,4.0,0,52,0,Khaleel Ahmed,3.0,1,20,1
+PBKS,17,17.5,6,1,0,0,0,Livingstone,Livingstone,81,37,3,7,Sam Curran,8,3,0,1,Mukesh Kumar,3.0,0,52,0,Khaleel Ahmed,3.0,1,20,1
+PBKS,17,17.4,1,0,0,0,0,Sam Curran,Livingstone,75,36,3,6,Sam Curran,8,3,0,1,Mukesh Kumar,3.0,0,46,0,Khaleel Ahmed,3.0,1,20,1
+PBKS,17,17.3,6,1,0,0,0,Sam Curran,Livingstone,75,36,3,6,Sam Curran,7,2,0,1,Mukesh Kumar,3.0,0,45,0,Khaleel Ahmed,3.0,1,20,1
+PBKS,17,17.2,1,0,0,0,1,Livingstone,Livingstone,75,36,3,6,Sam Curran,1,1,0,0,Mukesh Kumar,3.0,0,39,0,Khaleel Ahmed,3.0,1,20,1
+PBKS,17,17.1,6,1,0,0,0,Livingstone,Livingstone,74,35,3,6,Sam Curran,1,1,0,0,Mukesh Kumar,3.0,0,39,0,Khaleel Ahmed,3.0,1,20,1
+PBKS,17,17.1,1,0,0,0,1,Livingstone,Livingstone,68,34,3,5,Sam Curran,1,1,0,0,Mukesh Kumar,3.0,0,33,0,Khaleel Ahmed,3.0,1,20,1
+PBKS,16,16.6,1,0,0,0,0,Livingstone,Livingstone,67,34,3,5,Sam Curran,1,1,0,0,Khaleel Ahmed,3.0,1,20,1,Nortje,3.0,0,31,1
+PBKS,16,16.5,6,1,0,0,0,Livingstone,Livingstone,66,33,3,5,Sam Curran,1,1,0,0,Khaleel Ahmed,3.0,1,19,1,Nortje,3.0,0,31,1
+PBKS,16,16.4,1,0,0,0,1,Sam Curran,Livingstone,60,32,3,4,Sam Curran,1,1,0,0,Khaleel Ahmed,2.0,1,13,1,Nortje,3.0,0,31,1
+PBKS,16,16.3,0,0,0,1,0,Shahrukh Khan,Livingstone,60,32,3,4,,0,0,0,0,Khaleel Ahmed,2.0,1,13,1,Nortje,3.0,0,31,1
+PBKS,16,16.2,1,0,0,0,1,Livingstone,Livingstone,60,32,3,4,Shahrukh Khan,6,2,0,1,Khaleel Ahmed,2.0,1,13,0,Nortje,3.0,0,31,1
+PBKS,16,16.1,6,1,0,0,0,Livingstone,Livingstone,59,31,3,4,Shahrukh Khan,6,2,0,1,Khaleel Ahmed,2.0,1,13,0,Nortje,3.0,0,31,1
+PBKS,16,16.1,5,0,0,0,1,Livingstone,Livingstone,53,30,3,3,Shahrukh Khan,6,2,0,1,Khaleel Ahmed,2.0,1,7,0,Nortje,3.0,0,31,1
+PBKS,15,15.6,0,0,1,0,0,Shahrukh Khan,Livingstone,48,29,3,3,Shahrukh Khan,6,2,0,1,Nortje,3.0,0,31,1,Mukesh Kumar,3.0,0,32,0
+PBKS,15,15.5,6,1,0,0,0,Shahrukh Khan,Livingstone,48,29,3,3,Shahrukh Khan,6,1,0,1,Nortje,2.0,0,31,1,Mukesh Kumar,3.0,0,32,0
+PBKS,15,15.4,0,0,0,1,0,Sharma,Livingstone,48,29,3,3,,0,0,0,0,Nortje,2.0,0,25,1,Mukesh Kumar,3.0,0,32,0
+PBKS,15,15.3,0,0,1,0,0,Sharma,Livingstone,48,29,3,3,Sharma,0,2,0,0,Nortje,2.0,0,25,0,Mukesh Kumar,3.0,0,32,0
+PBKS,15,15.2,0,0,1,0,0,Sharma,Livingstone,48,29,3,3,Sharma,0,1,0,0,Nortje,2.0,0,25,0,Mukesh Kumar,3.0,0,32,0
+PBKS,15,15.1,1,0,0,0,0,Livingstone,Atharva,59,42,5,2,Livingstone,48,29,3,3,Nortje,2.0,0,25,0,Mukesh Kumar,3.0,0,32,0
+PBKS,14,14.6,1,0,0,0,0,Livingstone,Atharva,59,42,5,2,Livingstone,47,28,3,3,Mukesh Kumar,3.0,0,32,0,Kuldeep,3.0,0,21,0
+PBKS,14,14.5,4,1,0,0,0,Livingstone,Atharva,59,42,5,2,Livingstone,46,27,3,3,Mukesh Kumar,2.0,0,31,0,Kuldeep,3.0,0,21,0
+PBKS,14,14.4,0,0,1,0,0,Livingstone,Atharva,59,42,5,2,Livingstone,42,26,2,3,Mukesh Kumar,2.0,0,27,0,Kuldeep,3.0,0,21,0
+PBKS,14,14.3,1,0,0,0,0,Atharva,Atharva,59,42,5,2,Livingstone,42,25,2,3,Mukesh Kumar,2.0,0,27,0,Kuldeep,3.0,0,21,0
+PBKS,14,14.2,1,0,0,0,0,Livingstone,Atharva,58,41,5,2,Livingstone,42,25,2,3,Mukesh Kumar,2.0,0,26,0,Kuldeep,3.0,0,21,0
+PBKS,14,14.1,4,1,0,0,0,Livingstone,Atharva,58,41,5,2,Livingstone,41,24,2,3,Mukesh Kumar,2.0,0,25,0,Kuldeep,3.0,0,21,0
+PBKS,13,13.6,1,0,0,0,0,Livingstone,Atharva,58,41,5,2,Livingstone,37,23,1,3,Kuldeep,3.0,0,21,0,Nortje,2.0,0,24,0
+PBKS,13,13.5,1,0,0,0,0,Atharva,Atharva,58,41,5,2,Livingstone,36,22,1,3,Kuldeep,2.0,0,20,0,Nortje,2.0,0,24,0
+PBKS,13,13.4,1,0,0,0,0,Livingstone,Atharva,57,40,5,2,Livingstone,36,22,1,3,Kuldeep,2.0,0,19,0,Nortje,2.0,0,24,0
+PBKS,13,13.3,0,0,1,0,0,Livingstone,Atharva,57,40,5,2,Livingstone,35,21,1,3,Kuldeep,2.0,0,18,0,Nortje,2.0,0,24,0
+PBKS,13,13.2,1,0,0,0,0,Atharva,Atharva,57,40,5,2,Livingstone,35,20,1,3,Kuldeep,2.0,0,18,0,Nortje,2.0,0,24,0
+PBKS,13,13.1,1,0,0,0,0,Livingstone,Atharva,56,39,5,2,Livingstone,35,20,1,3,Kuldeep,2.0,0,17,0,Nortje,2.0,0,24,0
+PBKS,12,12.6,2,0,0,0,0,Atharva,Atharva,56,39,5,2,Livingstone,34,19,1,3,Nortje,2.0,0,24,0,Axar Patel,3.0,0,27,1
+PBKS,12,12.5,2,0,0,0,0,Atharva,Atharva,54,38,5,2,Livingstone,34,19,1,3,Nortje,1.0,0,22,0,Axar Patel,3.0,0,27,1
+PBKS,12,12.4,0,0,1,0,0,Atharva,Atharva,52,37,5,2,Livingstone,34,19,1,3,Nortje,1.0,0,20,0,Axar Patel,3.0,0,27,1
+PBKS,12,12.3,1,0,0,0,0,Livingstone,Atharva,52,36,5,2,Livingstone,34,19,1,3,Nortje,1.0,0,20,0,Axar Patel,3.0,0,27,1
+PBKS,12,12.2,6,1,0,0,0,Livingstone,Atharva,52,36,5,2,Livingstone,33,18,1,3,Nortje,1.0,0,19,0,Axar Patel,3.0,0,27,1
+PBKS,12,12.1,1,0,0,0,0,Atharva,Atharva,52,36,5,2,Livingstone,27,17,1,2,Nortje,1.0,0,13,0,Axar Patel,3.0,0,27,1
+PBKS,11,11.6,4,1,0,0,0,Livingstone,Atharva,51,35,5,2,Livingstone,27,17,1,2,Axar Patel,3.0,0,27,1,Mukesh Kumar,2.0,0,21,0
+PBKS,11,11.5,1,0,0,0,0,Atharva,Atharva,51,35,5,2,Livingstone,23,16,0,2,Axar Patel,2.0,0,23,1,Mukesh Kumar,2.0,0,21,0
+PBKS,11,11.4,1,0,0,0,0,Livingstone,Atharva,50,34,5,2,Livingstone,23,16,0,2,Axar Patel,2.0,0,22,1,Mukesh Kumar,2.0,0,21,0
+PBKS,11,11.3,1,0,0,0,0,Atharva,Atharva,50,34,5,2,Livingstone,22,15,0,2,Axar Patel,2.0,0,21,1,Mukesh Kumar,2.0,0,21,0
+PBKS,11,11.2,4,1,0,0,0,Atharva,Atharva,49,33,5,2,Livingstone,22,15,0,2,Axar Patel,2.0,0,20,1,Mukesh Kumar,2.0,0,21,0
+PBKS,11,11.1,4,1,0,0,0,Atharva,Atharva,45,32,4,2,Livingstone,22,15,0,2,Axar Patel,2.0,0,16,1,Mukesh Kumar,2.0,0,21,0
+PBKS,10,10.6,0,0,1,0,0,Livingstone,Atharva,41,31,3,2,Livingstone,22,15,0,2,Mukesh Kumar,2.0,0,21,0,Kuldeep,2.0,0,16,0
+PBKS,10,10.5,1,0,0,0,0,Atharva,Atharva,41,31,3,2,Livingstone,22,14,0,2,Mukesh Kumar,1.0,0,21,0,Kuldeep,2.0,0,16,0
+PBKS,10,10.4,0,0,1,0,0,Atharva,Atharva,40,30,3,2,Livingstone,22,14,0,2,Mukesh Kumar,1.0,0,20,0,Kuldeep,2.0,0,16,0
+PBKS,10,10.3,1,0,0,0,0,Livingstone,Atharva,40,29,3,2,Livingstone,22,14,0,2,Mukesh Kumar,1.0,0,20,0,Kuldeep,2.0,0,16,0
+PBKS,10,10.2,6,1,0,0,0,Livingstone,Atharva,40,29,3,2,Livingstone,21,13,0,2,Mukesh Kumar,1.0,0,19,0,Kuldeep,2.0,0,16,0
+PBKS,10,10.1,2,0,0,0,0,Livingstone,Atharva,40,29,3,2,Livingstone,15,12,0,1,Mukesh Kumar,1.0,0,13,0,Kuldeep,2.0,0,16,0
+PBKS,9,9.6,1,0,0,0,0,Livingstone,Atharva,40,29,3,2,Livingstone,13,11,0,1,Kuldeep,2.0,0,16,0,Axar Patel,2.0,0,12,1
+PBKS,9,9.5,6,1,0,0,0,Livingstone,Atharva,40,29,3,2,Livingstone,12,10,0,1,Kuldeep,1.0,0,15,0,Axar Patel,2.0,0,12,1
+PBKS,9,9.4,1,0,0,0,0,Atharva,Atharva,40,29,3,2,Livingstone,6,9,0,0,Kuldeep,1.0,0,9,0,Axar Patel,2.0,0,12,1
+PBKS,9,9.3,2,0,0,0,0,Atharva,Atharva,39,28,3,2,Livingstone,6,9,0,0,Kuldeep,1.0,0,8,0,Axar Patel,2.0,0,12,1
+PBKS,9,9.2,0,0,1,0,0,Atharva,Atharva,37,27,3,2,Livingstone,6,9,0,0,Kuldeep,1.0,0,6,0,Axar Patel,2.0,0,12,1
+PBKS,9,9.2,1,0,0,0,1,Atharva,Atharva,37,26,3,2,Livingstone,6,9,0,0,Kuldeep,1.0,0,6,0,Axar Patel,2.0,0,12,1
+PBKS,9,9.1,1,0,0,0,0,Livingstone,Atharva,36,26,3,2,Livingstone,6,9,0,0,Kuldeep,1.0,0,5,0,Axar Patel,2.0,0,12,1
+PBKS,8,8.6,1,0,0,0,0,Livingstone,Atharva,36,26,3,2,Livingstone,5,8,0,0,Axar Patel,2.0,0,12,1,Kuldeep,1.0,0,4,0
+PBKS,8,8.5,0,0,1,0,0,Livingstone,Atharva,36,26,3,2,Livingstone,4,7,0,0,Axar Patel,1.0,0,11,1,Kuldeep,1.0,0,4,0
+PBKS,8,8.4,1,0,0,0,0,Atharva,Atharva,36,26,3,2,Livingstone,4,6,0,0,Axar Patel,1.0,0,11,1,Kuldeep,1.0,0,4,0
+PBKS,8,8.3,1,0,0,0,0,Livingstone,Atharva,35,25,3,2,Livingstone,4,6,0,0,Axar Patel,1.0,0,10,1,Kuldeep,1.0,0,4,0
+PBKS,8,8.2,1,0,0,0,0,Atharva,Atharva,35,25,3,2,Livingstone,3,5,0,0,Axar Patel,1.0,0,9,1,Kuldeep,1.0,0,4,0
+PBKS,8,8.1,4,1,0,0,0,Atharva,Atharva,34,24,3,2,Livingstone,3,5,0,0,Axar Patel,1.0,0,8,1,Kuldeep,1.0,0,4,0
+PBKS,7,7.6,0,0,1,0,0,Livingstone,Atharva,30,23,2,2,Livingstone,3,5,0,0,Kuldeep,1.0,0,4,0,Axar Patel,1.0,0,4,1
+PBKS,7,7.5,1,0,0,0,0,Atharva,Atharva,30,23,2,2,Livingstone,3,4,0,0,Kuldeep,0,0,4,0,Axar Patel,1.0,0,4,1
+PBKS,7,7.4,0,0,1,0,0,Atharva,Atharva,29,22,2,2,Livingstone,3,4,0,0,Kuldeep,0,0,3,0,Axar Patel,1.0,0,4,1
+PBKS,7,7.3,1,0,0,0,0,Livingstone,Atharva,29,21,2,2,Livingstone,3,4,0,0,Kuldeep,0,0,3,0,Axar Patel,1.0,0,4,1
+PBKS,7,7.2,1,0,0,0,0,Atharva,Atharva,29,21,2,2,Livingstone,2,3,0,0,Kuldeep,0,0,2,0,Axar Patel,1.0,0,4,1
+PBKS,7,7.1,1,0,0,0,0,Livingstone,Atharva,28,20,2,2,Livingstone,2,3,0,0,Kuldeep,0,0,1,0,Axar Patel,1.0,0,4,1
+PBKS,6,6.6,1,0,0,0,0,Livingstone,Atharva,28,20,2,2,Livingstone,1,2,0,0,Axar Patel,1.0,0,4,1,Mukesh Kumar,1.0,0,11,0
+PBKS,6,6.5,0,0,1,0,0,Livingstone,Atharva,28,20,2,2,Livingstone,0,1,0,0,Axar Patel,0,0,3,1,Mukesh Kumar,1.0,0,11,0
+PBKS,6,6.4,0,0,0,1,0,Prabhsimran,Atharva,28,20,2,2,,0,0,0,0,Axar Patel,0,0,3,1,Mukesh Kumar,1.0,0,11,0
+PBKS,6,6.3,1,0,0,0,0,Atharva,Prabhsimran,22,18,4,0,Atharva,28,20,2,2,Axar Patel,0,0,3,0,Mukesh Kumar,1.0,0,11,0
+PBKS,6,6.2,1,0,0,0,0,Prabhsimran,Prabhsimran,22,18,4,0,Atharva,27,19,2,2,Axar Patel,0,0,2,0,Mukesh Kumar,1.0,0,11,0
+PBKS,6,6.1,1,0,0,0,0,Atharva,Prabhsimran,21,17,4,0,Atharva,27,19,2,2,Axar Patel,0,0,1,0,Mukesh Kumar,1.0,0,11,0
+PBKS,5,5.6,0,0,1,0,0,Prabhsimran,Prabhsimran,21,17,4,0,Atharva,26,18,2,2,Mukesh Kumar,1.0,0,11,0,Nortje,1.0,0,12,0
+PBKS,5,5.5,1,0,0,0,0,Atharva,Prabhsimran,21,16,4,0,Atharva,26,18,2,2,Mukesh Kumar,0,0,11,0,Nortje,1.0,0,12,0
+PBKS,5,5.4,6,1,0,0,0,Atharva,Prabhsimran,21,16,4,0,Atharva,25,17,2,2,Mukesh Kumar,0,0,10,0,Nortje,1.0,0,12,0
+PBKS,5,5.3,4,1,0,0,0,Atharva,Prabhsimran,21,16,4,0,Atharva,19,16,2,1,Mukesh Kumar,0,0,4,0,Nortje,1.0,0,12,0
+PBKS,5,5.2,0,0,1,0,0,Atharva,Prabhsimran,21,16,4,0,Atharva,15,15,1,1,Mukesh Kumar,0,0,0,0,Nortje,1.0,0,12,0
+PBKS,5,5.1,0,0,1,0,0,Atharva,Prabhsimran,21,16,4,0,Atharva,15,14,1,1,Mukesh Kumar,0,0,0,0,Nortje,1.0,0,12,0
+PBKS,4,4.6,1,0,0,0,0,Atharva,Prabhsimran,21,16,4,0,Atharva,15,13,1,1,Nortje,1.0,0,12,0,Ishant Sharma,2.0,0,19,1
+PBKS,4,4.5,0,0,1,0,0,Atharva,Prabhsimran,21,16,4,0,Atharva,14,12,1,1,Nortje,0,0,11,0,Ishant Sharma,2.0,0,19,1
+PBKS,4,4.4,1,0,0,0,0,Prabhsimran,Prabhsimran,21,16,4,0,Atharva,14,11,1,1,Nortje,0,0,11,0,Ishant Sharma,2.0,0,19,1
+PBKS,4,4.3,1,0,0,0,1,Atharva,Prabhsimran,20,15,4,0,Atharva,14,11,1,1,Nortje,0,0,10,0,Ishant Sharma,2.0,0,19,1
+PBKS,4,4.2,6,1,0,0,0,Atharva,Prabhsimran,20,15,4,0,Atharva,13,10,1,1,Nortje,0,0,10,0,Ishant Sharma,2.0,0,19,1
+PBKS,4,4.1,4,1,0,0,0,Atharva,Prabhsimran,20,15,4,0,Atharva,7,9,1,0,Nortje,0,0,4,0,Ishant Sharma,2.0,0,19,1
+PBKS,3,3.6,4,1,0,0,0,Prabhsimran,Prabhsimran,20,15,4,0,Atharva,3,8,0,0,Ishant Sharma,2.0,0,19,1,Khaleel Ahmed,2.0,1,2,0
+PBKS,3,3.5,4,1,0,0,0,Prabhsimran,Prabhsimran,16,14,3,0,Atharva,3,8,0,0,Ishant Sharma,1.0,0,15,1,Khaleel Ahmed,2.0,1,2,0
+PBKS,3,3.4,4,1,0,0,0,Prabhsimran,Prabhsimran,12,13,2,0,Atharva,3,8,0,0,Ishant Sharma,1.0,0,11,1,Khaleel Ahmed,2.0,1,2,0
+PBKS,3,3.3,0,0,1,0,0,Prabhsimran,Prabhsimran,8,12,1,0,Atharva,3,8,0,0,Ishant Sharma,1.0,0,7,1,Khaleel Ahmed,2.0,1,2,0
+PBKS,3,3.2,1,0,0,0,1,Atharva,Prabhsimran,8,11,1,0,Atharva,3,8,0,0,Ishant Sharma,1.0,0,7,1,Khaleel Ahmed,2.0,1,2,0
+PBKS,3,3.1,0,0,1,0,0,Atharva,Prabhsimran,8,11,1,0,Atharva,2,7,0,0,Ishant Sharma,1.0,0,7,1,Khaleel Ahmed,2.0,1,2,0
+PBKS,2,2.6,2,0,0,0,0,Prabhsimran,Prabhsimran,8,11,1,0,Atharva,2,6,0,0,Khaleel Ahmed,2.0,1,2,0,Ishant Sharma,1.0,0,7,1
+PBKS,2,2.5,0,0,1,0,0,Prabhsimran,Prabhsimran,6,10,1,0,Atharva,2,6,0,0,Khaleel Ahmed,1.0,1,0,0,Ishant Sharma,1.0,0,7,1
+PBKS,2,2.4,1,0,0,0,1,Atharva,Prabhsimran,6,9,1,0,Atharva,2,6,0,0,Khaleel Ahmed,1.0,1,0,0,Ishant Sharma,1.0,0,7,1
+PBKS,2,2.3,0,0,1,0,0,Atharva,Prabhsimran,6,9,1,0,Atharva,1,5,0,0,Khaleel Ahmed,1.0,1,0,0,Ishant Sharma,1.0,0,7,1
+PBKS,2,2.2,0,0,1,0,0,Atharva,Prabhsimran,6,9,1,0,Atharva,1,4,0,0,Khaleel Ahmed,1.0,1,0,0,Ishant Sharma,1.0,0,7,1
+PBKS,2,2.1,0,0,1,0,0,Atharva,Prabhsimran,6,9,1,0,Atharva,1,3,0,0,Khaleel Ahmed,1.0,1,0,0,Ishant Sharma,1.0,0,7,1
+PBKS,1,1.6,4,1,0,0,0,Prabhsimran,Prabhsimran,6,9,1,0,Atharva,1,2,0,0,Ishant Sharma,1.0,0,7,1,Khaleel Ahmed,1.0,1,0,0
+PBKS,1,1.5,2,0,0,0,0,Prabhsimran,Prabhsimran,2,8,0,0,Atharva,1,2,0,0,Ishant Sharma,0,0,3,1,Khaleel Ahmed,1.0,1,0,0
+PBKS,1,1.4,0,0,1,0,0,Prabhsimran,Prabhsimran,0,7,0,0,Atharva,1,2,0,0,Ishant Sharma,0,0,1,1,Khaleel Ahmed,1.0,1,0,0
+PBKS,1,1.3,1,0,0,0,0,Atharva,Prabhsimran,0,6,0,0,Atharva,1,2,0,0,Ishant Sharma,0,0,1,1,Khaleel Ahmed,1.0,1,0,0
+PBKS,1,1.2,0,0,1,0,0,Atharva,Prabhsimran,0,6,0,0,Atharva,0,1,0,0,Ishant Sharma,0,0,0,1,Khaleel Ahmed,1.0,1,0,0
+PBKS,1,1.1,0,0,0,1,0,S Dhawan,Prabhsimran,0,6,0,0,,0,0,0,0,Ishant Sharma,0,0,0,1,Khaleel Ahmed,1.0,1,0,0
+PBKS,0,0.6,0,0,1,0,0,Prabhsimran,Prabhsimran,0,6,0,0,,0,0,0,0,Khaleel Ahmed,1.0,1,0,0,,0,0,0,0
+PBKS,0,0.5,0,0,1,0,0,Prabhsimran,Prabhsimran,0,5,0,0,,0,0,0,0,Khaleel Ahmed,0,0,0,0,,0,0,0,0
+PBKS,0,0.4,0,0,1,0,0,Prabhsimran,Prabhsimran,0,4,0,0,,0,0,0,0,Khaleel Ahmed,0,0,0,0,,0,0,0,0
+PBKS,0,0.3,0,0,1,0,0,Prabhsimran,Prabhsimran,0,3,0,0,,0,0,0,0,Khaleel Ahmed,0,0,0,0,,0,0,0,0
+PBKS,0,0.2,0,0,1,0,0,Prabhsimran,Prabhsimran,0,2,0,0,,0,0,0,0,Khaleel Ahmed,0,0,0,0,,0,0,0,0
+PBKS,0,0.1,0,0,1,0,0,Prabhsimran,Prabhsimran,0,1,0,0,,0,0,0,0,Khaleel Ahmed,0,0,0,0,,0,0,0,0

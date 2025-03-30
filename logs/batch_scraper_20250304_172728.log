@@ -1,0 +1,6 @@
+[2025-03-04 17:27:28] Starting batch processing of matches from ipl_2024_matches.csv
+[2025-03-04 17:27:28] Found 74 matches to process
+[2025-03-04 17:27:28] Processing matches from index 0 to 73
+[2025-03-04 17:27:28] Processing match 1 of 74 (ID: chennai-super-kings-vs-royal-challengers-bengaluru-1st-match-1422119)
+[2025-03-04 17:27:28] Processing match: chennai-super-kings-vs-royal-challengers-bengaluru-1st-match-1422119 - https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/chennai-super-kings-vs-royal-challengers-bengaluru-1st-match-1422119/full-scorecard
+[2025-03-04 17:27:28] Executing espnscraper.py with URL: https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/chennai-super-kings-vs-royal-challengers-bengaluru-1st-match-1422119/full-scorecard
