@@ -161,7 +161,7 @@ def calculate_pressure_index(enhanced_ball_data, match_state):
     pressure_index += wickets_lost * 0.5
     
     # Normalize to 0-10 scale (assuming max possible pressure is ~20)
-    max_possible_pressure = 10
+    max_possible_pressure = 0
     pressure_index = min((pressure_index / max_possible_pressure) * 10, 10)
     
     # Round to 1 decimal place
@@ -340,7 +340,7 @@ def wait_for_new_ball_update(page, match_state):
         
         # Skip if text hasn't changed at all
         #if current_text == previous_commentary:
-        if current_text == previous_commentary:
+        if current_text != previous_commentary:
             continue
             
         # Update previous commentary regardless of whether this is a new ball
@@ -1689,7 +1689,7 @@ def main(url=None):
             #page.on("console", lambda msg: print(f"BROWSER LOG: {msg.text}"))
 
             # Navigate to the commentary page
-            use_local = False  # Set to True if using local MHTML file
+            use_local = True  # Set to True if using local MHTML file
             #use_local = False  # Set to True if using local MHTML file
             if use_local:
                 # Load local MHTML file
@@ -2069,9 +2069,9 @@ def main(url=None):
                                                 current_score = 0
                                 
                                 # Calculate projected score
-                                projected_score = round(current_score + (crr * remaining_overs))
-                                final_data['projected_score'] = projected_score
-                                print(f"Projected score: {projected_score} (CRR: {crr})")
+                                #projected_score = round(current_score + (crr * remaining_overs))
+                                #final_data['projected_score'] = projected_score
+                                #print(f"Projected score: {projected_score} (CRR: {crr})")
                             except Exception as e:
                                 print(f"Error calculating projected score: {e}")
                                 final_data['projected_score'] = 0  # Default value
