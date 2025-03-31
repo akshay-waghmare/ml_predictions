@@ -53,122 +53,117 @@ Ishan Kishan ,50
 Ishant Sharma,51
 J Fraser,52
 Jacks,53
-Jamie Overton,54
-Jason Behrendorff,55
-Jason Roy,56
-Jasprit Bumrah,57
-Jaydev Unadkat,58
-Joe Root,59
-Jofra Archer,60
-Johnson,61
-Jos Buttler,62
-Karn Sharma,63
-Kedar Jadhav,64
-Krunal,65
-Kuldeep Yadav,66
-Kumar Kartikeya,67
-Kumar Kushagra,68
-Lalit Yadav,69
-Livingstone,70
-Lockie Ferguson,71
-Luke Wood,72
-MS Dhoni,73
-MS Dhoni (c),74
-MW Short,75
-Maheesh Theekshana,76
-Mahipal Lomror,77
-Manish Pandey,78
-Manohar,79
-Marco Jansen,80
-Mayank Markande,81
-Mayers,82
-Michael Bracewell,83
-Miller,84
-Mitchell Marsh,85
-Mitchell Starc,86
-Moeen Ali,87
-Mohammed Siraj,88
-Mohsin Khan,89
-Mukesh Kumar,90
-Mustafizur Rahman,91
-Naman Dhir,92
-Narayan Jagadeesan ,93
-Naveen,94
-Nehal Wadhera,95
-Nitish Kumar Reddy,96
-Nitish Rana (c),97
-Nonchalantly,98
-Noor Ahmad,99
-Pat Cummins (c),100
-Patidar,101
-Phil Salt ,102
-Piyush Chawla,103
-Pooran,104
-Prabhsimran,105
-Prithvi Shaw,106
-Priyam Garg,107
-Rachin Ravindra,108
-Rahmanullah Gurbaz ,109
-Rahul Tripathi,110
-Rajapaksa,111
-Ramandeep Singh,112
-Rashid Khan,113
-Rasikh Salam,114
-Ravi Bishnoi,115
-Ravichandran Ashwin,116
-Ravindra Jadeja,117
-Raza,118
-Ricky Bhui,119
-Rilee Rossouw,120
-Rinku Singh,121
-Ripal Patel,122
-Rishabh Pant (c),123
-Riyan Parag,124
-Rohit Sharma (c),125
-Rovman Powell,126
-Ruturaj Gaikwad (c),127
-S Dhawan,128
-SS Prabhudessai,129
-Saha,130
-Sam Curran,131
-Sandeep Sharma,132
-Sanju Samson (c),133
-Sarfaraz Khan ,134
-Shahbaz Ahmed,135
-Shahrukh Khan,136
-Shai Hope,137
-Shankar,138
-Sharath,139
-Shardul Thakur,140
-Shashank Singh,141
-Shimron Hetmyer,142
-Shivam Dube,143
-Shreyas Iyer (c),144
-Shubham Dubey,145
-Stoinis,146
-Sumit Kumar,147
-Sunil Narine,148
-Suryakumar Yadav,149
-Swapnil,150
-Tewatia,151
-Tilak Varma,152
-Tim David,153
-Tom Kohler-Cadmore,154
-Travis Head,155
-Trent Boult,156
-Tristan Stubbs,157
-Turner,158
-Tushar Deshpande,159
-Umesh Yadav,160
-Unknown,161
-Vaibhav Arora,162
-Venkatesh Iyer,163
-Vijay Shankar,164
-Virat Kohli (c),165
-Vishnu Vinod ,166
-Vivrant Sharma,167
-Wanindu Hasaranga,168
-Washington Sundar,169
-Yashasvi Jaiswal,170
-Yudhvir Singh,171
-de Kock,172
+Jason Behrendorff,54
+Jason Roy,55
+Jasprit Bumrah,56
+Jaydev Unadkat,57
+Joe Root,58
+Johnson,59
+Jos Buttler,60
+Karn Sharma,61
+Kedar Jadhav,62
+Krunal,63
+Kuldeep Yadav,64
+Kumar Kartikeya,65
+Kumar Kushagra,66
+Lalit Yadav,67
+Livingstone,68
+Lockie Ferguson,69
+Luke Wood,70
+MS Dhoni (c),71
+MW Short,72
+Mahipal Lomror,73
+Manish Pandey,74
+Manohar,75
+Marco Jansen,76
+Mayank Markande,77
+Mayers,78
+Michael Bracewell,79
+Miller,80
+Mitchell Marsh,81
+Mitchell Starc,82
+Moeen Ali,83
+Mohammed Siraj,84
+Mohsin Khan,85
+Mukesh Kumar,86
+Mustafizur Rahman,87
+Naman Dhir,88
+Narayan Jagadeesan ,89
+Naveen,90
+Nehal Wadhera,91
+Nitish Kumar Reddy,92
+Nitish Rana (c),93
+Nonchalantly,94
+Noor Ahmad,95
+Pat Cummins (c),96
+Patidar,97
+Phil Salt ,98
+Piyush Chawla,99
+Pooran,100
+Prabhsimran,101
+Prithvi Shaw,102
+Priyam Garg,103
+Rachin Ravindra,104
+Rahmanullah Gurbaz ,105
+Rahul Tripathi,106
+Rajapaksa,107
+Ramandeep Singh,108
+Rashid Khan,109
+Rasikh Salam,110
+Ravi Bishnoi,111
+Ravichandran Ashwin,112
+Ravindra Jadeja,113
+Raza,114
+Ricky Bhui,115
+Rilee Rossouw,116
+Rinku Singh,117
+Ripal Patel,118
+Rishabh Pant (c),119
+Riyan Parag,120
+Rohit Sharma (c),121
+Rovman Powell,122
+Ruturaj Gaikwad (c),123
+S Dhawan,124
+SS Prabhudessai,125
+Saha,126
+Sam Curran,127
+Sandeep Sharma,128
+Sanju Samson (c),129
+Sarfaraz Khan ,130
+Shahbaz Ahmed,131
+Shahrukh Khan,132
+Shai Hope,133
+Shankar,134
+Sharath,135
+Shardul Thakur,136
+Shashank Singh,137
+Shimron Hetmyer,138
+Shivam Dube,139
+Shreyas Iyer (c),140
+Shubham Dubey,141
+Shubman Gill,142
+Stoinis,143
+Sumit Kumar,144
+Sunil Narine,145
+Suryakumar Yadav,146
+Swapnil,147
+Tewatia,148
+Tilak Varma,149
+Tim David,150
+Tom Kohler-Cadmore,151
+Travis Head,152
+Trent Boult,153
+Tristan Stubbs,154
+Turner,155
+Umesh Yadav,156
+Unknown,157
+Vaibhav Arora,158
+Venkatesh Iyer,159
+Virat Kohli (c),160
+Vishnu Vinod ,161
+Vivrant Sharma,162
+Wanindu Hasaranga,163
+Washington Sundar,164
+Yashasvi Jaiswal,165
+Yudhvir Singh,166
+de Kock,167

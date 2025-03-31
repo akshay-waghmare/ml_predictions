@@ -195,7 +195,7 @@ def fuzzy_match_team(team_name):
         return None
 
 class IPLLiveDataCollector:
-    def __init__(self, model_path="best_model_Random Forest.pkl"):
+    def __init__(self, model_path="best_calibrated_model_Random Forest.pkl"):
         self.model = self.load_model(model_path)
         self.historical_stats = {}  # Cache for player historical stats
         self.venue_stats = {}       # Cache for venue stats
@@ -340,7 +340,7 @@ def wait_for_new_ball_update(page, match_state):
         
         # Skip if text hasn't changed at all
         #if current_text == previous_commentary:
-        if current_text == previous_commentary:
+        if current_text != previous_commentary:
             continue
             
         # Update previous commentary regardless of whether this is a new ball
@@ -1108,8 +1108,8 @@ class PlayerStatsCache:
                 return None
                 
             # Try to get IPL stats if Format column exists
-            if 'Format' in bowling_df.columns:
-                ipl_row = bowling_df[bowling_df['Format'] == 'IPL']
+            if 'Tournament' in bowling_df.columns:
+                ipl_row = bowling_df[bowling_df['Tournament'] == 'IPL']
                 if not ipl_row.empty:
                     row = ipl_row.iloc[0]
                 else:
@@ -1689,11 +1689,11 @@ def main(url=None):
             #page.on("console", lambda msg: print(f"BROWSER LOG: {msg.text}"))
 
             # Navigate to the commentary page
-            use_local = False  # Set to True if using local MHTML file
+            use_local = True  # Set to True if using local MHTML file
             #use_local = False  # Set to True if using local MHTML file
             if use_local:
                 # Load local MHTML file
-                mhtml_path = "file:///C:/Users/admn/Documents/GT70_0.mhtml"
+                mhtml_path = "file:///C:/Users/admn/Documents/match.mhtml"
                 page.goto(mhtml_path, timeout=60000)
             else:
                 # Use live URL
@@ -2142,7 +2142,7 @@ def main(url=None):
                         
                         # Try to load model with joblib
                         model_paths = [
-                            'best_model_Random Forest.pkl',
+                            'best_calibrated_model_Random Forest.pkl',
                             
                         ]
                         

@@ -69,149 +69,145 @@ Ishan Kishan ,66
 Ishant Sharma,67
 J Fraser,68
 Jacks,69
-Jamie Overton,70
-Jason Behrendorff,71
-Jason Holder,72
-Jason Roy,73
-Jasprit Bumrah,74
-Jaydev Unadkat,75
-Jhye Richardson,76
-Joe Root,77
-Jofra Archer,78
-Johnson,79
-Jos Buttler,80
-Josh Hazlewood,81
-KM Asif,82
-Karn Sharma,83
-Kedar Jadhav,84
-Keshav Maharaj,85
-Krunal,86
-Kuldeep Yadav,87
-Kulkarni,88
-Kumar Kartikeya,89
-Kumar Kushagra,90
-Lalit Yadav,91
-Livingstone,92
-Lizaad Williams,93
-Luke Wood,94
-M Nabi,95
-MS Dhoni,96
-MS Dhoni (c),97
-MW Short,98
-Maheesh Theekshana,99
-Mahipal Lomror,100
-Manish Pandey,101
-Mankad,102
-Manohar,103
-Marco Jansen,104
-Mayank Markande,105
-Mayers,106
-Michael Bracewell,107
-Miller,108
-Mitchell Marsh,109
-Mitchell Santner,110
-Mitchell Starc,111
-Moeen Ali,112
-Mohammed Siraj,113
-Mohit,114
-Mohsin Khan,115
-Mukesh Kumar,116
-Mustafizur Rahman,117
-Nalkande,118
-Naman Dhir,119
-Narayan Jagadeesan ,120
-Naveen,121
-Nehal Wadhera,122
-Nitish Kumar Reddy,123
-Nitish Rana (c),124
-Nonchalantly,125
-Noor Ahmad,126
-Pat Cummins (c),127
-Patidar,128
-Phil Salt ,129
-Piyush Chawla,130
-Pooran,131
-Prabhsimran,132
-Prithvi Shaw,133
-Priyam Garg,134
-Rabada,135
-Rachin Ravindra,136
-Rahmanullah Gurbaz ,137
-Rahul Tripathi,138
-Rajapaksa,139
-Ramandeep Singh,140
-Rashid Khan,141
-Rasikh Salam,142
-Ravi Bishnoi,143
-Ravichandran Ashwin,144
-Ravindra Jadeja,145
-Raza,146
-Ricky Bhui,147
-Rilee Rossouw,148
-Riley Meredith,149
-Rinku Singh,150
-Ripal Patel,151
-Rishabh Pant (c),152
-Riyan Parag,153
-Rohit Sharma (c),154
-Romario Shepherd,155
-Rovman Powell,156
-Ruturaj Gaikwad (c),157
-S Dhawan,158
-SS Prabhudessai,159
-Saha,160
-Sai Kishore,161
-Sam Curran,162
-Sameer Rizvi,163
-Sandeep Sharma,164
-Sanju Samson (c),165
-Sanvir Singh,166
-Sarfaraz Khan ,167
-Shahbaz Ahmed,168
-Shahrukh Khan,169
-Shai Hope,170
-Shami,171
-Shams Mulani,172
-Shankar,173
-Sharath,174
-Shardul Thakur,175
-Shashank Singh,176
-Shimron Hetmyer,177
-Shivam Dube,178
-Shivam Singh,179
-Shreyas Iyer (c),180
-Shubham Dubey,181
-Stoinis,182
-Sumit Kumar,183
-Sunil Narine,184
-Suryakumar Yadav,185
-Suthar,186
-Swapnil,187
-Tanush Kotian,188
-Tewatia,189
-Tilak Varma,190
-Tim David,191
-Tom Kohler-Cadmore,192
-Travis Head,193
-Trent Boult,194
-Tristan Stubbs,195
-Turner,196
-Tushar Deshpande,197
-Umesh Yadav,198
-Umran Malik,199
-Unknown,200
-Vaibhav Arora,201
-Varun Chakravarthy,202
-Venkatesh Iyer,203
-Vijay Shankar,204
-Vijaykumar Vyshak,205
-Virat Kohli (c),206
-Vishnu Vinod ,207
-Wade,208
-Wanindu Hasaranga,209
-Washington Sundar,210
-Wayne Parnell,211
-Williamson,212
-Yash Dhull,213
-Yudhvir Singh,214
-de Kock,215
+Jason Behrendorff,70
+Jason Holder,71
+Jason Roy,72
+Jasprit Bumrah,73
+Jaydev Unadkat,74
+Jhye Richardson,75
+Joe Root,76
+Johnson,77
+Jos Buttler,78
+Josh Hazlewood,79
+KM Asif,80
+Karn Sharma,81
+Kedar Jadhav,82
+Keshav Maharaj,83
+Krunal,84
+Kuldeep Yadav,85
+Kulkarni,86
+Kumar Kartikeya,87
+Kumar Kushagra,88
+Lalit Yadav,89
+Livingstone,90
+Lizaad Williams,91
+Luke Wood,92
+M Nabi,93
+MS Dhoni (c),94
+MW Short,95
+Mahipal Lomror,96
+Manish Pandey,97
+Mankad,98
+Manohar,99
+Marco Jansen,100
+Mayank Markande,101
+Mayers,102
+Michael Bracewell,103
+Miller,104
+Mitchell Marsh,105
+Mitchell Santner,106
+Mitchell Starc,107
+Moeen Ali,108
+Mohammed Siraj,109
+Mohit,110
+Mohsin Khan,111
+Mukesh Kumar,112
+Mustafizur Rahman,113
+Nalkande,114
+Naman Dhir,115
+Narayan Jagadeesan ,116
+Naveen,117
+Nehal Wadhera,118
+Nitish Kumar Reddy,119
+Nitish Rana (c),120
+Nonchalantly,121
+Noor Ahmad,122
+Pat Cummins (c),123
+Patidar,124
+Phil Salt ,125
+Piyush Chawla,126
+Pooran,127
+Prabhsimran,128
+Prithvi Shaw,129
+Priyam Garg,130
+Rabada,131
+Rachin Ravindra,132
+Rahmanullah Gurbaz ,133
+Rahul Tripathi,134
+Rajapaksa,135
+Ramandeep Singh,136
+Rashid Khan,137
+Rasikh Salam,138
+Ravi Bishnoi,139
+Ravichandran Ashwin,140
+Ravindra Jadeja,141
+Raza,142
+Ricky Bhui,143
+Rilee Rossouw,144
+Riley Meredith,145
+Rinku Singh,146
+Ripal Patel,147
+Rishabh Pant (c),148
+Riyan Parag,149
+Rohit Sharma (c),150
+Romario Shepherd,151
+Rovman Powell,152
+Ruturaj Gaikwad (c),153
+S Dhawan,154
+SS Prabhudessai,155
+Saha,156
+Sai Kishore,157
+Sam Curran,158
+Sameer Rizvi,159
+Sandeep Sharma,160
+Sanju Samson (c),161
+Sanvir Singh,162
+Sarfaraz Khan ,163
+Shahbaz Ahmed,164
+Shahrukh Khan,165
+Shai Hope,166
+Shami,167
+Shams Mulani,168
+Shankar,169
+Sharath,170
+Shardul Thakur,171
+Shashank Singh,172
+Shimron Hetmyer,173
+Shivam Dube,174
+Shivam Singh,175
+Shreyas Iyer (c),176
+Shubham Dubey,177
+Sikandar Raza,178
+Stoinis,179
+Sumit Kumar,180
+Sunil Narine,181
+Suryakumar Yadav,182
+Suthar,183
+Swapnil,184
+Tanush Kotian,185
+Tewatia,186
+Tilak Varma,187
+Tim David,188
+Tom Kohler-Cadmore,189
+Travis Head,190
+Trent Boult,191
+Tristan Stubbs,192
+Turner,193
+Tushar Deshpande,194
+Umesh Yadav,195
+Umran Malik,196
+Unknown,197
+Vaibhav Arora,198
+Varun Chakravarthy,199
+Venkatesh Iyer,200
+Vijaykumar Vyshak,201
+Virat Kohli (c),202
+Vishnu Vinod ,203
+Wade,204
+Wanindu Hasaranga,205
+Washington Sundar,206
+Wayne Parnell,207
+Williamson,208
+Yash Dhull,209
+Yudhvir Singh,210
+de Kock,211
